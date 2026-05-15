@@ -14,9 +14,9 @@ except (json.JSONDecodeError, KeyError) as e:
     print(f"all.json 解析失敗：{e}")
     exit(0)
 
-groups = defaultdict(lambda: defaultdict(list))
-groups_443 = defaultdict(lambda: defaultdict(list))
-ports = defaultdict(list)  # port -> [ip:port, ...]
+groups     = defaultdict(lambda: defaultdict(list))   # 全部 port
+groups_443 = defaultdict(lambda: defaultdict(list))   # 僅 443 純 IP
+groups_port = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))  # port -> country -> org
 
 for item in data:
     ip = item.get("ip", "")
@@ -29,7 +29,7 @@ for item in data:
     for port in item_ports:
         line = f"{ip}:{port}"
         groups[country][org_safe].append(line)
-        ports[port].append(line)
+        groups_port[port][country][org_safe].append(ip if port == 443 else line)
         if port == 443:
             groups_443[country][org_safe].append(ip)
 
@@ -51,11 +51,13 @@ for country, orgs in groups_443.items():
         with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(entries))
 
-# ports/
-os.makedirs("ports", exist_ok=True)
-for port, entries in ports.items():
-    with open(f"ports/{port}.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(entries))
-    print(f"ports/{port}.txt — {len(entries)} 條")
+# ports/<port>/<country>/<org>.txt
+for port, countries in groups_port.items():
+    for country, orgs in countries.items():
+        path = f"ports/{port}/{country}"
+        os.makedirs(path, exist_ok=True)
+        for org, entries in orgs.items():
+            with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
+                f.write("\n".join(entries))
 
 print("Done")
