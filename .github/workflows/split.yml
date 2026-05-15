@@ -40,6 +40,7 @@ jobs:
           git config user.email "actions@github.com"
           [ -d regions_json ] && git add regions_json/
           [ -d regions_json_443 ] && git add regions_json_443/
+          [ -d ports ] && git add ports/
           git add README.md
           git diff --staged --quiet || git commit -m "Auto update $(date '+%Y-%m-%d %H:%M HKT')"
           git push
