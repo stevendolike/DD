@@ -38,9 +38,9 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          [ -d regions_json ] && git add regions_json/
-          [ -d regions_json_443 ] && git add regions_json_443/
-          [ -d ports ] && git add ports/
+          for dir in regions_json regions_json_*/; do
+            [ -d "$dir" ] && git add "$dir"
+          done
           git add README.md
           git diff --staged --quiet || git commit -m "Auto update $(date '+%Y-%m-%d %H:%M HKT')"
           git push
