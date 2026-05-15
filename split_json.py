@@ -2,10 +2,19 @@ import json
 import os
 from collections import defaultdict
 
-with open("all.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
+try:
+    with open("all.json", "r", encoding="utf-8") as f:
+        content = f.read().strip()
+    if not content:
+        print("all.json 是空文件，跳過")
+        exit(0)
+    raw = json.loads(content)
+    # 頂層是 dict，IP 數據在 data["data"]
+    data = raw["data"] if isinstance(raw, dict) else raw
+except (json.JSONDecodeError, KeyError) as e:
+    print(f"all.json 解析失敗：{e}")
+    exit(0)
 
-# { country: { org: [lines] } }
 groups = defaultdict(lambda: defaultdict(list))
 groups_443 = defaultdict(lambda: defaultdict(list))
 
@@ -15,7 +24,6 @@ for item in data:
     meta = item.get("meta", {})
     country = meta.get("country", "UNKNOWN").upper()
     org = meta.get("asOrganization", "UNKNOWN")
-    # 清理 org 名稱，避免非法字符出現在文件名
     org_safe = "".join(c if c.isalnum() or c in " .-_()" else "_" for c in org).strip()
 
     for port in ports:
@@ -24,7 +32,9 @@ for item in data:
         if port == 443:
             groups_443[country][org_safe].append(ip)
 
-# 寫入 regions_json/
+os.makedirs("regions_json", exist_ok=True)
+os.makedirs("regions_json_443", exist_ok=True)
+
 for country, orgs in groups.items():
     for org, entries in orgs.items():
         path = f"regions_json/{country}"
@@ -33,7 +43,6 @@ for country, orgs in groups.items():
             f.write("\n".join(entries))
         print(f"regions_json/{country}/{org}.txt — {len(entries)} 條")
 
-# 寫入 regions_json_443/ (純 IP)
 for country, orgs in groups_443.items():
     for org, entries in orgs.items():
         path = f"regions_json_443/{country}"
