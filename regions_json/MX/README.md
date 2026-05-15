@@ -1,6 +1,6 @@
 # MX 
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回上層](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -9,4 +9,4 @@
 | Truxgo S. de R.L de C.V | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MX/Truxgo%20S.%20de%20R.L%20de%20C.V.txt) |
 
 ---
-*最後更新：2026-05-15 06:55 UTC*
+*最後更新：2026-05-15 07:03 UTC*

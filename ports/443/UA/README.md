@@ -1,0 +1,11 @@
+# UA （純 IP）
+
+**共 2 條** · [返回上層](../../README.md)
+
+| 組織 | 條目數 | Raw URL |
+|------|--------|---------|
+| FOP Reznichenko Sergey Mykolayovich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/443/UA/FOP%20Reznichenko%20Sergey%20Mykolayovich.txt) |
+| TOV _Dream Line Holding_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/443/UA/TOV%20_Dream%20Line%20Holding_.txt) |
+
+---
+*最後更新：2026-05-15 07:03 UTC*

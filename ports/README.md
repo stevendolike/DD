@@ -2,14 +2,14 @@
 
 [返回主頁](../README.md)
 
-| Port | 條目數 | Raw URL |
-|------|--------|---------|
-| 2053 | 2573 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053.txt) |
-| 2083 | 497 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2083.txt) |
-| 2087 | 486 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2087.txt) |
-| 2096 | 498 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2096.txt) |
-| 443 | 8997 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/443.txt) |
-| 8443 | 4142 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/8443.txt) |
+| Port | 條目數 |
+|------|--------|
+| [2053](https://github.com/stevendolike/DD/blob/main/ports/2053/README.md) | 2573 |
+| [2083](https://github.com/stevendolike/DD/blob/main/ports/2083/README.md) | 497 |
+| [2087](https://github.com/stevendolike/DD/blob/main/ports/2087/README.md) | 486 |
+| [2096](https://github.com/stevendolike/DD/blob/main/ports/2096/README.md) | 498 |
+| [443](https://github.com/stevendolike/DD/blob/main/ports/443/README.md) | 8997 |
+| [8443](https://github.com/stevendolike/DD/blob/main/ports/8443/README.md) | 4142 |
 
 ---
-*最後更新：2026-05-15 06:55 UTC*
+*最後更新：2026-05-15 07:03 UTC*

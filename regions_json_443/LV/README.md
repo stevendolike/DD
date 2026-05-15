@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 153 條** · [返回主頁](../../README.md)
+**共 153 條** · [返回上層](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -25,4 +25,4 @@
 | as56971 network | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-15 06:55 UTC*
+*最後更新：2026-05-15 07:03 UTC*

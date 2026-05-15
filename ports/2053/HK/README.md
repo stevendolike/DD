@@ -1,0 +1,18 @@
+# HK 
+
+**共 13 條** · [返回上層](../../README.md)
+
+| 組織 | 條目數 | Raw URL |
+|------|--------|---------|
+| ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
+| BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/BAGE%20CLOUD%20LLC.txt) |
+| CGI GLOBAL LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/CGI%20GLOBAL%20LIMITED.txt) |
+| DMIT Cloud Service - Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/DMIT%20Cloud%20Service%20-%20Hong%20Kong.txt) |
+| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
+| RM301K_3_F_HONGKONG TRADE CENTRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/RM301K_3_F_HONGKONG%20TRADE%20CENTRE.txt) |
+| Subnet Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/Subnet%20Digital%20LLC.txt) |
+| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/WorkTitans%20B.V..txt) |
+| ihc.hk vps in Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/ports/2053/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
+
+---
+*最後更新：2026-05-15 07:03 UTC*

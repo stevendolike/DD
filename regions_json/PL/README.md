@@ -1,6 +1,6 @@
 # PL 
 
-**共 227 條** · [返回主頁](../../README.md)
+**共 227 條** · [返回上層](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -59,4 +59,4 @@
 | oneprovider.com - Warsaw Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/oneprovider.com%20-%20Warsaw%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-05-15 06:55 UTC*
+*最後更新：2026-05-15 07:03 UTC*
