@@ -4,7 +4,7 @@ from urllib.parse import quote
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "your-username/your-repo")
 BRANCH = "main"
-BASE_RAW = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}"
+BASE_RAW  = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}"
 BASE_BLOB = f"https://github.com/{REPO}/blob/{BRANCH}"
 
 updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -12,87 +12,33 @@ updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 def count_lines(filepath):
     return sum(1 for line in open(filepath, encoding="utf-8") if line.strip())
 
-# ── 主 README ──────────────────────────────────────────
-def write_main_readme():
-    countries_all  = sorted(d for d in os.listdir("regions_json") if os.path.isdir(f"regions_json/{d}")) if os.path.exists("regions_json") else []
-    countries_443  = sorted(d for d in os.listdir("regions_json_443") if os.path.isdir(f"regions_json_443/{d}")) if os.path.exists("regions_json_443") else []
-    port_files     = sorted(f for f in os.listdir("ports") if f.endswith(".txt")) if os.path.exists("ports") else []
+def country_links(base_dir, readme_base):
+    if not os.path.exists(base_dir):
+        return ""
+    countries = sorted(d for d in os.listdir(base_dir) if os.path.isdir(f"{base_dir}/{d}"))
+    return " · ".join(f"[{c}]({readme_base}/{c}/README.md)" for c in countries)
 
-    country_links_all = " · ".join(
-        f"[{c}]({BASE_BLOB}/regions_json/{c}/README.md)" for c in countries_all
-    )
-    country_links_443 = " · ".join(
-        f"[{c}]({BASE_BLOB}/regions_json_443/{c}/README.md)" for c in countries_443
-    )
-    port_links = " · ".join(
-        f"[{p.replace('.txt','')}]({BASE_RAW}/ports/{p})" for p in port_files
-    )
-
-    content = f"""# IP List by Region
-
-自動從 [all.json](https://zip.cm.edu.kg/all.json) 抓取並分類，每日更新 4 次。
-
----
-
-## 📁 全部 Port（按國家 + 組織）
-
-> 點擊國家代碼進入詳細列表
-
-{country_links_all}
-
----
-
-## 🔒 僅 443 Port（純 IP，按國家 + 組織）
-
-> 點擊國家代碼進入詳細列表
-
-{country_links_443}
-
----
-
-## 🔌 按 Port 分類
-
-{port_links}
-
-| Port | 條目數 | Raw URL |
-|------|--------|---------|
-"""
-    for p in port_files:
-        port_num = p.replace(".txt", "")
-        count = count_lines(f"ports/{p}")
-        raw_url = f"{BASE_RAW}/ports/{quote(p)}"
-        content += f"| {port_num} | {count} | [raw]({raw_url}) |\n"
-
-    content += f"\n---\n*最後更新：{updated}*\n"
-
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(content)
-    print("README.md updated")
-
-
-# ── 國家 README ────────────────────────────────────────
-def write_country_readme(base_dir, is_443=False):
+def write_country_readmes(base_dir, depth_prefix, is_ip_only=False):
     if not os.path.exists(base_dir):
         return
-    label = "（純 IP）" if is_443 else ""
+    label = "（純 IP）" if is_ip_only else ""
     for country in sorted(os.listdir(base_dir)):
         country_path = f"{base_dir}/{country}"
         if not os.path.isdir(country_path):
             continue
         files = sorted(f for f in os.listdir(country_path) if f.endswith(".txt"))
         rows = []
+        total = 0
         for fname in files:
             org = fname.replace(".txt", "")
             count = count_lines(f"{country_path}/{fname}")
+            total += count
             raw_url = f"{BASE_RAW}/{base_dir}/{country}/{quote(fname)}"
             rows.append(f"| {org} | {count} | [raw]({raw_url}) |")
-
         table = "\n".join(rows) if rows else "_（無數據）_"
-        total = sum(count_lines(f"{country_path}/{f}") for f in files)
-
         content = f"""# {country} {label}
 
-**共 {total} 條** · [返回主頁](../../README.md)
+**共 {total} 條** · [返回上層]({depth_prefix}README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -103,28 +49,59 @@ def write_country_readme(base_dir, is_443=False):
 """
         with open(f"{country_path}/README.md", "w", encoding="utf-8") as f:
             f.write(content)
-        print(f"{country_path}/README.md updated")
 
-
-# ── ports README ───────────────────────────────────────
-def write_ports_readme():
+def write_port_readmes():
     if not os.path.exists("ports"):
         return
-    files = sorted(f for f in os.listdir("ports") if f.endswith(".txt"))
+    port_dirs = sorted(str(p) for p in sorted(int(d) for d in os.listdir("ports") if os.path.isdir(f"ports/{d}")))
+
+    for port in port_dirs:
+        port_path = f"ports/{port}"
+        countries = sorted(d for d in os.listdir(port_path) if os.path.isdir(f"{port_path}/{d}"))
+        is_ip_only = (port == "443")
+
+        # 寫每個 country README
+        write_country_readmes(port_path, "../../", is_ip_only=is_ip_only)
+
+        # 寫 port README
+        country_links_str = " · ".join(
+            f"[{c}]({BASE_BLOB}/ports/{port}/{c}/README.md)" for c in countries
+        )
+        total = sum(
+            count_lines(f"{port_path}/{c}/{f}")
+            for c in countries
+            for f in os.listdir(f"{port_path}/{c}") if f.endswith(".txt")
+        )
+        content = f"""# Port {port}{'（純 IP）' if is_ip_only else ''}
+
+**共 {total} 條** · [返回主頁](../../README.md)
+
+{country_links_str}
+
+---
+*最後更新：{updated}*
+"""
+        with open(f"{port_path}/README.md", "w", encoding="utf-8") as f:
+            f.write(content)
+
+    # 寫 ports 總 README
     rows = []
-    for fname in files:
-        port_num = fname.replace(".txt", "")
-        count = count_lines(f"ports/{fname}")
-        raw_url = f"{BASE_RAW}/ports/{quote(fname)}"
-        rows.append(f"| {port_num} | {count} | [raw]({raw_url}) |")
+    for port in port_dirs:
+        port_path = f"ports/{port}"
+        total = sum(
+            count_lines(f"{port_path}/{c}/{f}")
+            for c in os.listdir(port_path) if os.path.isdir(f"{port_path}/{c}")
+            for f in os.listdir(f"{port_path}/{c}") if f.endswith(".txt")
+        )
+        rows.append(f"| [{port}]({BASE_BLOB}/ports/{port}/README.md) | {total} |")
 
     table = "\n".join(rows)
     content = f"""# 按 Port 分類
 
 [返回主頁](../README.md)
 
-| Port | 條目數 | Raw URL |
-|------|--------|---------|
+| Port | 條目數 |
+|------|--------|
 {table}
 
 ---
@@ -132,10 +109,47 @@ def write_ports_readme():
 """
     with open("ports/README.md", "w", encoding="utf-8") as f:
         f.write(content)
-    print("ports/README.md updated")
+
+
+# ── 主 README ──────────────────────────────────────────
+def write_main_readme():
+    links_all = country_links("regions_json", f"{BASE_BLOB}/regions_json")
+    links_443 = country_links("regions_json_443", f"{BASE_BLOB}/regions_json_443")
+
+    port_dirs = sorted(str(p) for p in sorted(int(d) for d in os.listdir("ports") if os.path.isdir(f"ports/{d}"))) if os.path.exists("ports") else []
+    port_links = " · ".join(f"[{p}]({BASE_BLOB}/ports/{p}/README.md)" for p in port_dirs)
+
+    content = f"""# IP List by Region
+
+自動從 [all.json](https://zip.cm.edu.kg/all.json) 抓取並分類，每日更新 4 次。
+
+---
+
+## 📁 全部 Port（按國家 + 組織）
+
+{links_all}
+
+---
+
+## 🔒 僅 443 Port（純 IP，按國家 + 組織）
+
+{links_443}
+
+---
+
+## 🔌 按 Port 分類
+
+{port_links}
+
+---
+*最後更新：{updated}*
+"""
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(content)
+    print("README.md updated")
 
 
 write_main_readme()
-write_country_readme("regions_json", is_443=False)
-write_country_readme("regions_json_443", is_443=True)
-write_ports_readme()
+write_country_readmes("regions_json", "../../", is_ip_only=False)
+write_country_readmes("regions_json_443", "../../", is_ip_only=True)
+write_port_readmes()
