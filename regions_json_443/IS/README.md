@@ -8,4 +8,4 @@
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/FlokiNET%20ehf.txt) |
 
 ---
-*最後更新：2026-05-15 17:39 UTC*
+*最後更新：2026-05-15 22:54 UTC*
