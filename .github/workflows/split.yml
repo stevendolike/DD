@@ -22,8 +22,13 @@ jobs:
 
       - name: Download all.json
         run: |
-          curl -A "Mozilla/5.0" -o all.json "https://zip.cm.edu.kg/all.json"
-          echo "Downloaded $(wc -c < all.json) bytes"
+          curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+            -H "Accept: application/json, text/plain, */*" \
+            -H "Accept-Language: zh-TW,zh;q=0.9,en;q=0.8" \
+            -H "Referer: https://zip.cm.edu.kg/" \
+            -o all.json "https://zip.cm.edu.kg/all.json"
+          # 檢查是否真的是 JSON
+          python3 -c "import json,sys; json.load(open('all.json'))" && echo "JSON OK" || echo "非 JSON，可能被攔截"
 
       - name: Split json by region + org
         run: python3 split_json.py
