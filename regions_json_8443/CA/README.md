@@ -12,4 +12,4 @@
 | Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Shaw%20Communications.txt) |
 
 ---
-*最後更新：2026-05-15 12:00 UTC*
+*最後更新：2026-05-15 17:39 UTC*
