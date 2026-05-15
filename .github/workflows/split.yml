@@ -1,0 +1,42 @@
+name: Split by Region
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 16 * * *'   # 00:00 HKT
+    - cron: '0 22 * * *'   # 06:00 HKT
+    - cron: '0 4 * * *'    # 12:00 HKT
+    - cron: '0 10 * * *'   # 18:00 HKT
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download all.json
+        run: |
+          curl -A "Mozilla/5.0" -o all.json "https://zip.cm.edu.kg/all.json"
+          echo "Downloaded $(wc -c < all.json) bytes"
+
+      - name: Split json by region + org
+        run: python3 split_json.py
+
+      - name: Update README
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 update_readme.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add --ignore-missing regions_json/ regions_json_443/ README.md
+          git diff --staged --quiet || git commit -m "Auto update $(date '+%Y-%m-%d %H:%M HKT')"
+          git push
