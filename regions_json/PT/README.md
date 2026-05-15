@@ -1,6 +1,6 @@
 # PT 
 
-**共 7 條** · [返回上層](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -9,4 +9,4 @@
 | WorkTitans B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-15 07:03 UTC*
+*最後更新：2026-05-15 07:13 UTC*

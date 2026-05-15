@@ -1,6 +1,6 @@
 # HK 
 
-**共 115 條** · [返回上層](../../README.md)
+**共 115 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -56,4 +56,4 @@
 | vape | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/vape.txt) |
 
 ---
-*最後更新：2026-05-15 07:03 UTC*
+*最後更新：2026-05-15 07:13 UTC*

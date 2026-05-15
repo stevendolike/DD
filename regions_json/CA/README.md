@@ -1,6 +1,6 @@
 # CA 
 
-**共 125 條** · [返回上層](../../README.md)
+**共 125 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -27,4 +27,4 @@
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-05-15 07:03 UTC*
+*最後更新：2026-05-15 07:13 UTC*

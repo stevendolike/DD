@@ -1,6 +1,6 @@
 # AT 
 
-**共 80 條** · [返回上層](../../README.md)
+**共 80 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -19,4 +19,4 @@
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-05-15 07:03 UTC*
+*最後更新：2026-05-15 07:13 UTC*
