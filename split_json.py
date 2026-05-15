@@ -14,9 +14,8 @@ except (json.JSONDecodeError, KeyError) as e:
     print(f"all.json 解析失敗：{e}")
     exit(0)
 
-groups     = defaultdict(lambda: defaultdict(list))   # 全部 port
-groups_443 = defaultdict(lambda: defaultdict(list))   # 僅 443 純 IP
-groups_port = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))  # port -> country -> org
+groups      = defaultdict(lambda: defaultdict(list))  # 全部 port
+groups_port = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))  # port -> country -> org -> [ip]
 
 for item in data:
     ip = item.get("ip", "")
@@ -27,13 +26,10 @@ for item in data:
     org_safe = "".join(c if c.isalnum() or c in " .-_()" else "_" for c in org).strip()
 
     for port in item_ports:
-        line = f"{ip}:{port}"
-        groups[country][org_safe].append(line)
-        groups_port[port][country][org_safe].append(ip if port == 443 else line)
-        if port == 443:
-            groups_443[country][org_safe].append(ip)
+        groups[country][org_safe].append(f"{ip}:{port}")
+        groups_port[port][country][org_safe].append(ip)  # 純 IP
 
-# regions_json/
+# regions_json/ 全部 port
 os.makedirs("regions_json", exist_ok=True)
 for country, orgs in groups.items():
     path = f"regions_json/{country}"
@@ -42,19 +38,10 @@ for country, orgs in groups.items():
         with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(entries))
 
-# regions_json_443/
-os.makedirs("regions_json_443", exist_ok=True)
-for country, orgs in groups_443.items():
-    path = f"regions_json_443/{country}"
-    os.makedirs(path, exist_ok=True)
-    for org, entries in orgs.items():
-        with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(entries))
-
-# ports/<port>/<country>/<org>.txt
+# regions_json_PORT/ 每個 port 純 IP
 for port, countries in groups_port.items():
     for country, orgs in countries.items():
-        path = f"ports/{port}/{country}"
+        path = f"regions_json_{port}/{country}"
         os.makedirs(path, exist_ok=True)
         for org, entries in orgs.items():
             with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
