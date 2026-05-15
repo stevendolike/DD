@@ -1,5 +1,6 @@
 import os
 from datetime import datetime, timezone
+from urllib.parse import quote
 
 REPO = os.environ.get("GITHUB_REPOSITORY", "your-username/your-repo")
 BRANCH = "main"
@@ -18,7 +19,9 @@ def build_nested_table(base_dir):
                 continue
             org = fname.replace(".txt", "")
             count = sum(1 for line in open(f"{country_path}/{fname}", encoding="utf-8") if line.strip())
-            raw_url = f"{BASE_RAW}/{base_dir}/{country}/{fname}"
+            # URL encode 文件名，避免空格等特殊字符破壞連結
+            encoded_fname = quote(fname)
+            raw_url = f"{BASE_RAW}/{base_dir}/{country}/{encoded_fname}"
             rows.append(f"| {country} | {org} | {count} | [raw]({raw_url}) |")
     return "\n".join(rows) if rows else "_（無數據）_"
 
