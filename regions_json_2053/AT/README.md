@@ -9,4 +9,4 @@
 | Anexia Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Anexia%20Holding%20GmbH.txt) |
 
 ---
-*最後更新：2026-05-16 11:07 UTC*
+*最後更新：2026-05-16 16:59 UTC*
