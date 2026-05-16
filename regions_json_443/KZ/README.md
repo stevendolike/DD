@@ -1,10 +1,10 @@
 # KZ （純 IP）
 
-**共 45 條** · [返回主頁](../../README.md)
+**共 43 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3NT%20SOLUTIONS%20LLP.txt) |
 | Cloud Services Kazakhstan LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/G-Core%20Labs%20Customer%20assignment.txt) |
@@ -16,10 +16,11 @@
 | JSC Datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20Datacenter.txt) |
 | JSC TIMEWEB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20TIMEWEB.txt) |
 | NTL Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| PS Internet Company LLP | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
+| Newserverlife LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Newserverlife%20LLC.txt) |
+| PS Internet Company LLP | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Quasar%20LLC.txt) |
-| WorkTitans B.V. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/WorkTitans%20B.V..txt) |
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-05-15 22:54 UTC*
+*最後更新：2026-05-16 06:20 UTC*

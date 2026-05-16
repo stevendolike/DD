@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 33 條** · [返回主頁](../../README.md)
+**共 34 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -13,6 +13,7 @@
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Cloudflare%20London_%20LLC.txt) |
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | DDPS Networks_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DDPS%20Networks_%20LLC.txt) |
+| DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | DODO K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DODO%20K.K..txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Friendhosting%20LTD.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/IT7%20Networks%20Inc.txt) |
@@ -29,4 +30,4 @@
 | xTom Japan Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-15 22:54 UTC*
+*最後更新：2026-05-16 06:20 UTC*

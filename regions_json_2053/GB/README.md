@@ -1,13 +1,13 @@
 # GB （純 IP）
 
-**共 101 條** · [返回主頁](../../README.md)
+**共 106 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Aeza International LTD | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Aeza%20International%20LTD.txt) |
 | Cloud Hosting Solutions_ Limited. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Cloud%20Hosting%20Solutions_%20Limited..txt) |
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
-| DigitalOcean_ LLC | 77 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 79 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean_%20LLC.txt) |
 | HR SYSHEAD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/HR%20SYSHEAD.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/MT%20FINANCE%20LLC.txt) |
 | MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/MVPS%20LTD.txt) |
@@ -15,7 +15,8 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Private%20Customer.txt) |
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/RouterHosting%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/UNKNOWN.txt) |
-| Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Vultr%20Holdings_%20LLC.txt) |
+| Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Vultr%20Holdings_%20LLC.txt) |
+| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-15 22:54 UTC*
+*最後更新：2026-05-16 06:20 UTC*

@@ -1,9 +1,10 @@
 # KR 
 
-**共 33 條** · [返回主頁](../../README.md)
+**共 38 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| AkileCloud LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/AkileCloud%20LLC.txt) |
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Amazon.com_%20Inc..txt) |
 | HostHatch SEL1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/HostHatch%20SEL1.txt) |
 | KCInfra | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/KCInfra.txt) |
@@ -16,7 +17,8 @@
 | SK Broadband Co Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/SK%20Broadband%20Co%20Ltd.txt) |
 | The Constant Company_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/The%20Constant%20Company_%20LLC.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/WorkTitans%20B.V..txt) |
+| ZEN-KR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/ZEN-KR.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/oracle.txt) |
 
 ---
-*最後更新：2026-05-15 22:54 UTC*
+*最後更新：2026-05-16 06:20 UTC*

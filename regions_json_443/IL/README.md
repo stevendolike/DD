@@ -1,6 +1,6 @@
 # IL （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -10,7 +10,7 @@
 | LLC Smart Ape | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/LLC%20Smart%20Ape.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | SmartApe OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/SmartApe%20OU.txt) |
-| WorkTitans B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-15 22:54 UTC*
+*最後更新：2026-05-16 06:20 UTC*

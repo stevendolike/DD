@@ -6,8 +6,9 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/3NT%20SOLUTIONS%20LLP.txt) |
 | G-Core Labs S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/G-Core%20Labs%20S.A..txt) |
+| HostingBazis Bt. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/HostingBazis%20Bt..txt) |
 | ServerAstra Kft. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/ServerAstra%20Kft..txt) |
-| WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-15 22:54 UTC*
+*最後更新：2026-05-16 06:20 UTC*
