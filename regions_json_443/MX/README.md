@@ -8,4 +8,4 @@
 | Truxgo S. de R.L de C.V | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MX/Truxgo%20S.%20de%20R.L%20de%20C.V.txt) |
 
 ---
-*最後更新：2026-05-16 16:59 UTC*
+*最後更新：2026-05-16 22:45 UTC*

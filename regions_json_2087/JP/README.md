@@ -7,4 +7,4 @@
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 
 ---
-*最後更新：2026-05-16 16:59 UTC*
+*最後更新：2026-05-16 22:45 UTC*
