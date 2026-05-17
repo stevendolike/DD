@@ -7,4 +7,4 @@
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/CH/Baxet%20Group%20Inc..txt) |
 
 ---
-*最後更新：2026-05-17 16:58 UTC*
+*最後更新：2026-05-17 22:53 UTC*
