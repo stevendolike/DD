@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 22 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -12,7 +12,7 @@
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/HOSTKEY%20B.V..txt) |
 | Infomaniak Network SA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/Infomaniak%20Network%20SA.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/Oracle%20Public%20Cloud.txt) |
-| RouterHosting LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-05-16 22:45 UTC*
+*最後更新：2026-05-17 06:43 UTC*
