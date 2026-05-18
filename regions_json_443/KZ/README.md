@@ -23,4 +23,4 @@
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-05-18 17:57 UTC*
+*最後更新：2026-05-18 22:49 UTC*
