@@ -16,6 +16,7 @@ jobs:
         run: |
           git rm -rf --ignore-unmatch regions/
           git rm -rf --ignore-unmatch regions_443/
+          git rm -rf --ignore-unmatch ports/
           git rm -f --ignore-unmatch split.py
 
       - name: Commit
