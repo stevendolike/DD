@@ -8,10 +8,8 @@ try:
     data = d.get("data", d) if isinstance(d, dict) else d
     count = len(data)
     print(f"Got {count} entries")
-    if count >= 100:
-        os.replace("all_new.json", "all.json")
-        print("all.json updated")
-    else:
-        print("條目太少，保留舊數據")
+    os.replace("all_new.json", "all.json")
+    print("all.json updated")
 except Exception as e:
-    print(f"驗證失敗：{e}，保留舊數據")
+    print(f"驗證失敗：{e}")
+    sys.exit(1)
