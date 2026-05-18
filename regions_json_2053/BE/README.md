@@ -7,4 +7,4 @@
 | VERIXI SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BE/VERIXI%20SA.txt) |
 
 ---
-*最後更新：2026-05-18 05:21 UTC*
+*最後更新：2026-05-18 13:39 UTC*
