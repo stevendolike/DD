@@ -22,17 +22,24 @@ jobs:
 
       - name: Download all.json
         run: |
-          curl -A "Mozilla/5.0" -o all_new.json "https://zip.cm.edu.kg/all.json"
-          python3 -c "
-import json, sys
+          curl -A "Mozilla/5.0" -o all_new.json "https://proxy.999122.xyz/zip.cm.edu.kg/all.json"
+          head -c 100 all_new.json
+
+      - name: Validate and replace
+        run: |
+          python3 - << 'EOF'
+import json, sys, os
 with open('all_new.json') as f:
     d = json.load(f)
 data = d.get('data', d) if isinstance(d, dict) else d
 count = len(data)
 print(f'Got {count} entries')
-if count < 100:
-    sys.exit(1)
-" && mv all_new.json all.json || { echo '下載失敗，保留舊數據'; }
+if count >= 100:
+    os.replace('all_new.json', 'all.json')
+else:
+    print('下載失敗，保留舊數據')
+    sys.exit(0)
+EOF
 
       - name: Split json by region + org
         run: python3 split_json.py
