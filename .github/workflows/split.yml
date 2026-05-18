@@ -26,20 +26,7 @@ jobs:
           head -c 100 all_new.json
 
       - name: Validate and replace
-        run: |
-          python3 - << 'EOF'
-import json, sys, os
-with open('all_new.json') as f:
-    d = json.load(f)
-data = d.get('data', d) if isinstance(d, dict) else d
-count = len(data)
-print(f'Got {count} entries')
-if count >= 100:
-    os.replace('all_new.json', 'all.json')
-else:
-    print('下載失敗，保留舊數據')
-    sys.exit(0)
-EOF
+        run: python3 validate.py
 
       - name: Split json by region + org
         run: python3 split_json.py
