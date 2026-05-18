@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -11,7 +11,7 @@
 | IPv6 network for hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | IROKO Networks Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/IROKO%20Networks%20Corporation.txt) |
 | Network for hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/Network%20for%20hosting%20services.txt) |
-| SOLUS KVM VPS POOL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/SOLUS%20KVM%20VPS%20POOL.txt) |
+| SOLUS KVM VPS POOL | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/SOLUS%20KVM%20VPS%20POOL.txt) |
 
 ---
-*最後更新：2026-05-17 22:53 UTC*
+*最後更新：2026-05-18 04:51 UTC*

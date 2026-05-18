@@ -1,16 +1,16 @@
 # CZ （純 IP）
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/3NT%20SOLUTIONS%20LLP.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/Baxet%20Group%20Inc..txt) |
-| HOST-TELECOM.COM s.r.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
+| HOST-TELECOM.COM s.r.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | SmartApe OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/SmartApe%20OU.txt) |
 | UPC Ceska republika_ a.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/UPC%20Ceska%20republika_%20a.s..txt) |
 | WEDOS server hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/WEDOS%20server%20hosting.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-17 22:53 UTC*
+*最後更新：2026-05-18 04:51 UTC*

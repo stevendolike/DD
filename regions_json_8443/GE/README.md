@@ -1,10 +1,10 @@
 # GE （純 IP）
 
-**共 1 條** · [返回主頁](../../README.md)
+**共 0 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| WORLDBUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GE/WORLDBUS.txt) |
+| WORLDBUS | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GE/WORLDBUS.txt) |
 
 ---
-*最後更新：2026-05-17 22:53 UTC*
+*最後更新：2026-05-18 04:51 UTC*
