@@ -52,10 +52,10 @@ def write_country_readmes(base_dir, is_ip_only=True):
         rows = []
         total = 0
         for fname in files:
-            org = fname.replace(".txt", "")
             count = get_count(base_dir, country, fname)
             total += count
             raw_url = f"{BASE_RAW}/{base_dir}/{country}/{quote(fname)}"
+            org = fname.replace(".txt", "")
             rows.append(f"| {org} | {count} | [raw]({raw_url}) |")
         table = "\n".join(rows) if rows else "_（無數據）_"
         content = f"""# {country} {label}
@@ -90,8 +90,6 @@ def write_main_readme():
 
 ---
 """
-
-    grand_total = sum(dir_total(d) for _, d in get_port_dirs())
 
     content = f"""# IP List by Region
 
