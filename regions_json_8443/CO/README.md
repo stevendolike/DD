@@ -7,4 +7,4 @@
 | Oneprovider.com - Bogota Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CO/Oneprovider.com%20-%20Bogota%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-05-18 04:51 UTC*
+*最後更新：2026-05-18 05:15 UTC*

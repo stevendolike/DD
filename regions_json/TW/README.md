@@ -12,4 +12,4 @@
 | Pittqiao Network Information Co._Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Pittqiao%20Network%20Information%20Co._Ltd..txt) |
 
 ---
-*最後更新：2026-05-18 04:51 UTC*
+*最後更新：2026-05-18 05:15 UTC*
