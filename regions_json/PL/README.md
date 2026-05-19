@@ -62,4 +62,4 @@
 | oneprovider.com - Warsaw Infrastructure | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/oneprovider.com%20-%20Warsaw%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-05-19 12:35 UTC*
+*最後更新：2026-05-19 18:03 UTC*
