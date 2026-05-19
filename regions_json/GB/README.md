@@ -1,22 +1,23 @@
 # GB 
 
-**共 1895 條** · [返回主頁](../../README.md)
+**共 1876 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/AEZA%20GROUP%20Ltd.txt) |
 | ALEXHOST S.R.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/ALEXHOST%20S.R.L..txt) |
-| Aeza International LTD | 454 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Aeza%20International%20LTD.txt) |
-| Amazon Data Services Ireland Ltd | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
-| Amazon Data Services UK | 45 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20UK.txt) |
+| Aeza International LTD | 445 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Aeza%20International%20LTD.txt) |
+| Amazon Data Services Ireland Ltd | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Amazon Data Services UK | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Atlantic.Net%20UK%20Cloud%20Ltd..txt) |
-| BAGE CLOUD LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BAGE%20CLOUD%20LLC.txt) |
+| BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BG-NETWORK.txt) |
 | BT-R101-TEST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BT-R101-TEST.txt) |
 | Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Baxet%20Group%20Inc..txt) |
 | Binary Racks Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Binary%20Racks%20Limited.txt) |
 | BlueVPS OU | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BlueVPS%20OU.txt) |
 | BrainStorm Network_ Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BrainStorm%20Network_%20Inc.txt) |
+| CHSL ONE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/CHSL%20ONE%20LTD.txt) |
 | CLOUVIDER Virtual Machines | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/CLOUVIDER%20Virtual%20Machines.txt) |
 | Cloud Hosting Solutions_ Limited. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Cloud%20Hosting%20Solutions_%20Limited..txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Cloudflare%20London_%20LLC.txt) |
@@ -24,17 +25,17 @@
 | Community Fibre Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Community%20Fibre%20Limited.txt) |
 | Contabo GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Contabo%20GmbH.txt) |
 | DigitalOcean London | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%20London.txt) |
-| DigitalOcean_ LLC | 720 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 713 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean_%20LLC.txt) |
 | EDIS Infrastructure in the London Docklands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/EDIS%20Infrastructure%20in%20the%20London%20Docklands.txt) |
 | FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/FORTIS.txt) |
 | Fabric_zone | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Fabric_zone.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTHost | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Google%20LLC.txt) |
 | HR SYSHEAD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HR%20SYSHEAD.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HZ%20Hosting%20Ltd.txt) |
 | IONOS SE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/IONOS%20SE.txt) |
-| Imad Nabil Daher trading as ID Performance | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance.txt) |
+| Imad Nabil Daher trading as ID Performance | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance.txt) |
 | Informacines sistemos ir technologijos_ UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Informacines%20sistemos%20ir%20technologijos_%20UAB.txt) |
 | InterLIR-Marketplace | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/InterLIR-Marketplace.txt) |
 | Iomart Group Plc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Iomart%20Group%20Plc.txt) |
@@ -43,7 +44,7 @@
 | Leaseweb UK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Leaseweb%20UK%20Limited.txt) |
 | Linode | 161 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode.txt) |
 | Linode_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode_%20LLC.txt) |
-| M247 LTD London Infrastructure | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/M247%20LTD%20London%20Infrastructure.txt) |
+| M247 LTD London Infrastructure | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/M247%20LTD%20London%20Infrastructure.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/MT%20FINANCE%20LLC.txt) |
 | MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/MVPS%20LTD.txt) |
 | Monkey Tree Hosting Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Monkey%20Tree%20Hosting%20Limited.txt) |
@@ -72,10 +73,10 @@
 | Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/WorkTitans%20B.V..txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| Ystel D.O.O. Tivat | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Ystel%20D.O.O.%20Tivat.txt) |
+| Ystel D.O.O. Tivat | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Ystel%20D.O.O.%20Tivat.txt) |
 | ZTV CORP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/ZTV%20CORP%20LLC.txt) |
-| Zenlayer Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Zenlayer%20Inc.txt) |
+| Zenlayer Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Zenlayer%20Inc.txt) |
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

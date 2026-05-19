@@ -1,9 +1,10 @@
 # LV （純 IP）
 
-**共 67 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/AEZA%20GROUP%20LLC.txt) |
 | Alaxona Internet Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Alaxona%20Internet%20Inc..txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Baxet%20Group%20Inc..txt) |
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Beget%20LLC.txt) |
@@ -16,11 +17,11 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Melbikomas%20UAB.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/RETN%20Limited.txt) |
 | Riga-Riga-LV | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Riga-Riga-LV.txt) |
-| SIA VEESP | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
-| VEESP datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/VEESP%20datacenter%20clients.txt) |
+| SIA VEESP | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
+| VEESP datacenter clients | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/VEESP%20datacenter%20clients.txt) |
 | Versija SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Versija%20SIA.txt) |
 | WorkTitans B.V. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/WorkTitans%20B.V..txt) |
-| as56971 network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
+| as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

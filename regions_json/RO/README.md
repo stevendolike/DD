@@ -1,6 +1,6 @@
 # RO 
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -13,6 +13,7 @@
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/FlokiNET%20ehf.txt) |
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/GREEN%20FLOID%20LLC.txt) |
+| HFM S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/HFM%20S.R.L.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/IROKO%20Networks%20Corporation.txt) |
 | LifeinCloud LTD_ | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/LifeinCloud%20LTD_.txt) |
 | MivoCloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/MivoCloud.txt) |
@@ -25,4 +26,4 @@
 | _ WWW.RARECLOUD.IO _ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_%20WWW.RARECLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

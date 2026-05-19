@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 244 條** · [返回主頁](../../README.md)
+**共 236 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -14,15 +14,15 @@
 | ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/ALLIANCE%20INTELLIGENT%20TECHNOLOGIES%20PTE.%20LTD..txt) |
 | Akamai Connected Cloud _ Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | AkileCloud SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/AkileCloud%20SG.txt) |
-| Alibaba Cloud (Singapore) Private Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
+| Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Alibaba%20Cloud%20LLC.txt) |
-| Amazon Data Services Singapore | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Amazon%20Data%20Services%20Singapore.txt) |
+| Amazon Data Services Singapore | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Amazon%20Data%20Services%20Singapore.txt) |
 | Amazon.com_ Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Amazon.com_%20Inc..txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/BAGE%20CLOUD%20LLC.txt) |
 | Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Baxet%20Group%20Inc..txt) |
-| CYBERJET PTE. LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/CYBERJET%20PTE.%20LTD..txt) |
+| CYBERJET PTE. LTD. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/CYBERJET%20PTE.%20LTD..txt) |
 | Contabo Asia Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Contabo%20Asia%20Private%20Limited.txt) |
-| DigitalOcean_ LLC | 164 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 160 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean_%20LLC.txt) |
 | Hetzner Online GmbH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Hetzner%20Online%20GmbH.txt) |
 | Huawei-Cloud-SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Huawei-Cloud-SG.txt) |
 | IPv6 services for VDS_VPS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/IPv6%20services%20for%20VDS_VPS.txt) |
@@ -36,7 +36,7 @@
 | Oracle Public Cloud | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Public%20Cloud.txt) |
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/RouterHosting%20LLC.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SG.GS.txt) |
-| SGP_VULTR_CUST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SGP_VULTR_CUST.txt) |
+| SGP_VULTR_CUST | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SGP_VULTR_CUST.txt) |
 | Strong Technology_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Strong%20Technology_%20LLC.txt) |
 | The Constant Company_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/The%20Constant%20Company_%20LLC.txt) |
 | Viewqwest Pte Ltd | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Viewqwest%20Pte%20Ltd.txt) |
@@ -45,4 +45,4 @@
 | xTom Pty Ltd | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

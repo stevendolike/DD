@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 132 條** · [返回主頁](../../README.md)
+**共 128 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -26,7 +26,7 @@
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | JSC Datacenter | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20Datacenter.txt) |
 | JSC IOT | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20IOT.txt) |
-| JSC TIMEWEB | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/KVIKTEL%20LLC.txt) |
 | LLC Baxet | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20Baxet.txt) |
 | LLC Digital Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20Digital%20Network.txt) |
@@ -53,7 +53,7 @@
 | VDSINA VDS Hosting ipv6 | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/VDSINA%20VDS%20Hosting%20ipv6.txt) |
 | VDSINA VDS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/VDSINA%20VDS%20Hosting.txt) |
 | Yakovlev Denis Alexandrovich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Yakovlev%20Denis%20Alexandrovich.txt) |
-| Yandex.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Yandex.Cloud%20LLC.txt) |
+| Yandex.Cloud LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Yandex.Cloud%20LLC.txt) |
 | ZTV CORP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/ZTV%20CORP%20LLC.txt) |
 | nuxtcloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/nuxtcloud.txt) |
 | subnet 5.128.144-151 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/subnet%205.128.144-151%20ethernet%20pool.txt) |
@@ -61,4 +61,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

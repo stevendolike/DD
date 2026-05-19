@@ -1,6 +1,6 @@
 # CZ 
 
-**共 73 條** · [返回主頁](../../README.md)
+**共 72 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -9,7 +9,7 @@
 | Friendhosting LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/GREEN%20FLOID%20LLC.txt) |
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Green%20Floid%20LLC.txt) |
-| HOST-TELECOM.COM s.r.o. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
+| HOST-TELECOM.COM s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | Hicoria Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Hicoria%20Hosting.txt) |
 | SmartApe OU | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
 | UPC Ceska republika_ a.s. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/UPC%20Ceska%20republika_%20a.s..txt) |
@@ -18,4 +18,4 @@
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

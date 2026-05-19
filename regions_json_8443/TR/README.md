@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -10,9 +10,9 @@
 | FAST GEO HOSTING S.R.L. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/FAST%20GEO%20HOSTING%20S.R.L..txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | IPv4Center.com Partition - Order _4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/IPv4Center.com%20Partition%20-%20Order%20_4.txt) |
-| SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
+| SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Superonline Iletisim Hizmetleri A.S. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Superonline%20Iletisim%20Hizmetleri%20A.S..txt) |
 | YUNUS EMRE ATILGAN POYRAZ HOSTING | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/YUNUS%20EMRE%20ATILGAN%20POYRAZ%20HOSTING.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

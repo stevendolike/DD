@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 50 條** · [返回主頁](../../README.md)
+**共 49 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -16,7 +16,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GREEN%20FLOID%20LLC.txt) |
 | H2.NEXUS Warsaw Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/H2.NEXUS%20Warsaw%20Network.txt) |
-| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | Korbank S. A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Korbank%20S.%20A..txt) |
 | Melbikomas UAB | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Melbikomas%20UAB.txt) |
@@ -35,4 +35,4 @@
 | nodehost | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/nodehost.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

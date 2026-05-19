@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 33 條** · [返回主頁](../../README.md)
+**共 32 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -18,7 +18,7 @@
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Friendhosting%20LTD.txt) |
 | IT7 Networks Inc | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/IT7%20Networks%20Inc.txt) |
 | Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Nearoute%20Limited.txt) |
-| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/RIPE%20NCC.txt) |
 | SAKURA Internet Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/SAKURA%20Internet%20Inc..txt) |
@@ -30,4 +30,4 @@
 | xTom Japan Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

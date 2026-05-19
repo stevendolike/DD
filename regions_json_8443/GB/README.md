@@ -1,16 +1,17 @@
 # GB （純 IP）
 
-**共 588 條** · [返回主頁](../../README.md)
+**共 589 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/AEZA%20GROUP%20Ltd.txt) |
 | Aeza International LTD | 78 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Aeza%20International%20LTD.txt) |
-| Amazon Data Services Ireland Ltd | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
-| Amazon Data Services UK | 41 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
+| Amazon Data Services Ireland Ltd | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Amazon Data Services UK | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd..txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Baxet%20Group%20Inc..txt) |
 | Binary Racks Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Binary%20Racks%20Limited.txt) |
+| CHSL ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/CHSL%20ONE%20LTD.txt) |
 | Cloud Hosting Solutions_ Limited. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Cloud%20Hosting%20Solutions_%20Limited..txt) |
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Contabo%20GmbH.txt) |
 | DigitalOcean_ LLC | 81 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/DigitalOcean_%20LLC.txt) |
@@ -29,4 +30,4 @@
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

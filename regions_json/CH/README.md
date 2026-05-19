@@ -1,19 +1,19 @@
 # CH 
 
-**共 129 條** · [返回主頁](../../README.md)
+**共 127 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/3NT%20SOLUTIONS%20LLP.txt) |
 | A100 ROW Inc | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/A100%20ROW%20Inc.txt) |
-| ALEXHOST S.R.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/ALEXHOST%20S.R.L..txt) |
+| ALEXHOST S.R.L. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/ALEXHOST%20S.R.L..txt) |
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/ALEXHOST%20SRL.txt) |
 | Baxet Group Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Baxet%20Group%20Inc..txt) |
 | BuyVM | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BuyVM.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Cloudflare%20London_%20LLC.txt) |
 | Datasource AG | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting_ Geronimo Ramirez | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting_%20Geronimo%20Ramirez.txt) |
-| Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
@@ -33,4 +33,4 @@
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

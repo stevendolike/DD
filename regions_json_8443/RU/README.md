@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 122 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -21,7 +21,7 @@
 | ITSOFT LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/ITSOFT%20LLC.txt) |
 | JSC Datacenter | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20Datacenter.txt) |
 | JSC IOT | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20IOT.txt) |
-| JSC TIMEWEB | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20TIMEWEB.txt) |
 | LLC BAXET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20BAXET.txt) |
 | LLC Baxet | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20Baxet.txt) |
 | LLC IT BASIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20IT%20BASIS.txt) |
@@ -47,9 +47,9 @@
 | UFO Hosting LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/UFO%20Hosting%20LLC.txt) |
 | VDSINA VDS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VDSINA%20VDS%20Hosting.txt) |
 | VDSka hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VDSka%20hosting.txt) |
-| VISP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VISP%20LLC.txt) |
+| VISP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VISP%20LLC.txt) |
 | VPSVILLE-RU VPS HOSTING | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VPSVILLE-RU%20VPS%20HOSTING.txt) |
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*

@@ -1,13 +1,14 @@
 # SE 
 
-**共 294 條** · [返回主頁](../../README.md)
+**共 291 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
+| AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
 | ALEXHOST SRL | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20SRL.txt) |
-| Aeza International LTD | 133 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 128 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Aeza%20International%20LTD.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Assigned to ORG-HIP1-RIPE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
@@ -37,14 +38,14 @@
 | SEBEK sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SEBEK%20sp.%20z%20o.o.txt) |
 | SERV.HOST GROUP LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SERV.HOST%20GROUP%20LTD.txt) |
 | SIA VEESP | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
-| STO lab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/STO%20lab.txt) |
+| STO lab | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/STO%20lab.txt) |
 | TAKEHOST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/TAKEHOST.txt) |
 | The subnet 2a0c_5700_3133_1705___64 in this range is used for TOR-Exit services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20subnet%202a0c_5700_3133_1705___64%20in%20this%20range%20is%20used%20for%20TOR-Exit%20services.txt) |
-| UAB Cherry Servers | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UAB%20Cherry%20Servers.txt) |
+| UAB Cherry Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UAB%20Cherry%20Servers.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UpCloud%20Cloud%20Servers.txt) |
 | Vultr Sweden | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Vultr%20Sweden.txt) |
 | play2go.cloud - Cheap and reliable hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-18 22:49 UTC*
+*最後更新：2026-05-19 07:51 UTC*
