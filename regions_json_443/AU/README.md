@@ -1,6 +1,6 @@
 # AU （純 IP）
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 21 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -16,9 +16,9 @@
 | OVH Australia PTY LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/OVH%20Australia%20PTY%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Public%20Cloud.txt) |
-| SUPERLOOP (AUSTRALIA) PTY LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/SUPERLOOP%20%28AUSTRALIA%29%20PTY%20LTD.txt) |
+| SUPERLOOP (AUSTRALIA) PTY LTD | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/SUPERLOOP%20%28AUSTRALIA%29%20PTY%20LTD.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/The%20Constant%20Company_%20LLC.txt) |
-| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-19 22:57 UTC*
+*最後更新：2026-05-20 07:49 UTC*

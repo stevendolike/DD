@@ -1,6 +1,6 @@
 # IE 
 
-**共 16 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -11,9 +11,9 @@
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Cloudflare%20London_%20LLC.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/HostPapa.txt) |
-| Microsoft Corporation | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Microsoft%20Corporation.txt) |
+| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Microsoft%20Corporation.txt) |
 | RackNerd LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/RackNerd%20LLC.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-19 22:57 UTC*
+*最後更新：2026-05-20 07:49 UTC*

@@ -7,4 +7,4 @@
 | Reliable Software_ Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Reliable%20Software_%20Ltd..txt) |
 
 ---
-*最後更新：2026-05-19 22:57 UTC*
+*最後更新：2026-05-20 07:49 UTC*

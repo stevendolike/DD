@@ -1,6 +1,6 @@
 # AE （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -11,8 +11,8 @@
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/G-Core%20Labs%20Customer%20assignment.txt) |
 | Hurricane Electric LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/Hurricane%20Electric%20LLC.txt) |
 | Kaopu Cloud HK Limited | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/Kaopu%20Cloud%20HK%20Limited.txt) |
-| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/Microsoft%20Corporation.txt) |
+| Microsoft Corporation | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/Microsoft%20Corporation.txt) |
 | RouterHosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-05-19 22:57 UTC*
+*最後更新：2026-05-20 07:49 UTC*

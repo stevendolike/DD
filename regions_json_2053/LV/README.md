@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 38 條** · [返回主頁](../../README.md)
+**共 37 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -11,10 +11,10 @@
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Green%20Floid%20LLC.txt) |
 | IPv6 services for dedicated servers and VDS_VPS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/IPv6%20services%20for%20dedicated%20servers%20and%20VDS_VPS.txt) |
-| Riga-Riga-LV | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Riga-Riga-LV.txt) |
+| Riga-Riga-LV | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Riga-Riga-LV.txt) |
 | SIA VEESP | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-19 22:57 UTC*
+*最後更新：2026-05-20 07:49 UTC*
