@@ -8,4 +8,4 @@
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/PL/Snowd%20Security%20OU.txt) |
 
 ---
-*最後更新：2026-05-20 12:17 UTC*
+*最後更新：2026-05-20 18:13 UTC*

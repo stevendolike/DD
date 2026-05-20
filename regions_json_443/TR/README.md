@@ -23,4 +23,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-05-20 12:17 UTC*
+*最後更新：2026-05-20 18:13 UTC*
