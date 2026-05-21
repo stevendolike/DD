@@ -8,4 +8,4 @@
 | Individual Entrepreneur Anton Levin | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KG/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 
 ---
-*最後更新：2026-05-21 07:57 UTC*
+*最後更新：2026-05-21 12:40 UTC*
