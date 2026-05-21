@@ -1,6 +1,6 @@
 # JP 
 
-**共 150 條** · [返回主頁](../../README.md)
+**共 147 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -8,9 +8,9 @@
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/6%20COLLYER%20QUAY.txt) |
 | ACCK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ACCK%20LLC.txt) |
 | Akamai Connected Cloud _ Linode | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
-| Akile LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akile%20LTD.txt) |
+| Akile LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akile%20LTD.txt) |
 | AkileCloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/AkileCloud%20LLC.txt) |
-| Alibaba Cloud (Singapore) Private Limited | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
+| Alibaba Cloud (Singapore) Private Limited | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20LLC.txt) |
 | Alice Networks LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alice%20Networks%20LTD.txt) |
 | Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon.com_%20Inc..txt) |
@@ -23,10 +23,10 @@
 | Cloudflare London_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cloudflare%20London_%20LLC.txt) |
 | Cloudflare_ Inc. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cloudflare_%20Inc..txt) |
 | Contabo Asia Private Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Contabo%20Asia%20Private%20Limited.txt) |
-| DDPS Networks_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DDPS%20Networks_%20LLC.txt) |
+| DDPS Networks_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DDPS%20Networks_%20LLC.txt) |
 | DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | DMIT Cloud Service - Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
-| DMIT Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DMIT%20Inc..txt) |
+| DMIT Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DMIT%20Inc..txt) |
 | DODO K.K. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DODO%20K.K..txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Evoxt.com.txt) |
 | Evoxt | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Evoxt.txt) |
@@ -40,7 +40,7 @@
 | MoeDove | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/MoeDove.txt) |
 | Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Nearoute%20Limited.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
-| Oracle Corporation | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
 | Oracle Network Information Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Network%20Information%20Services.txt) |
 | Oracle Public Cloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
 | Prime Security Corp. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Prime%20Security%20Corp..txt) |
@@ -64,4 +64,4 @@
 | xTom Japan Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

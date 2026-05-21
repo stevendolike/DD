@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 62 條** · [返回主頁](../../README.md)
+**共 61 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -17,11 +17,11 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Melbikomas%20UAB.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/RETN%20Limited.txt) |
 | Riga-Riga-LV | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Riga-Riga-LV.txt) |
-| SIA VEESP | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
 | VEESP datacenter clients | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/VEESP%20datacenter%20clients.txt) |
 | Versija SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Versija%20SIA.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/WorkTitans%20B.V..txt) |
 | as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

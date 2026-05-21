@@ -1,13 +1,13 @@
 # HK （純 IP）
 
-**共 62 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/365.partners%20INC.txt) |
 | 6 COLLYER QUAY | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/6%20COLLYER%20QUAY.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ACE.txt) |
-| AKILE LTD | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/AKILE%20LTD.txt) |
+| AKILE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/AKILE%20LTD.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | ALICE NETWORKS LTD | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALICE%20NETWORKS%20LTD.txt) |
@@ -19,7 +19,7 @@
 | BEST WEBTECHNOLOGY LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/BEST%20WEBTECHNOLOGY%20LIMITED.txt) |
 | BINARY NETWORKS SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/BINARY%20NETWORKS%20SOLUTIONS%20LLC.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Baxet%20Group%20Inc..txt) |
-| Cloudie Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Cloudie%20Limited.txt) |
+| Cloudie Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Cloudie%20Limited.txt) |
 | DMIT Cloud Service - Hong Kong | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DMIT%20Cloud%20Service%20-%20Hong%20Kong.txt) |
 | DMIT Cloud Service - Los Angeles | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
 | Evoxt.com | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Evoxt.com.txt) |
@@ -35,7 +35,7 @@
 | Internet Utilities Europe and Asia Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
 | LEASEWEB HONG KONG LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/LEASEWEB%20HONG%20KONG%20LIMITED.txt) |
 | LucidaCloud Limited | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/LucidaCloud%20Limited.txt) |
-| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
+| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
 | NEAROUTE LIMITED | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/NEAROUTE%20LIMITED.txt) |
 | PI-HONGKONG-KARVL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/PI-HONGKONG-KARVL.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Private%20Customer.txt) |
@@ -47,9 +47,9 @@
 | VH Global Limited | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VH%20Global%20Limited.txt) |
 | VMISS Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VMISS%20Inc..txt) |
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/WorkTitans%20B.V..txt) |
-| as56971 network | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/as56971%20network.txt) |
+| as56971 network | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/as56971%20network.txt) |
 | ihc.hk vps in Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 | vape | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/vape.txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

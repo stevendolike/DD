@@ -1,12 +1,12 @@
 # SE （純 IP）
 
-**共 202 條** · [返回主頁](../../README.md)
+**共 200 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/A100%20ROW%20Inc.txt) |
-| Aeza International LTD | 99 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 97 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Aeza%20International%20LTD.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Assigned to ORG-HIP1-RIPE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
@@ -43,4 +43,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

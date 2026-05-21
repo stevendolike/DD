@@ -1,6 +1,6 @@
 # ES 
 
-**共 124 條** · [返回主頁](../../README.md)
+**共 123 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -11,7 +11,7 @@
 | DIGI Spain Telecom IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/DIGI%20Spain%20Telecom%20IPv6.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | G-Core Labs S.A. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/G-Core%20Labs%20S.A..txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GREEN%20FLOID%20LLC.txt) |
 | GTHost | 81 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Google%20LLC.txt) |
@@ -29,4 +29,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

@@ -1,6 +1,6 @@
 # AT 
 
-**共 66 條** · [返回主頁](../../README.md)
+**共 65 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -17,8 +17,8 @@
 | InterLIR-Marketplace | 46 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/InterLIR-Marketplace.txt) |
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/M247%20LTD%20Vienna%20Infrastructure.txt) |
 | OVHcloud - Austria | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/OVHcloud%20-%20Austria.txt) |
-| netcup GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/netcup%20GmbH.txt) |
+| netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/netcup%20GmbH.txt) |
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

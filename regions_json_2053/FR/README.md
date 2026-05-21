@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 202 條** · [返回主頁](../../README.md)
+**共 203 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -16,7 +16,7 @@
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/FIRST%20SERVER%20LIMITED.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOST TELECOM LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/HOST%20TELECOM%20LTD.txt) |
-| IPXO | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/IPXO.txt) |
+| IPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/IPXO.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Linode.txt) |
 | Mo_s Operations GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Mo_s%20Operations%20GmbH.txt) |
 | OVH SAS | 91 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/OVH%20SAS.txt) |
@@ -29,4 +29,4 @@
 | as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

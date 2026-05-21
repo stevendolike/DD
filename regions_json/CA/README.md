@@ -1,6 +1,6 @@
 # CA 
 
-**共 110 條** · [返回主頁](../../README.md)
+**共 111 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -10,7 +10,7 @@
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/CENTRILOGICCANADA.txt) |
 | Cloud Web Manage | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cloud%20Web%20Manage.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cluster%20Logic%20Inc.txt) |
-| DigitalOcean_ LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean_%20LLC.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
 | HostPapa | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
@@ -28,4 +28,4 @@
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

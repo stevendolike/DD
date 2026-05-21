@@ -1,13 +1,13 @@
 # TR （純 IP）
 
-**共 34 條** · [返回主頁](../../README.md)
+**共 33 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 2E TELEKOMUNIKASYON LTD STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/3NT%20SOLUTIONS%20LLP.txt) |
-| Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Baxet%20Group%20Inc..txt) |
 | Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Bogahost%20Bilisim%20ve%20Telekomunikasyon%20Hiz%20San%20ve%20Tic.%20Ltd.%20Sti.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -23,4 +23,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*

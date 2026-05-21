@@ -1,6 +1,6 @@
 # IT 
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 15 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -14,7 +14,7 @@
 | G-Core Labs S.A. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/G-Core%20Labs%20S.A..txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/HOSTKEY%20B.V..txt) |
-| InterLIR-Marketplace | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/InterLIR-Marketplace.txt) |
+| InterLIR-Marketplace | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/InterLIR-Marketplace.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Kamatera%20Inc.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Linode.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Microsoft%20Corporation.txt) |
@@ -22,4 +22,4 @@
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-20 23:04 UTC*
+*最後更新：2026-05-21 07:57 UTC*
