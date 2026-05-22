@@ -13,4 +13,4 @@
 | PT Industri Kreatif Digital | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/PT%20Industri%20Kreatif%20Digital.txt) |
 
 ---
-*最後更新：2026-05-22 07:49 UTC*
+*最後更新：2026-05-22 12:13 UTC*
