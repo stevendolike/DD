@@ -1,10 +1,10 @@
 # ZA （純 IP）
 
-**共 0 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| xneelo-tscolo | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ZA/xneelo-tscolo.txt) |
+| xneelo-tscolo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ZA/xneelo-tscolo.txt) |
 
 ---
-*最後更新：2026-05-21 22:58 UTC*
+*最後更新：2026-05-22 07:49 UTC*

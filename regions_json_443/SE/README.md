@@ -1,20 +1,20 @@
 # SE （純 IP）
 
-**共 200 條** · [返回主頁](../../README.md)
+**共 198 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/A100%20ROW%20Inc.txt) |
-| Aeza International LTD | 97 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 96 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Aeza%20International%20LTD.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Sweden.txt) |
-| Assigned to ORG-HIP1-RIPE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
+| Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Cloudflare%20London_%20LLC.txt) |
 | FORTIS Hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/FORTIS%20Hosting%20services.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/HZ%20Hosting%20Ltd.txt) |
 | Hollander _ Jacobsen UG (haftungsbeschraenkt) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hollander%20_%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
 | Hostup AB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hostup%20AB.txt) |
@@ -23,7 +23,7 @@
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/ISPIRIA%20Networks%20Ltd.txt) |
 | Internetport Sweden AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Internetport%20Sweden%20AB.txt) |
 | Iranian Research Organization for Science _ Technology | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Iranian%20Research%20Organization%20for%20Science%20_%20Technology.txt) |
-| Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Linode.txt) |
+| Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/MVPS%20LTD.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | Prinode AB | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Prinode%20AB.txt) |
@@ -40,7 +40,7 @@
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/UpCloud%20Cloud%20Servers.txt) |
 | Vultr Sweden | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
 | play2go.cloud - Cheap and reliable hosting | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
-| www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
+| www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-21 22:58 UTC*
+*最後更新：2026-05-22 07:49 UTC*

@@ -5,8 +5,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | DigitalOcean_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/DigitalOcean_%20LLC.txt) |
-| Vultr Holdings_ LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/Vultr%20Holdings_%20LLC.txt) |
-| WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/WorkTitans%20B.V..txt) |
+| Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/Vultr%20Holdings_%20LLC.txt) |
+| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-21 22:58 UTC*
+*最後更新：2026-05-22 07:49 UTC*

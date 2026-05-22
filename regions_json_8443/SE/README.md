@@ -1,13 +1,13 @@
 # SE （純 IP）
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/1Cent%20Host.txt) |
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/AEZA%20GROUP%20LLC.txt) |
-| ALEXHOST SRL | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/ALEXHOST%20SRL.txt) |
-| Aeza International LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Aeza%20International%20LTD.txt) |
+| ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/ALEXHOST%20SRL.txt) |
+| Aeza International LTD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Aeza%20International%20LTD.txt) |
 | Amazon Data Services Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baykov Ilya Sergeevich | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Baykov%20Ilya%20Sergeevich.txt) |
@@ -17,7 +17,7 @@
 | Hostup AB | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hostup%20AB.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/IROKO%20Networks%20Corporation.txt) |
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/ISPIRIA%20Networks%20Ltd.txt) |
-| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/MVPS%20LTD.txt) |
+| MVPS LTD | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/MVPS%20LTD.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Oracle%20Corporation.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SEBEK%20sp.%20z%20o.o.txt) |
@@ -27,4 +27,4 @@
 | play2go.cloud - Cheap and reliable hosting | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-05-21 22:58 UTC*
+*最後更新：2026-05-22 07:49 UTC*

@@ -1,14 +1,14 @@
 # GB （純 IP）
 
-**共 101 條** · [返回主頁](../../README.md)
+**共 102 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Aeza International LTD | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Aeza%20International%20LTD.txt) |
 | CHSL ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/CHSL%20ONE%20LTD.txt) |
 | Cloud Hosting Solutions_ Limited. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Cloud%20Hosting%20Solutions_%20Limited..txt) |
-| Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
-| DigitalOcean_ LLC | 77 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean_%20LLC.txt) |
+| Contabo GmbH | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
+| DigitalOcean_ LLC | 79 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean_%20LLC.txt) |
 | HR SYSHEAD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/HR%20SYSHEAD.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/MT%20FINANCE%20LLC.txt) |
 | MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/MVPS%20LTD.txt) |
@@ -20,4 +20,4 @@
 | WorkTitans B.V. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-21 22:58 UTC*
+*最後更新：2026-05-22 07:49 UTC*

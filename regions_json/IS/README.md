@@ -1,13 +1,14 @@
 # IS 
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1984 ehf | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IS/1984%20ehf.txt) |
+| EDIS IPv6 Infrastructure in Iceland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IS/EDIS%20IPv6%20Infrastructure%20in%20Iceland.txt) |
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IS/FlokiNET%20ehf.txt) |
 | HOSTKEY B.V. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IS/HOSTKEY%20B.V..txt) |
 | WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IS/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-21 22:58 UTC*
+*最後更新：2026-05-22 07:49 UTC*

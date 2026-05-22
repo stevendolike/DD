@@ -4,9 +4,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AMWEB LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/AMWEB%20LLC.txt) |
-| Proitlab LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/Proitlab%20LLC.txt) |
-| WorkTitans B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/WorkTitans%20B.V..txt) |
+| AMWEB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/AMWEB%20LLC.txt) |
+| Proitlab LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/Proitlab%20LLC.txt) |
+| WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-21 22:58 UTC*
+*最後更新：2026-05-22 07:49 UTC*
