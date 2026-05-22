@@ -16,4 +16,4 @@
 | __IT FRUIT__ S.R.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/__IT%20FRUIT__%20S.R.L..txt) |
 
 ---
-*最後更新：2026-05-22 12:13 UTC*
+*最後更新：2026-05-22 17:48 UTC*
