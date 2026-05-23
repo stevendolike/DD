@@ -1,5 +1,6 @@
 import json
 import os
+import shutil
 import ipaddress
 from collections import defaultdict
 
@@ -43,23 +44,20 @@ for item in data:
 
 print(f"跳過無效 IP：{skipped} 條")
 
-# regions_json/ 全部 port
-os.makedirs("regions_json", exist_ok=True)
-for country, orgs in groups.items():
-    path = f"regions_json/{country}"
-    os.makedirs(path, exist_ok=True)
-    for org, entries in orgs.items():
-        with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(entries))
-
-# regions_json_PORT/ 每個 port 純 IP
-for port, countries in groups_port.items():
-    for country, orgs in countries.items():
-        path = f"regions_json_{port}/{country}"
+def rebuild_dir(base_dir, country_data):
+    if os.path.exists(base_dir):
+        shutil.rmtree(base_dir)
+    os.makedirs(base_dir, exist_ok=True)
+    for country, orgs in country_data.items():
+        path = f"{base_dir}/{country}"
         os.makedirs(path, exist_ok=True)
         for org, entries in orgs.items():
             with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
                 f.write("\n".join(entries))
+
+rebuild_dir("regions_json", groups)
+for port, countries in groups_port.items():
+    rebuild_dir(f"regions_json_{port}", countries)
 
 # stats.json
 stats = {}
