@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 88 條** · [返回主頁](../../README.md)
+**共 87 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -9,7 +9,7 @@
 | AS INFONET | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/AS%20INFONET.txt) |
 | Aktsiaselts WaveCom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Aktsiaselts%20WaveCom.txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Baykov%20Ilya%20Sergeevich.txt) |
-| BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
+| BlueVPS OU | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
 | Brainoza OU | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Cogent%20Communications_%20LLC.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
@@ -31,4 +31,4 @@
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-05-22 22:50 UTC*
+*最後更新：2026-05-23 06:35 UTC*

@@ -1,6 +1,6 @@
 # BG 
 
-**共 59 條** · [返回主頁](../../README.md)
+**共 58 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -11,7 +11,7 @@
 | DA International Group Ltd. - AlphaVPS | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | DA International Group Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd..txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
-| Friendhosting LTD | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Green%20Floid%20LLC.txt) |
 | Hosting Provider EuroHoster Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Hosting%20Provider%20EuroHoster%20Ltd..txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/IROKO%20Networks%20Corporation.txt) |
@@ -23,4 +23,4 @@
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-22 22:50 UTC*
+*最後更新：2026-05-23 06:35 UTC*

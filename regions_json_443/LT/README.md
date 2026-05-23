@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 22 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -11,7 +11,7 @@
 | UAB Cherry Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
-| WorkTitans B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-22 22:50 UTC*
+*最後更新：2026-05-23 06:35 UTC*

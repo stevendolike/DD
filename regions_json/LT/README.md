@@ -1,6 +1,6 @@
 # LT 
 
-**共 36 條** · [返回主頁](../../README.md)
+**共 35 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -13,8 +13,8 @@
 | UAB Cherry Servers | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
-| WorkTitans B.V. | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/WorkTitans%20B.V..txt) |
 | oneprovider.com - Vilnius Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-05-22 22:50 UTC*
+*最後更新：2026-05-23 06:35 UTC*
