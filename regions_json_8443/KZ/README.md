@@ -9,7 +9,6 @@
 | Astana | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Astana.txt) |
 | Beget LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Beget%20LLC.txt) |
 | Big Data Host LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Big%20Data%20Host%20LLC.txt) |
-| Content Service Company TOO | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Content%20Service%20Company%20TOO.txt) |
 | Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Hoster.KZ.txt) |
 | Hosting Pro (Hosting Pro) LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Hosting%20Pro%20%28Hosting%20Pro%29%20LLP.txt) |
 | JSC TIMEWEB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/JSC%20TIMEWEB.txt) |
@@ -20,4 +19,4 @@
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

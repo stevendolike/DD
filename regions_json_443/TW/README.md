@@ -5,8 +5,6 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | BrainStorm Network_ Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/BrainStorm%20Network_%20Inc.txt) |
-| HiNet Taiwan | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/HiNet%20Taiwan.txt) |
-| Lamhosting LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/Lamhosting%20LLC.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

@@ -11,8 +11,7 @@
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Google%20LLC.txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Hurricane%20Electric%20LLC.txt) |
 | VERIXI SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/VERIXI%20SA.txt) |
-| VOO S.A. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/VOO%20S.A..txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

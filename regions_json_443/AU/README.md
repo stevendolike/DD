@@ -9,7 +9,6 @@
 | Akamai Connected Cloud _ Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Digital Ocean_ Inc. | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Digital%20Ocean_%20Inc..txt) |
 | DigitalOcean_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/DigitalOcean_%20LLC.txt) |
-| EDIS IPv6 Network in Australia | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/EDIS%20IPv6%20Network%20in%20Australia.txt) |
 | EXTRAVM LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/EXTRAVM%20LLC.txt) |
 | Level 6_ 9-13 Young Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Level%206_%209-13%20Young%20Street.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Linode.txt) |
@@ -22,4 +21,4 @@
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

@@ -43,10 +43,8 @@
 | IP MARKET - FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IP%20MARKET%20-%20FZCO.txt) |
 | IT-Garage | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IT-Garage.txt) |
 | Individual Entrepreneur Anton Levin | 57 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| Iranian Research Organization for Science _ Technology | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Iranian%20Research%20Organization%20for%20Science%20_%20Technology.txt) |
 | LIVI HOSTING LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/LIVI%20HOSTING%20LTD.txt) |
 | M247 Europe - Helsinki Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/M247%20Europe%20-%20Helsinki%20Infrastructure.txt) |
-| NODE HOST LIMITED | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/NODE%20HOST%20LIMITED.txt) |
 | NODE-HOST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/NODE-HOST.txt) |
 | NTX-ROLE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/NTX-ROLE.txt) |
 | NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/NetCrafters%20OU.txt) |
@@ -80,4 +78,4 @@
 | u1host Finland | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

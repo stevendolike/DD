@@ -18,19 +18,16 @@
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/FEELB%20SARL.txt) |
 | HOST TELECOM LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/HOST%20TELECOM%20LTD.txt) |
 | Host Europe GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Host%20Europe%20GmbH.txt) |
-| InterLIR-Marketplace | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/InterLIR-Marketplace.txt) |
 | Mo_s Operations GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Mo_s%20Operations%20GmbH.txt) |
 | OVH SAS | 184 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
-| Orange S.A. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Orange%20S.A..txt) |
 | RACKNERD-FR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RACKNERD-FR.txt) |
 | RackNerd_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RackNerd_%20LLC.txt) |
 | Scaleway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Scaleway.txt) |
 | Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Subnet%20Digital%20LLC.txt) |
 | TakeHost.Biz | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/TakeHost.Biz.txt) |
-| UNKNOWN | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/UNKNOWN.txt) |
 | VPS static ips | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/VPS%20static%20ips.txt) |
 | Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Vultr%20Holdings_%20LLC.txt) |
 | as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

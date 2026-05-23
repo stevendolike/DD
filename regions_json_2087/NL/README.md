@@ -7,10 +7,9 @@
 | Aeza International LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Aeza%20International%20LTD.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Baxet%20Group%20Inc..txt) |
 | DigitalOcean_ LLC | 186 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/DigitalOcean_%20LLC.txt) |
-| JSC TIMEWEB | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/JSC%20TIMEWEB.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Oracle%20Corporation.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/QWINS%20Hosting.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

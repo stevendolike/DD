@@ -7,12 +7,10 @@
 | 365.partners INC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/3NT%20SOLUTIONS%20LLP.txt) |
 | Aeza International LTD | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Aeza%20International%20LTD.txt) |
-| Amazon Data Services Ireland Ltd | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CloudBackbone.txt) |
-| Cloudflare London_ LLC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Cloudflare%20London_%20LLC.txt) |
 | Contabo GmbH | 50 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FEELB%20SARL.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FIRST%20SERVER%20LIMITED.txt) |
@@ -26,10 +24,8 @@
 | Kokunov Evgeny Andreevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Kokunov%20Evgeny%20Andreevich.txt) |
 | Layer7 Networks GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Layer7%20Networks%20GmbH.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Linode.txt) |
-| Ltd Closco | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Ltd%20Closco.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Microsoft%20Corporation.txt) |
 | Mo_s Operations GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Mo_s%20Operations%20GmbH.txt) |
-| NET 145 223 68 0 22 | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/NET%20145%20223%2068%200%2022.txt) |
 | Neterra Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Neterra%20Ltd..txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20Hispano.txt) |
 | OVH SAS | 108 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20SAS.txt) |
@@ -40,7 +36,6 @@
 | RACKNERD-FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/RACKNERD-FR.txt) |
 | RackNerd_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/RackNerd_%20LLC.txt) |
 | SEVIN Jacques | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/SEVIN%20Jacques.txt) |
-| Scaleway Dedibox - Paris_ France | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Scaleway%20Dedibox%20-%20Paris_%20France.txt) |
 | Scaleway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Scaleway.txt) |
 | Seigohost LLC | 82 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Seigohost%20LLC.txt) |
 | The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/The%20Constant%20Company_%20LLC..txt) |
@@ -53,4 +48,4 @@
 | as56971 network | 46 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

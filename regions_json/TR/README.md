@@ -10,11 +10,9 @@
 | Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Baxet%20Group%20Inc..txt) |
 | Big Core LLC_ Turkey | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Big%20Core%20LLC_%20Turkey.txt) |
 | Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Bogahost%20Bilisim%20ve%20Telekomunikasyon%20Hiz%20San%20ve%20Tic.%20Ltd.%20Sti.txt) |
-| FAST GEO HOSTING S.R.L. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/FAST%20GEO%20HOSTING%20S.R.L..txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/HOSTKEY%20B.V..txt) |
-| HOSTKEY B.V | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/HOSTKEY%20B.V.txt) |
 | HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/HZD%20TEKNOLOJI%20VE%20INOVASYON%20SAN.%20VE%20TIC.%20LTD.%20STI..txt) |
 | IPv4Center.com Partition - Order _4 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/IPv4Center.com%20Partition%20-%20Order%20_4.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/LIGHT%20NODE%20LIMITED.txt) |
@@ -31,4 +29,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

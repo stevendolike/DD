@@ -6,7 +6,6 @@
 |------|--------|---------|
 | The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ZA/The%20Constant%20Company_%20LLC..txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ZA/The%20Constant%20Company_%20LLC.txt) |
-| VPS Hostafrica | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ZA/VPS%20Hostafrica.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

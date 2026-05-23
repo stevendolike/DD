@@ -5,8 +5,6 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | EDIS IPv6 Infrastructure in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
-| SIA VEESP | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/LV/SIA%20VEESP.txt) |
-| as56971 network | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

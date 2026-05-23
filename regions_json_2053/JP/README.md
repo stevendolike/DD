@@ -5,7 +5,6 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | CYBERJET PTE. LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/CYBERJET%20PTE.%20LTD..txt) |
-| Friendhosting LTD | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Friendhosting%20LTD.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Linode.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Oracle%20Public%20Cloud.txt) |
@@ -13,4 +12,4 @@
 | xTom Japan Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

@@ -4,8 +4,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Kaopu Cloud HK Limited | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BD/Kaopu%20Cloud%20HK%20Limited.txt) |
 | Lightnode Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BD/Lightnode%20Limited.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

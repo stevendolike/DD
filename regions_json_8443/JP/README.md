@@ -4,7 +4,6 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3nt solutions LLP | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/3nt%20solutions%20LLP.txt) |
 | Akamai Connected Cloud _ Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Akile LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Akile%20LTD.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
@@ -15,10 +14,8 @@
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | DDPS Networks_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DDPS%20Networks_%20LLC.txt) |
 | DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
-| DMIT Inc. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DMIT%20Inc..txt) |
 | DODO K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DODO%20K.K..txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Friendhosting%20LTD.txt) |
-| IT7 Networks Inc | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/IT7%20Networks%20Inc.txt) |
 | Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Nearoute%20Limited.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
@@ -32,4 +29,4 @@
 | xTom Japan Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

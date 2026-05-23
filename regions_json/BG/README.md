@@ -8,7 +8,6 @@
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Baxet%20Group%20Inc..txt) |
 | Belcloud LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Belcloud%20LTD.txt) |
 | BlueVPS OU | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/BlueVPS%20OU.txt) |
-| DA International Group Ltd. - AlphaVPS | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | DA International Group Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd..txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | Friendhosting LTD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
@@ -23,4 +22,4 @@
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

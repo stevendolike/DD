@@ -6,7 +6,6 @@
 |------|--------|---------|
 | 1Cent Host | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/1Cent%20Host.txt) |
 | AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/AEZA%20GROUP%20LLC.txt) |
-| ALEKSEI FEDOROV PR KRUSEVAC | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Ace Data Centers II_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Ace%20Data%20Centers%20II_%20LLC.txt) |
 | Aeza International LTD | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Aeza%20International%20LTD.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Anton%20Levin.txt) |
@@ -15,7 +14,6 @@
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 102 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/CGI%20GLOBAL%20LIMITED.txt) |
 | CHSL Helsinki | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/CHSL%20Helsinki.txt) |
-| CloudBackbone | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/CloudBackbone.txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Cloudflare%20London_%20LLC.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/EE-Network.txt) |
 | FI-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/FI-Network.txt) |
@@ -35,10 +33,8 @@
 | IP MARKET - FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IP%20MARKET%20-%20FZCO.txt) |
 | IT-Garage | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IT-Garage.txt) |
 | Individual Entrepreneur Anton Levin | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| Iranian Research Organization for Science _ Technology | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Iranian%20Research%20Organization%20for%20Science%20_%20Technology.txt) |
 | LIVI HOSTING LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/LIVI%20HOSTING%20LTD.txt) |
 | Mistic Internet Security Pty Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
-| NTX-ROLE | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/NTX-ROLE.txt) |
 | NetCrafters OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/NetCrafters%20OU.txt) |
 | Neterra Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Neterra%20Ltd..txt) |
 | New Hosting Technologies LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/New%20Hosting%20Technologies%20LLC.txt) |
@@ -60,4 +56,4 @@
 | u1host Finland | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

@@ -7,7 +7,6 @@
 | 365.partners INC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/3NT%20SOLUTIONS%20LLP.txt) |
 | Aeza International LTD | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Aeza%20International%20LTD.txt) |
-| Amazon Data Services Ireland Ltd | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
@@ -26,30 +25,24 @@
 | HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HOSTKEY%20B.V..txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HZ%20Hosting%20Ltd.txt) |
 | Host Europe GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Host%20Europe%20GmbH.txt) |
-| IPXO | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPXO.txt) |
-| InterLIR-Marketplace | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/InterLIR-Marketplace.txt) |
 | Jogcorp SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Jogcorp%20SAS.txt) |
 | Kokunov Evgeny Andreevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Kokunov%20Evgeny%20Andreevich.txt) |
 | Layer7 Networks GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Layer7%20Networks%20GmbH.txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Linode.txt) |
-| Ltd Closco | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Ltd%20Closco.txt) |
 | M247 LTD Paris Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/M247%20LTD%20Paris%20Infrastructure.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Microsoft%20Corporation.txt) |
 | Mo_s Operations GmbH | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Mo_s%20Operations%20GmbH.txt) |
-| NET 145 223 68 0 22 | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NET%20145%20223%2068%200%2022.txt) |
 | Neterra Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Neterra%20Ltd..txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/OVH%20Hispano.txt) |
 | OVH SAS | 384 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/OVH%20SAS.txt) |
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Svenska%20AB.txt) |
-| Orange S.A. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Orange%20S.A..txt) |
 | Petersburg Internet Network ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Petersburg%20Internet%20Network%20ltd..txt) |
 | RACKNERD-FR | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/RACKNERD-FR.txt) |
 | RackNerd_ LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/RackNerd_%20LLC.txt) |
 | SERVERD SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/SERVERD%20SAS.txt) |
 | SEVIN Jacques | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/SEVIN%20Jacques.txt) |
-| Scaleway Dedibox - Paris_ France | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Scaleway%20Dedibox%20-%20Paris_%20France.txt) |
 | Scaleway | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Scaleway.txt) |
 | Seigohost LLC | 82 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Seigohost%20LLC.txt) |
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Subnet%20Digital%20LLC.txt) |
@@ -64,4 +57,4 @@
 | as56971 network | 59 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

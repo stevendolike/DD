@@ -6,7 +6,6 @@
 |------|--------|---------|
 | 1Cent Host | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
-| AS INFONET | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/AS%20INFONET.txt) |
 | Aktsiaselts WaveCom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Aktsiaselts%20WaveCom.txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
@@ -28,9 +27,7 @@
 | RJ Network OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/RJ%20Network%20OU.txt) |
 | SERV.HOST GROUP LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SERV.HOST%20GROUP%20LTD.txt) |
 | SOLUS KVM VPS POOL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SOLUS%20KVM%20VPS%20POOL.txt) |
-| Wavecom Infrastructure | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Wavecom%20Infrastructure.txt) |
-| servinga.com - Estonia | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

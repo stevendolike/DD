@@ -25,28 +25,23 @@
 | IROKO Networks Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/IROKO%20Networks%20Corporation.txt) |
 | ISPIRIA Networks Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ISPIRIA%20Networks%20Ltd.txt) |
 | Internetport Sweden AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Internetport%20Sweden%20AB.txt) |
-| Iranian Research Organization for Science _ Technology | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Iranian%20Research%20Organization%20for%20Science%20_%20Technology.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Linode.txt) |
 | MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/MVPS%20LTD.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Oracle%20Svenska%20AB.txt) |
-| Prinode AB | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Prinode%20AB.txt) |
-| Private Customer | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Private%20Customer.txt) |
 | Privex Sweden General Customers | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Privex%20Sweden%20General%20Customers.txt) |
 | RJ Network OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/RJ%20Network%20OU.txt) |
 | SEBEK sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SEBEK%20sp.%20z%20o.o.txt) |
 | SERV.HOST GROUP LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SERV.HOST%20GROUP%20LTD.txt) |
 | SIA VEESP | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
-| STO lab | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/STO%20lab.txt) |
 | TAKEHOST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/TAKEHOST.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20Constant%20Company_%20LLC.txt) |
 | The subnet 2a0c_5700_3133_1705___64 in this range is used for TOR-Exit services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20subnet%202a0c_5700_3133_1705___64%20in%20this%20range%20is%20used%20for%20TOR-Exit%20services.txt) |
 | UAB Cherry Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UAB%20Cherry%20Servers.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UpCloud%20Cloud%20Servers.txt) |
 | Vultr Sweden | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Vultr%20Sweden.txt) |
-| play2go.cloud - Cheap and reliable hosting | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*

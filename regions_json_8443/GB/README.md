@@ -10,13 +10,10 @@
 | Amazon Data Services UK | 42 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd..txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Baxet%20Group%20Inc..txt) |
-| Binary Racks Limited | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Binary%20Racks%20Limited.txt) |
 | CHSL ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/CHSL%20ONE%20LTD.txt) |
-| Cloud Hosting Solutions_ Limited. | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Cloud%20Hosting%20Solutions_%20Limited..txt) |
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Contabo%20GmbH.txt) |
 | DigitalOcean_ LLC | 81 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/DigitalOcean_%20LLC.txt) |
 | GTHost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/GTHost.txt) |
-| InterLIR-Marketplace | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/InterLIR-Marketplace.txt) |
 | Linode | 166 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Linode.txt) |
 | OVH Ltd | 176 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/OVH%20Ltd.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Oracle%20Corporation.txt) |
@@ -30,4 +27,4 @@
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-23 11:04 UTC*
+*最後更新：2026-05-23 15:12 UTC*
