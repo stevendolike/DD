@@ -14,4 +14,4 @@
 | Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
 
 ---
-*最後更新：2026-05-24 07:23 UTC*
+*最後更新：2026-05-24 11:09 UTC*
