@@ -25,10 +25,10 @@ except (json.JSONDecodeError, KeyError) as e:
     print(f"all.json 解析失敗：{e}")
     exit(0)
 
-groups          = defaultdict(lambda: defaultdict(list))
-groups_port     = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
-groups_asn      = defaultdict(lambda: defaultdict(list))   # 優選 ASN 全部 port
-groups_asn_443  = defaultdict(lambda: defaultdict(list))   # 優選 ASN 純 IP
+groups         = defaultdict(lambda: defaultdict(list))
+groups_port    = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+groups_asn     = defaultdict(list)  # country -> [ip:port]
+groups_asn_443 = defaultdict(list)  # country -> [ip]
 
 skipped = 0
 for item in data:
@@ -48,9 +48,9 @@ for item in data:
         groups_port[port][country][org_safe].append(ip)
 
         if asn in PREFERRED_ASN:
-            groups_asn[country][org_safe].append(f"{ip}:{port}")
+            groups_asn[country].append(f"{ip}:{port}")
             if port == 443:
-                groups_asn_443[country][org_safe].append(ip)
+                groups_asn_443[country].append(ip)
 
 print(f"跳過無效 IP：{skipped} 條")
 
@@ -65,11 +65,19 @@ def rebuild_dir(base_dir, country_data):
             with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
                 f.write("\n".join(entries))
 
+def rebuild_asn_dir(base_dir, country_data):
+    if os.path.exists(base_dir):
+        shutil.rmtree(base_dir)
+    os.makedirs(base_dir, exist_ok=True)
+    for country, entries in country_data.items():
+        with open(f"{base_dir}/{country}.txt", "w", encoding="utf-8") as f:
+            f.write("\n".join(entries))
+
 rebuild_dir("regions_json", groups)
 for port, countries in groups_port.items():
     rebuild_dir(f"regions_json_{port}", countries)
-rebuild_dir("regions_json_preferred_asn", groups_asn)
-rebuild_dir("regions_json_preferred_asn_443", groups_asn_443)
+rebuild_asn_dir("regions_json_preferred_asn", groups_asn)
+rebuild_asn_dir("regions_json_preferred_asn_443", groups_asn_443)
 
 # stats.json
 stats = {}
@@ -84,21 +92,18 @@ for port, countries in groups_port.items():
         for country, orgs in countries.items()
     }
 stats["regions_json_preferred_asn"] = {
-    country: {org: len(entries) for org, entries in orgs.items()}
-    for country, orgs in groups_asn.items()
+    country: len(entries) for country, entries in groups_asn.items()
 }
 stats["regions_json_preferred_asn_443"] = {
-    country: {org: len(entries) for org, entries in orgs.items()}
-    for country, orgs in groups_asn_443.items()
+    country: len(entries) for country, entries in groups_asn_443.items()
 }
 
 with open("stats.json", "w") as f:
     json.dump(stats, f)
 
 total = sum(
-    count
-    for dir_stats in stats.values()
-    for country_stats in dir_stats.values()
-    for count in country_stats.values()
+    (sum(sum(v.values()) for v in c.values()) if isinstance(list(c.values())[0], dict) else sum(c.values()))
+    for c in stats.values()
+    if c
 )
 print(f"完成，共 {total} 條")
