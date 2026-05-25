@@ -19,4 +19,4 @@
 | SUPERLOOP (AUSTRALIA) PTY LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/SUPERLOOP%20%28AUSTRALIA%29%20PTY%20LTD.txt) |
 
 ---
-*最後更新：2026-05-25 17:48 UTC*
+*最後更新：2026-05-25 23:10 UTC*

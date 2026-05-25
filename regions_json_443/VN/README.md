@@ -8,4 +8,4 @@
 | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/VN/UCLOUD%20INFORMATION%20TECHNOLOGY%20%28HK%29%20LIMITED.txt) |
 
 ---
-*最後更新：2026-05-25 17:48 UTC*
+*最後更新：2026-05-25 23:10 UTC*
