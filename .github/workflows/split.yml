@@ -44,6 +44,17 @@ jobs:
             [ -d "$dir" ] && git add "$dir"
           done
           git add README.md stats.json
-          TOTAL=$(python3 -c "import json; d=json.load(open('stats.json')); print(sum(sum(sum(v.values()) for v in c.values()) for c in d.values()))")
+          TOTAL=$(python3 -c "
+import json
+d = json.load(open('stats.json'))
+total = 0
+for dir_stats in d.values():
+    for v in dir_stats.values():
+        if isinstance(v, dict):
+            total += sum(v.values())
+        else:
+            total += v
+print(total)
+")
           git diff --staged --quiet || git commit -m "Auto update $(date '+%Y-%m-%d %H:%M HKT') · ${TOTAL} entries"
           git push
