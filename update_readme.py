@@ -39,8 +39,9 @@ def get_port_dirs():
     for d in os.listdir("."):
         if d.startswith("regions_json_") and os.path.isdir(d):
             port = d.replace("regions_json_", "")
-            dirs.append((port, d))
-    return sorted(dirs, key=lambda x: int(x[0]) if x[0].isdigit() else 9999)
+            if port.isdigit():
+                dirs.append((port, d))
+    return sorted(dirs, key=lambda x: int(x[0]))
 
 def write_country_readmes(base_dir, is_ip_only=True):
     if not os.path.exists(base_dir):
@@ -74,8 +75,12 @@ def write_country_readmes(base_dir, is_ip_only=True):
     print(f"{base_dir} country READMEs updated")
 
 def write_main_readme():
-    links_all = make_country_links("regions_json")
-    total_all = dir_total("regions_json")
+    links_all     = make_country_links("regions_json")
+    total_all     = dir_total("regions_json")
+    links_asn     = make_country_links("regions_json_preferred_asn")
+    total_asn     = dir_total("regions_json_preferred_asn")
+    links_asn_443 = make_country_links("regions_json_preferred_asn_443")
+    total_asn_443 = dir_total("regions_json_preferred_asn_443")
 
     port_sections = ""
     for port, base_dir in get_port_dirs():
@@ -107,13 +112,31 @@ def write_main_readme():
 
 ---
 {port_sections}
+## ⭐ 優選 ASN（全部 Port）
+
+**共 {total_asn} 條**
+
+{links_asn}
+
+---
+
+## ⭐ 優選 ASN（443 純 IP）
+
+**共 {total_asn_443} 條**
+
+{links_asn_443}
+
+---
 *最後更新：{updated}*
 """
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
     print("README.md updated")
 
+
 write_main_readme()
 write_country_readmes("regions_json", is_ip_only=False)
 for port, base_dir in get_port_dirs():
     write_country_readmes(base_dir, is_ip_only=True)
+write_country_readmes("regions_json_preferred_asn", is_ip_only=False)
+write_country_readmes("regions_json_preferred_asn_443", is_ip_only=True)
