@@ -36,7 +36,7 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python3 update_readme.py
 
-      - name: Commit results
+            - name: Commit results
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
@@ -44,7 +44,10 @@ jobs:
             [ -d "$dir" ] && git add "$dir"
           done
           git add README.md stats.json
-          TOTAL=$(python3 -c "
+          TOTAL=$(python3 -c "import json; d=json.load(open('stats.json')); print(sum(sum(v.values()) if isinstance(list(v.values())[0], int) else sum(sum(x.values()) for x in v.values()) for v in d.values() if v))")
+          git diff --staged --quiet || git commit -m "Auto update $(date '+%Y-%m-%d %H:%M HKT') · ${TOTAL} entries"
+          git push
+
 import json
 d = json.load(open('stats.json'))
 total = 0
