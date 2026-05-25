@@ -66,7 +66,18 @@
 
 **共 76 條**
 
-[BE](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/BE/README.md) · [CA](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/CA/README.md) · [DE](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/DE/README.md) · [ES](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/ES/README.md) · [FI](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/FI/README.md) · [GB](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/GB/README.md) · [HK](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/HK/README.md) · [JP](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/JP/README.md) · [NL](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/NL/README.md) · [US](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn/US/README.md)
+| 國家 | 條目數 | Raw URL |
+|------|--------|---------|
+| BE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/BE.txt) |
+| CA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/CA.txt) |
+| DE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/DE.txt) |
+| ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/ES.txt) |
+| FI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/FI.txt) |
+| GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/GB.txt) |
+| HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/HK.txt) |
+| JP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
+| NL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/NL.txt) |
+| US | 59 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
 
 ---
 
@@ -74,7 +85,17 @@
 
 **共 51 條**
 
-[BE](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/BE/README.md) · [CA](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/CA/README.md) · [DE](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/DE/README.md) · [ES](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/ES/README.md) · [FI](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/FI/README.md) · [GB](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/GB/README.md) · [JP](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/JP/README.md) · [NL](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/NL/README.md) · [US](https://github.com/stevendolike/DD/blob/main/regions_json_preferred_asn_443/US/README.md)
+| 國家 | 條目數 | Raw URL |
+|------|--------|---------|
+| BE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/BE.txt) |
+| CA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/CA.txt) |
+| DE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/DE.txt) |
+| ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/ES.txt) |
+| FI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/FI.txt) |
+| GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/GB.txt) |
+| JP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/JP.txt) |
+| NL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/NL.txt) |
+| US | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/US.txt) |
 
 ---
-*最後更新：2026-05-25 05:06 UTC*
+*最後更新：2026-05-25 05:25 UTC*
