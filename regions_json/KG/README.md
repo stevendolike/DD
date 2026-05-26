@@ -7,4 +7,4 @@
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KG/Anton%20Levin.txt) |
 
 ---
-*最後更新：2026-05-26 18:31 UTC*
+*最後更新：2026-05-26 23:13 UTC*

@@ -7,4 +7,4 @@
 | Alibaba Cloud - MY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/MY/Alibaba%20Cloud%20-%20MY.txt) |
 
 ---
-*最後更新：2026-05-26 18:31 UTC*
+*最後更新：2026-05-26 23:13 UTC*
