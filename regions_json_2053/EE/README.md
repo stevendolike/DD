@@ -1,10 +1,9 @@
 # EE （純 IP）
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/BlueVPS%20OU.txt) |
 | Brainoza OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/Cogent%20Communications_%20LLC.txt) |
 | Host-World OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/Host-World%20OU.txt) |
@@ -14,4 +13,4 @@
 | SOLUS KVM VPS POOL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/SOLUS%20KVM%20VPS%20POOL.txt) |
 
 ---
-*最後更新：2026-05-25 23:10 UTC*
+*最後更新：2026-05-26 07:36 UTC*

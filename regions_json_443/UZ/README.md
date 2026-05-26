@@ -7,4 +7,4 @@
 | SERVERCORE CIS FE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UZ/SERVERCORE%20CIS%20FE%20LLC.txt) |
 
 ---
-*最後更新：2026-05-25 23:10 UTC*
+*最後更新：2026-05-26 07:36 UTC*

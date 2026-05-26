@@ -1,10 +1,11 @@
 # KR （純 IP）
 
-**共 1 條** · [返回主頁](../../README.md)
+**共 2 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/KR/Oracle%20Public%20Cloud.txt) |
 | SK Broadband Co Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/KR/SK%20Broadband%20Co%20Ltd.txt) |
 
 ---
-*最後更新：2026-05-25 23:10 UTC*
+*最後更新：2026-05-26 07:36 UTC*
