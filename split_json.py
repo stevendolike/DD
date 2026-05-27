@@ -13,6 +13,12 @@ def is_valid_ip(ip):
     except ValueError:
         return False
 
+def is_ipv4(ip):
+    try:
+        return ipaddress.ip_address(ip).version == 4
+    except ValueError:
+        return False
+
 try:
     with open("all.json", "r", encoding="utf-8") as f:
         content = f.read().strip()
@@ -25,10 +31,11 @@ except (json.JSONDecodeError, KeyError) as e:
     print(f"all.json 解析失敗：{e}")
     exit(0)
 
-groups         = defaultdict(lambda: defaultdict(list))
-groups_port    = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
-groups_asn     = defaultdict(list)  # country -> [ip:port]
-groups_asn_443 = defaultdict(list)  # country -> [ip]
+groups             = defaultdict(lambda: defaultdict(list))
+groups_port        = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+groups_asn         = defaultdict(list)
+groups_asn_443     = defaultdict(list)
+groups_clientip_v4 = defaultdict(lambda: defaultdict(list))
 
 skipped = 0
 for item in data:
@@ -41,6 +48,7 @@ for item in data:
     country = meta.get("country", "UNKNOWN").upper()
     org = meta.get("asOrganization", "UNKNOWN")
     asn = meta.get("asn", 0)
+    client_ip = meta.get("clientIp", "")
     org_safe = "".join(c if c.isalnum() or c in " .-_()" else "_" for c in org).strip()
 
     for port in item_ports:
@@ -51,6 +59,9 @@ for item in data:
             groups_asn[country].append(f"{ip}:{port}")
             if port == 443:
                 groups_asn_443[country].append(ip)
+
+        if is_ipv4(client_ip):
+            groups_clientip_v4[country][org_safe].append(f"{ip}:{port}")
 
 print(f"跳過無效 IP：{skipped} 條")
 
@@ -78,6 +89,7 @@ for port, countries in groups_port.items():
     rebuild_dir(f"regions_json_{port}", countries)
 rebuild_asn_dir("regions_json_preferred_asn", groups_asn)
 rebuild_asn_dir("regions_json_preferred_asn_443", groups_asn_443)
+rebuild_dir("regions_json_clientip_v4", groups_clientip_v4)
 
 # stats.json
 stats = {}
@@ -97,13 +109,16 @@ stats["regions_json_preferred_asn"] = {
 stats["regions_json_preferred_asn_443"] = {
     country: len(entries) for country, entries in groups_asn_443.items()
 }
+stats["regions_json_clientip_v4"] = {
+    country: {org: len(entries) for org, entries in orgs.items()}
+    for country, orgs in groups_clientip_v4.items()
+}
 
 with open("stats.json", "w") as f:
     json.dump(stats, f)
 
 total = sum(
-    (sum(sum(v.values()) for v in c.values()) if isinstance(list(c.values())[0], dict) else sum(c.values()))
-    for c in stats.values()
-    if c
+    (sum(v.values()) if isinstance(list(v.values())[0], int) else sum(sum(x.values()) for x in v.values()))
+    for v in stats.values() if v
 )
 print(f"完成，共 {total} 條")
