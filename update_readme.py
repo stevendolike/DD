@@ -46,13 +46,13 @@ def get_port_dirs():
                 dirs.append((port, d))
     return sorted(dirs, key=lambda x: int(x[0]))
 
-def write_country_readmes(base_dir, is_ip_only=False):
+def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
     if not os.path.exists(base_dir):
         return
     label = "（純 IP）" if is_ip_only else ""
     for country in get_country_dirs(base_dir):
         country_path = f"{base_dir}/{country}"
-        files = sorted(f for f in os.listdir(country_path) if f.endswith(".txt"))
+        files = sorted(f for f in os.listdir(country_path) if f.endswith(".txt") and not f.startswith("_"))
         rows = []
         total = 0
         for fname in files:
@@ -62,9 +62,19 @@ def write_country_readmes(base_dir, is_ip_only=False):
             org = fname.replace(".txt", "")
             rows.append(f"| {org} | {count} | [raw]({raw_url}) |")
         table = "\n".join(rows) if rows else "_（無數據）_"
+
+        all_url     = f"{BASE_RAW}/{base_dir}/{country}/_all.txt"
+        all_443_url = f"{BASE_RAW}/{base_dir}/{country}/_all_443.txt"
+
+        combined = f"[📥 整合全部]({all_url})"
+        if has_443:
+            combined += f" · [🔒 整合 443 純 IP]({all_443_url})"
+
         content = f"""# {country} {label}
 
 **共 {total} 條** · [返回主頁](../../README.md)
+
+{combined}
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -164,9 +174,7 @@ def write_main_readme():
 
 
 write_main_readme()
-write_country_readmes("regions_json", is_ip_only=False)
+write_country_readmes("regions_json", is_ip_only=False, has_443=True)
 for port, base_dir in get_port_dirs():
-    write_country_readmes(base_dir, is_ip_only=True)
-write_country_readmes("regions_json_preferred_asn", is_ip_only=False)
-write_country_readmes("regions_json_preferred_asn_443", is_ip_only=True)
-write_country_readmes("regions_json_clientip_v4", is_ip_only=False)
+    write_country_readmes(base_dir, is_ip_only=True, has_443=False)
+write_country_readmes("regions_json_clientip_v4", is_ip_only=False, has_443=True)
