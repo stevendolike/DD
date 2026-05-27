@@ -37,14 +37,6 @@ def make_country_links(base_dir):
         f"[{c}]({BASE_BLOB}/{base_dir}/{c}/README.md)" for c in countries
     )
 
-def make_asn_country_links(base_dir):
-    if not os.path.exists(base_dir):
-        return ""
-    files = sorted(f for f in os.listdir(base_dir) if f.endswith(".txt"))
-    return " · ".join(
-        f"[{f.replace('.txt','')}]({BASE_RAW}/{base_dir}/{quote(f)})" for f in files
-    )
-
 def get_port_dirs():
     dirs = []
     for d in os.listdir("."):
@@ -54,7 +46,7 @@ def get_port_dirs():
                 dirs.append((port, d))
     return sorted(dirs, key=lambda x: int(x[0]))
 
-def write_country_readmes(base_dir, is_ip_only=True):
+def write_country_readmes(base_dir, is_ip_only=False):
     if not os.path.exists(base_dir):
         return
     label = "（純 IP）" if is_ip_only else ""
@@ -104,6 +96,8 @@ def write_main_readme():
     total_asn_443 = dir_total("regions_json_preferred_asn_443")
     table_asn     = build_asn_table("regions_json_preferred_asn")
     table_asn_443 = build_asn_table("regions_json_preferred_asn_443")
+    links_v4      = make_country_links("regions_json_clientip_v4")
+    total_v4      = dir_total("regions_json_clientip_v4")
 
     port_sections = ""
     for port, base_dir in get_port_dirs():
@@ -154,6 +148,14 @@ def write_main_readme():
 {table_asn_443}
 
 ---
+
+## 🌐 ClientIP 為 IPv4（按國家 + 組織）
+
+**共 {total_v4} 條**
+
+{links_v4}
+
+---
 *最後更新：{updated}*
 """
     with open("README.md", "w", encoding="utf-8") as f:
@@ -165,3 +167,6 @@ write_main_readme()
 write_country_readmes("regions_json", is_ip_only=False)
 for port, base_dir in get_port_dirs():
     write_country_readmes(base_dir, is_ip_only=True)
+write_country_readmes("regions_json_preferred_asn", is_ip_only=False)
+write_country_readmes("regions_json_preferred_asn_443", is_ip_only=True)
+write_country_readmes("regions_json_clientip_v4", is_ip_only=False)
