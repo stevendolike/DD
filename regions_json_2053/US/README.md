@@ -45,4 +45,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-05-27 06:07 UTC*
+*最後更新：2026-05-27 06:43 UTC*
