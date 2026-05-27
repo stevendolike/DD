@@ -1,10 +1,9 @@
 # MY 
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Advin Services LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Advin%20Services%20LLC.txt) |
 | Alibaba Cloud - MY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20-%20MY.txt) |
 | Alibaba Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20LLC.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
@@ -13,4 +12,4 @@
 | WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-26 23:13 UTC*
+*最後更新：2026-05-27 05:59 UTC*

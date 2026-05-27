@@ -1,6 +1,6 @@
 # RO 
 
-**共 28 條** · [返回主頁](../../README.md)
+**共 27 條** · [返回主頁](../../README.md)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -13,7 +13,6 @@
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/GREEN%20FLOID%20LLC.txt) |
 | IROKO Networks Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/IROKO%20Networks%20Corporation.txt) |
-| MivoCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/MivoCloud.txt) |
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS _ RDS Campia-Turzii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RCS%20_%20RDS%20Campia-Turzii.txt) |
 | STYLISH BY A_L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/STYLISH%20BY%20A_L%20SRL.txt) |
@@ -22,4 +21,4 @@
 | _ WWW.RARECLOUD.IO _ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_%20WWW.RARECLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-05-26 23:13 UTC*
+*最後更新：2026-05-27 05:59 UTC*
