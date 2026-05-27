@@ -31,11 +31,18 @@ def get_country_dirs(base_dir):
         return []
     return sorted(d for d in os.listdir(base_dir) if os.path.isdir(f"{base_dir}/{d}"))
 
-def make_country_links(base_dir):
+def make_country_links(base_dir, has_443=True):
     countries = get_country_dirs(base_dir)
-    return " · ".join(
-        f"[{c}]({BASE_BLOB}/{base_dir}/{c}/README.md)" for c in countries
-    )
+    lines = []
+    for c in countries:
+        readme_url  = f"{BASE_BLOB}/{base_dir}/{c}/README.md"
+        all_url     = f"{BASE_RAW}/{base_dir}/{c}/_all.txt"
+        all_443_url = f"{BASE_RAW}/{base_dir}/{c}/_all_443.txt"
+        if has_443:
+            lines.append(f"[{c}]({readme_url}) ([all]({all_url}) · [443]({all_443_url}))")
+        else:
+            lines.append(f"[{c}]({readme_url}) ([all]({all_url}))")
+    return " · ".join(lines)
 
 def get_port_dirs():
     dirs = []
@@ -65,7 +72,6 @@ def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
 
         all_url     = f"{BASE_RAW}/{base_dir}/{country}/_all.txt"
         all_443_url = f"{BASE_RAW}/{base_dir}/{country}/_all_443.txt"
-
         combined = f"[📥 整合全部]({all_url})"
         if has_443:
             combined += f" · [🔒 整合 443 純 IP]({all_443_url})"
@@ -100,18 +106,18 @@ def build_asn_table(base_dir):
     return "\n".join(rows) if rows else "_（無數據）_"
 
 def write_main_readme():
-    links_all     = make_country_links("regions_json")
+    links_all     = make_country_links("regions_json", has_443=True)
     total_all     = dir_total("regions_json")
     total_asn     = dir_total("regions_json_preferred_asn")
     total_asn_443 = dir_total("regions_json_preferred_asn_443")
     table_asn     = build_asn_table("regions_json_preferred_asn")
     table_asn_443 = build_asn_table("regions_json_preferred_asn_443")
-    links_v4      = make_country_links("regions_json_clientip_v4")
+    links_v4      = make_country_links("regions_json_clientip_v4", has_443=True)
     total_v4      = dir_total("regions_json_clientip_v4")
 
     port_sections = ""
     for port, base_dir in get_port_dirs():
-        links = make_country_links(base_dir)
+        links = make_country_links(base_dir, has_443=False)
         total = dir_total(base_dir)
         port_sections += f"""
 ## 🔒 Port {port} 純 IP（按國家 + 組織）
