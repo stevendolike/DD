@@ -66,17 +66,47 @@ for item in data:
 print(f"跳過無效 IP：{skipped} 條")
 
 def rebuild_dir(base_dir, country_data):
+    """按國家+組織分類，加 _all.txt 和 _all_443.txt"""
     if os.path.exists(base_dir):
         shutil.rmtree(base_dir)
     os.makedirs(base_dir, exist_ok=True)
     for country, orgs in country_data.items():
         path = f"{base_dir}/{country}"
         os.makedirs(path, exist_ok=True)
+        all_entries = []
+        all_443 = []
         for org, entries in orgs.items():
             with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
                 f.write("\n".join(entries))
+            all_entries.extend(entries)
+            for e in entries:
+                ip_part = e.split(":")[0]
+                port_part = e.split(":")[-1]
+                if port_part == "443":
+                    all_443.append(ip_part)
+        with open(f"{path}/_all.txt", "w", encoding="utf-8") as f:
+            f.write("\n".join(all_entries))
+        with open(f"{path}/_all_443.txt", "w", encoding="utf-8") as f:
+            f.write("\n".join(all_443))
+
+def rebuild_port_dir(base_dir, country_data, port):
+    """port 目錄：純 IP，加 _all.txt"""
+    if os.path.exists(base_dir):
+        shutil.rmtree(base_dir)
+    os.makedirs(base_dir, exist_ok=True)
+    for country, orgs in country_data.items():
+        path = f"{base_dir}/{country}"
+        os.makedirs(path, exist_ok=True)
+        all_entries = []
+        for org, entries in orgs.items():
+            with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
+                f.write("\n".join(entries))
+            all_entries.extend(entries)
+        with open(f"{path}/_all.txt", "w", encoding="utf-8") as f:
+            f.write("\n".join(all_entries))
 
 def rebuild_asn_dir(base_dir, country_data):
+    """ASN 目錄：扁平，只有國家文件"""
     if os.path.exists(base_dir):
         shutil.rmtree(base_dir)
     os.makedirs(base_dir, exist_ok=True)
@@ -86,12 +116,12 @@ def rebuild_asn_dir(base_dir, country_data):
 
 rebuild_dir("regions_json", groups)
 for port, countries in groups_port.items():
-    rebuild_dir(f"regions_json_{port}", countries)
+    rebuild_port_dir(f"regions_json_{port}", countries, port)
 rebuild_asn_dir("regions_json_preferred_asn", groups_asn)
 rebuild_asn_dir("regions_json_preferred_asn_443", groups_asn_443)
 rebuild_dir("regions_json_clientip_v4", groups_clientip_v4)
 
-# stats.json
+# stats.json（不計 _all.txt / _all_443.txt）
 stats = {}
 stats["regions_json"] = {
     country: {org: len(entries) for org, entries in orgs.items()}
