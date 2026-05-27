@@ -2,6 +2,8 @@
 
 **共 11 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/Baxet%20Group%20Inc..txt) |
@@ -12,4 +14,4 @@
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

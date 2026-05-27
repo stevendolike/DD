@@ -2,6 +2,8 @@
 
 **共 356 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/1Cent%20Host.txt) |
@@ -57,4 +59,4 @@
 | u1host Finland | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

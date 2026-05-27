@@ -2,6 +2,8 @@
 
 **共 93 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/AEZA%20GROUP%20LLC.txt) |
@@ -45,4 +47,4 @@
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

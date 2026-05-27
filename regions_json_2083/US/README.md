@@ -2,6 +2,8 @@
 
 **共 26 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Aeza International LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Aeza%20International%20LTD.txt) |
@@ -12,4 +14,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

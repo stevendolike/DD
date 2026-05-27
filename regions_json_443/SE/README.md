@@ -2,6 +2,8 @@
 
 **共 164 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/1Cent%20Host.txt) |
@@ -33,4 +35,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

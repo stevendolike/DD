@@ -2,6 +2,8 @@
 
 **共 11 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 2E TELEKOMUNIKASYON LTD STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
@@ -14,4 +16,4 @@
 | YUNUS EMRE ATILGAN POYRAZ HOSTING | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/YUNUS%20EMRE%20ATILGAN%20POYRAZ%20HOSTING.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

@@ -2,6 +2,8 @@
 
 **共 3 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -9,4 +11,4 @@
 | u1host Finland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

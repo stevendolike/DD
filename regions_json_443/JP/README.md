@@ -2,6 +2,8 @@
 
 **共 96 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/6%20COLLYER%20QUAY.txt) |
@@ -42,4 +44,4 @@
 | xTom Japan Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

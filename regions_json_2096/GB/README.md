@@ -2,6 +2,8 @@
 
 **共 82 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/GB/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Aeza International LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/GB/Aeza%20International%20LTD.txt) |
@@ -10,4 +12,4 @@
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/GB/Urban%20Network%20Solutions%20SRL.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

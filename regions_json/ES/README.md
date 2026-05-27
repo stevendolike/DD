@@ -2,6 +2,8 @@
 
 **共 130 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | ARSYS INTERNET S.L.U. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/ARSYS%20INTERNET%20S.L.U..txt) |
@@ -28,4 +30,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

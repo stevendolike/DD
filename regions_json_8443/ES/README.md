@@ -2,6 +2,8 @@
 
 **共 19 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | ARSYS INTERNET S.L.U. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/ARSYS%20INTERNET%20S.L.U..txt) |
@@ -18,4 +20,4 @@
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

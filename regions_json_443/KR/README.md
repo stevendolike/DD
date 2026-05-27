@@ -2,6 +2,8 @@
 
 **共 19 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AkileCloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/AkileCloud%20LLC.txt) |
@@ -16,4 +18,4 @@
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/oracle.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*

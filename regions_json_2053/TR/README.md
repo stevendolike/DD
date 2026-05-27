@@ -2,6 +2,8 @@
 
 **共 10 條** · [返回主頁](../../README.md)
 
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/_all.txt)
+
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 2E TELEKOMUNIKASYON LTD STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
@@ -12,4 +14,4 @@
 | White Label Services_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/White%20Label%20Services_%20LLC.txt) |
 
 ---
-*最後更新：2026-05-27 05:59 UTC*
+*最後更新：2026-05-27 06:07 UTC*
