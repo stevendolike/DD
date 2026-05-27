@@ -11,4 +11,4 @@
 | OVH Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/OVH%20Ltd.txt) |
 
 ---
-*最後更新：2026-05-27 06:43 UTC*
+*最後更新：2026-05-27 07:55 UTC*
