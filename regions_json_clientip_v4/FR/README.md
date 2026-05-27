@@ -41,4 +41,4 @@
 | as56971 network | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-27 07:55 UTC*
+*最後更新：2026-05-27 12:56 UTC*
