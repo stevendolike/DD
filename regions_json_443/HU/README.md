@@ -12,4 +12,4 @@
 | WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-28 18:39 UTC*
+*最後更新：2026-05-28 23:21 UTC*
