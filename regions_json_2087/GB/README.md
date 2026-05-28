@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 80 條** · [返回主頁](../../README.md)
+**共 81 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Aeza International LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/Aeza%20International%20LTD.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/Baxet%20Group%20Inc..txt) |
-| DigitalOcean_ LLC | 78 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 79 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/DigitalOcean_%20LLC.txt) |
 
 ---
-*最後更新：2026-05-27 23:20 UTC*
+*最後更新：2026-05-28 07:47 UTC*

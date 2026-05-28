@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/_all.txt)
 
@@ -17,7 +17,6 @@
 | JaJoJoo Madrid Region | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20Madrid%20Region.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | The Constant Company_ LLC. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/The%20Constant%20Company_%20LLC..txt) |
-| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-27 23:20 UTC*
+*最後更新：2026-05-28 07:47 UTC*

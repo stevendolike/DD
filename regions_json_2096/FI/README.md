@@ -12,4 +12,4 @@
 | nuxt.cloud hosting provider | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/nuxt.cloud%20hosting%20provider.txt) |
 
 ---
-*最後更新：2026-05-27 23:20 UTC*
+*最後更新：2026-05-28 07:47 UTC*

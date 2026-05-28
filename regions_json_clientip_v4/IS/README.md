@@ -1,6 +1,6 @@
 # IS 
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1984 ehf | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/1984%20ehf.txt) |
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/FlokiNET%20ehf.txt) |
-| WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-27 23:20 UTC*
+*最後更新：2026-05-28 07:47 UTC*

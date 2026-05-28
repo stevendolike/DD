@@ -1,6 +1,6 @@
 # PT 
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PT/_all_443.txt)
 
@@ -8,8 +8,7 @@
 |------|--------|---------|
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PT/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
-| I4W - Web Solutions_ Lda | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PT/I4W%20-%20Web%20Solutions_%20Lda.txt) |
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PT/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-27 23:20 UTC*
+*最後更新：2026-05-28 07:47 UTC*

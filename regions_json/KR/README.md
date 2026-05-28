@@ -1,21 +1,20 @@
 # KR 
 
-**共 29 條** · [返回主頁](../../README.md)
+**共 25 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AkileCloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/AkileCloud%20LLC.txt) |
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Amazon.com_%20Inc..txt) |
 | Korea Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Korea%20Telecom.txt) |
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corp%20UK%20Ltd.txt) |
-| Oracle Corporation _ Global software solutions _ California _ USA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corporation%20_%20Global%20software%20solutions%20_%20California%20_%20USA.txt) |
-| Oracle Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Public%20Cloud.txt) |
+| Oracle Corporation _ Global software solutions _ California _ USA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corporation%20_%20Global%20software%20solutions%20_%20California%20_%20USA.txt) |
+| Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corporation.txt) |
+| Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Public%20Cloud.txt) |
 | SK Broadband Co Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/SK%20Broadband%20Co%20Ltd.txt) |
 | The Constant Company_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/The%20Constant%20Company_%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/oracle.txt) |
 
 ---
-*最後更新：2026-05-27 23:20 UTC*
+*最後更新：2026-05-28 07:47 UTC*
