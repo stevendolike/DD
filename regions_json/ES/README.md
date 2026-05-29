@@ -1,6 +1,6 @@
 # ES 
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 127 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
@@ -18,7 +18,7 @@
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Google%20LLC.txt) |
 | HUIZE LTD | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/HUIZE%20LTD.txt) |
 | Huize Holdings LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Huize%20Holdings%20LLC.txt) |
-| IONOS SE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/IONOS%20SE.txt) |
+| IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/IONOS%20SE.txt) |
 | JaJoJoo LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/JaJoJoo%20Madrid%20Region.txt) |
 | Linode_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Linode_%20LLC.txt) |
@@ -29,4 +29,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-28 23:21 UTC*
+*最後更新：2026-05-29 07:46 UTC*

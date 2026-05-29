@@ -1,12 +1,11 @@
 # KR 
 
-**共 25 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Amazon.com_%20Inc..txt) |
 | Korea Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Korea%20Telecom.txt) |
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation _ Global software solutions _ California _ USA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corporation%20_%20Global%20software%20solutions%20_%20California%20_%20USA.txt) |
@@ -17,4 +16,4 @@
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/oracle.txt) |
 
 ---
-*最後更新：2026-05-28 23:21 UTC*
+*最後更新：2026-05-29 07:46 UTC*

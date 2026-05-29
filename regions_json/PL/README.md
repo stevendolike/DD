@@ -1,12 +1,12 @@
 # PL 
 
-**共 205 條** · [返回主頁](../../README.md)
+**共 201 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/1Cent%20Host.txt) |
+| 1Cent Host | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/1Cent%20Host.txt) |
 | 3HCLoud LLC. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3HCLoud%20LLC..txt) |
 | 3K33 sp. z o.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3K33%20sp.%20z%20o.o..txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3NT%20SOLUTIONS%20LLP.txt) |
@@ -27,7 +27,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GREEN%20FLOID%20LLC.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Google%20LLC.txt) |
-| H2.NEXUS Warsaw Network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
+| H2.NEXUS Warsaw Network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
 | HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HZ%20Hosting%20Ltd.txt) |
@@ -41,7 +41,6 @@
 | NET 185 226 181 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/NET%20185%20226%20181%200%2024.txt) |
 | NET 45 149 63 0 24 | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/NET%2045%20149%2063%200%2024.txt) |
 | NetGrid Host LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/NetGrid%20Host%20LTD.txt) |
-| Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Netia%20SA.txt) |
 | Newserverlife LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o. | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | OVH VPS WAW | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20VPS%20WAW.txt) |
@@ -55,7 +54,6 @@
 | South Park Networks LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company_ LLC. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company_%20LLC..txt) |
 | The Constant Company_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company_%20LLC.txt) |
-| UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/UpCloud%20Cloud%20Servers.txt) |
 | Warsaw_ Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Warsaw_%20Poland.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 | interlir | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/interlir.txt) |
@@ -63,4 +61,4 @@
 | oneprovider.com - Warsaw Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/oneprovider.com%20-%20Warsaw%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-05-28 23:21 UTC*
+*最後更新：2026-05-29 07:46 UTC*

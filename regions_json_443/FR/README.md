@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 388 條** · [返回主頁](../../README.md)
+**共 377 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -8,12 +8,12 @@
 |------|--------|---------|
 | 365.partners INC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| Aeza International LTD | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Aeza%20International%20LTD.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baxet%20Group%20Inc..txt) |
-| Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CloudBackbone.txt) |
-| Contabo GmbH | 48 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 45 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FEELB%20SARL.txt) |
 | GANDI-HOSTING DC0 DATACENTER PA2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GANDI-HOSTING%20DC0%20DATACENTER%20PA2.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -39,12 +39,12 @@
 | Seigohost LLC | 89 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Seigohost%20LLC.txt) |
 | The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/The%20Constant%20Company_%20LLC..txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/UNKNOWN.txt) |
-| VIRTUASYS PARIS (PAR01FR) | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
+| VIRTUASYS PARIS (PAR01FR) | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | VPS static ips | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VPS%20static%20ips.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/WorkTitans%20B.V..txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| as56971 network | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
+| as56971 network | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-05-28 23:21 UTC*
+*最後更新：2026-05-29 07:46 UTC*

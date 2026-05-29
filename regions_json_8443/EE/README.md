@@ -10,14 +10,15 @@
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | Aktsiaselts WaveCom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Aktsiaselts%20WaveCom.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Cogent%20Communications_%20LLC.txt) |
 | Dynamic Links | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Dynamic%20Links.txt) |
 | Host-World OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Host-World%20OU.txt) |
+| HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HostPapa.txt) |
 | IPv6 network for hosting services | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/IROKO%20Networks%20Corporation.txt) |
 | Network for hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Network%20for%20hosting%20services.txt) |
 | SERV.HOST GROUP LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/SERV.HOST%20GROUP%20LTD.txt) |
 
 ---
-*最後更新：2026-05-28 23:21 UTC*
+*最後更新：2026-05-29 07:46 UTC*

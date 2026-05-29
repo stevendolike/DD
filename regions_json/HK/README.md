@@ -1,6 +1,6 @@
 # HK 
 
-**共 87 條** · [返回主頁](../../README.md)
+**共 86 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all_443.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 263 Shanghai Communications Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/263%20Shanghai%20Communications%20Ltd..txt) |
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365.partners%20INC.txt) |
-| 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ACE.txt) |
 | AKILE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/AKILE%20LTD.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
@@ -30,9 +29,8 @@
 | Huawei HongKong Clouds | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Huawei%20HongKong%20Clouds.txt) |
 | Hytron Network Services Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hytron%20Network%20Services%20Limited.txt) |
 | Inertia Communications LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Inertia%20Communications%20LLC.txt) |
-| Internet Utilities Europe and Asia Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
 | LEASEWEB HONG KONG LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/LEASEWEB%20HONG%20KONG%20LIMITED.txt) |
-| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
+| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Microsoft%20Corporation.txt) |
 | NET6-AS202662 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/NET6-AS202662.txt) |
 | NetLab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/NetLab.txt) |
@@ -49,4 +47,4 @@
 | ihc.hk vps in Hong Kong | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-05-28 23:21 UTC*
+*最後更新：2026-05-29 07:46 UTC*
