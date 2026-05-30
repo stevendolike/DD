@@ -11,4 +11,4 @@
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Oracle%20Public%20Cloud.txt) |
 
 ---
-*最後更新：2026-05-30 11:27 UTC*
+*最後更新：2026-05-30 17:14 UTC*
