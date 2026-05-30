@@ -9,4 +9,4 @@
 | ReadyIDC Co._ Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TH/ReadyIDC%20Co._%20Ltd..txt) |
 
 ---
-*最後更新：2026-05-30 06:40 UTC*
+*最後更新：2026-05-30 11:27 UTC*
