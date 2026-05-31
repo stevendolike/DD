@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 36 條** · [返回主頁](../../README.md)
+**共 35 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt)
 
@@ -14,7 +14,6 @@
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/HOSTKEY%20B.V..txt) |
 | IPv4Center.com Partition - Order _4 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/IPv4Center.com%20Partition%20-%20Order%20_4.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/LIGHT%20NODE%20LIMITED.txt) |
-| Netlen Internet | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet.txt) |
 | Plant Holding GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Plant%20Holding%20GmbH.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Private%20Customer.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI..txt) |
@@ -24,4 +23,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

@@ -6,16 +6,14 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 263 Global Communication Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/263%20Global%20Communication%20Limited.txt) |
+| 263 Shanghai Communications Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/263%20Shanghai%20Communications%20Ltd..txt) |
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365.partners%20INC.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
-| ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ACE.txt) |
 | AKILE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/AKILE%20LTD.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
-| ALIBABA CLOUD - HK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
+| ALIBABA CLOUD - HK | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20-%20HK.txt) |
-| Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20LLC.txt) |
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Aliyun%20Computing%20Co.LTD.txt) |
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BAGE%20CLOUD%20LLC.txt) |
 | BINARY NETWORKS SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BINARY%20NETWORKS%20SOLUTIONS%20LLC.txt) |
@@ -27,7 +25,7 @@
 | FreeNet L.L.C-FZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/FreeNet%20L.L.C-FZ.txt) |
 | HGC Global Communications Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HGC%20Global%20Communications%20Limited.txt) |
 | HK DINGDIAN NETWORK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HK%20DINGDIAN%20NETWORK%20LIMITED.txt) |
-| HYTRON NETWORK HK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HYTRON%20NETWORK%20HK.txt) |
+| HYTRON NETWORK HK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HYTRON%20NETWORK%20HK.txt) |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
 | Huawei HongKong Clouds | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Huawei%20HongKong%20Clouds.txt) |
 | Hytron Network Services Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hytron%20Network%20Services%20Limited.txt) |
@@ -49,4 +47,4 @@
 | ihc.hk vps in Hong Kong | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

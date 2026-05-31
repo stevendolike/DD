@@ -1,18 +1,18 @@
 # GB （純 IP）
 
-**共 572 條** · [返回主頁](../../README.md)
+**共 570 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Aeza International LTD | 51 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Aeza%20International%20LTD.txt) |
-| Amazon Data Services Ireland Ltd | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
-| Amazon Data Services UK | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
+| Aeza International LTD | 49 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Aeza%20International%20LTD.txt) |
+| Amazon Data Services Ireland Ltd | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Amazon Data Services UK | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd..txt) |
 | DigitalOcean_ LLC | 81 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/DigitalOcean_%20LLC.txt) |
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/GTHost.txt) |
-| Linode | 209 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Linode.txt) |
+| Linode | 194 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Linode.txt) |
 | OVH Ltd | 176 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/OVH%20Ltd.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Oracle%20Corporation.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Private%20Customer.txt) |
@@ -23,4 +23,4 @@
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

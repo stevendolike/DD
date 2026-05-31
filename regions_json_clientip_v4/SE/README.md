@@ -1,6 +1,6 @@
 # SE 
 
-**共 78 條** · [返回主頁](../../README.md)
+**共 80 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/A100%20ROW%20Inc.txt) |
-| ALEXHOST SRL | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/ALEXHOST%20SRL.txt) |
+| ALEXHOST SRL | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/ALEXHOST%20SRL.txt) |
 | Amazon Data Services Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Assigned to ORG-HIP1-RIPE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Baxet%20Group%20Inc..txt) |
@@ -28,8 +28,9 @@
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Oracle%20Svenska%20AB.txt) |
 | SIA VEESP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/SIA%20VEESP.txt) |
 | TAKEHOST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/TAKEHOST.txt) |
+| The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/The%20Constant%20Company_%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/oracle.txt) |
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

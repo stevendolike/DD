@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 90 條** · [返回主頁](../../README.md)
+**共 89 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
 
@@ -12,7 +12,6 @@
 | Alibaba Cloud (Singapore) Private Limited | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alice Networks LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alice%20Networks%20LTD.txt) |
 | Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
-| BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/BBIX%20IPv6%20Network.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Baxet%20Group%20Inc..txt) |
 | ByteVirt LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ByteVirt%20LLC.txt) |
 | CYBERJET PTE. LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/CYBERJET%20PTE.%20LTD..txt) |
@@ -40,4 +39,4 @@
 | xTom Japan Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

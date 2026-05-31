@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/_all.txt)
 
@@ -10,7 +10,9 @@
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/365.partners%20INC.txt) |
 | IPv4Center.com Partition - Order _4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/IPv4Center.com%20Partition%20-%20Order%20_4.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
+| Superonline Iletisim Hizmetleri A.S. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Superonline%20Iletisim%20Hizmetleri%20A.S..txt) |
+| TradeZone LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/TradeZone%20LLC.txt) |
 | YUNUS EMRE ATILGAN POYRAZ HOSTING | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/YUNUS%20EMRE%20ATILGAN%20POYRAZ%20HOSTING.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

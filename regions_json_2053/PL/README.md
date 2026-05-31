@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 45 條** · [返回主頁](../../README.md)
+**共 46 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/_all.txt)
 
@@ -20,8 +20,9 @@
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NetGrid%20Host%20LTD.txt) |
 | OVH Sp. z o. o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20VPS%20WAW.txt) |
+| QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/QWINS%20Hosting.txt) |
 | South Park Networks LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/South%20Park%20Networks%20LLC.txt) |
 | Warsaw_ Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Warsaw_%20Poland.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

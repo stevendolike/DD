@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 215 條** · [返回主頁](../../README.md)
+**共 214 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/_all.txt)
 
@@ -13,13 +13,13 @@
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/BG-NETWORK.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baykov%20Ilya%20Sergeevich.txt) |
-| CGI GLOBAL LIMITED | 94 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 95 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/CGI%20GLOBAL%20LIMITED.txt) |
 | FIRST SERVER LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | H2.NEXUS Helsinki Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/H2.NEXUS%20Helsinki%20Network.txt) |
 | H2NEXUS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/H2NEXUS%20LTD.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/HOSTKEY%20B.V..txt) |
-| Hetzner Online GmbH | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Hetzner%20Online%20GmbH.txt) |
 | HostVDS.com Cloud Provider | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | I-SERVERS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/I-SERVERS%20LTD.txt) |
@@ -41,4 +41,4 @@
 | nuxt.cloud hosting provider | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/nuxt.cloud%20hosting%20provider.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

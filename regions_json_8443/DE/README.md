@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 787 條** · [返回主頁](../../README.md)
+**共 783 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/1Cent%20Host.txt) |
 | A100 ROW GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/A100%20ROW%20GmbH.txt) |
-| AEZA GROUP LLC | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/AEZA%20GROUP%20Ltd.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Advin Services LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Advin%20Services%20LLC.txt) |
@@ -18,7 +18,6 @@
 | Anexia Cloud Solutions GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Anexia%20Cloud%20Solutions%20GmbH.txt) |
 | Anexia Holding GmbH | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Anexia%20Holding%20GmbH.txt) |
 | Angin Segar Ventures LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Angin%20Segar%20Ventures%20LLC.txt) |
-| Awas.ovh - Germany_ Frankfurt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Awas.ovh%20-%20Germany_%20Frankfurt.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/BAGE%20CLOUD%20LLC.txt) |
 | Baxet Group Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Baykov%20Ilya%20Sergeevich.txt) |
@@ -47,10 +46,10 @@
 | HOS-472371 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/HOS-472371.txt) |
 | HOS-512604 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/HOS-512604.txt) |
 | HOST TELECOM LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/HOST%20TELECOM%20LTD.txt) |
-| HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/HOSTKEY%20B.V..txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/HZ%20Hosting%20Ltd.txt) |
 | Hanauer Landstraße 302 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Hanauer%20Landstra%C3%9Fe%20302.txt) |
-| Hetzner Online GmbH | 78 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 77 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Hetzner%20Online%20GmbH.txt) |
 | INTERKVM HOST SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/INTERKVM%20HOST%20SRL.txt) |
 | IONOS SE | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/IONOS%20SE.txt) |
 | IROKO Networks Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/IROKO%20Networks%20Corporation.txt) |
@@ -74,7 +73,7 @@
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Oracle%20Svenska%20AB.txt) |
 | PDK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/PDK%20LLC.txt) |
 | Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Podaon%20SIA.txt) |
-| QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/QWINS%20Hosting.txt) |
+| QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/QWINS%20Hosting.txt) |
 | QWINS-Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/QWINS-Hosting.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/RCS%20Technologies%20FZE%20LLC.txt) |
 | RouterHosting LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/RouterHosting%20LLC.txt) |
@@ -90,7 +89,7 @@
 | UNKNOWN | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/UNKNOWN.txt) |
 | UltaHost Inc | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/UltaHost%20Inc.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Vultr%20Holdings_%20LLC.txt) |
-| WAIcore Ltd | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/WAIcore%20Ltd.txt) |
+| WAIcore Ltd | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/WAIcore%20Ltd.txt) |
 | dataforest GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/dataforest%20GmbH.txt) |
 | dogado GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/dogado%20GmbH.txt) |
 | firstcolo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/firstcolo%20GmbH.txt) |
@@ -107,4 +106,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/xTom.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

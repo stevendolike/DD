@@ -1,12 +1,12 @@
 # FI （純 IP）
 
-**共 336 條** · [返回主頁](../../README.md)
+**共 328 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/1Cent%20Host.txt) |
+| 1Cent Host | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/1Cent%20Host.txt) |
 | AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/AEZA%20GROUP%20LLC.txt) |
 | Ace Data Centers II_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Ace%20Data%20Centers%20II_%20LLC.txt) |
 | Aeza International LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Aeza%20International%20LTD.txt) |
@@ -26,7 +26,7 @@
 | HOS-1119833 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOS-1119833.txt) |
 | HOS-2990149 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOS-2990149.txt) |
 | HOSTKEY B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOSTKEY%20B.V..txt) |
-| Hetzner Online GmbH | 56 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 55 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Hetzner%20Online%20GmbH.txt) |
 | HostVDS.com Cloud Provider | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | I-SERVERS LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/I-SERVERS%20LTD.txt) |
@@ -41,18 +41,17 @@
 | QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/QWINS%20Hosting.txt) |
 | QWINS-Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/QWINS-Hosting.txt) |
 | SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/SERV.HOST%20GROUP%20LTD.txt) |
-| Senko Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Senko%20Digital%20LLC.txt) |
+| Senko Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Senko%20Digital%20LLC.txt) |
 | Snowd Security OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Snowd%20Security%20OU.txt) |
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Subnet%20Digital%20LLC.txt) |
 | UNKNOWN | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UpCloud%20Cloud%20Servers.txt) |
-| WAIcore Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WAIcore%20Ltd.txt) |
 | WorkTitans B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WorkTitans%20B.V..txt) |
-| as56971 network | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/as56971%20network.txt) |
+| as56971 network | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/as56971%20network.txt) |
 | it-garage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/it-garage.txt) |
 | nuxt.cloud hosting provider | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/nuxt.cloud%20hosting%20provider.txt) |
 | nuxtcloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/nuxtcloud.txt) |
 | u1host Finland | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

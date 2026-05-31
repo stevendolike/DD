@@ -1,6 +1,6 @@
 # JP 
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 126 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all_443.txt)
 
@@ -13,7 +13,6 @@
 | Alibaba Cloud (Singapore) Private Limited | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alice Networks LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alice%20Networks%20LTD.txt) |
 | Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon.com_%20Inc..txt) |
-| BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/BBIX%20IPv6%20Network.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Baxet%20Group%20Inc..txt) |
 | ByteVirt LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ByteVirt%20LLC.txt) |
 | CYBERJET PTE. LTD. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/CYBERJET%20PTE.%20LTD..txt) |
@@ -32,7 +31,7 @@
 | Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Nearoute%20Limited.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
 | Oracle Corporation | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
 | Prime Security Corp. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Prime%20Security%20Corp..txt) |
 | RIPE NCC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/RIPE%20NCC.txt) |
 | Rainbow Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Rainbow%20Network%20Limited.txt) |
@@ -49,4 +48,4 @@
 | xTom Japan Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

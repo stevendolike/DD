@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 44 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt)
 
@@ -16,10 +16,11 @@
 | JSC Datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20Datacenter.txt) |
 | JSC TIMEWEB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20TIMEWEB.txt) |
 | Modern Server Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Modern%20Server%20Solutions%20LLP.txt) |
+| Newserverlife LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Newserverlife%20LLC.txt) |
 | PS Internet Company LLP | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Quasar%20LLC.txt) |
 | WorkTitans B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/WorkTitans%20B.V..txt) |
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*

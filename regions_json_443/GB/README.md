@@ -1,13 +1,13 @@
 # GB （純 IP）
 
-**共 859 條** · [返回主頁](../../README.md)
+**共 848 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/AEZA%20GROUP%20Ltd.txt) |
-| Aeza International LTD | 285 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 278 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Aeza%20International%20LTD.txt) |
 | Amazon Data Services UK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Amazon%20Data%20Services%20UK.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BG-NETWORK.txt) |
 | BT-R101-TEST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BT-R101-TEST.txt) |
@@ -26,12 +26,11 @@
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Google%20LLC.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/HZ%20Hosting%20Ltd.txt) |
 | IONOS SE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/IONOS%20SE.txt) |
-| Informacines sistemos ir technologijos_ UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Informacines%20sistemos%20ir%20technologijos_%20UAB.txt) |
 | Iomart Group Plc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Iomart%20Group%20Plc.txt) |
 | Iomart Managed Services Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Iomart%20Managed%20Services%20Limited.txt) |
 | Kirino LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Kirino%20LLC.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode.txt) |
-| Linode_ LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode_%20LLC.txt) |
+| Linode_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode_%20LLC.txt) |
 | M247 LTD London Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/M247%20LTD%20London%20Infrastructure.txt) |
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Microsoft%20Limited.txt) |
 | Monkey Tree Hosting Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Monkey%20Tree%20Hosting%20Limited.txt) |
@@ -42,7 +41,7 @@
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Oracle%20Svenska%20AB.txt) |
 | Perfecto Mobile UK LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Perfecto%20Mobile%20UK%20LTD.txt) |
-| Private Customer | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Private%20Customer.txt) |
+| Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Private%20Customer.txt) |
 | RouterHosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/RouterHosting%20LLC.txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/STYLISH%20BY%20A_L%20SRL.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/The%20Constant%20Company_%20LLC.txt) |
@@ -50,8 +49,8 @@
 | WorkTitans B.V. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/WorkTitans%20B.V..txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | ZTV CORP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/ZTV%20CORP%20LLC.txt) |
-| Zenlayer Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
+| Zenlayer Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-05-30 23:02 UTC*
+*最後更新：2026-05-31 07:38 UTC*
