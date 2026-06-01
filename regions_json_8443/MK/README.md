@@ -9,4 +9,4 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MK/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 
 ---
-*最後更新：2026-05-31 23:03 UTC*
+*最後更新：2026-06-01 09:12 UTC*

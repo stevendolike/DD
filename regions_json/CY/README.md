@@ -10,4 +10,4 @@
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/MVPS%20LTD.txt) |
 
 ---
-*最後更新：2026-05-31 23:03 UTC*
+*最後更新：2026-06-01 09:12 UTC*

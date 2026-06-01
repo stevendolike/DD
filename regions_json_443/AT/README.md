@@ -8,9 +8,9 @@
 |------|--------|---------|
 | Alwyzon_ a trading name of Hohl IT e.U. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Alwyzon_%20a%20trading%20name%20of%20Hohl%20IT%20e.U..txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| IPAX GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/IPAX%20GmbH.txt) |
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/M247%20LTD%20Vienna%20Infrastructure.txt) |
+| OVHcloud - Austria | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/OVHcloud%20-%20Austria.txt) |
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-05-31 23:03 UTC*
+*最後更新：2026-06-01 09:12 UTC*
