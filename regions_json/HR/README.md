@@ -1,13 +1,13 @@
 # HR 
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HR/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | EDIS IPv6 Infrastructure in Croatia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HR/EDIS%20IPv6%20Infrastructure%20in%20Croatia.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 
 ---
-*最後更新：2026-06-01 23:38 UTC*
+*最後更新：2026-06-02 08:20 UTC*

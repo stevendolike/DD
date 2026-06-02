@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/CH/Baxet%20Group%20Inc..txt) |
+| M247 LTD Zurich Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-06-01 23:38 UTC*
+*最後更新：2026-06-02 08:20 UTC*
