@@ -52,4 +52,4 @@
 | as56971 network | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-03 19:53 UTC*
+*最後更新：2026-06-03 23:48 UTC*
