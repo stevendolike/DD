@@ -1,6 +1,6 @@
 # SE 
 
-**共 242 條** · [返回主頁](../../README.md)
+**共 239 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -8,11 +8,11 @@
 |------|--------|---------|
 | 1Cent Host | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
-| ALEXHOST SRL | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20SRL.txt) |
-| Aeza International LTD | 96 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Aeza%20International%20LTD.txt) |
+| ALEXHOST SRL | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20SRL.txt) |
+| Aeza International LTD | 93 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Aeza%20International%20LTD.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Sweden.txt) |
-| Assigned to ORG-HIP1-RIPE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
+| Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/BlueVPS%20OU.txt) |
@@ -47,4 +47,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

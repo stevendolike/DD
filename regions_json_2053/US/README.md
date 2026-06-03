@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 631 條** · [返回主頁](../../README.md)
+**共 629 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -11,7 +11,7 @@
 | Amazon Data Services Northern Virginia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Amazon%20Data%20Services%20Northern%20Virginia.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc..txt) |
 | CGI GLOBAL LIMITED | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
-| CloudBackbone | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CloudBackbone.txt) |
+| CloudBackbone | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CloudBackbone.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%20London_%20LLC.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
 | DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
@@ -35,7 +35,7 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Private%20Customer.txt) |
 | RackNerd LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RackNerd%20LLC.txt) |
 | Snaju Development | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Snaju%20Development.txt) |
-| Subnet Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
+| Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
 | UltaHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/UltaHost.txt) |
 | Unify Media Ltd | 511 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Unify%20Media%20Ltd.txt) |
 | Vultr Holdings_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Vultr%20Holdings_%20LLC.txt) |
@@ -43,4 +43,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

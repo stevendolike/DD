@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 132 條** · [返回主頁](../../README.md)
+**共 130 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt)
 
@@ -9,8 +9,8 @@
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Anton%20Levin.txt) |
 | Baxet Group Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baykov%20Ilya%20Sergeevich.txt) |
-| CGI GLOBAL LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/CGI%20GLOBAL%20LIMITED.txt) |
-| Cloudflare London_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Cloudflare%20London_%20LLC.txt) |
+| CGI GLOBAL LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Cloudflare%20London_%20LLC.txt) |
 | Dmitrii Vladimirovich Malkov | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Friendhosting%20LTD.txt) |
@@ -25,4 +25,4 @@
 | as56971 network | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

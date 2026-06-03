@@ -1,17 +1,17 @@
 # EE （純 IP）
 
-**共 78 條** · [返回主頁](../../README.md)
+**共 80 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/1Cent%20Host.txt) |
+| 1Cent Host | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | Aktsiaselts WaveCom | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Aktsiaselts%20WaveCom.txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Cogent%20Communications_%20LLC.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HZ%20Hosting%20Ltd.txt) |
@@ -29,4 +29,4 @@
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

@@ -1,12 +1,12 @@
 # GB 
 
-**共 571 條** · [返回主頁](../../README.md)
+**共 548 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Amazon Data Services UK | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Amazon%20Data%20Services%20UK.txt) |
+| Amazon Data Services UK | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Atlantic.Net%20UK%20Cloud%20Ltd..txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BG-NETWORK.txt) |
 | BT-R101-TEST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BT-R101-TEST.txt) |
@@ -25,7 +25,7 @@
 | Iomart Managed Services Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Iomart%20Managed%20Services%20Limited.txt) |
 | Kaopu Cloud HK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Kaopu%20Cloud%20HK%20Limited.txt) |
 | Kirino LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Kirino%20LLC.txt) |
-| Linode | 117 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode.txt) |
+| Linode | 90 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode.txt) |
 | Linode_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode_%20LLC.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/MT%20FINANCE%20LLC.txt) |
 | MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/MVPS%20LTD.txt) |
@@ -44,8 +44,8 @@
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Urban%20Network%20Solutions%20SRL.txt) |
 | Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/WorkTitans%20B.V..txt) |
-| Zenlayer Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Zenlayer%20Inc.txt) |
+| Zenlayer Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Zenlayer%20Inc.txt) |
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

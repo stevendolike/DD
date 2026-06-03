@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 24 條** · [返回主頁](../../README.md)
+**共 23 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -21,7 +21,7 @@
 | SAKURA Internet Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/SAKURA%20Internet%20Inc..txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company_%20LLC.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings_%20LLC.txt) |
-| xTom Japan Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
+| xTom Japan Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

@@ -1,6 +1,6 @@
 # CH 
 
-**共 54 條** · [返回主頁](../../README.md)
+**共 55 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all_443.txt)
 
@@ -23,7 +23,8 @@
 | OVH CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/OVH%20CH.txt) |
 | Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Oracle%20Public%20Cloud.txt) |
 | PRIVATE LAYER INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/PRIVATE%20LAYER%20INC.txt) |
+| RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/RouterHosting%20LLC.txt) |
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

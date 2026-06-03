@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 102 條** · [返回主頁](../../README.md)
+**共 101 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -26,7 +26,7 @@
 | HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HZ%20Hosting%20Ltd.txt) |
-| Host4Biz sp. z o.o. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o..txt) |
+| Host4Biz sp. z o.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o..txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IROKO%20Networks%20Corporation.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
@@ -47,4 +47,4 @@
 | oneprovider.com - Warsaw Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/oneprovider.com%20-%20Warsaw%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

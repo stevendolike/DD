@@ -19,9 +19,9 @@
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/FASTWARP%20LLP.txt) |
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/FEELB%20SARL.txt) |
 | HOST TELECOM LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/HOST%20TELECOM%20LTD.txt) |
-| Host Europe GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Host%20Europe%20GmbH.txt) |
+| Kutumova Olena | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Kutumova%20Olena.txt) |
 | Mo_s Operations GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Mo_s%20Operations%20GmbH.txt) |
-| OVH SAS | 186 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
+| OVH SAS | 185 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
 | RACKNERD-FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RACKNERD-FR.txt) |
 | RackNerd_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RackNerd_%20LLC.txt) |
 | Scaleway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Scaleway.txt) |
@@ -32,4 +32,4 @@
 | as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/_all.txt)
 
@@ -9,7 +9,7 @@
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/Baxet%20Group%20Inc..txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Interneto%20vizija.txt) |
+| UAB Interneto vizija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

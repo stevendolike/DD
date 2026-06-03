@@ -1,13 +1,11 @@
 # NL （純 IP）
 
-**共 194 條** · [返回主頁](../../README.md)
+**共 191 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Amsterdam_ Netherlands | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Amsterdam_%20Netherlands.txt) |
-| Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | DigitalOcean_ LLC | 185 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/DigitalOcean_%20LLC.txt) |
 | Hosting Provider EuroHoster Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Provider%20EuroHoster%20Ltd..txt) |
 | JSC TIMEWEB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/JSC%20TIMEWEB.txt) |
@@ -15,4 +13,4 @@
 | Timeweb_ LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Timeweb_%20LLP.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

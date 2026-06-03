@@ -14,7 +14,7 @@
 | Domain names registrar REG.RU_ Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Domain%20names%20registrar%20REG.RU_%20Ltd.txt) |
 | EdgeCenter LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER_ SOCIEDAD LIMITADA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER_ SOCIEDAD LIMITADA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Happy Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Happy%20Technologies%20LLC.txt) |
 | Hosting technology LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Hosting%20technology%20LTD.txt) |
@@ -26,12 +26,11 @@
 | JSC Datacenter | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20Datacenter.txt) |
 | JSC IOT | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20IOT.txt) |
 | JSC Svyazinform | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20Svyazinform.txt) |
-| JSC TIMEWEB | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/KVIKTEL%20LLC.txt) |
 | LLC Baxet | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20Baxet.txt) |
 | LLC Digital Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20Digital%20Network.txt) |
 | MT FINANCE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/MT%20FINANCE%20LLC.txt) |
-| Medvedev Vladislav Olegovich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Medvedev%20Vladislav%20Olegovich.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/NetCrafters%20OU.txt) |
 | OOO VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/OOO%20VPS.txt) |
 | OnTelecom LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/OnTelecom%20LLC.txt) |
@@ -40,7 +39,7 @@
 | SIA Serverum | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SIA%20Serverum.txt) |
 | SPRINTHOST.RU LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SPRINTHOST.RU%20LLC.txt) |
 | Selectel MSK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Selectel%20MSK.txt) |
-| Selectel Network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Selectel%20Network.txt) |
+| Selectel Network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Selectel%20Network.txt) |
 | Shchurov Mikhail Yurievich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Shchurov%20Mikhail%20Yurievich.txt) |
 | SpaceWeb IPv6 Spb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SpaceWeb%20IPv6%20Spb.txt) |
 | Sprinthost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Sprinthost%20LLC.txt) |
@@ -58,4 +57,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

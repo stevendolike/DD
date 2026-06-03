@@ -12,7 +12,7 @@
 | Albanian Hosting SH.P.K. t_a AlbHost SH.P.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Albanian%20Hosting%20SH.P.K.%20t_a%20AlbHost%20SH.P.K..txt) |
 | Artnet Sp. z o.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Artnet%20Sp.%20z%20o.o..txt) |
 | Aruba S.p.A. - Cloud Services PL1 | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Aruba%20S.p.A.%20-%20Cloud%20Services%20PL1.txt) |
-| BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
+| BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
 | BREEZLE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BREEZLE%20LLC.txt) |
 | Baxet Group Inc. | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baykov%20Ilya%20Sergeevich.txt) |
@@ -26,11 +26,11 @@
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GREEN%20FLOID%20LLC.txt) |
-| H2.NEXUS Warsaw Network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
+| H2.NEXUS Warsaw Network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
 | HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HZ%20Hosting%20Ltd.txt) |
-| Host4Biz sp. z o.o. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o..txt) |
+| Host4Biz sp. z o.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o..txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IROKO%20Networks%20Corporation.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Korbank S. A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Korbank%20S.%20A..txt) |
@@ -41,7 +41,7 @@
 | NetGrid Host LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/NetGrid%20Host%20LTD.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Netia%20SA.txt) |
 | Newserverlife LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o. | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o..txt) |
+| OVH Sp. z o. o. | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Podaon%20SIA.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Private%20Customer.txt) |
@@ -59,4 +59,4 @@
 | oneprovider.com - Warsaw Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/oneprovider.com%20-%20Warsaw%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*

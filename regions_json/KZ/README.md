@@ -8,6 +8,7 @@
 |------|--------|---------|
 | 3HCLOUD LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3NT%20SOLUTIONS%20LLP.txt) |
+| Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Anton%20Levin.txt) |
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Beget%20LLC.txt) |
 | Big Data Host LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Big%20Data%20Host%20LLC.txt) |
 | Content Service Company TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Content%20Service%20Company%20TOO.txt) |
@@ -23,8 +24,8 @@
 | Megahost Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | Newserverlife LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Newserverlife%20LLC.txt) |
-| ONEHOST LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/ONEHOST%20LLP.txt) |
-| PS Internet Company LLP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
+| ONEHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/ONEHOST%20LLP.txt) |
+| PS Internet Company LLP | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Quasar%20LLC.txt) |
 | Servercore Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Servercore%20Network.txt) |
 | Webstudio Onelab LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Webstudio%20Onelab%20LLP.txt) |
@@ -32,4 +33,4 @@
 | lease for Timeweb | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-06-02 23:50 UTC*
+*最後更新：2026-06-03 08:47 UTC*
