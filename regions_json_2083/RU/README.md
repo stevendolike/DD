@@ -1,15 +1,14 @@
 # RU （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| BIG TELECOM CLOSED JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/BIG%20TELECOM%20CLOSED%20JSC.txt) |
 | JSC Datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/JSC%20Datacenter.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/LLC%20Vpsville.txt) |
 | OOO VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/OOO%20VPS.txt) |
 
 ---
-*最後更新：2026-06-03 23:48 UTC*
+*最後更新：2026-06-04 08:12 UTC*

@@ -1,13 +1,14 @@
 # BR （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/Friendhosting%20LTD.txt) |
+| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/Oracle%20Public%20Cloud.txt) |
 
 ---
-*最後更新：2026-06-03 23:48 UTC*
+*最後更新：2026-06-04 08:12 UTC*
