@@ -10,4 +10,4 @@
 | HiNet Taiwan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/HiNet%20Taiwan.txt) |
 
 ---
-*最後更新：2026-06-04 18:23 UTC*
+*最後更新：2026-06-04 23:12 UTC*
