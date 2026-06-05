@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 42 條** · [返回主頁](../../README.md)
+**共 44 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt)
 
@@ -9,6 +9,7 @@
 | Aruba S.p.A. - Cloud Services PL1 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Aruba%20S.p.A.%20-%20Cloud%20Services%20PL1.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baykov%20Ilya%20Sergeevich.txt) |
+| BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/BlueVPS%20OU.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Cloudflare%20London_%20LLC.txt) |
 | EDIS Infrastructure in Poland | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -18,7 +19,7 @@
 | NET 45 149 63 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/NET%2045%20149%2063%200%2024.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/NetGrid%20Host%20LTD.txt) |
 | Newserverlife LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20Sp.%20z%20o.%20o..txt) |
+| OVH Sp. z o. o. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | OVH VPS WAW | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Podaon%20SIA.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Private%20Customer.txt) |
@@ -29,4 +30,4 @@
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/The%20Constant%20Company_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

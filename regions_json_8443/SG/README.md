@@ -12,7 +12,6 @@
 | Akari Networks (Singapore) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Akari%20Networks%20%28Singapore%29.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Alibaba%20Cloud%20LLC.txt) |
-| Amazon Data Services Singapore | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Amazon%20Data%20Services%20Singapore.txt) |
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Contabo%20Asia%20Private%20Limited.txt) |
 | DigitalOcean_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/DigitalOcean_%20LLC.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
@@ -20,10 +19,10 @@
 | Huawei-Cloud-SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Huawei-Cloud-SG.txt) |
 | IPv6 services for VDS_VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/IPv6%20services%20for%20VDS_VPS.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
-| SG.GS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SG.GS.txt) |
+| SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SG.GS.txt) |
 | SGP_VULTR_CUST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SGP_VULTR_CUST.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/The%20Constant%20Company_%20LLC.txt) |
 | Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 24 條** · [返回主頁](../../README.md)
+**共 23 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -16,7 +16,7 @@
 | DDPS Networks_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DDPS%20Networks_%20LLC.txt) |
 | DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Nearoute%20Limited.txt) |
-| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/RIPE%20NCC.txt) |
 | SAKURA Internet Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/SAKURA%20Internet%20Inc..txt) |
@@ -26,4 +26,4 @@
 | xTom Japan Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/_all.txt)
 
@@ -10,7 +10,6 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | SOLID Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/SOLID%20Lithuania.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

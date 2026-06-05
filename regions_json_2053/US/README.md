@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 626 條** · [返回主頁](../../README.md)
+**共 624 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -10,7 +10,7 @@
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/3nt%20solutions%20LLP.txt) |
 | Amazon Data Services Northern Virginia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Amazon%20Data%20Services%20Northern%20Virginia.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc..txt) |
-| CGI GLOBAL LIMITED | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CloudBackbone.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%20London_%20LLC.txt) |
 | DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
@@ -29,11 +29,11 @@
 | MULTACOM CORPORATION | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/MULTACOM%20CORPORATION.txt) |
 | NetCrafters OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
 | NetLab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetLab.txt) |
-| OVH US LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/OVH%20US%20LLC.txt) |
+| OVH US LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/OVH%20US%20LLC.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Oracle%20Corporation.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Private%20Customer.txt) |
 | RackNerd LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RackNerd%20LLC.txt) |
-| Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
+| Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
 | UltaHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/UltaHost.txt) |
 | Unify Media Ltd | 512 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Unify%20Media%20Ltd.txt) |
 | Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Vultr%20Holdings_%20LLC.txt) |
@@ -41,4 +41,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

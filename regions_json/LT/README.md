@@ -1,6 +1,6 @@
 # LT 
 
-**共 22 條** · [返回主頁](../../README.md)
+**共 14 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all_443.txt)
 
@@ -14,8 +14,7 @@
 | SolusVM priskirti adresai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/SolusVM%20priskirti%20adresai.txt) |
 | UAB Cherry Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 | oneprovider.com - Vilnius Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

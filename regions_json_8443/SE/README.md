@@ -1,12 +1,11 @@
 # SE （純 IP）
 
-**共 31 條** · [返回主頁](../../README.md)
+**共 30 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/1Cent%20Host.txt) |
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/ALEXHOST%20SRL.txt) |
 | Aeza International LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Aeza%20International%20LTD.txt) |
 | Amazon Data Services Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Amazon%20Data%20Services%20Sweden.txt) |
@@ -28,4 +27,4 @@
 | Vultr Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

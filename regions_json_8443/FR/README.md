@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 308 條** · [返回主頁](../../README.md)
+**共 307 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/_all.txt)
 
@@ -21,7 +21,7 @@
 | HOST TELECOM LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/HOST%20TELECOM%20LTD.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Kutumova%20Olena.txt) |
 | Mo_s Operations GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Mo_s%20Operations%20GmbH.txt) |
-| OVH SAS | 185 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
+| OVH SAS | 184 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
 | RACKNERD-FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RACKNERD-FR.txt) |
 | RackNerd_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RackNerd_%20LLC.txt) |
 | Scaleway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Scaleway.txt) |
@@ -32,4 +32,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

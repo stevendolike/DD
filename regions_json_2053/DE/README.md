@@ -1,13 +1,13 @@
 # DE （純 IP）
 
-**共 420 條** · [返回主頁](../../README.md)
+**共 418 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | A100 ROW GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/A100%20ROW%20GmbH.txt) |
-| AEZA GROUP LLC | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20Ltd.txt) |
 | Aeza International LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Aeza%20International%20LTD.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Alibaba%20Cloud%20LLC.txt) |
@@ -35,7 +35,7 @@
 | IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IONOS%20SE.txt) |
 | IP-Projects GmbH _ Co. KG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IP-Projects%20GmbH%20_%20Co.%20KG.txt) |
 | IPHOSTER OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IPHOSTER%20OU.txt) |
-| IPXO | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IPXO.txt) |
+| IPXO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IPXO.txt) |
 | IROKO Networks Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IROKO%20Networks%20Corporation.txt) |
 | KEY STONE CORPORATE TRUSTEE LIMITED - Frankfurt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/KEY%20STONE%20CORPORATE%20TRUSTEE%20LIMITED%20-%20Frankfurt.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Kamatera%20Inc.txt) |
@@ -56,10 +56,10 @@
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/SERV.HOST%20GROUP%20LTD.txt) |
 | Sculk Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Sculk%20Ltd..txt) |
 | Senko Digital LLC - DE Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
-| Senko Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Senko%20Digital%20LLC.txt) |
+| Senko Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Senko%20Digital%20LLC.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Snowd%20Security%20OU.txt) |
 | Strato GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Strato%20GmbH.txt) |
-| Timeweb_ LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Timeweb_%20LLP.txt) |
+| Timeweb_ LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Timeweb_%20LLP.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/UNKNOWN.txt) |
 | UltaHost Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/UltaHost%20Inc.txt) |
 | WAIcore Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/WAIcore%20Ltd.txt) |
@@ -78,4 +78,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*

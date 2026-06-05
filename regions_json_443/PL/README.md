@@ -10,9 +10,9 @@
 | 3K33 sp. z o.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3K33%20sp.%20z%20o.o..txt) |
 | Artnet Sp. z o.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Artnet%20Sp.%20z%20o.o..txt) |
 | BREEZLE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BREEZLE%20LLC.txt) |
-| Baxet Group Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baykov%20Ilya%20Sergeevich.txt) |
-| BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BlueVPS%20OU.txt) |
+| BlueVPS OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BlueVPS%20OU.txt) |
 | BrainStorm Network_ Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BrainStorm%20Network_%20Inc.txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Cloudflare%20London_%20LLC.txt) |
 | EDIS Infrastructure in Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
@@ -51,4 +51,4 @@
 | oneprovider.com - Warsaw Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/oneprovider.com%20-%20Warsaw%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-06-04 23:12 UTC*
+*最後更新：2026-06-05 07:59 UTC*
