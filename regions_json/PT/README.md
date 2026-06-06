@@ -10,4 +10,4 @@
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 
 ---
-*最後更新：2026-06-05 23:14 UTC*
+*最後更新：2026-06-06 06:47 UTC*

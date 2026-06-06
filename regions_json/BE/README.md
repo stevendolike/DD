@@ -1,6 +1,6 @@
 # BE 
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Google LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Google%20LLC.txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Hurricane%20Electric%20LLC.txt) |
-| WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-05 23:14 UTC*
+*最後更新：2026-06-06 06:47 UTC*

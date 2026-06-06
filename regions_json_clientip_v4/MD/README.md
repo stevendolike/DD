@@ -8,8 +8,8 @@
 |------|--------|---------|
 | ALEXHOST SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/ALEXHOST%20SRL.txt) |
 | AlexHost SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/AlexHost%20SRL.txt) |
-| LIR Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/LIR%20Limited.txt) |
+| Trabia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/Trabia.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-05 23:14 UTC*
+*最後更新：2026-06-06 06:47 UTC*

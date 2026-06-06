@@ -6,8 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| SmartApe OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IL/SmartApe%20OU.txt) |
-| The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IL/The%20Constant%20Company_%20LLC..txt) |
+| The Constant Company_ LLC. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IL/The%20Constant%20Company_%20LLC..txt) |
 
 ---
-*最後更新：2026-06-05 23:14 UTC*
+*最後更新：2026-06-06 06:47 UTC*

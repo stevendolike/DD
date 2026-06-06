@@ -1,6 +1,6 @@
 # TH （純 IP）
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 14 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/_all.txt)
 
@@ -8,9 +8,11 @@
 |------|--------|---------|
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/6%20COLLYER%20QUAY.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| ReadyIDC Co._ Ltd. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC%20Co._%20Ltd..txt) |
+| RDCW Company Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/RDCW%20Company%20Limited.txt) |
+| ReadyIDC Co._ Ltd. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC%20Co._%20Ltd..txt) |
 | ReadyIDC Co._Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC%20Co._Ltd..txt) |
 | ReadyIDC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC.txt) |
+| VP InfoTech Co._ Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/VP%20InfoTech%20Co._%20Ltd..txt) |
 
 ---
-*最後更新：2026-06-05 23:14 UTC*
+*最後更新：2026-06-06 06:47 UTC*
