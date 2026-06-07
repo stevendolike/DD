@@ -9,4 +9,4 @@
 | M247 Ltd HONG KONG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/HK/M247%20Ltd%20HONG%20KONG.txt) |
 
 ---
-*最後更新：2026-06-07 07:47 UTC*
+*最後更新：2026-06-07 11:55 UTC*
