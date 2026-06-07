@@ -174,4 +174,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-06-07 17:23 UTC*
+*最後更新：2026-06-07 23:09 UTC*
