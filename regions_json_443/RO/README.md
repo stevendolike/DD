@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt)
 
@@ -9,7 +9,7 @@
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/3NT%20SOLUTIONS%20LLP.txt) |
 | BL Networks | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/BL%20Networks.txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/Cloudflare%20London_%20LLC.txt) |
-| DOTRO TELECOM SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DOTRO%20TELECOM%20SRL.txt) |
+| DOTRO TELECOM SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DOTRO%20TELECOM%20SRL.txt) |
 | DataNode DC SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DataNode%20DC%20SRL.txt) |
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/GREEN%20FLOID%20LLC.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/IROKO%20Networks%20Corporation.txt) |
@@ -21,4 +21,4 @@
 | ZetServers Bucharest | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ZetServers%20Bucharest.txt) |
 
 ---
-*最後更新：2026-06-06 23:07 UTC*
+*最後更新：2026-06-07 07:47 UTC*

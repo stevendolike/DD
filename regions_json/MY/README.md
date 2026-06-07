@@ -1,6 +1,6 @@
 # MY 
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all_443.txt)
 
@@ -11,7 +11,6 @@
 | Evoxt.com | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
 | Kaopu Cloud HK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Kaopu%20Cloud%20HK%20Limited.txt) |
 | Terabix Technologies Sdn. Bhd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Terabix%20Technologies%20Sdn.%20Bhd..txt) |
-| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-06 23:07 UTC*
+*最後更新：2026-06-07 07:47 UTC*

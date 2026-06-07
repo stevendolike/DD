@@ -1,6 +1,6 @@
 # IN （純 IP）
 
-**共 25 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/_all.txt)
 
@@ -9,7 +9,6 @@
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Amazon.com_%20Inc..txt) |
 | B FIBER PVT LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/B%20FIBER%20PVT%20LTD.txt) |
 | DigitalOcean_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/DigitalOcean_%20LLC.txt) |
-| HOSTINGER IN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/HOSTINGER%20IN.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Linode.txt) |
 | MANNDESHI GURU NET PRIVATE LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
 | Microsoft Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Microsoft%20Corporation.txt) |
@@ -19,4 +18,4 @@
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-06 23:07 UTC*
+*最後更新：2026-06-07 07:47 UTC*

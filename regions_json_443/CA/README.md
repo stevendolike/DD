@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 61 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -10,7 +10,7 @@
 | Amanah Tech Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Amanah%20Tech%20Inc..txt) |
 | Atlantic.Net - Toronto_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Atlantic.Net%20-%20Toronto_%20LLC..txt) |
 | BrainStorm Network_ Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/BrainStorm%20Network_%20Inc.txt) |
-| DigitalOcean_ LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean_%20LLC.txt) |
 | HostPapa | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | ITGLOBAL.COM NL B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/ITGLOBAL.COM%20NL%20B.V..txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Linode.txt) |
@@ -21,4 +21,4 @@
 | Unify Media Ltd | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Unify%20Media%20Ltd.txt) |
 
 ---
-*最後更新：2026-06-06 23:07 UTC*
+*最後更新：2026-06-07 07:47 UTC*
