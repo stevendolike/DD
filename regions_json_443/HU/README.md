@@ -1,6 +1,6 @@
 # HU （純 IP）
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/3NT%20SOLUTIONS%20LLP.txt) |
 | ServerAstra Kft. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/ServerAstra%20Kft..txt) |
-| WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-07 23:09 UTC*
+*最後更新：2026-06-08 08:45 UTC*
