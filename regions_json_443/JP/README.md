@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 192 條** · [返回主頁](../../README.md)
+**共 190 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
 
@@ -11,7 +11,7 @@
 | ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ACEVILLE%20PTE.LTD..txt) |
 | Akamai Connected Cloud _ Linode | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Akari Networks (Tokyo) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Akari%20Networks%20%28Tokyo%29.txt) |
-| AkileCloud LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/AkileCloud%20LLC.txt) |
+| AkileCloud LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alibaba%20Cloud%20LLC.txt) |
 | Alice Networks LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alice%20Networks%20LTD.txt) |
@@ -36,10 +36,9 @@
 | KAGOYA JAPAN Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/KAGOYA%20JAPAN%20Inc..txt) |
 | Leaseweb Japan K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Leaseweb%20Japan%20K.K..txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Linode.txt) |
-| NetFuture Technology LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/NetFuture%20Technology%20LLC.txt) |
 | Oracle Corporation | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Corporation.txt) |
 | Oracle Network Information Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Network%20Information%20Services.txt) |
-| Oracle Public Cloud | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Svenska%20AB.txt) |
 | PSINet_ Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/PSINet_%20Inc..txt) |
 | Prime Security Corp. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Prime%20Security%20Corp..txt) |
@@ -49,13 +48,14 @@
 | Silicon Cloud Tokyo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Silicon%20Cloud%20Tokyo%20LLC.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/SmartHost%20LLC.txt) |
 | So-net Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/So-net%20Service.txt) |
-| Techavenue International Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Techavenue%20International%20Ltd.txt) |
+| Techavenue International Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Techavenue%20International%20Ltd.txt) |
 | The Constant Company_ LLC | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/The%20Constant%20Company_%20LLC.txt) |
-| Vultr Holdings_ LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Vultr%20Holdings_%20LLC.txt) |
+| Virtono Networks SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Virtono%20Networks%20SRL.txt) |
+| Vultr Holdings_ LLC | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Vultr%20Holdings_%20LLC.txt) |
 | imported inetnum object for OCPL-1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/imported%20inetnum%20object%20for%20OCPL-1.txt) |
 | xTom GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20GmbH.txt) |
 | xTom Japan Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20Japan%20Corporation.txt) |
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom.txt) |
 
 ---
-*最後更新：2026-06-08 23:14 UTC*
+*最後更新：2026-06-09 07:37 UTC*

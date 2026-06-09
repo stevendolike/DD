@@ -1,13 +1,12 @@
 # VN 
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/VN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/VN/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Bunny Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/VN/Bunny%20Communications.txt) |
 | UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/VN/UCLOUD%20INFORMATION%20TECHNOLOGY%20%28HK%29%20LIMITED.txt) |
 
 ---
-*最後更新：2026-06-08 23:14 UTC*
+*最後更新：2026-06-09 07:37 UTC*

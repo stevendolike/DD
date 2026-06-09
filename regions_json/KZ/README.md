@@ -1,6 +1,6 @@
 # KZ 
 
-**共 72 條** · [返回主頁](../../README.md)
+**共 74 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -19,7 +19,7 @@
 | Hosting Pro (Hosting Pro) LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Hosting%20Pro%20%28Hosting%20Pro%29%20LLP.txt) |
 | ITGLOBAL.COM KZ LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/ITGLOBAL.COM%20KZ%20LLP.txt) |
 | JSC Datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20Datacenter.txt) |
-| JSC TIMEWEB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/MT%20FINANCE%20LLC.txt) |
 | Megahost Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Modern%20Server%20Solutions%20LLP.txt) |
@@ -32,4 +32,4 @@
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-06-08 23:14 UTC*
+*最後更新：2026-06-09 07:37 UTC*

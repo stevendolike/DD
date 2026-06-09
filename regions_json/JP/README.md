@@ -1,6 +1,6 @@
 # JP 
 
-**共 245 條** · [返回主頁](../../README.md)
+**共 242 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all_443.txt)
 
@@ -13,7 +13,7 @@
 | Akamai Connected Cloud _ Linode | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Akari Networks (Tokyo) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akari%20Networks%20%28Tokyo%29.txt) |
 | Akile LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akile%20LTD.txt) |
-| AkileCloud LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/AkileCloud%20LLC.txt) |
+| AkileCloud LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20LLC.txt) |
 | Alice Networks LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alice%20Networks%20LTD.txt) |
@@ -30,7 +30,6 @@
 | DIAMOND IP BROKERS FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | DMIT Cloud Service - Tokyo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
 | Evoxt.com | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Evoxt.com.txt) |
-| Evoxt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Evoxt.txt) |
 | GMO Internet_ Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/GMO%20Internet_%20Inc..txt) |
 | Geelinx WAN _ Tokyo_ Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Geelinx%20WAN%20_%20Tokyo_%20Japan.txt) |
 | Higashishinagawa_ Shinagawa City_ Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Higashishinagawa_%20Shinagawa%20City_%20Tokyo.txt) |
@@ -42,11 +41,10 @@
 | Leaseweb Japan K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Leaseweb%20Japan%20K.K..txt) |
 | Linode | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Linode.txt) |
 | Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Nearoute%20Limited.txt) |
-| NetFuture Technology LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/NetFuture%20Technology%20LLC.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
-| Oracle Corporation | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
 | Oracle Network Information Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Network%20Information%20Services.txt) |
-| Oracle Public Cloud | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Public Cloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Svenska%20AB.txt) |
 | PSINet_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/PSINet_%20Inc..txt) |
 | Prime Security Corp. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Prime%20Security%20Corp..txt) |
@@ -57,9 +55,10 @@
 | Silicon Cloud Tokyo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Silicon%20Cloud%20Tokyo%20LLC.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/SmartHost%20LLC.txt) |
 | So-net Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/So-net%20Service.txt) |
-| Techavenue International Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Techavenue%20International%20Ltd.txt) |
+| Techavenue International Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Techavenue%20International%20Ltd.txt) |
 | The Constant Company_ LLC | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/The%20Constant%20Company_%20LLC.txt) |
-| Vultr Holdings_ LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Vultr%20Holdings_%20LLC.txt) |
+| Virtono Networks SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Virtono%20Networks%20SRL.txt) |
+| Vultr Holdings_ LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Vultr%20Holdings_%20LLC.txt) |
 | imported inetnum object for OCPL-1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/imported%20inetnum%20object%20for%20OCPL-1.txt) |
 | oneprovider.com - Tokyo Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/oneprovider.com%20-%20Tokyo%20Infrastructure.txt) |
 | xTom GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/xTom%20GmbH.txt) |
@@ -67,4 +66,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/xTom.txt) |
 
 ---
-*最後更新：2026-06-08 23:14 UTC*
+*最後更新：2026-06-09 07:37 UTC*
