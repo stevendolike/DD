@@ -60,4 +60,4 @@
 | tzulo_ inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/tzulo_%20inc..txt) |
 
 ---
-*最後更新：2026-06-09 18:12 UTC*
+*最後更新：2026-06-09 23:19 UTC*
