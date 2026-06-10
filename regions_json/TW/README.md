@@ -16,4 +16,4 @@
 | Scloud Pte Ltd t_a Scloud Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Scloud%20Pte%20Ltd%20t_a%20Scloud%20Pte%20Ltd.txt) |
 
 ---
-*最後更新：2026-06-10 18:33 UTC*
+*最後更新：2026-06-10 23:38 UTC*
