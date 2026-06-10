@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 183 條** · [返回主頁](../../README.md)
+**共 184 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/_all.txt)
 
@@ -12,7 +12,7 @@
 | Amsterdam_ Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Amsterdam_%20Netherlands.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Baxet%20Group%20Inc..txt) |
 | Datalix | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Datalix.txt) |
-| DigitalOcean_ LLC | 159 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 160 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DigitalOcean_%20LLC.txt) |
 | Hetzner Online GmbH | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Hetzner%20Online%20GmbH.txt) |
 | NEKOBYTE INTERNATIONAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/NEKOBYTE%20INTERNATIONAL%20LIMITED.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/QWINS%20Hosting.txt) |
@@ -23,4 +23,4 @@
 | u1host ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/u1host%20ltd.txt) |
 
 ---
-*最後更新：2026-06-09 23:19 UTC*
+*最後更新：2026-06-10 08:00 UTC*

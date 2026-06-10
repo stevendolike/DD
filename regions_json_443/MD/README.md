@@ -1,6 +1,6 @@
 # MD （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/_all.txt)
 
@@ -8,8 +8,9 @@
 |------|--------|---------|
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/ALEXHOST%20SRL.txt) |
 | AlexHost SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/AlexHost%20SRL.txt) |
+| DANIS SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/DANIS%20SRL.txt) |
 | Trabia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/Trabia.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-09 23:19 UTC*
+*最後更新：2026-06-10 08:00 UTC*

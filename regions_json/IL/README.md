@@ -8,8 +8,8 @@
 |------|--------|---------|
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/BlueVPS%20OU.txt) |
 | GOLDENLINES ADSL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/GOLDENLINES%20ADSL.txt) |
-| LLC Smart Ape | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/LLC%20Smart%20Ape.txt) |
+| O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/The%20Constant%20Company_%20LLC..txt) |
 
 ---
-*最後更新：2026-06-09 23:19 UTC*
+*最後更新：2026-06-10 08:00 UTC*

@@ -1,6 +1,6 @@
 # AU 
 
-**共 14 條** · [返回主頁](../../README.md)
+**共 13 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/_all_443.txt)
 
@@ -14,7 +14,6 @@
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Oracle%20Public%20Cloud.txt) |
 | Passion Only | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Passion%20Only.txt) |
-| Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-09 23:19 UTC*
+*最後更新：2026-06-10 08:00 UTC*

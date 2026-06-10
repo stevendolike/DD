@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/IROKO%20Networks%20Corporation.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | WebHorizon Norway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-06-09 23:19 UTC*
+*最後更新：2026-06-10 08:00 UTC*

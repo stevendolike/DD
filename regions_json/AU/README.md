@@ -1,6 +1,6 @@
 # AU 
 
-**共 29 條** · [返回主頁](../../README.md)
+**共 30 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all_443.txt)
 
@@ -15,11 +15,11 @@
 | Level 6_ 9-13 Young Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Level%206_%209-13%20Young%20Street.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Linode.txt) |
 | Macquarie Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Macquarie%20Telecom.txt) |
-| Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Corporation.txt) |
+| Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Public%20Cloud.txt) |
 | Passion Only | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Passion%20Only.txt) |
+| SUPERLOOP (AUSTRALIA) PTY LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/SUPERLOOP%20%28AUSTRALIA%29%20PTY%20LTD.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/The%20Constant%20Company_%20LLC.txt) |
-| Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-09 23:19 UTC*
+*最後更新：2026-06-10 08:00 UTC*
