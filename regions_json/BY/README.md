@@ -12,4 +12,4 @@
 | Republican Unitary Telecommunication Enterprise Beltelecom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Republican%20Unitary%20Telecommunication%20Enterprise%20Beltelecom.txt) |
 
 ---
-*最後更新：2026-06-11 08:28 UTC*
+*最後更新：2026-06-11 14:05 UTC*
