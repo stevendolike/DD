@@ -13,4 +13,4 @@
 | WEDOS server hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/WEDOS%20server%20hosting.txt) |
 
 ---
-*最後更新：2026-06-11 18:49 UTC*
+*最後更新：2026-06-11 23:27 UTC*
