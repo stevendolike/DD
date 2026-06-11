@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 27 條** · [返回主頁](../../README.md)
+**共 28 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/_all.txt)
 
@@ -11,8 +11,8 @@
 | Dmitrii Vladimirovich Malkov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Green%20Floid%20LLC.txt) |
-| SIA VEESP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
 
 ---
-*最後更新：2026-06-10 23:38 UTC*
+*最後更新：2026-06-11 08:28 UTC*

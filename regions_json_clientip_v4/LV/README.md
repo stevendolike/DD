@@ -1,6 +1,6 @@
 # LV 
 
-**共 62 條** · [返回主頁](../../README.md)
+**共 63 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all_443.txt)
 
@@ -17,11 +17,11 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Melbikomas%20UAB.txt) |
 | NANO ADTECH DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/NANO%20ADTECH%20DC.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/NetGrid%20Host%20LTD.txt) |
-| SIA VEESP | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Subnet%20Digital%20LLC.txt) |
 | Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Versija%20SIA.txt) |
 
 ---
-*最後更新：2026-06-10 23:38 UTC*
+*最後更新：2026-06-11 08:28 UTC*

@@ -15,4 +15,4 @@
 | SOLUS KVM VPS POOL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/SOLUS%20KVM%20VPS%20POOL.txt) |
 
 ---
-*最後更新：2026-06-10 23:38 UTC*
+*最後更新：2026-06-11 08:28 UTC*

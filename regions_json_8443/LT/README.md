@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/_all.txt)
 
@@ -8,7 +8,8 @@
 |------|--------|---------|
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/Baxet%20Group%20Inc..txt) |
 | SOLID Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/SOLID%20Lithuania.txt) |
+| UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-06-10 23:38 UTC*
+*最後更新：2026-06-11 08:28 UTC*

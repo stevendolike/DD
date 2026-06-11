@@ -1,6 +1,6 @@
 # LV 
 
-**共 245 條** · [返回主頁](../../README.md)
+**共 244 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all_443.txt)
 
@@ -23,12 +23,12 @@
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/NetGrid%20Host%20LTD.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/RETN%20Limited.txt) |
 | SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SERV.HOST%20GROUP%20LTD.txt) |
-| SIA VEESP | 131 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 132 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Subnet%20Digital%20LLC.txt) |
 | Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Versija%20SIA.txt) |
-| as56971 network | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
+| as56971 network | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-10 23:38 UTC*
+*最後更新：2026-06-11 08:28 UTC*

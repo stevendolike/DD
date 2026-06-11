@@ -1,6 +1,6 @@
 # TR 
 
-**共 65 條** · [返回主頁](../../README.md)
+**共 64 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -23,7 +23,7 @@
 | TIGOVA NETWORK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TIGOVA%20NETWORK%20LIMITED.txt) |
 | TradeZone LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TradeZone%20LLC.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI..txt) |
-| White Label Services_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services_%20LLC.txt) |
+| White Label Services_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services_%20LLC.txt) |
 | White Label | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label.txt) |
 | WorkTitans B.V. | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/WorkTitans%20B.V..txt) |
 | YUNUS EMRE ATILGAN POYRAZ HOSTING | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YUNUS%20EMRE%20ATILGAN%20POYRAZ%20HOSTING.txt) |
@@ -31,4 +31,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-06-10 23:38 UTC*
+*最後更新：2026-06-11 08:28 UTC*
