@@ -9,4 +9,4 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AU/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-06-12 08:16 UTC*
+*最後更新：2026-06-12 13:33 UTC*
