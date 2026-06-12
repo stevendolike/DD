@@ -9,4 +9,4 @@
 | Digital City FZE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SK/Digital%20City%20FZE.txt) |
 
 ---
-*最後更新：2026-06-11 23:27 UTC*
+*最後更新：2026-06-12 08:16 UTC*

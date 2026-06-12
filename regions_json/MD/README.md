@@ -9,9 +9,9 @@
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/ALEXHOST%20SRL.txt) |
 | AlexHost SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/AlexHost%20SRL.txt) |
 | DANIS SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/DANIS%20SRL.txt) |
+| MivoCloud SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/MivoCloud%20SRL.txt) |
 | OvO Systems Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/OvO%20Systems%20Ltd..txt) |
-| Trabia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/Trabia.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-11 23:27 UTC*
+*最後更新：2026-06-12 08:16 UTC*

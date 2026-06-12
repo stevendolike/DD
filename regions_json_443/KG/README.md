@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KG/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KG/Anton%20Levin.txt) |
 
 ---
-*最後更新：2026-06-11 23:27 UTC*
+*最後更新：2026-06-12 08:16 UTC*
