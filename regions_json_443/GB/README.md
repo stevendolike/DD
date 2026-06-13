@@ -55,4 +55,4 @@
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-06-13 17:27 UTC*
+*最後更新：2026-06-13 23:09 UTC*
