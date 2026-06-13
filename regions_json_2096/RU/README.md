@@ -9,4 +9,4 @@
 | JSC TIMEWEB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/RU/JSC%20TIMEWEB.txt) |
 
 ---
-*最後更新：2026-06-13 07:39 UTC*
+*最後更新：2026-06-13 11:58 UTC*
