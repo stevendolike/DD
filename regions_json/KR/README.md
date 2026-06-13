@@ -21,10 +21,9 @@
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Prinode%20AB.txt) |
 | SK Broadband Co Ltd | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/SK%20Broadband%20Co%20Ltd.txt) |
-| The Constant Company_ LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/The%20Constant%20Company_%20LLC.txt) |
-| ZEN-KR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/ZEN-KR.txt) |
+| The Constant Company_ LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/The%20Constant%20Company_%20LLC.txt) |
 | oracle | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/oracle.txt) |
 | zhilan technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/zhilan%20technology.txt) |
 
 ---
-*最後更新：2026-06-12 23:21 UTC*
+*最後更新：2026-06-13 07:39 UTC*
