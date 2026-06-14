@@ -1,6 +1,6 @@
 # CZ 
 
-**共 56 條** · [返回主頁](../../README.md)
+**共 55 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
@@ -14,10 +14,11 @@
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Green%20Floid%20LLC.txt) |
 | HOST-TELECOM.COM s.r.o. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | OvaNet_ a.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/OvaNet_%20a.s..txt) |
-| SmartApe OU | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
+| Retzor_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor_%20Inc..txt) |
+| SmartApe OU | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
 | UPC Ceska republika_ a.s. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/UPC%20Ceska%20republika_%20a.s..txt) |
 | WEDOS server hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/WEDOS%20server%20hosting.txt) |
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-06-13 23:09 UTC*
+*最後更新：2026-06-14 08:08 UTC*
