@@ -14,4 +14,4 @@
 | ZetServers Bucharest | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/ZetServers%20Bucharest.txt) |
 
 ---
-*最後更新：2026-06-14 12:04 UTC*
+*最後更新：2026-06-14 17:24 UTC*

@@ -13,4 +13,4 @@
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI..txt) |
 
 ---
-*最後更新：2026-06-14 12:04 UTC*
+*最後更新：2026-06-14 17:24 UTC*
