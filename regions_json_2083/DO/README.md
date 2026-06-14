@@ -9,4 +9,4 @@
 | ALTICE DOMINICANA S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DO/ALTICE%20DOMINICANA%20S.A..txt) |
 
 ---
-*最後更新：2026-06-14 08:08 UTC*
+*最後更新：2026-06-14 12:04 UTC*

@@ -23,4 +23,4 @@
 | SOLUS KVM VPS POOL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/SOLUS%20KVM%20VPS%20POOL.txt) |
 
 ---
-*最後更新：2026-06-14 08:08 UTC*
+*最後更新：2026-06-14 12:04 UTC*
