@@ -16,4 +16,4 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-06-15 15:51 UTC*
+*最後更新：2026-06-15 19:51 UTC*

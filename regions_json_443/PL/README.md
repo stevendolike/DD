@@ -53,4 +53,4 @@
 | play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-06-15 15:51 UTC*
+*最後更新：2026-06-15 19:51 UTC*
