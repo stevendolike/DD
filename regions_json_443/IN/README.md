@@ -1,6 +1,6 @@
 # IN （純 IP）
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/_all.txt)
 
@@ -8,6 +8,7 @@
 |------|--------|---------|
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Amazon.com_%20Inc..txt) |
 | DigitalOcean_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/DigitalOcean_%20LLC.txt) |
+| HOSTINGER IN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/HOSTINGER%20IN.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Linode.txt) |
 | MANNDESHI GURU NET PRIVATE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Melbikomas%20UAB.txt) |
@@ -18,4 +19,4 @@
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-14 23:12 UTC*
+*最後更新：2026-06-15 09:51 UTC*
