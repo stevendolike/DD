@@ -9,4 +9,4 @@
 | Lightnode Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ID/Lightnode%20Limited.txt) |
 
 ---
-*最後更新：2026-06-16 15:17 UTC*
+*最後更新：2026-06-16 19:41 UTC*

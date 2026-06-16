@@ -10,4 +10,4 @@
 | WebHorizon Norway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-06-16 15:17 UTC*
+*最後更新：2026-06-16 19:41 UTC*
