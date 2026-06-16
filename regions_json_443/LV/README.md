@@ -24,4 +24,4 @@
 | Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Versija%20SIA.txt) |
 
 ---
-*最後更新：2026-06-16 09:15 UTC*
+*最後更新：2026-06-16 15:17 UTC*
