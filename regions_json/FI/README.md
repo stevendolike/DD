@@ -82,4 +82,4 @@
 | u1host Finland | 42 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-06-16 19:41 UTC*
+*最後更新：2026-06-16 23:25 UTC*
