@@ -7,7 +7,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/Oracle%20Svenska%20AB.txt) |
-| xneelo-tscolo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/xneelo-tscolo.txt) |
+| The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/The%20Constant%20Company_%20LLC.txt) |
+| xneelo-tscolo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/xneelo-tscolo.txt) |
 
 ---
-*最後更新：2026-06-15 23:49 UTC*
+*最後更新：2026-06-16 09:15 UTC*

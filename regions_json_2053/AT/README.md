@@ -8,8 +8,7 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/3NT%20SOLUTIONS%20LLP.txt) |
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/AEZA%20GROUP%20LLC.txt) |
-| Alwyzon_ a trading name of Hohl IT e.U. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Alwyzon_%20a%20trading%20name%20of%20Hohl%20IT%20e.U..txt) |
-| netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/netcup%20GmbH.txt) |
+| Alwyzon_ a trading name of Hohl IT e.U. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Alwyzon_%20a%20trading%20name%20of%20Hohl%20IT%20e.U..txt) |
 
 ---
-*最後更新：2026-06-15 23:49 UTC*
+*最後更新：2026-06-16 09:15 UTC*
