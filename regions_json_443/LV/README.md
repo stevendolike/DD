@@ -14,14 +14,13 @@
 | Dmitrii Vladimirovich Malkov | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Friendhosting%20LTD.txt) |
-| IPv6 services for dedicated servers and VDS_VPS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/IPv6%20services%20for%20dedicated%20servers%20and%20VDS_VPS.txt) |
+| IPv6 services for dedicated servers and VDS_VPS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/IPv6%20services%20for%20dedicated%20servers%20and%20VDS_VPS.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/NetGrid%20Host%20LTD.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SA.txt) |
 | SIA VEESP | 98 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20VEESP.txt) |
 | Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Subnet%20Digital%20LLC.txt) |
-| Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Versija%20SIA.txt) |
 
 ---
-*最後更新：2026-06-16 23:25 UTC*
+*最後更新：2026-06-17 08:53 UTC*
