@@ -9,4 +9,4 @@
 | Kaopu Cloud HK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KH/Kaopu%20Cloud%20HK%20Limited.txt) |
 
 ---
-*最後更新：2026-06-17 18:29 UTC*
+*最後更新：2026-06-17 23:42 UTC*
