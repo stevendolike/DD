@@ -9,4 +9,4 @@
 | EDIS IPv6 Infrastructure in Croatia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HR/EDIS%20IPv6%20Infrastructure%20in%20Croatia.txt) |
 
 ---
-*最後更新：2026-06-18 13:33 UTC*
+*最後更新：2026-06-18 18:28 UTC*
