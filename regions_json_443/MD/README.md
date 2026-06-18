@@ -12,4 +12,4 @@
 | StarNet Solutii SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/StarNet%20Solutii%20SRL.txt) |
 
 ---
-*最後更新：2026-06-18 18:28 UTC*
+*最後更新：2026-06-18 23:47 UTC*
