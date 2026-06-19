@@ -14,4 +14,4 @@
 | Oneprovider.com - Dubai Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oneprovider.com%20-%20Dubai%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-06-19 13:40 UTC*
+*最後更新：2026-06-19 18:02 UTC*
