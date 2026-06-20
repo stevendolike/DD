@@ -10,4 +10,4 @@
 | Proitlab LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/Proitlab%20LLC.txt) |
 
 ---
-*最後更新：2026-06-20 12:03 UTC*
+*最後更新：2026-06-20 17:39 UTC*
