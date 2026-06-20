@@ -22,4 +22,4 @@
 | ZetServers RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/ZetServers%20RO.txt) |
 
 ---
-*最後更新：2026-06-20 07:42 UTC*
+*最後更新：2026-06-20 12:03 UTC*
