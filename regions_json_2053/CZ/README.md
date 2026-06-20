@@ -6,9 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/Friendhosting%20LTD.txt) |
 | HOST-TELECOM.COM s.r.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
-| SmartApe OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/SmartApe%20OU.txt) |
 
 ---
-*最後更新：2026-06-19 23:01 UTC*
+*最後更新：2026-06-20 07:42 UTC*

@@ -9,7 +9,9 @@
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/FlokiNET%20ehf.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/Friendhosting%20LTD.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/IROKO%20Networks%20Corporation.txt) |
-| ZetServers RO | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/ZetServers%20RO.txt) |
+| MivoCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/MivoCloud.txt) |
+| ZetServers Bucharest | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/ZetServers%20Bucharest.txt) |
+| ZetServers RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/ZetServers%20RO.txt) |
 
 ---
-*最後更新：2026-06-19 23:01 UTC*
+*最後更新：2026-06-20 07:42 UTC*

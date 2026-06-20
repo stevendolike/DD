@@ -1,6 +1,6 @@
 # DK 
 
-**共 28 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/3NT%20SOLUTIONS%20LLP.txt) |
 | EDIS Infrastructure in Denmark | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/EDIS%20Infrastructure%20in%20Denmark.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Webdock.io ApS | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/Webdock.io%20ApS.txt) |
+| Webdock.io ApS | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/Webdock.io%20ApS.txt) |
 
 ---
-*最後更新：2026-06-19 23:01 UTC*
+*最後更新：2026-06-20 07:42 UTC*
