@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 20 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
@@ -15,11 +15,11 @@
 | Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Hetzner%20Online%20GmbH.txt) |
 | Huawei-Cloud-SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Huawei-Cloud-SG.txt) |
 | IPv6 services for VDS_VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/IPv6%20services%20for%20VDS_VPS.txt) |
-| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SG.GS.txt) |
 | SGP_VULTR_CUST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SGP_VULTR_CUST.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/The%20Constant%20Company_%20LLC.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 28 條** · [返回主頁](../../README.md)
+**共 29 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -10,6 +10,7 @@
 | ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ACEVILLE%20PTE.LTD..txt) |
 | Akamai Connected Cloud _ Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Akile LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Akile%20LTD.txt) |
+| AkileCloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | ByteVirt LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ByteVirt%20LLC.txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Cloudflare%20London_%20LLC.txt) |
@@ -30,4 +31,4 @@
 | xTom Japan Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

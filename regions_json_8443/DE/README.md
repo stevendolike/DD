@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 697 條** · [返回主頁](../../README.md)
+**共 695 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/1Cent%20Host.txt) |
 | A100 ROW GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/A100%20ROW%20GmbH.txt) |
-| AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/AEZA%20GROUP%20LLC.txt) |
 | Advin Services LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Advin%20Services%20LLC.txt) |
 | Aeza International LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Aeza%20International%20LTD.txt) |
 | Alibaba Cloud - DE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Alibaba%20Cloud%20-%20DE.txt) |
@@ -37,7 +37,7 @@
 | Frankfurt_ Germany | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Frankfurt_%20Germany.txt) |
 | GHOSTnet GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/GHOSTnet%20GmbH.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTELCOM 2023 2024 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/GTELCOM%202023%202024.txt) |
 | Germany_ Frankfurt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Germany_%20Frankfurt.txt) |
 | H2.NEXUS Frankfurt Network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/H2.NEXUS%20Frankfurt%20Network.txt) |
@@ -84,8 +84,7 @@
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/The%20Constant%20Company_%20LLC.txt) |
 | Timeweb_ LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Timeweb_%20LLP.txt) |
 | UNKNOWN | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/UNKNOWN.txt) |
-| UltaHost Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/UltaHost%20Inc.txt) |
-| Unesty Company | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Unesty%20Company.txt) |
+| UltaHost Inc | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/UltaHost%20Inc.txt) |
 | Vodafone West GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Vodafone%20West%20GmbH.txt) |
 | Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/Vultr%20Holdings_%20LLC.txt) |
 | WAIcore Ltd | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/WAIcore%20Ltd.txt) |
@@ -101,10 +100,10 @@
 | play2go.cloud - Cheap and reliable hosting | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | play2go.cloud _Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/play2go.cloud%20_Cheap%20and%20reliable%20hosting.txt) |
 | powered by ANX | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/powered%20by%20ANX.txt) |
-| u1host ltd | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/u1host%20ltd.txt) |
+| u1host ltd | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/u1host%20ltd.txt) |
 | webtropia dedicated Server by http___www.webtropia.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/webtropia%20dedicated%20Server%20by%20http___www.webtropia.com.txt) |
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DE/xTom.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

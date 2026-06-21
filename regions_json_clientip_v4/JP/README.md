@@ -1,6 +1,6 @@
 # JP 
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 40 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | Akile LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Akile%20LTD.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Baxet%20Group%20Inc..txt) |
-| DIAMOND IP BROKERS FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
+| DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Linode.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
 | Oracle Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Corporation.txt) |
@@ -27,4 +27,4 @@
 | xTom GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

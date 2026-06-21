@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/_all.txt)
 
@@ -13,7 +13,7 @@
 | Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/Green%20Floid%20LLC.txt) |
 | Infomaniak Network SA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/Infomaniak%20Network%20SA.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/Oracle%20Public%20Cloud.txt) |
-| RouterHosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

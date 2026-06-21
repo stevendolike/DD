@@ -1,6 +1,6 @@
 # SE 
 
-**共 278 條** · [返回主頁](../../README.md)
+**共 270 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -9,10 +9,10 @@
 | 1Cent Host | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
 | AEZA GROUP LLC | 41 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
-| ALEXHOST SRL | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20SRL.txt) |
-| Aeza International LTD | 91 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Aeza%20International%20LTD.txt) |
+| ALEXHOST SRL | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20SRL.txt) |
+| Aeza International LTD | 87 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Aeza%20International%20LTD.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
-| Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
+| Assigned to ORG-HIP1-RIPE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baxet Group Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/BlueVPS%20OU.txt) |
@@ -20,7 +20,7 @@
 | FORTIS Hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/FORTIS%20Hosting%20services.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/HZ%20Hosting%20Ltd.txt) |
-| Hollander _ Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hollander%20_%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
+| Hollander _ Jacobsen UG (haftungsbeschraenkt) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hollander%20_%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
 | Hostup AB | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hostup%20AB.txt) |
 | IB Compute Systems Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/IB%20Compute%20Systems%20Inc.txt) |
 | IROKO Networks Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/IROKO%20Networks%20Corporation.txt) |
@@ -47,4 +47,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

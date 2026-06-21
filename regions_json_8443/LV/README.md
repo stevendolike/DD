@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 37 條** · [返回主頁](../../README.md)
+**共 36 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
@@ -15,8 +15,7 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Melbikomas%20UAB.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/RETN%20Limited.txt) |
 | SIA VEESP | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
-| VEESP datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/VEESP%20datacenter%20clients.txt) |
 | Versija SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Versija%20SIA.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

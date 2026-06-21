@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 618 條** · [返回主頁](../../README.md)
+**共 617 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -18,7 +18,7 @@
 | EXTRAVM LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/EXTRAVM%20LLC.txt) |
 | Fiberpower LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Fiberpower%20LLC.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HOSTKEY%20B.V..txt) |
-| HOSTKEY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HOSTKEY.txt) |
+| HOSTKEY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HOSTKEY.txt) |
 | Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Hetzner%20Online%20GmbH.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HostPapa.txt) |
 | HostRush | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HostRush.txt) |
@@ -40,4 +40,4 @@
 | as56971 network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

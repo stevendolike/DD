@@ -1,12 +1,12 @@
 # KZ 
 
-**共 57 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3NT%20SOLUTIONS%20LLP.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Anton%20Levin.txt) |
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Beget%20LLC.txt) |
@@ -30,4 +30,4 @@
 | lease for Timeweb | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

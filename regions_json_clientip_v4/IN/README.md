@@ -1,6 +1,6 @@
 # IN 
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 22 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/_all_443.txt)
 
@@ -13,7 +13,8 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Microsoft%20Corporation.txt) |
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Oracle%20Corporation.txt) |
+| P.D.R Solutions FZC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/P.D.R%20Solutions%20FZC.txt) |
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

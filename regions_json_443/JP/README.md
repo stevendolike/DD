@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 140 條** · [返回主頁](../../README.md)
+**共 132 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
 
@@ -13,20 +13,17 @@
 | AkileCloud LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alice Networks LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alice%20Networks%20LTD.txt) |
-| Amazon.com_ Inc. | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
+| Amazon.com_ Inc. | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
 | BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/BBIX%20IPv6%20Network.txt) |
 | BIGLOBE Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/BIGLOBE%20Inc..txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Baxet%20Group%20Inc..txt) |
-| ByteVirt LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ByteVirt%20LLC.txt) |
+| ByteVirt LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ByteVirt%20LLC.txt) |
 | CYBERJET PTE. LTD. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/CYBERJET%20PTE.%20LTD..txt) |
-| Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Cloudflare%20London_%20LLC.txt) |
+| Cloudflare London_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Cloudflare%20London_%20LLC.txt) |
 | Contabo Asia Private Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | DDPS Networks_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/DDPS%20Networks_%20LLC.txt) |
-| DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | DMIT Cloud Service - Tokyo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
-| DMIT Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/DMIT%20Inc..txt) |
 | Evoxt.com | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Evoxt.com.txt) |
-| Hostsymbol Pte. Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Hostsymbol%20Pte.%20Ltd..txt) |
 | ISIF Network (Japan Tokyo) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ISIF%20Network%20%28Japan%20Tokyo%29.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/IT7%20Networks%20Inc.txt) |
 | KAGOYA JAPAN Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/KAGOYA%20JAPAN%20Inc..txt) |
@@ -44,11 +41,11 @@
 | Silicon Cloud Tokyo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Silicon%20Cloud%20Tokyo%20LLC.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/SmartHost%20LLC.txt) |
 | So-net Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/So-net%20Service.txt) |
-| The Constant Company_ LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/The%20Constant%20Company_%20LLC.txt) |
+| The Constant Company_ LLC | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/The%20Constant%20Company_%20LLC.txt) |
 | Virtono Networks SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Virtono%20Networks%20SRL.txt) |
 | Vultr Holdings_ LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Vultr%20Holdings_%20LLC.txt) |
 | imported inetnum object for OCPL-1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/imported%20inetnum%20object%20for%20OCPL-1.txt) |
-| xTom Japan Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20Japan%20Corporation.txt) |
+| xTom Japan Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

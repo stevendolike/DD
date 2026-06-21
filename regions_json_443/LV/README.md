@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 127 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Anton%20Levin.txt) |
 | Baxet Group Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baxet%20Group%20Inc..txt) |
-| Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baykov%20Ilya%20Sergeevich.txt) |
 | Beget LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Beget%20LLC.txt) |
 | CGI GLOBAL LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Dmitrii Vladimirovich Malkov | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
@@ -24,4 +24,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*

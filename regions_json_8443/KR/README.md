@@ -1,11 +1,12 @@
 # KR （純 IP）
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| 16 COLLYER QUAY _ 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/16%20COLLYER%20QUAY%20_%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/6%20COLLYER%20QUAY.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Cloudflare%20London_%20LLC.txt) |
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Corporation.txt) |
@@ -15,4 +16,4 @@
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/The%20Constant%20Company_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-20 23:12 UTC*
+*最後更新：2026-06-21 08:21 UTC*
