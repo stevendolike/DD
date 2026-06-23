@@ -1,6 +1,6 @@
 # CA 
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 126 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -12,7 +12,7 @@
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/CENTRILOGICCANADA.txt) |
 | Cloud Web Manage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cloud%20Web%20Manage.txt) |
 | Cogeco Cable Canada Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Cable%20Canada%20Inc..txt) |
-| DigitalOcean_ LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean_%20LLC.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
 | HostPapa | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/IT7%20Networks%20Inc.txt) |
@@ -28,4 +28,4 @@
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-22 23:23 UTC*
+*最後更新：2026-06-23 07:39 UTC*
