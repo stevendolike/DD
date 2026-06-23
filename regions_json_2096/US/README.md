@@ -12,4 +12,4 @@
 | Red Team LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Red%20Team%20LTD.txt) |
 
 ---
-*最後更新：2026-06-23 07:39 UTC*
+*最後更新：2026-06-23 12:40 UTC*
