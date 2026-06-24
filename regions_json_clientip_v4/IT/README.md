@@ -1,12 +1,13 @@
 # IT 
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Aruba S.p.A. - Cloud Services DC1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20DC1.txt) |
+| Aruba S.p.A. - Cloud Services Farm2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20Farm2.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Baxet%20Group%20Inc..txt) |
 | G-Core Labs S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/G-Core%20Labs%20S.A..txt) |
 | Kamatera Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Kamatera%20Inc.txt) |
@@ -15,4 +16,4 @@
 | plym.cc network - Milan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/plym.cc%20network%20-%20Milan.txt) |
 
 ---
-*最後更新：2026-06-23 23:10 UTC*
+*最後更新：2026-06-24 07:32 UTC*

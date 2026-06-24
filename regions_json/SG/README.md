@@ -9,8 +9,8 @@
 | 16 COLLYER QUAY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/16%20COLLYER%20QUAY.txt) |
 | 28 Kallang Place _ 05-08 Singapore 339518 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/28%20Kallang%20Place%20_%2005-08%20Singapore%20339518.txt) |
 | 500 Oracle Parkway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/500%20Oracle%20Parkway.txt) |
-| 6 COLLYER QUAY | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/6%20COLLYER%20QUAY.txt) |
-| AKILE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/AKILE%20LTD.txt) |
+| 6 COLLYER QUAY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/6%20COLLYER%20QUAY.txt) |
+| AKILE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/AKILE%20LTD.txt) |
 | Akamai Connected Cloud _ Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Alibaba%20Cloud%20LLC.txt) |
@@ -36,10 +36,12 @@
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/RouterHosting%20LLC.txt) |
 | SG.GS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SG.GS.txt) |
 | SGP_VULTR_CUST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SGP_VULTR_CUST.txt) |
+| SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SPEEDYPAGE-LTD.txt) |
 | The Constant Company_ LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/The%20Constant%20Company_%20LLC.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/UCUL-SG.txt) |
-| Vultr Holdings_ LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Vultr%20Holdings_%20LLC.txt) |
+| Viewqwest Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Viewqwest%20Pte%20Ltd.txt) |
+| Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Vultr%20Holdings_%20LLC.txt) |
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-06-23 23:10 UTC*
+*最後更新：2026-06-24 07:32 UTC*

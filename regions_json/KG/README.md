@@ -6,8 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KG/Anton%20Levin.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KG/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| RCS Technologies FZE LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KG/RCS%20Technologies%20FZE%20LLC.txt) |
+| RCS Technologies FZE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KG/RCS%20Technologies%20FZE%20LLC.txt) |
 
 ---
-*最後更新：2026-06-23 23:10 UTC*
+*最後更新：2026-06-24 07:32 UTC*

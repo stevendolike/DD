@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/Oracle%20Corporation.txt) |
+| Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/Friendhosting%20LTD.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/Oracle%20Public%20Cloud.txt) |
 
 ---
-*最後更新：2026-06-23 23:10 UTC*
+*最後更新：2026-06-24 07:32 UTC*

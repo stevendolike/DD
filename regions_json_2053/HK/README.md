@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/_all.txt)
 
@@ -8,8 +8,8 @@
 |------|--------|---------|
 | ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
-| Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/Subnet%20Digital%20LLC.txt) |
+| Subnet Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/Subnet%20Digital%20LLC.txt) |
 | ihc.hk vps in Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-06-23 23:10 UTC*
+*最後更新：2026-06-24 07:32 UTC*

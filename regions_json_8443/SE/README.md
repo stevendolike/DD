@@ -1,13 +1,14 @@
 # SE （純 IP）
 
-**共 54 條** · [返回主頁](../../README.md)
+**共 57 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/1Cent%20Host.txt) |
-| AEZA GROUP LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/AEZA%20GROUP%20LLC.txt) |
+| ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/ALEXHOST%20SRL.txt) |
 | Aeza International LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Aeza%20International%20LTD.txt) |
 | Assigned to ORG-HIP1-RIPE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Baykov%20Ilya%20Sergeevich.txt) |
@@ -16,6 +17,7 @@
 | Hostup AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hostup%20AB.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/IROKO%20Networks%20Corporation.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/MVPS%20LTD.txt) |
+| Materialism s.r.l. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Materialism%20s.r.l..txt) |
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/NetCrafters%20OU.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Oracle%20Corporation.txt) |
@@ -26,4 +28,4 @@
 | Vultr Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-06-23 23:10 UTC*
+*最後更新：2026-06-24 07:32 UTC*

@@ -1,6 +1,6 @@
 # AE 
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/_all_443.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/3NT%20SOLUTIONS%20LLP.txt) |
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/3nt%20solutions%20LLP.txt) |
-| AE-ArvanCloud-infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/AE-ArvanCloud-infrastructure.txt) |
 | BFB ONE FZ-LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/BFB%20ONE%20FZ-LLC.txt) |
 | Cloudflare_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Cloudflare_%20Inc..txt) |
 | Emirates Integrated Telecommunications Company PJSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Emirates%20Integrated%20Telecommunications%20Company%20PJSC.txt) |
@@ -20,4 +19,4 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-06-23 23:10 UTC*
+*最後更新：2026-06-24 07:32 UTC*
