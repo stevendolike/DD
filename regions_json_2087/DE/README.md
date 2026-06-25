@@ -1,12 +1,11 @@
 # DE （純 IP）
 
-**共 171 條** · [返回主頁](../../README.md)
+**共 170 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Aeza International LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Aeza%20International%20LTD.txt) |
 | DigitalOcean_ LLC | 159 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean_%20LLC.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/HOSTKEY%20B.V..txt) |
 | Hetzner Online GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Hetzner%20Online%20GmbH.txt) |
@@ -18,4 +17,4 @@
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-06-24 23:08 UTC*
+*最後更新：2026-06-25 07:33 UTC*
