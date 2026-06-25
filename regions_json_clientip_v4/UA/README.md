@@ -9,4 +9,4 @@
 | FOP Reznichenko Sergey Mykolayovich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/FOP%20Reznichenko%20Sergey%20Mykolayovich.txt) |
 
 ---
-*最後更新：2026-06-25 18:16 UTC*
+*最後更新：2026-06-25 23:21 UTC*
