@@ -1,6 +1,6 @@
 # IS （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/_all.txt)
 
@@ -9,7 +9,6 @@
 | 1984 ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/1984%20ehf.txt) |
 | EDIS IPv6 Infrastructure in Iceland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/EDIS%20IPv6%20Infrastructure%20in%20Iceland.txt) |
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/FlokiNET%20ehf.txt) |
-| IPv6 Iceland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/IPv6%20Iceland.txt) |
 
 ---
-*最後更新：2026-06-25 23:21 UTC*
+*最後更新：2026-06-26 07:41 UTC*
