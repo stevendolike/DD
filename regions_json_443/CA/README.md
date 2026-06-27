@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 59 條** · [返回主頁](../../README.md)
+**共 58 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -10,7 +10,7 @@
 | BrainStorm Network_ Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/BrainStorm%20Network_%20Inc.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/CENTRILOGICCANADA.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Cluster%20Logic%20Inc.txt) |
-| DigitalOcean_ LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean_%20LLC.txt) |
 | HostPapa | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | ITGLOBAL.COM NL B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/ITGLOBAL.COM%20NL%20B.V..txt) |
 | OVH Hosting_ Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting_%20Inc..txt) |
@@ -20,4 +20,4 @@
 | Unify Media Ltd | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Unify%20Media%20Ltd.txt) |
 
 ---
-*最後更新：2026-06-26 23:11 UTC*
+*最後更新：2026-06-27 06:46 UTC*
