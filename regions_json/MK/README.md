@@ -10,4 +10,4 @@
 | EDIS IPv6 Infrastructure in North Macedonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MK/EDIS%20IPv6%20Infrastructure%20in%20North%20Macedonia.txt) |
 
 ---
-*最後更新：2026-06-27 17:16 UTC*
+*最後更新：2026-06-27 23:06 UTC*
