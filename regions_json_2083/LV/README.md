@@ -9,4 +9,4 @@
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/LV/SIA%20VEESP.txt) |
 
 ---
-*最後更新：2026-06-28 07:43 UTC*
+*最後更新：2026-06-28 11:51 UTC*
