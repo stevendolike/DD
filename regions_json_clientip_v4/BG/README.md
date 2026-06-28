@@ -1,6 +1,6 @@
 # BG 
 
-**共 26 條** · [返回主頁](../../README.md)
+**共 27 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/_all_443.txt)
 
@@ -15,7 +15,8 @@
 | Hosting Provider EuroHoster Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Hosting%20Provider%20EuroHoster%20Ltd..txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/IROKO%20Networks%20Corporation.txt) |
 | ITLDC EU2.SOF Datacenter Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
+| ROLANDAS USCILA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/ROLANDAS%20USCILA.txt) |
 | Redcluster LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Redcluster%20LTD.txt) |
 
 ---
-*最後更新：2026-06-27 23:06 UTC*
+*最後更新：2026-06-28 07:43 UTC*

@@ -1,6 +1,6 @@
 # TW （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/_all.txt)
 
@@ -10,6 +10,7 @@
 | ByteVirt LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/ByteVirt%20LLC.txt) |
 | Imcloud Technology Co._ Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/Imcloud%20Technology%20Co._%20Ltd..txt) |
 | Scloud Pte Ltd t_a Scloud Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/Scloud%20Pte%20Ltd%20t_a%20Scloud%20Pte%20Ltd.txt) |
+| TUCD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/TUCD.txt) |
 
 ---
-*最後更新：2026-06-27 23:06 UTC*
+*最後更新：2026-06-28 07:43 UTC*
