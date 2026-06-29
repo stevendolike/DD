@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 617 條** · [返回主頁](../../README.md)
+**共 618 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -9,7 +9,7 @@
 | 3HCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/3HCLOUD%20LLC.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Anton%20Levin.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc..txt) |
-| CGI GLOBAL LIMITED | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CloudBackbone.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%20London_%20LLC.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
@@ -43,4 +43,4 @@
 | as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

@@ -1,6 +1,6 @@
 # KZ 
 
-**共 38 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all_443.txt)
 
@@ -11,6 +11,7 @@
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Beget%20LLC.txt) |
 | Big Data Host LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Big%20Data%20Host%20LLC.txt) |
 | Cloud Services Kazakhstan LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
+| GOhost.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/GOhost.KZ.txt) |
 | Hoster.KZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Hoster.KZ.txt) |
 | Hosting Pro (Hosting Pro) LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Hosting%20Pro%20%28Hosting%20Pro%29%20LLP.txt) |
 | ITGLOBAL.COM KZ LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/ITGLOBAL.COM%20KZ%20LLP.txt) |
@@ -27,4 +28,4 @@
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 405 條** · [返回主頁](../../README.md)
+**共 400 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/_all.txt)
 
@@ -19,10 +19,10 @@
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Baykov%20Ilya%20Sergeevich.txt) |
 | CHSL ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/CHSL%20ONE%20LTD.txt) |
-| Cloud Hosting Solutions_ Limited. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Cloud%20Hosting%20Solutions_%20Limited..txt) |
+| Cloud Hosting Solutions_ Limited. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Cloud%20Hosting%20Solutions_%20Limited..txt) |
 | Customer allocation HB Client 11647 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Customer%20allocation%20HB%20Client%2011647.txt) |
 | Datalix | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Datalix.txt) |
-| DigitalOcean_ LLC | 167 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 166 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/DigitalOcean_%20LLC.txt) |
 | EnSilica Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/EnSilica%20Ltd.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Evoxt.com.txt) |
 | FIRST SERVER LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/FIRST%20SERVER%20LIMITED.txt) |
@@ -37,7 +37,7 @@
 | HOS-2861371 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HOS-2861371.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HOSTKEY%20B.V..txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HZ%20Hosting%20Ltd.txt) |
-| Hetzner Online GmbH | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hetzner%20Online%20GmbH.txt) |
 | IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IONOS%20SE.txt) |
 | IP-Projects GmbH _ Co. KG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IP-Projects%20GmbH%20_%20Co.%20KG.txt) |
 | IPHOSTER OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IPHOSTER%20OU.txt) |
@@ -49,7 +49,6 @@
 | Linode_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Linode_%20LLC.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/MVPS%20LTD.txt) |
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Melbikomas%20UAB.txt) |
-| Nicolas Janzen | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Nicolas%20Janzen.txt) |
 | OVH GmbH | 63 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/OVH%20GmbH.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Oracle%20Svenska%20AB.txt) |
@@ -83,4 +82,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/xTom.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

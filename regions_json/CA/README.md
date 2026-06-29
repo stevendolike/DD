@@ -1,6 +1,6 @@
 # CA 
 
-**共 122 條** · [返回主頁](../../README.md)
+**共 121 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -21,11 +21,10 @@
 | OVH Hosting_ Inc. | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting_%20Inc..txt) |
 | Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Corporation.txt) |
 | Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Rica%20Web%20Services.txt) |
-| Rogers Communications Canada Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Rogers%20Communications%20Canada%20Inc..txt) |
 | Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/The%20Constant%20Company_%20LLC.txt) |
 | Unify Media Ltd | 63 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Unify%20Media%20Ltd.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 49 條** · [返回主頁](../../README.md)
+**共 48 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
@@ -14,7 +14,6 @@
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/BlueVPS%20OU.txt) |
 | Hexabyte AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hexabyte%20AB.txt) |
 | Hollander _ Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hollander%20_%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
-| Hostup AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hostup%20AB.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/MVPS%20LTD.txt) |
 | Materialism s.r.l. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Materialism%20s.r.l..txt) |
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/NetCrafters%20OU.txt) |
@@ -27,4 +26,4 @@
 | Vultr Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

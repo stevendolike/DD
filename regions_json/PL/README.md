@@ -1,6 +1,6 @@
 # PL 
 
-**共 190 條** · [返回主頁](../../README.md)
+**共 188 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
@@ -26,11 +26,11 @@
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GREEN%20FLOID%20LLC.txt) |
-| H2.NEXUS Warsaw Network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
+| H2.NEXUS Warsaw Network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
 | HOSTKEY B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HZ%20Hosting%20Ltd.txt) |
-| Host4Biz sp. z o.o. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o..txt) |
+| Host4Biz sp. z o.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o..txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IROKO%20Networks%20Corporation.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | InterLIR Marketplace | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/InterLIR%20Marketplace.txt) |
@@ -62,4 +62,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

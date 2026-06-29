@@ -1,6 +1,6 @@
 # KR 
 
-**共 24 條** · [返回主頁](../../README.md)
+**共 25 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all_443.txt)
 
@@ -16,9 +16,9 @@
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Prinode%20AB.txt) |
-| SK Broadband Co Ltd | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/SK%20Broadband%20Co%20Ltd.txt) |
+| SK Broadband Co Ltd | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/SK%20Broadband%20Co%20Ltd.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/The%20Constant%20Company_%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/oracle.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

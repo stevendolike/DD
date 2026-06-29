@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 39 條** · [返回主頁](../../README.md)
+**共 37 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/_all.txt)
 
@@ -9,7 +9,6 @@
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/365%20Group%20LLC.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/365.partners%20INC.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/6%20COLLYER%20QUAY.txt) |
-| AKILE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/AKILE%20LTD.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | Alibaba Cloud - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Alibaba%20Cloud%20-%20HK.txt) |
@@ -29,8 +28,8 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Private%20Customer.txt) |
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/SonderCloud%20Limited.txt) |
 | ZYC Network LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ZYC%20Network%20LLC.txt) |
-| as56971 network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/as56971%20network.txt) |
+| as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/as56971%20network.txt) |
 | ihc.hk vps in Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

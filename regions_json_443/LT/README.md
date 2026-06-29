@@ -13,4 +13,4 @@
 | UAB Interneto vizija | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 831 條** · [返回主頁](../../README.md)
+**共 825 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt)
 
@@ -17,12 +17,10 @@
 | CLOUVIDER Virtual Machines | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/CLOUVIDER%20Virtual%20Machines.txt) |
 | Clouvider Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Clouvider%20Limited.txt) |
 | DigitalOcean London | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%20London.txt) |
-| DigitalOcean_ LLC | 318 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 316 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean_%20LLC.txt) |
 | EDIS Infrastructure in the London Docklands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/EDIS%20Infrastructure%20in%20the%20London%20Docklands.txt) |
-| FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/FORTIS.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Fabric_zone.txt) |
 | G-Core Labs S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/G-Core%20Labs%20S.A..txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | GTHost | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Google%20LLC.txt) |
@@ -47,9 +45,8 @@
 | RouterHosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/RouterHosting%20LLC.txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/STYLISH%20BY%20A_L%20SRL.txt) |
 | SoftShell Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/SoftShell%20Hosting%20Ltd.txt) |
-| Zenlayer Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/berrybyte.txt) |
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

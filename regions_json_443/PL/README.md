@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 96 條** · [返回主頁](../../README.md)
+**共 95 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -26,7 +26,7 @@
 | HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HZ%20Hosting%20Ltd.txt) |
-| Host4Biz sp. z o.o. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o..txt) |
+| Host4Biz sp. z o.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o..txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IROKO%20Networks%20Corporation.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | InterLIR Marketplace | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/InterLIR%20Marketplace.txt) |
@@ -51,4 +51,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

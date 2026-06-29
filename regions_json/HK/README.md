@@ -1,6 +1,6 @@
 # HK 
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 61 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all_443.txt)
 
@@ -9,7 +9,6 @@
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365%20Group%20LLC.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365.partners%20INC.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
-| AKILE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/AKILE%20LTD.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | Alibaba Cloud - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20-%20HK.txt) |
@@ -38,8 +37,8 @@
 | Subnet Digital LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Subnet%20Digital%20LLC.txt) |
 | West263 International Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/West263%20International%20Limited.txt) |
 | ZYC Network LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ZYC%20Network%20LLC.txt) |
-| as56971 network | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/as56971%20network.txt) |
+| as56971 network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/as56971%20network.txt) |
 | ihc.hk vps in Hong Kong | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

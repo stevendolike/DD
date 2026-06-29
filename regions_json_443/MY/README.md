@@ -1,6 +1,6 @@
 # MY （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/_all.txt)
 
@@ -8,8 +8,7 @@
 |------|--------|---------|
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Alibaba%20Cloud%20LLC.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Evoxt.com.txt) |
-| Kaopu Cloud HK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Kaopu%20Cloud%20HK%20Limited.txt) |
 | Terabix Technologies Sdn. Bhd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Terabix%20Technologies%20Sdn.%20Bhd..txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

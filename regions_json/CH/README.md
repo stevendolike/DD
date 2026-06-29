@@ -1,6 +1,6 @@
 # CH 
 
-**共 113 條** · [返回主頁](../../README.md)
+**共 114 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/ALEXHOST%20SRL.txt) |
 | Baxet Group Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Baxet%20Group%20Inc..txt) |
 | BuyVM | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BuyVM.txt) |
-| Datasource AG | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
+| Datasource AG | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting_ Geronimo Ramirez | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting_%20Geronimo%20Ramirez.txt) |
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
@@ -33,4 +33,4 @@
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*

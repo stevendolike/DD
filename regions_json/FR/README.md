@@ -1,6 +1,6 @@
 # FR 
 
-**共 882 條** · [返回主頁](../../README.md)
+**共 876 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all_443.txt)
 
@@ -15,7 +15,7 @@
 | Blockchain Games N.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Blockchain%20Games%20N.V..txt) |
 | CGI GLOBAL LIMITED | 128 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CloudBackbone.txt) |
-| Contabo GmbH | 74 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 71 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EGIHosting.txt) |
 | FASTWARP LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FASTWARP%20LLP.txt) |
 | FEELB SARL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FEELB%20SARL.txt) |
@@ -25,12 +25,13 @@
 | HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HOSTKEY%20B.V..txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HZ%20Hosting%20Ltd.txt) |
 | Host Europe GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Host%20Europe%20GmbH.txt) |
+| Hosteons Pte. Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Hosteons%20Pte.%20Ltd..txt) |
 | IPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPXO.txt) |
 | Jogcorp SAS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Jogcorp%20SAS.txt) |
 | Kokunov Evgeny Andreevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Kokunov%20Evgeny%20Andreevich.txt) |
-| Kutumova Olena | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Kutumova%20Olena.txt) |
+| Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Kutumova%20Olena.txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Linode.txt) |
-| MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/MVPS%20LTD.txt) |
+| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/MVPS%20LTD.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Microsoft%20Corporation.txt) |
 | Mo_s Operations GmbH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Mo_s%20Operations%20GmbH.txt) |
 | NET 145 223 68 0 22 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NET%20145%20223%2068%200%2022.txt) |
@@ -53,9 +54,9 @@
 | UNKNOWN | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/UNKNOWN.txt) |
 | VIRTUASYS PARIS (PAR01FR) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | VPS static ips | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/VPS%20static%20ips.txt) |
-| Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Vultr%20Holdings_%20LLC.txt) |
+| Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/WorkTitans%20B.V..txt) |
-| as56971 network | 46 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
+| as56971 network | 45 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-28 23:07 UTC*
+*最後更新：2026-06-29 08:49 UTC*
