@@ -28,4 +28,4 @@
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 
 ---
-*最後更新：2026-06-29 18:11 UTC*
+*最後更新：2026-06-29 23:01 UTC*
