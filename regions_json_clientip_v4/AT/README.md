@@ -19,4 +19,4 @@
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-06-29 08:49 UTC*
+*最後更新：2026-06-29 14:11 UTC*
