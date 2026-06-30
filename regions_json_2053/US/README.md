@@ -1,21 +1,21 @@
 # US （純 IP）
 
-**共 618 條** · [返回主頁](../../README.md)
+**共 615 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/3HCLOUD%20LLC.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Anton%20Levin.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc..txt) |
-| CGI GLOBAL LIMITED | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CloudBackbone.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%20London_%20LLC.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
 | DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
 | DigitalOcean_ LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DigitalOcean_%20LLC.txt) |
-| EXTRAVM LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/EXTRAVM%20LLC.txt) |
+| EXTRAVM LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/EXTRAVM%20LLC.txt) |
 | Exabytes Network (Singapore) Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Exabytes%20Network%20%28Singapore%29%20Pte%20Ltd.txt) |
 | Fiberpower LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Fiberpower%20LLC.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HOSTKEY%20B.V..txt) |
@@ -40,7 +40,7 @@
 | UltaHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/UltaHost.txt) |
 | Unify Media Ltd | 512 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Unify%20Media%20Ltd.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Vultr%20Holdings_%20LLC.txt) |
-| as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
+| as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-29 23:01 UTC*
+*最後更新：2026-06-30 07:41 UTC*

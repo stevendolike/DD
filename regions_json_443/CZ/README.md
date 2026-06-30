@@ -10,8 +10,7 @@
 | Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/GREEN%20FLOID%20LLC.txt) |
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Green%20Floid%20LLC.txt) |
-| HOST-TELECOM.COM s.r.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
-| Iron Hosting Centre LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
+| HOST-TELECOM.COM s.r.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | Iron Hosting Centre Ltd._ London_ UK (mchost) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Iron%20Hosting%20Centre%20Ltd._%20London_%20UK%20%28mchost%29.txt) |
 | SmartApe OU | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
 | UPC Ceska republika_ a.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/UPC%20Ceska%20republika_%20a.s..txt) |
@@ -19,4 +18,4 @@
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-06-29 23:01 UTC*
+*最後更新：2026-06-30 07:41 UTC*

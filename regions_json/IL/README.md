@@ -1,6 +1,6 @@
 # IL 
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/_all_443.txt)
 
@@ -10,7 +10,6 @@
 | GOLDENLINES ADSL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/GOLDENLINES%20ADSL.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | The Constant Company_ LLC. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/The%20Constant%20Company_%20LLC..txt) |
-| Webhost LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IL/Webhost%20LLC.txt) |
 
 ---
-*最後更新：2026-06-29 23:01 UTC*
+*最後更新：2026-06-30 07:41 UTC*
