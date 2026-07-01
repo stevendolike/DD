@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 171 條** · [返回主頁](../../README.md)
+**共 172 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
@@ -31,6 +31,7 @@
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Private%20Customer.txt) |
 | Privex Sweden General Customers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Privex%20Sweden%20General%20Customers.txt) |
+| SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SEBEK%20sp.%20z%20o.o.txt) |
 | SIA VEESP | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
 | TAKEHOST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/TAKEHOST.txt) |
@@ -42,4 +43,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

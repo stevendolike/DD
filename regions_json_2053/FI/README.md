@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 71 條** · [返回主頁](../../README.md)
+**共 70 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/_all.txt)
 
@@ -17,7 +17,7 @@
 | H2NEXUS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/H2NEXUS%20LTD.txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/HOSTKEY%20B.V..txt) |
 | Hetzner Online GmbH | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Hetzner%20Online%20GmbH.txt) |
-| I-SERVERS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/I-SERVERS%20LTD.txt) |
+| I-SERVERS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/I-SERVERS%20LTD.txt) |
 | IP MARKET - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/IP%20MARKET%20-%20FZCO.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | NetCrafters OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/NetCrafters%20OU.txt) |
@@ -25,11 +25,11 @@
 | PSERVERS Enterprise Network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/PSERVERS%20Enterprise%20Network.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/QWINS%20Hosting.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/SERV.HOST%20GROUP%20LTD.txt) |
-| Senko Digital LLC - FI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Senko%20Digital%20LLC%20-%20FI.txt) |
+| Senko Digital LLC - FI Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
 | Snowd Security OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Snowd%20Security%20OU.txt) |
 | WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/WorkTitans%20B.V..txt) |
 | Xorek.Cloud Helsinki | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Xorek.Cloud%20Helsinki.txt) |
 | nuxt.cloud hosting provider | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/nuxt.cloud%20hosting%20provider.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

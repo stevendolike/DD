@@ -1,14 +1,14 @@
 # GB （純 IP）
 
-**共 800 條** · [返回主頁](../../README.md)
+**共 796 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/AEZA%20GROUP%20Ltd.txt) |
-| Aeza International LTD | 256 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Aeza%20International%20LTD.txt) |
-| Amazon Data Services UK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Amazon%20Data%20Services%20UK.txt) |
+| Aeza International LTD | 253 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Aeza%20International%20LTD.txt) |
+| Amazon Data Services UK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Amazon%20Data%20Services%20UK.txt) |
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BG-NETWORK.txt) |
 | BT-R101-TEST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BT-R101-TEST.txt) |
@@ -48,4 +48,4 @@
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

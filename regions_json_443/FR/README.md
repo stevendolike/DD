@@ -12,7 +12,7 @@
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CloudBackbone.txt) |
-| Contabo GmbH | 50 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 51 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FEELB%20SARL.txt) |
 | GANDI-HOSTING DC0 DATACENTER PA2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GANDI-HOSTING%20DC0%20DATACENTER%20PA2.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -45,7 +45,7 @@
 | VPS static ips | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VPS%20static%20ips.txt) |
 | Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/WorkTitans%20B.V..txt) |
-| as56971 network | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
+| as56971 network | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

@@ -1,6 +1,6 @@
 # FR 
 
-**共 875 條** · [返回主頁](../../README.md)
+**共 874 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all_443.txt)
 
@@ -55,7 +55,7 @@
 | VPS static ips | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/VPS%20static%20ips.txt) |
 | Vultr Holdings_ LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/WorkTitans%20B.V..txt) |
-| as56971 network | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
+| as56971 network | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

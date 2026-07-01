@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 42 條** · [返回主頁](../../README.md)
+**共 43 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/_all.txt)
 
@@ -13,6 +13,7 @@
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/FASTWARP%20LLP.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | H2.NEXUS Warsaw Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/H2.NEXUS%20Warsaw%20Network.txt) |
+| HOSTOFF infrastructure and hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | NET 185 226 181 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NET%20185%20226%20181%200%2024.txt) |
 | NET 45 149 63 0 24 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NET%2045%20149%2063%200%2024.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NetGrid%20Host%20LTD.txt) |
@@ -24,4 +25,4 @@
 | Warsaw_ Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Warsaw_%20Poland.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

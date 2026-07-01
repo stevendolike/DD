@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 83 條** · [返回主頁](../../README.md)
+**共 84 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -26,10 +26,10 @@
 | OVH CH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/OVH%20CH.txt) |
 | Oracle Public Cloud | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Prinode%20AB.txt) |
-| RouterHosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | WebPros International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/WebPros%20International%20GmbH.txt) |
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

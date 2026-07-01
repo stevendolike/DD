@@ -1,13 +1,13 @@
 # LV （純 IP）
 
-**共 136 條** · [返回主頁](../../README.md)
+**共 134 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Beget%20LLC.txt) |
-| CGI GLOBAL LIMITED | 70 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 60 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Dmitrii Vladimirovich Malkov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Green%20Floid%20LLC.txt) |
@@ -16,6 +16,7 @@
 | IPv6 services for dedicated servers and VDS_VPS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/IPv6%20services%20for%20dedicated%20servers%20and%20VDS_VPS.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Melbikomas%20UAB.txt) |
 | Mistic Internet Security Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
+| Private Customer | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Private%20Customer.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/RETN%20Limited.txt) |
 | SIA VEESP | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Subnet%20Digital%20LLC.txt) |
@@ -23,4 +24,4 @@
 | as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

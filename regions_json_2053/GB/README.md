@@ -1,13 +1,13 @@
 # GB （純 IP）
 
-**共 110 條** · [返回主頁](../../README.md)
+**共 112 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20GROUP%20LLC.txt) |
-| Aeza International LTD | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Aeza%20International%20LTD.txt) |
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
 | DigitalOcean_ LLC | 78 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean_%20LLC.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
@@ -21,4 +21,4 @@
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

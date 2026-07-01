@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt)
 
@@ -13,7 +13,6 @@
 | MivoCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/MivoCloud.txt) |
 | RCS _ RDS Campia-Turzii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RCS%20_%20RDS%20Campia-Turzii.txt) |
 | STYLISH BY A_L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/STYLISH%20BY%20A_L%20SRL.txt) |
-| ZetServers Bucharest | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ZetServers%20Bucharest.txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*

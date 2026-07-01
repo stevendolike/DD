@@ -1,12 +1,11 @@
 # DE 
 
-**共 810 條** · [返回主頁](../../README.md)
+**共 809 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 139.162.0.0_16 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/139.162.0.0_16.txt) |
 | 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/3NT%20SOLUTIONS%20LLP.txt) |
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/3nt%20solutions%20LLP.txt) |
@@ -20,8 +19,9 @@
 | Alibaba Cloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Alibaba%20Cloud%20LLC.txt) |
 | Ambyre LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Ambyre%20LLC.txt) |
 | Amsterdam_ Netherlands | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Amsterdam_%20Netherlands.txt) |
-| Anexia Holding GmbH | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Anexia%20Holding%20GmbH.txt) |
+| Anexia Holding GmbH | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Anexia%20Holding%20GmbH.txt) |
 | Angin Segar Ventures LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Angin%20Segar%20Ventures%20LLC.txt) |
+| Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Anton%20Levin.txt) |
 | Assigned to ORG-HIP1-RIPE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/BG-NETWORK.txt) |
 | Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Baxet%20Group%20Inc..txt) |
@@ -61,7 +61,7 @@
 | Hetzner Online GmbH | 95 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Hetzner%20Online%20GmbH.txt) |
 | Hostishere.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Hostishere.com.txt) |
 | Huize Holdings LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Huize%20Holdings%20LLC.txt) |
-| INTERKVM HOST SRL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/INTERKVM%20HOST%20SRL.txt) |
+| INTERKVM HOST SRL | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/INTERKVM%20HOST%20SRL.txt) |
 | IONOS SE | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/IONOS%20SE.txt) |
 | IP Lomakin Artem Aleksandrovich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/IP%20Lomakin%20Artem%20Aleksandrovich.txt) |
 | IP-Projects GmbH _ Co. KG | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/IP-Projects%20GmbH%20_%20Co.%20KG.txt) |
@@ -71,9 +71,9 @@
 | IT-Garage | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/IT-Garage.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Kamatera Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Kamatera%20Inc.txt) |
-| Kaopu Cloud HK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Kaopu%20Cloud%20HK%20Limited.txt) |
 | Kirino LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Kirino%20LLC.txt) |
 | Kyonix Hosting - kyonix.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Kyonix%20Hosting%20-%20kyonix.com.txt) |
+| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/LIGHT%20NODE%20LIMITED.txt) |
 | Layer7 Networks GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/Layer7%20Networks%20GmbH.txt) |
 | M247 LTD Frankfurt Infrastructure | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/M247%20LTD%20Frankfurt%20Infrastructure.txt) |
 | MHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/MHost%20LLC.txt) |
@@ -126,7 +126,7 @@
 | dataforest GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/dataforest%20GmbH.txt) |
 | freakhosting.com | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/freakhosting.com.txt) |
 | lease for Timeweb | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/lease%20for%20Timeweb.txt) |
-| netcup GmbH | 63 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/netcup%20GmbH.txt) |
+| netcup GmbH | 61 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/netcup%20GmbH.txt) |
 | noezIplease | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/noezIplease.txt) |
 | nuxt.cloud hosting provider | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/nuxt.cloud%20hosting%20provider.txt) |
 | nuxt.cloud | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/nuxt.cloud.txt) |
@@ -138,4 +138,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-06-30 23:16 UTC*
+*最後更新：2026-07-01 08:03 UTC*
