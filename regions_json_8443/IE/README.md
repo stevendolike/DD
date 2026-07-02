@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Amazon Data Services Ireland Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Amazon.com_%20Inc..txt) |
-| RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/RackNerd%20LLC.txt) |
+| Angelnet Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Angelnet%20Limited.txt) |
 
 ---
-*最後更新：2026-07-01 23:19 UTC*
+*最後更新：2026-07-02 06:59 UTC*

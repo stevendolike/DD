@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/AEZA%20GROUP%20LLC.txt) |
-| ALEXHOST SRL | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/ALEXHOST%20SRL.txt) |
+| AEZA GROUP LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/AEZA%20GROUP%20LLC.txt) |
+| ALEXHOST SRL | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/ALEXHOST%20SRL.txt) |
 | Aeza International LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Aeza%20International%20LTD.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/MVPS%20LTD.txt) |
@@ -16,4 +16,4 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-07-01 23:19 UTC*
+*最後更新：2026-07-02 06:59 UTC*

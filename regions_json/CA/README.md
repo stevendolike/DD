@@ -1,6 +1,6 @@
 # CA 
 
-**共 125 條** · [返回主頁](../../README.md)
+**共 128 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -10,11 +10,12 @@
 | BrainStorm Network_ Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/BrainStorm%20Network_%20Inc.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/CENTRILOGICCANADA.txt) |
 | Cloud Web Manage | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cloud%20Web%20Manage.txt) |
+| Cloudflare_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cloudflare_%20Inc..txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cluster%20Logic%20Inc.txt) |
 | Cogeco Cable Canada Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Cable%20Canada%20Inc..txt) |
 | DigitalOcean_ LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean_%20LLC.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
-| HostPapa | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
+| HostPapa | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/IT7%20Networks%20Inc.txt) |
 | ITGLOBAL.COM NL B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/ITGLOBAL.COM%20NL%20B.V..txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Linode.txt) |
@@ -24,6 +25,7 @@
 | Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/The%20Constant%20Company_%20LLC.txt) |
 | Unify Media Ltd | 64 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Unify%20Media%20Ltd.txt) |
+| Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-01 23:19 UTC*
+*最後更新：2026-07-02 06:59 UTC*
