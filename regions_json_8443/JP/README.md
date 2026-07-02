@@ -25,4 +25,4 @@
 | xTom Japan Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-07-02 12:14 UTC*
+*最後更新：2026-07-02 17:54 UTC*

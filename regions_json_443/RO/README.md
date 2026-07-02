@@ -16,4 +16,4 @@
 | STYLISH BY A_L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/STYLISH%20BY%20A_L%20SRL.txt) |
 
 ---
-*最後更新：2026-07-02 12:14 UTC*
+*最後更新：2026-07-02 17:54 UTC*
