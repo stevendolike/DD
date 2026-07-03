@@ -9,4 +9,4 @@
 | EDIS IPv6 Infrastructure in Greece | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GR/EDIS%20IPv6%20Infrastructure%20in%20Greece.txt) |
 
 ---
-*最後更新：2026-07-03 12:13 UTC*
+*最後更新：2026-07-03 17:38 UTC*
