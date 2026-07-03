@@ -1,13 +1,13 @@
 # GB （純 IP）
 
-**共 827 條** · [返回主頁](../../README.md)
+**共 818 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/AEZA%20GROUP%20Ltd.txt) |
-| Aeza International LTD | 260 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Aeza%20International%20LTD.txt) |
+| Aeza International LTD | 257 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Aeza%20International%20LTD.txt) |
 | Amazon Data Services UK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Amazon%20Data%20Services%20UK.txt) |
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BG-NETWORK.txt) |
@@ -17,7 +17,7 @@
 | CLOUVIDER Virtual Machines | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/CLOUVIDER%20Virtual%20Machines.txt) |
 | Clouvider Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Clouvider%20Limited.txt) |
 | DigitalOcean London | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%20London.txt) |
-| DigitalOcean_ LLC | 318 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 315 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean_%20LLC.txt) |
 | EDIS Infrastructure in the London Docklands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/EDIS%20Infrastructure%20in%20the%20London%20Docklands.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Fabric_zone.txt) |
 | G-Core Labs S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/G-Core%20Labs%20S.A..txt) |
@@ -33,11 +33,10 @@
 | Kirino LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Kirino%20LLC.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode.txt) |
 | Linode_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode_%20LLC.txt) |
-| M247 LTD London Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/M247%20LTD%20London%20Infrastructure.txt) |
 | MASSIVEGRID LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/MASSIVEGRID%20LTD.txt) |
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Microsoft%20Limited.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
-| OVH Ltd | 170 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/OVH%20Ltd.txt) |
+| OVH Ltd | 169 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/OVH%20Ltd.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Oracle%20Svenska%20AB.txt) |
@@ -47,8 +46,8 @@
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/STYLISH%20BY%20A_L%20SRL.txt) |
 | SoftShell Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/SoftShell%20Hosting%20Ltd.txt) |
 | The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/The%20Constant%20Company_%20LLC..txt) |
-| Zenlayer Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
+| Zenlayer Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

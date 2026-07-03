@@ -1,6 +1,6 @@
 # HK 
 
-**共 64 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all_443.txt)
 
@@ -8,12 +8,11 @@
 |------|--------|---------|
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365.partners%20INC.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
-| ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ACE.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20-%20HK.txt) |
-| BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BAGE%20CLOUD%20LLC.txt) |
+| BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BAGE%20CLOUD%20LLC.txt) |
 | BINARY NETWORKS SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BINARY%20NETWORKS%20SOLUTIONS%20LLC.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Baxet%20Group%20Inc..txt) |
 | CGI GLOBAL LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/CGI%20GLOBAL%20LIMITED.txt) |
@@ -43,4 +42,4 @@
 | ihc.hk vps in Hong Kong | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

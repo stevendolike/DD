@@ -12,4 +12,4 @@
 | Hosting Provider EuroHoster Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Provider%20EuroHoster%20Ltd..txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

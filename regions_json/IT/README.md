@@ -1,6 +1,6 @@
 # IT 
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all_443.txt)
 
@@ -13,6 +13,7 @@
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Linode.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Microsoft%20Corporation.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
+| plym.cc network - Milan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/plym.cc%20network%20-%20Milan.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

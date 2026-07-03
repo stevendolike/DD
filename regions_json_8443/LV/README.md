@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 130 條** · [返回主頁](../../README.md)
+**共 131 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
@@ -18,10 +18,10 @@
 | Mistic Internet Security Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
 | Private Customer | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Private%20Customer.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/RETN%20Limited.txt) |
-| SIA VEESP | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Subnet%20Digital%20LLC.txt) |
 | Versija SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Versija%20SIA.txt) |
 | as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

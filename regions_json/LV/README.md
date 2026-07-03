@@ -10,7 +10,7 @@
 | Baxet Group Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Baykov%20Ilya%20Sergeevich.txt) |
 | Beget LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Beget%20LLC.txt) |
-| CGI GLOBAL LIMITED | 159 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 158 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CloudBackbone.txt) |
 | Dmitrii Vladimirovich Malkov | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
@@ -18,22 +18,22 @@
 | Green Floid LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Green%20Floid%20LLC.txt) |
 | HostVDS.com Cloud Provider | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
-| IPv6 services for dedicated servers and VDS_VPS | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/IPv6%20services%20for%20dedicated%20servers%20and%20VDS_VPS.txt) |
+| IPv6 services for dedicated servers and VDS_VPS | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/IPv6%20services%20for%20dedicated%20servers%20and%20VDS_VPS.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Melbikomas%20UAB.txt) |
 | Mistic Internet Security Pty Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
 | NANO ADTECH DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/NANO%20ADTECH%20DC.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/NetGrid%20Host%20LTD.txt) |
 | Neterra Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Neterra%20Ltd..txt) |
+| Packethub S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Packethub%20S.A..txt) |
 | Private Customer | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Private%20Customer.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/RETN%20Limited.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SA.txt) |
-| SIA VEESP | 115 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 116 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Subnet%20Digital%20LLC.txt) |
-| Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Versija%20SIA.txt) |
-| as56971 network | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
+| as56971 network | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

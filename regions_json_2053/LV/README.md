@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 118 條** · [返回主頁](../../README.md)
+**共 119 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/_all.txt)
 
@@ -16,10 +16,10 @@
 | IPv6 services for dedicated servers and VDS_VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/IPv6%20services%20for%20dedicated%20servers%20and%20VDS_VPS.txt) |
 | Mistic Internet Security Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
 | Private Customer | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Private%20Customer.txt) |
-| SIA VEESP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Subnet%20Digital%20LLC.txt) |
 | as56971 network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

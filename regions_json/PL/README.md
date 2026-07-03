@@ -1,6 +1,6 @@
 # PL 
 
-**共 179 條** · [返回主頁](../../README.md)
+**共 173 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
@@ -29,7 +29,7 @@
 | HOSTKEY B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HZ%20Hosting%20Ltd.txt) |
-| Host4Biz sp. z o.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o..txt) |
+| Host4Biz sp. z o.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o..txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IROKO%20Networks%20Corporation.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Intezio Networks Warsaw | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Intezio%20Networks%20Warsaw.txt) |
@@ -40,19 +40,18 @@
 | NetGrid Host LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/NetGrid%20Host%20LTD.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Netia%20SA.txt) |
 | Newserverlife LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o. | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o..txt) |
+| OVH Sp. z o. o. | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Podaon%20SIA.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Private%20Customer.txt) |
 | QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/QWINS%20Hosting.txt) |
-| SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SEBEK%20sp.%20z%20o.o.txt) |
+| SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SEBEK%20sp.%20z%20o.o.txt) |
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SERVA%20ONE%20LTD.txt) |
 | Scaleway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Scaleway.txt) |
 | Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Snowd%20Security%20OU.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company_ LLC. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company_%20LLC..txt) |
 | The Constant Company_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company_%20LLC.txt) |
-| UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/UpCloud%20Cloud%20Servers.txt) |
 | Warsaw_ Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Warsaw_%20Poland.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 | interlir | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/interlir.txt) |
@@ -60,4 +59,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

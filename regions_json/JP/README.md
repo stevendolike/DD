@@ -1,6 +1,6 @@
 # JP 
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 126 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all_443.txt)
 
@@ -18,11 +18,11 @@
 | BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/BBIX%20IPv6%20Network.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Baxet%20Group%20Inc..txt) |
 | ByteVirt LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ByteVirt%20LLC.txt) |
-| CYBERJET PTE. LTD. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/CYBERJET%20PTE.%20LTD..txt) |
-| Cloudflare London_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cloudflare%20London_%20LLC.txt) |
+| CYBERJET PTE. LTD. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/CYBERJET%20PTE.%20LTD..txt) |
+| Cloudflare London_ LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cloudflare%20London_%20LLC.txt) |
 | Contabo Asia Private Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | DDPS Networks_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DDPS%20Networks_%20LLC.txt) |
-| DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
+| DIAMOND IP BROKERS FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | DMIT Cloud Service - Tokyo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Evoxt.com.txt) |
 | Geelinx WAN _ Tokyo_ Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Geelinx%20WAN%20_%20Tokyo_%20Japan.txt) |
@@ -30,10 +30,10 @@
 | KAGOYA JAPAN Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/KAGOYA%20JAPAN%20Inc..txt) |
 | Leaseweb Japan K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Leaseweb%20Japan%20K.K..txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Linode.txt) |
-| Nearoute Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Nearoute%20Limited.txt) |
+| Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Nearoute%20Limited.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
-| Oracle Corporation | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Corporation | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
+| Oracle Public Cloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
 | PSINet_ Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/PSINet_%20Inc..txt) |
 | Prime Security Corp. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Prime%20Security%20Corp..txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Private%20Customer.txt) |
@@ -50,4 +50,4 @@
 | xTom Japan Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

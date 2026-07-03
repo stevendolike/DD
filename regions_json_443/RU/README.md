@@ -13,6 +13,7 @@
 | Cloud Technologies LLC trading as Cloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Cloud%20Technologies%20LLC%20trading%20as%20Cloud.ru.txt) |
 | Comfortel Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Comfortel%20Ltd..txt) |
 | Domain names registrar REG.RU_ Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Domain%20names%20registrar%20REG.RU_%20Ltd.txt) |
+| EdgeCenter LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | Happy Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Happy%20Technologies%20LLC.txt) |
@@ -40,7 +41,7 @@
 | OOO VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/OOO%20VPS.txt) |
 | Okay-Telecom Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Okay-Telecom%20Ltd..txt) |
 | OnTelecom LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/OnTelecom%20LLC.txt) |
-| PSERVERS Enterprise Network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PSERVERS%20Enterprise%20Network.txt) |
+| PSERVERS Enterprise Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PSERVERS%20Enterprise%20Network.txt) |
 | RuWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/RuWeb%20LLC.txt) |
 | Russia_ Moscow | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Russia_%20Moscow.txt) |
 | SIA Serverum | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SIA%20Serverum.txt) |
@@ -67,4 +68,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

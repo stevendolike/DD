@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 95 條** · [返回主頁](../../README.md)
+**共 93 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
 
@@ -16,19 +16,19 @@
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/BAGE%20CLOUD%20LLC.txt) |
 | BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/BBIX%20IPv6%20Network.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Baxet%20Group%20Inc..txt) |
-| CYBERJET PTE. LTD. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/CYBERJET%20PTE.%20LTD..txt) |
-| Cloudflare London_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Cloudflare%20London_%20LLC.txt) |
+| CYBERJET PTE. LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/CYBERJET%20PTE.%20LTD..txt) |
+| Cloudflare London_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Cloudflare%20London_%20LLC.txt) |
 | Contabo Asia Private Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | DDPS Networks_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/DDPS%20Networks_%20LLC.txt) |
+| DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | DMIT Cloud Service - Tokyo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Evoxt.com.txt) |
 | ISIF Network (Japan Tokyo) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ISIF%20Network%20%28Japan%20Tokyo%29.txt) |
 | KAGOYA JAPAN Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/KAGOYA%20JAPAN%20Inc..txt) |
 | Leaseweb Japan K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Leaseweb%20Japan%20K.K..txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Linode.txt) |
-| Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Nearoute%20Limited.txt) |
-| Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Corporation.txt) |
+| Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Public%20Cloud.txt) |
 | PSINet_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/PSINet_%20Inc..txt) |
 | Prime Security Corp. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Prime%20Security%20Corp..txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Private%20Customer.txt) |
@@ -42,4 +42,4 @@
 | Vultr Holdings_ LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

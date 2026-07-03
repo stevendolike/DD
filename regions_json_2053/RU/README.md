@@ -10,8 +10,8 @@
 | Domain names registrar REG.RU_ Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Domain%20names%20registrar%20REG.RU_%20Ltd.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | Hosting technology LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Hosting%20technology%20LTD.txt) |
-| JSC IOT | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20IOT.txt) |
-| JSC TIMEWEB | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
+| JSC IOT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20IOT.txt) |
+| JSC TIMEWEB | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
 | LLC Baxet | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Baxet.txt) |
 | LLC IT BASIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20IT%20BASIS.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Vpsville.txt) |
@@ -30,4 +30,4 @@
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*

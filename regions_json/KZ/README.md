@@ -1,12 +1,12 @@
 # KZ 
 
-**共 52 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3NT%20SOLUTIONS%20LLP.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Anton%20Levin.txt) |
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Beget%20LLC.txt) |
@@ -18,7 +18,7 @@
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
 | Megahost Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Modern%20Server%20Solutions%20LLP.txt) |
-| ONEHOST LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/ONEHOST%20LLP.txt) |
+| ONEHOST LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/ONEHOST%20LLP.txt) |
 | PS Internet Company LLP | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Quasar%20LLC.txt) |
 | Servercore Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Servercore%20Network.txt) |
@@ -27,4 +27,4 @@
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-07-02 23:11 UTC*
+*最後更新：2026-07-03 06:53 UTC*
