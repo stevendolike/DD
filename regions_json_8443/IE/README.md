@@ -11,4 +11,4 @@
 | Angelnet Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Angelnet%20Limited.txt) |
 
 ---
-*最後更新：2026-07-03 17:38 UTC*
+*最後更新：2026-07-03 23:08 UTC*
