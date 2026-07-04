@@ -1,6 +1,6 @@
 # CY （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CY/_all.txt)
 
@@ -8,6 +8,7 @@
 |------|--------|---------|
 | CLOUDLAYER8 LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CY/CLOUDLAYER8%20LIMITED.txt) |
 | HostRoyale Technologies Pvt Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CY/HostRoyale%20Technologies%20Pvt%20Ltd.txt) |
+| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CY/MVPS%20LTD.txt) |
 
 ---
-*最後更新：2026-07-03 23:08 UTC*
+*最後更新：2026-07-04 06:39 UTC*

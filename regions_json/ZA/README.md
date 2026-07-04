@@ -6,10 +6,11 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/Oracle%20Svenska%20AB.txt) |
-| The Constant Company_ LLC. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/The%20Constant%20Company_%20LLC..txt) |
+| Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/Oracle%20Svenska%20AB.txt) |
+| Telkom SA Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/Telkom%20SA%20Ltd..txt) |
+| The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/The%20Constant%20Company_%20LLC..txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/The%20Constant%20Company_%20LLC.txt) |
 | xneelo-tscolo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/xneelo-tscolo.txt) |
 
 ---
-*最後更新：2026-07-03 23:08 UTC*
+*最後更新：2026-07-04 06:39 UTC*

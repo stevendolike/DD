@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RU/AEZA%20GROUP%20Ltd.txt) |
+| SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RU/SERV.HOST%20GROUP%20LTD.txt) |
 
 ---
-*最後更新：2026-07-03 23:08 UTC*
+*最後更新：2026-07-04 06:39 UTC*

@@ -6,7 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| EDIS IPv6 Infrastructure in North Macedonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MK/EDIS%20IPv6%20Infrastructure%20in%20North%20Macedonia.txt) |
+| AVSISP MACEDONIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MK/AVSISP%20MACEDONIA.txt) |
+| EDIS IPv6 Infrastructure in North Macedonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MK/EDIS%20IPv6%20Infrastructure%20in%20North%20Macedonia.txt) |
 
 ---
-*最後更新：2026-07-03 23:08 UTC*
+*最後更新：2026-07-04 06:39 UTC*

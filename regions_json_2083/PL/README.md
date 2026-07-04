@@ -1,0 +1,14 @@
+# PL （純 IP）
+
+**共 3 條** · [返回主頁](../../README.md)
+
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/_all.txt)
+
+| 組織 | 條目數 | Raw URL |
+|------|--------|---------|
+| IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/IROKO%20Networks%20Corporation.txt) |
+| South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/South%20Park%20Networks%20LLC.txt) |
+| UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/UpCloud%20Cloud%20Servers.txt) |
+
+---
+*最後更新：2026-07-04 06:39 UTC*
