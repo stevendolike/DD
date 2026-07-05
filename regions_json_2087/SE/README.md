@@ -6,10 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SE/AEZA%20GROUP%20LLC.txt) |
 | Aeza International LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SE/Aeza%20International%20LTD.txt) |
-| RapidSeedbox Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SE/RapidSeedbox%20Ltd.txt) |
+| RapidSeedbox Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SE/RapidSeedbox%20Ltd.txt) |
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SE/SIA%20VEESP.txt) |
 
 ---
-*最後更新：2026-07-04 23:00 UTC*
+*最後更新：2026-07-05 06:59 UTC*

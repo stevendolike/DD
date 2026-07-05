@@ -1,21 +1,21 @@
 # FI （純 IP）
 
-**共 843 條** · [返回主頁](../../README.md)
+**共 833 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/1Cent%20Host.txt) |
+| 1Cent Host | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/3NT%20SOLUTIONS%20LLP.txt) |
 | AEZA GROUP LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/AEZA%20GROUP%20LLC.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Ace Data Centers II_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Ace%20Data%20Centers%20II_%20LLC.txt) |
 | Aeza International LTD | 46 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Aeza%20International%20LTD.txt) |
 | Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Anton%20Levin.txt) |
-| BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/BG-NETWORK.txt) |
+| BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/BG-NETWORK.txt) |
 | Baxet Group Inc. | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Baxet%20Group%20Inc..txt) |
-| Baykov Ilya Sergeevich | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Baykov%20Ilya%20Sergeevich.txt) |
 | CHSL Helsinki | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/CHSL%20Helsinki.txt) |
 | Cloudflare London_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Cloudflare%20London_%20LLC.txt) |
 | Creanova | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Creanova.txt) |
@@ -25,7 +25,7 @@
 | FI-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FI-Network.txt) |
 | FIRST SERVER LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
-| FlokiNET | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FlokiNET.txt) |
+| FlokiNET | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FlokiNET.txt) |
 | GCS Service Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/GCS%20Service%20Network.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | H2.NEXUS Helsinki Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/H2.NEXUS%20Helsinki%20Network.txt) |
@@ -39,9 +39,9 @@
 | HOSTKEY B.V. | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOSTKEY%20B.V..txt) |
 | Hetzner Online GmbH | 152 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Hetzner%20Online%20GmbH.txt) |
 | I-SERVERS LTD | 63 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/I-SERVERS%20LTD.txt) |
-| IP MARKET - FZCO | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IP%20MARKET%20-%20FZCO.txt) |
+| IP MARKET - FZCO | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IP%20MARKET%20-%20FZCO.txt) |
 | IT-Garage | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IT-Garage.txt) |
-| Individual Entrepreneur Anton Levin | 46 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Individual Entrepreneur Anton Levin | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Intezio Worldwide Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Intezio%20Worldwide%20Limited.txt) |
 | Iranian Research Organization for Science _ Technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Iranian%20Research%20Organization%20for%20Science%20_%20Technology.txt) |
 | LIVI HOSTING LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/LIVI%20HOSTING%20LTD.txt) |
@@ -67,7 +67,7 @@
 | UNKNOWN | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/UpCloud%20Cloud%20Servers.txt) |
 | VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/VPSPay%20-%20vpspay.cloud.txt) |
-| WAIcore Ltd | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WAIcore%20Ltd.txt) |
+| WAIcore Ltd | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WAIcore%20Ltd.txt) |
 | Web1 Oy | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Web1%20Oy.txt) |
 | WorkTitans B.V. | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WorkTitans%20B.V..txt) |
 | Xorek.Cloud Helsinki | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Xorek.Cloud%20Helsinki.txt) |
@@ -76,8 +76,8 @@
 | jogcorp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/jogcorp.txt) |
 | nuxt.cloud hosting provider | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/nuxt.cloud%20hosting%20provider.txt) |
 | nuxtcloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/nuxtcloud.txt) |
-| play2go.cloud - Cheap and reliable hosting | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
-| u1host Finland | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/u1host%20Finland.txt) |
+| play2go.cloud - Cheap and reliable hosting | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
+| u1host Finland | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-07-04 23:00 UTC*
+*最後更新：2026-07-05 06:59 UTC*
