@@ -9,4 +9,4 @@
 | Majordomo.ru net in Amsterdam_ NL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RS/Majordomo.ru%20net%20in%20Amsterdam_%20NL.txt) |
 
 ---
-*最後更新：2026-07-05 11:40 UTC*
+*最後更新：2026-07-05 17:17 UTC*
