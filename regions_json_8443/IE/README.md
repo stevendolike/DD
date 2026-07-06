@@ -1,6 +1,6 @@
 # IE （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/_all.txt)
 
@@ -8,8 +8,8 @@
 |------|--------|---------|
 | Amazon Data Services Ireland Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Amazon.com_%20Inc..txt) |
-| Angelnet Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Angelnet%20Limited.txt) |
+| Angelnet Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/Angelnet%20Limited.txt) |
 | RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/RackNerd%20LLC.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

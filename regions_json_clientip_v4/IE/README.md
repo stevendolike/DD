@@ -8,11 +8,10 @@
 |------|--------|---------|
 | Amazon Data Services Ireland Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
 | Amazon.com_ Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Amazon.com_%20Inc..txt) |
-| Angelnet Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Angelnet%20Limited.txt) |
+| Angelnet Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Angelnet%20Limited.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/HostPapa.txt) |
 | INTERKVM HOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/INTERKVM%20HOST%20SRL.txt) |
 | RackNerd LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/RackNerd%20LLC.txt) |
-| Sternforth Ltd. trading as WebWorld | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Sternforth%20Ltd.%20trading%20as%20WebWorld.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

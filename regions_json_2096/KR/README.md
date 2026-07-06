@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/KR/Oracle%20Public%20Cloud.txt) |
+| SK Broadband Co Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/KR/SK%20Broadband%20Co%20Ltd.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

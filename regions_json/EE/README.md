@@ -1,6 +1,6 @@
 # EE 
 
-**共 155 條** · [返回主頁](../../README.md)
+**共 130 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt)
 
@@ -10,8 +10,8 @@
 | 3NT SOLUTIONS LLP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | Aktsiaselts WaveCom | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Aktsiaselts%20WaveCom.txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
-| BlueVPS OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
+| BlueVPS OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
+| Brainoza OU | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Cogent%20Communications_%20LLC.txt) |
 | Dynamic Links | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Dynamic%20Links.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
@@ -22,9 +22,9 @@
 | Host-World OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Host-World%20OU.txt) |
 | HostSlim OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HostSlim%20OU.txt) |
 | IB Compute Systems Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IB%20Compute%20Systems%20Inc.txt) |
-| IPv6 network for hosting services | 48 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| IPv6 network for hosting services | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | IROKO Networks Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IROKO%20Networks%20Corporation.txt) |
-| Network for hosting services | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Network%20for%20hosting%20services.txt) |
+| Network for hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Network%20for%20hosting%20services.txt) |
 | QWINS Hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/QWINS%20Hosting.txt) |
 | QWINS-Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/QWINS-Hosting.txt) |
 | RAKAR INVESTMENTS HOLDING B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V..txt) |
@@ -32,7 +32,7 @@
 | SERV.HOST GROUP LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SERV.HOST%20GROUP%20LTD.txt) |
 | Wavecom Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Wavecom%20Infrastructure.txt) |
 | servinga.com - Estonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
-| xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
+| xTom OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

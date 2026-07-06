@@ -8,10 +8,10 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/3NT%20SOLUTIONS%20LLP.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Oracle%20Corporation.txt) |
+| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Oracle%20Public%20Cloud.txt) |
 | SPRINTHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/SPRINTHOST%20LLP.txt) |
-| The Constant Company_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/The%20Constant%20Company_%20LLC.txt) |
+| The Constant Company_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/The%20Constant%20Company_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

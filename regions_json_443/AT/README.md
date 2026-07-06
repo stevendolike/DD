@@ -1,6 +1,6 @@
 # AT （純 IP）
 
-**共 57 條** · [返回主頁](../../README.md)
+**共 54 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/_all.txt)
 
@@ -13,7 +13,7 @@
 | EDIS IPv6 Infrastructure in Austria | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/EDIS%20IPv6%20Infrastructure%20in%20Austria.txt) |
 | Evolus IT Solutions GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
 | FDCservers.net | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/FDCservers.net.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/HostHatch%20LLC.txt) |
 | IPAX GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/IPAX%20GmbH.txt) |
 | Iron Hosting Centre Ltd._ London_ UK (mchost) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Iron%20Hosting%20Centre%20Ltd._%20London_%20UK%20%28mchost%29.txt) |
@@ -24,4 +24,4 @@
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

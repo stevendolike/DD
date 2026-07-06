@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/365%20Group%20LLC.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/365.partners%20INC.txt) |
-| AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/AEZA%20GROUP%20Ltd.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Aeza International LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Aeza%20International%20LTD.txt) |
@@ -28,14 +28,14 @@
 | Denis Terehov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Denis%20Terehov.txt) |
 | Digital City FZE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Digital%20City%20FZE.txt) |
 | Digital Ocean_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Digital%20Ocean_%20Inc..txt) |
-| DigitalOcean_ LLC | 188 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 187 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/DigitalOcean_%20LLC.txt) |
 | Eurobyte VPS (Iron Hosting Centre Ltd._ London_ UK) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Eurobyte%20VPS%20%28Iron%20Hosting%20Centre%20Ltd._%20London_%20UK%29.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/FIRST%20SERVER%20LIMITED.txt) |
 | FOXCLOUD LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/FOXCLOUD%20LLP.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GOLD IP L.L.C-FZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/GOLD%20IP%20L.L.C-FZ.txt) |
 | Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Green%20Floid%20LLC.txt) |
-| HOST TELECOM LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/HOST%20TELECOM%20LTD.txt) |
+| HOST TELECOM LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/HOST%20TELECOM%20LTD.txt) |
 | HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/HOSTKEY%20B.V..txt) |
 | Hizakura B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Hizakura%20B.V..txt) |
 | Host9x Web Solutions Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Host9x%20Web%20Solutions%20Limited.txt) |
@@ -48,7 +48,6 @@
 | JSC TIMEWEB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/JSC%20TIMEWEB.txt) |
 | Kamatera Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Kamatera%20Inc.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Linode.txt) |
-| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/MVPS%20LTD.txt) |
 | NovoServe B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/NovoServe%20B.V..txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | Podaon SIA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Podaon%20SIA.txt) |
@@ -73,4 +72,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

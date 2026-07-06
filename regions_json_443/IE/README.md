@@ -1,6 +1,6 @@
 # IE （純 IP）
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/_all.txt)
 
@@ -12,7 +12,6 @@
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/HostPapa.txt) |
 | INTERKVM HOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/INTERKVM%20HOST%20SRL.txt) |
 | RackNerd LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/RackNerd%20LLC.txt) |
-| Sternforth Ltd. trading as WebWorld | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/Sternforth%20Ltd.%20trading%20as%20WebWorld.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*

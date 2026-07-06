@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 49 條** · [返回主頁](../../README.md)
+**共 51 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt)
 
@@ -22,8 +22,8 @@
 | White Label Services_ LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services_%20LLC.txt) |
 | WorkTitans B.V. | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/WorkTitans%20B.V..txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
+| YottaSrc Hosting and Cloud Services | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-07-05 23:05 UTC*
+*最後更新：2026-07-06 08:09 UTC*
