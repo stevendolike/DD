@@ -12,4 +12,4 @@
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Hurricane%20Electric%20LLC.txt) |
 
 ---
-*最後更新：2026-07-06 18:14 UTC*
+*最後更新：2026-07-06 23:11 UTC*
