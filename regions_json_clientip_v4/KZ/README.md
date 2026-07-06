@@ -32,4 +32,4 @@
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-07-06 08:09 UTC*
+*最後更新：2026-07-06 13:53 UTC*
