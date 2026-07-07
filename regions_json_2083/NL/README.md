@@ -10,8 +10,8 @@
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | DigitalOcean_ LLC | 182 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/DigitalOcean_%20LLC.txt) |
 | Greencloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Greencloud%20LLC.txt) |
-| Hosting Provider EuroHoster Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Provider%20EuroHoster%20Ltd..txt) |
+| Hosting Provider Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Provider%20Virterion%20LLC.txt) |
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Pronet%20LLC.txt) |
 
 ---
-*最後更新：2026-07-06 23:11 UTC*
+*最後更新：2026-07-07 07:28 UTC*

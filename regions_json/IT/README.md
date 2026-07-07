@@ -1,6 +1,6 @@
 # IT 
 
-**共 33 條** · [返回主頁](../../README.md)
+**共 32 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Aruba S.p.A. - Cloud Services DC1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20DC1.txt) |
 | Aruba S.p.A. - Cloud Services Farm2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20Farm2.txt) |
-| Aruba S.p.A. - Cloud Services IT1 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20IT1.txt) |
+| Aruba S.p.A. - Cloud Services IT1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20IT1.txt) |
 | Aruba S.p.A. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A..txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Baxet%20Group%20Inc..txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/BlueVPS%20OU.txt) |
@@ -24,4 +24,4 @@
 | plym.cc network - Milan | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/plym.cc%20network%20-%20Milan.txt) |
 
 ---
-*最後更新：2026-07-06 23:11 UTC*
+*最後更新：2026-07-07 07:28 UTC*
