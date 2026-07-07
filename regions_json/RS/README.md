@@ -15,4 +15,4 @@
 | eServer s.r.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/eServer%20s.r.o..txt) |
 
 ---
-*最後更新：2026-07-07 18:04 UTC*
+*最後更新：2026-07-07 23:05 UTC*

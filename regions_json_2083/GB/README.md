@@ -12,4 +12,4 @@
 | DigitalOcean_ LLC | 76 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/DigitalOcean_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-07 18:04 UTC*
+*最後更新：2026-07-07 23:05 UTC*
