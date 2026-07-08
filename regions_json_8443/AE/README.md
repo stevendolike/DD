@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AE/Oracle%20Corporation.txt) |
+| IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AE/IROKO%20Networks%20Corporation.txt) |
 
 ---
-*最後更新：2026-07-07 23:05 UTC*
+*最後更新：2026-07-08 06:21 UTC*
