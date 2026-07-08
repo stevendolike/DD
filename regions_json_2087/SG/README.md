@@ -9,4 +9,4 @@
 | OVH SINGAPOR DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SG/OVH%20SINGAPOR%20DC.txt) |
 
 ---
-*最後更新：2026-07-08 17:42 UTC*
+*最後更新：2026-07-08 23:11 UTC*
