@@ -16,4 +16,4 @@
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/oracle.txt) |
 
 ---
-*最後更新：2026-07-08 11:50 UTC*
+*最後更新：2026-07-08 17:42 UTC*
