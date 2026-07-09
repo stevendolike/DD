@@ -17,4 +17,4 @@
 | RouterHosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CH/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-07-09 18:00 UTC*
+*最後更新：2026-07-09 23:15 UTC*

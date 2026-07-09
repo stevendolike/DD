@@ -9,4 +9,4 @@
 | R_R Managed Telecom Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/R_R%20Managed%20Telecom%20Services.txt) |
 
 ---
-*最後更新：2026-07-09 18:00 UTC*
+*最後更新：2026-07-09 23:15 UTC*
