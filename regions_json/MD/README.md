@@ -16,4 +16,4 @@
 | OvO Systems Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/OvO%20Systems%20Ltd..txt) |
 
 ---
-*最後更新：2026-07-09 07:28 UTC*
+*最後更新：2026-07-09 12:45 UTC*
