@@ -9,4 +9,4 @@
 | Chunghwa Telecom Data Communication Business Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
 
 ---
-*最後更新：2026-07-09 12:45 UTC*
+*最後更新：2026-07-09 18:00 UTC*
