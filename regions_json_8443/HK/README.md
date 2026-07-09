@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 38 條** · [返回主頁](../../README.md)
+**共 36 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
@@ -18,7 +18,6 @@
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Evoxt.com.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Google%20LLC.txt) |
 | HUIZE TELECOM LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/HUIZE%20TELECOM%20LIMITED.txt) |
-| HYTRON PRIVATE CUSTOMER | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/HYTRON%20PRIVATE%20CUSTOMER.txt) |
 | Hong Kong Broadband Network Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hong%20Kong%20Broadband%20Network%20Ltd.txt) |
 | Hongkong Wen Jing Network Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | NET6-AS202662 | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/NET6-AS202662.txt) |
@@ -26,11 +25,11 @@
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/RIPE%20NCC.txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/STYLISH%20BY%20A_L%20SRL.txt) |
 | Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Subnet%20Digital%20LLC.txt) |
-| VH Global Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VH%20Global%20Limited.txt) |
+| VH Global Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VH%20Global%20Limited.txt) |
 | VMISS Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc..txt) |
 | ZOUTER HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ZOUTER%20HK.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/as56971%20network.txt) |
 | ihc.hk vps in Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

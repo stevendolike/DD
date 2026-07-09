@@ -9,7 +9,7 @@
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/AEZA%20GROUP%20LLC.txt) |
 | Amsterdam_ Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Amsterdam_%20Netherlands.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Baykov%20Ilya%20Sergeevich.txt) |
-| DigitalOcean_ LLC | 158 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 159 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean_%20LLC.txt) |
 | Eons Data Communications Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Eons%20Data%20Communications%20Limited.txt) |
 | Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Fornex%20Hosting%20S.L..txt) |
 | Germany_ Frankfurt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Germany_%20Frankfurt.txt) |
@@ -22,9 +22,9 @@
 | Senko Digital LLC - DE Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
 | Strato GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Strato%20GmbH.txt) |
 | UltaHost Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/UltaHost%20Inc.txt) |
-| dataforest GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/dataforest%20GmbH.txt) |
+| dataforest GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/dataforest%20GmbH.txt) |
 | netcup GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/netcup%20GmbH.txt) |
 | u1host ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/u1host%20ltd.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

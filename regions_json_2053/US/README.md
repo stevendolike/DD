@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 657 條** · [返回主頁](../../README.md)
+**共 653 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -12,8 +12,6 @@
 | Atlas Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Atlas%20Networks%20Corporation.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc..txt) |
 | CGI GLOBAL LIMITED | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
-| Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%20London_%20LLC.txt) |
-| Comcast Cable Communications_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Comcast%20Cable%20Communications_%20LLC.txt) |
 | Contabo Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Contabo%20Inc..txt) |
 | DMIT Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
 | DigitalOcean_ LLC | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DigitalOcean_%20LLC.txt) |
@@ -31,12 +29,11 @@
 | Huize Holdings LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Huize%20Holdings%20LLC.txt) |
 | IONOS Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/IONOS%20Inc..txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/IT7%20Networks%20Inc.txt) |
-| KURUN CLOUD INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/KURUN%20CLOUD%20INC.txt) |
 | Layer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Layer.txt) |
 | LeaseWeb USA_ Inc. Los Angeles | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/LeaseWeb%20USA_%20Inc.%20Los%20Angeles.txt) |
 | Leaseweb USA_ Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Leaseweb%20USA_%20Inc..txt) |
 | Namecheap_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Namecheap_%20Inc..txt) |
-| NetCrafters OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
+| NetCrafters OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
 | NetLab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetLab.txt) |
 | OVH US LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/OVH%20US%20LLC.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Oracle%20Corporation.txt) |
@@ -55,4 +52,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/xTom.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

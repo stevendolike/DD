@@ -1,6 +1,6 @@
 # AT 
 
-**共 99 條** · [返回主頁](../../README.md)
+**共 100 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all_443.txt)
 
@@ -13,8 +13,9 @@
 | InterLIR-Marketplace | 54 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/InterLIR-Marketplace.txt) |
 | Iron Hosting Centre Ltd._ London_ UK (mchost) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Iron%20Hosting%20Centre%20Ltd._%20London_%20UK%20%28mchost%29.txt) |
 | NETAXIS GROUP LTD | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/NETAXIS%20GROUP%20LTD.txt) |
+| Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Prinode%20AB.txt) |
 | RapidSeedbox Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/RapidSeedbox%20Ltd.txt) |
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

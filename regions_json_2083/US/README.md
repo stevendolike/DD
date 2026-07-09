@@ -1,15 +1,14 @@
 # US （純 IP）
 
-**共 52 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cloudflare%20London_%20LLC.txt) |
+| Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cloudflare%20London_%20LLC.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cluster%20Logic%20Inc.txt) |
 | DigitalOcean_ LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/DigitalOcean_%20LLC.txt) |
-| Easy Link LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Easy%20Link%20LLC.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Google%20LLC.txt) |
 | HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/HostPapa.txt) |
 | Hostsymbol Pte. Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hostsymbol%20Pte.%20Ltd..txt) |
@@ -24,4 +23,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

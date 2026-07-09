@@ -6,12 +6,12 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/AEZA%20GROUP%20LLC.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
 | Blockchain Games N.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Blockchain%20Games%20N.V..txt) |
-| CGI GLOBAL LIMITED | 58 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 57 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CloudBackbone.txt) |
 | Contabo GmbH | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/EGIHosting.txt) |
@@ -24,7 +24,7 @@
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Linode.txt) |
 | Mo_s Operations GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Mo_s%20Operations%20GmbH.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/NetCrafters%20OU.txt) |
-| OVH SAS | 182 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
+| OVH SAS | 184 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
 | Ohz | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Ohz.txt) |
 | RACKNERD-FR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RACKNERD-FR.txt) |
 | RackNerd_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RackNerd_%20LLC.txt) |
@@ -38,4 +38,4 @@
 | as56971 network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 160 條** · [返回主頁](../../README.md)
+**共 155 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -11,8 +11,8 @@
 | Artnet Sp. z o.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Artnet%20Sp.%20z%20o.o..txt) |
 | BREEZLE LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BREEZLE%20LLC.txt) |
 | Baxet Group Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baxet%20Group%20Inc..txt) |
-| Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baykov%20Ilya%20Sergeevich.txt) |
-| BlueVPS OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BlueVPS%20OU.txt) |
+| Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baykov%20Ilya%20Sergeevich.txt) |
+| BlueVPS OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BlueVPS%20OU.txt) |
 | BrainStorm Network_ Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BrainStorm%20Network_%20Inc.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Cloudflare%20London_%20LLC.txt) |
 | EDIS Infrastructure in Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
@@ -39,7 +39,7 @@
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NetGrid%20Host%20LTD.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Netia%20SA.txt) |
 | Newserverlife LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o. | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/OVH%20Sp.%20z%20o.%20o..txt) |
+| OVH Sp. z o. o. | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | Podaon SIA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Podaon%20SIA.txt) |
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Pronet%20LLC.txt) |
 | QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/QWINS%20Hosting.txt) |
@@ -49,11 +49,11 @@
 | Snowd Security OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Snowd%20Security%20OU.txt) |
 | The Constant Company_ LLC. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/The%20Constant%20Company_%20LLC..txt) |
 | The Constant Company_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/The%20Constant%20Company_%20LLC.txt) |
-| UpCloud Cloud Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/UpCloud%20Cloud%20Servers.txt) |
+| UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/UpCloud%20Cloud%20Servers.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 | interlir | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/interlir.txt) |
 | nodehost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/nodehost.txt) |
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

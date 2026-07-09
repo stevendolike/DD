@@ -1,6 +1,6 @@
 # JP 
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 36 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all_443.txt)
 
@@ -12,23 +12,21 @@
 | Akile LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Akile%20LTD.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Amazon Data Services Osaka | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Amazon%20Data%20Services%20Osaka.txt) |
-| Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Amazon.com_%20Inc..txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Baxet%20Group%20Inc..txt) |
 | CTG Server Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/CTG%20Server%20Ltd..txt) |
-| Cloudflare_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Cloudflare_%20Inc..txt) |
 | DIAMOND IP BROKERS FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
-| Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Google%20LLC.txt) |
+| Dromatics Systems Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Dromatics%20Systems%20Pte%20Ltd.txt) |
+| Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Google%20LLC.txt) |
+| Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Nearoute%20Limited.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
 | Oracle Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Public%20Cloud.txt) |
-| PSINet_ Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/PSINet_%20Inc..txt) |
+| PSINet_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/PSINet_%20Inc..txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Private%20Customer.txt) |
 | SAKURA Internet Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/SAKURA%20Internet%20Inc..txt) |
-| TYO_VULTR_CUST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/TYO_VULTR_CUST.txt) |
-| The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/The%20Constant%20Company_%20LLC..txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/The%20Constant%20Company_%20LLC.txt) |
 | Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Vultr%20Holdings_%20LLC.txt) |
 | oneprovider.com - Tokyo Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/oneprovider.com%20-%20Tokyo%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

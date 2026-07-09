@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 52 條** · [返回主頁](../../README.md)
+**共 51 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
@@ -20,8 +20,7 @@
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Private%20Customer.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SEBEK%20sp.%20z%20o.o.txt) |
 | SIA VEESP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SIA%20VEESP.txt) |
-| South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/South%20Park%20Networks%20LLC.txt) |
 | Vultr Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

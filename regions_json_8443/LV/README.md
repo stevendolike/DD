@@ -1,13 +1,13 @@
 # LV （純 IP）
 
-**共 149 條** · [返回主頁](../../README.md)
+**共 147 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Beget LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Beget%20LLC.txt) |
-| CGI GLOBAL LIMITED | 59 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 57 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Dmitrii Vladimirovich Malkov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Green%20Floid%20LLC.txt) |
@@ -24,4 +24,4 @@
 | as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

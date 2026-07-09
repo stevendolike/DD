@@ -1,6 +1,6 @@
 # TR 
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all_443.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 2E TELEKOMUNIKASYON LTD STI | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 2E Telekomunikasyon LTD. STI. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/2E%20Telekomunikasyon%20LTD.%20STI..txt) |
-| BIG CORE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/BIG%20CORE%20LLC.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Deployish%20Limited.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/G-Core%20Labs%20Customer%20assignment.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
@@ -32,4 +31,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

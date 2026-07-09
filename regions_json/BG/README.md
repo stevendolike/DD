@@ -1,6 +1,6 @@
 # BG 
 
-**共 71 條** · [返回主頁](../../README.md)
+**共 69 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all_443.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 2E Telecommunications Ltd. Co. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/2E%20Telecommunications%20Ltd.%20Co..txt) |
 | 2E Telekomunikasyon LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
-| ALEXHOST SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ALEXHOST%20SRL.txt) |
 | AlphaVPS LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/AlphaVPS%20LLC.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Baxet%20Group%20Inc..txt) |
 | Belcloud LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Belcloud%20LTD.txt) |
@@ -29,4 +28,4 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

@@ -1,6 +1,6 @@
 # AM （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Proitlab LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/Proitlab%20LLC.txt) |
+| Proitlab LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AM/Proitlab%20LLC.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

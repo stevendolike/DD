@@ -1,6 +1,6 @@
 # SE 
 
-**共 266 條** · [返回主頁](../../README.md)
+**共 262 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/3NT%20SOLUTIONS%20LLP.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 117 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 115 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
 | ALEXHOST SRL | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20SRL.txt) |
 | Angelnet Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Angelnet%20Limited.txt) |
 | Assigned to ORG-HIP1-RIPE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
@@ -38,8 +38,7 @@
 | RapidSeedbox Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/RapidSeedbox%20Ltd.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SA.txt) |
 | SEBEK sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SEBEK%20sp.%20z%20o.o.txt) |
-| SIA VEESP | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
-| South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/South%20Park%20Networks%20LLC.txt) |
+| SIA VEESP | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
 | Sweden infrastructure | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Sweden%20infrastructure.txt) |
 | The subnet 2a0c_5700_3133_1705___64 in this range is used for TOR-Exit services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20subnet%202a0c_5700_3133_1705___64%20in%20this%20range%20is%20used%20for%20TOR-Exit%20services.txt) |
 | UpCloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UpCloud%20Ltd.txt) |
@@ -48,4 +47,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

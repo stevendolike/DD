@@ -1,6 +1,6 @@
 # AE 
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/_all_443.txt)
 
@@ -12,9 +12,8 @@
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/G-Core%20Labs%20Customer%20assignment.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/IROKO%20Networks%20Corporation.txt) |
 | ITGLOBAL COM DMCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/ITGLOBAL%20COM%20DMCC.txt) |
-| M247 Europe - Dubai Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/M247%20Europe%20-%20Dubai%20Infrastructure.txt) |
 | Oneprovider.com - Dubai Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oneprovider.com%20-%20Dubai%20Infrastructure.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oracle%20Svenska%20AB.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

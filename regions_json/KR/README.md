@@ -1,6 +1,6 @@
 # KR 
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 37 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all_443.txt)
 
@@ -11,12 +11,12 @@
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Amazon.com_%20Inc..txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Cloudflare%20London_%20LLC.txt) |
 | Great Flower | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Great%20Flower.txt) |
-| Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corporation.txt) |
+| Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Prinode%20AB.txt) |
 | SK Broadband Co Ltd | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/SK%20Broadband%20Co%20Ltd.txt) |
-| The Constant Company_ LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/The%20Constant%20Company_%20LLC.txt) |
+| The Constant Company_ LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/The%20Constant%20Company_%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/oracle.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*

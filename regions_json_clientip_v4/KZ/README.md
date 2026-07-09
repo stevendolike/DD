@@ -1,6 +1,6 @@
 # KZ 
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all_443.txt)
 
@@ -26,8 +26,7 @@
 | PS Internet Company LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Quasar%20LLC.txt) |
 | Servercore Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Servercore%20Network.txt) |
-| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/WorkTitans%20B.V..txt) |
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-07-08 23:11 UTC*
+*最後更新：2026-07-09 07:28 UTC*
