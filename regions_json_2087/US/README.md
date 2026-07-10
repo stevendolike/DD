@@ -1,13 +1,13 @@
 # US （純 IP）
 
-**共 47 條** · [返回主頁](../../README.md)
+**共 48 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AT_T Enterprises_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/AT_T%20Enterprises_%20LLC.txt) |
-| DMIT Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DMIT%20Cloud%20Services.txt) |
+| DMIT Cloud Services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DMIT%20Cloud%20Services.txt) |
 | DigitalOcean_ LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean_%20LLC.txt) |
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/EGIHosting.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Google%20LLC.txt) |
@@ -23,4 +23,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-09 23:15 UTC*
+*最後更新：2026-07-10 07:26 UTC*

@@ -25,11 +25,11 @@
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/OVH%20Hispano.txt) |
 | Orange Spain Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Orange%20Spain%20Network.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Snowd%20Security%20OU.txt) |
+| The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/The%20Constant%20Company_%20LLC..txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/UpCloud%20Cloud%20Servers.txt) |
 | arsys.es | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.es.txt) |
 | arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.pt.txt) |
-| oneprovider.com - Barcelona Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/oneprovider.com%20-%20Barcelona%20Infrastructure.txt) |
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-09 23:15 UTC*
+*最後更新：2026-07-10 07:26 UTC*

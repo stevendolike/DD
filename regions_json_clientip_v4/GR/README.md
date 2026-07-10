@@ -1,6 +1,6 @@
 # GR 
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Asimia Damaskou - Aweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/Asimia%20Damaskou%20-%20Aweb.txt) |
 | Kaopu Cloud HK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/Kaopu%20Cloud%20HK%20Limited.txt) |
-| MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/MVPS%20LTD.txt) |
+| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/MVPS%20LTD.txt) |
 
 ---
-*最後更新：2026-07-09 23:15 UTC*
+*最後更新：2026-07-10 07:26 UTC*

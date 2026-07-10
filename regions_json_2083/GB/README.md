@@ -6,10 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/AEZA%20GROUP%20LLC.txt) |
 | AEZA NETWORK FRANKFURT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/AEZA%20NETWORK%20FRANKFURT.txt) |
-| AEZA NETWORK STOCKHOLM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/AEZA%20NETWORK%20STOCKHOLM.txt) |
 | DigitalOcean_ LLC | 75 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/DigitalOcean_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-09 23:15 UTC*
+*最後更新：2026-07-10 07:26 UTC*
