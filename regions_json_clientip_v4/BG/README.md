@@ -23,4 +23,4 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-07-10 07:26 UTC*
+*最後更新：2026-07-10 12:29 UTC*
