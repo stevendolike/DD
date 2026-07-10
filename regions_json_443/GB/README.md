@@ -57,4 +57,4 @@
 | Zenlayer Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
 
 ---
-*最後更新：2026-07-10 12:29 UTC*
+*最後更新：2026-07-10 17:50 UTC*
