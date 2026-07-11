@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 448 條** · [返回主頁](../../README.md)
+**共 446 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/_all.txt)
 
@@ -20,7 +20,7 @@
 | Cloud Hosting Solutions_ Limited. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Cloud%20Hosting%20Solutions_%20Limited..txt) |
 | Customer allocation HB Client 11647 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Customer%20allocation%20HB%20Client%2011647.txt) |
 | Datalix | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Datalix.txt) |
-| Deployish Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Deployish%20Limited.txt) |
+| Deployish Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Deployish%20Limited.txt) |
 | DigitalOcean_ LLC | 169 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/DigitalOcean_%20LLC.txt) |
 | EnSilica Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/EnSilica%20Ltd.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Evoxt.com.txt) |
@@ -56,7 +56,7 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Oracle%20Svenska%20AB.txt) |
 | PDK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/PDK%20LLC.txt) |
-| QWINS Hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/QWINS%20Hosting.txt) |
+| QWINS Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/QWINS%20Hosting.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/RCS%20Technologies%20FZE%20LLC.txt) |
 | RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/RouterHosting%20LLC.txt) |
 | SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/SERV.HOST%20GROUP%20LTD.txt) |
@@ -85,4 +85,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

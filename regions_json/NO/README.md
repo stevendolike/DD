@@ -1,6 +1,6 @@
 # NO 
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Baxet%20Group%20Inc..txt) |
 | EDIS IPv6 Infrastructure in Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/EDIS%20IPv6%20Infrastructure%20in%20Norway.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | H4F.NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/H4F.NET.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/IROKO%20Networks%20Corporation.txt) |
@@ -16,4 +16,4 @@
 | WebHorizon Norway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

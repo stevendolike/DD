@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 51 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
@@ -21,14 +21,13 @@
 | IPv6 services for VDS_VPS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/IPv6%20services%20for%20VDS_VPS.txt) |
 | LEASEWEB SINGAPORE PTE. LTD. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD..txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Linode.txt) |
-| Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Melbikomas%20UAB.txt) |
 | OVH SINGAPOR DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/OVH%20SINGAPOR%20DC.txt) |
-| Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
 | PI-SINGAPORE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/PI-SINGAPORE.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SG.GS.txt) |
 | SGP_VULTR_CUST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SGP_VULTR_CUST.txt) |
 | The Constant Company_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/The%20Constant%20Company_%20LLC.txt) |
-| Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings_%20LLC.txt) |
+| Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

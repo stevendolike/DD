@@ -1,12 +1,11 @@
 # KZ （純 IP）
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/3HCLOUD%20LLC.txt) |
 | Beget LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Beget%20LLC.txt) |
 | HostLab LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/HostLab%20LLC.txt) |
 | Hosting Pro (Hosting Pro) LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Hosting%20Pro%20%28Hosting%20Pro%29%20LLP.txt) |
@@ -16,4 +15,4 @@
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

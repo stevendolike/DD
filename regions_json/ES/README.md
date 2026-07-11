@@ -1,6 +1,6 @@
 # ES 
 
-**共 136 條** · [返回主頁](../../README.md)
+**共 135 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/BlueVPS%20OU.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Cloudflare%20London_%20LLC.txt) |
 | EDIS GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/EDIS%20GmbH.txt) |
-| FIRST SERVER_ SOCIEDAD LIMITADA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER_ SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GREEN%20FLOID%20LLC.txt) |
 | GTHost | 90 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GTHost.txt) |
@@ -33,4 +33,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

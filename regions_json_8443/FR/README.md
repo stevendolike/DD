@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 330 條** · [返回主頁](../../README.md)
+**共 323 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/_all.txt)
 
@@ -11,7 +11,7 @@
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Blockchain Games N.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Blockchain%20Games%20N.V..txt) |
 | CGI GLOBAL LIMITED | 60 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
-| CloudBackbone | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CloudBackbone.txt) |
+| CloudBackbone | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CloudBackbone.txt) |
 | Contabo GmbH | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/EGIHosting.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/FASTWARP%20LLP.txt) |
@@ -20,19 +20,17 @@
 | Host Europe GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Host%20Europe%20GmbH.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Kutumova%20Olena.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Linode.txt) |
-| Mo_s Operations GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Mo_s%20Operations%20GmbH.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/NetCrafters%20OU.txt) |
 | OVH SAS | 176 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
 | Ohz | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Ohz.txt) |
-| RACKNERD-FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RACKNERD-FR.txt) |
-| RackNerd_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RackNerd_%20LLC.txt) |
+| RackNerd_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RackNerd_%20LLC.txt) |
 | Scaleway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Scaleway.txt) |
 | Subnet Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Subnet%20Digital%20LLC.txt) |
 | TakeHost.Biz | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/TakeHost.Biz.txt) |
 | VPS static ips | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/VPS%20static%20ips.txt) |
-| Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Vultr%20Holdings_%20LLC.txt) |
+| Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/WorkTitans%20B.V..txt) |
-| as56971 network | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
+| as56971 network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

@@ -1,6 +1,6 @@
 # IE 
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/_all_443.txt)
 
@@ -11,8 +11,8 @@
 | Angelnet Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Angelnet%20Limited.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Cloudflare%20London_%20LLC.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/HostPapa.txt) |
-| INTERKVM HOST SRL | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/INTERKVM%20HOST%20SRL.txt) |
+| INTERKVM HOST SRL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/INTERKVM%20HOST%20SRL.txt) |
 | RackNerd LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/RackNerd%20LLC.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

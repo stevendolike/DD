@@ -1,6 +1,6 @@
 # IN 
 
-**共 29 條** · [返回主頁](../../README.md)
+**共 30 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all_443.txt)
 
@@ -15,9 +15,10 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Microsoft%20Corporation.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Oracle%20Corporation.txt) |
+| P.D.R Solutions FZC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/P.D.R%20Solutions%20FZC.txt) |
 | The Constant Company_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/The%20Constant%20Company_%20LLC.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Vultr%20Holdings_%20LLC.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

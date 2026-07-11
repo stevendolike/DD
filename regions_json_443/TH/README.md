@@ -1,6 +1,6 @@
 # TH （純 IP）
 
-**共 34 條** · [返回主頁](../../README.md)
+**共 35 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/_all.txt)
 
@@ -12,9 +12,9 @@
 | RDCW Company Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/RDCW%20Company%20Limited.txt) |
 | ReadyIDC CO._LTD. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC%20CO._LTD..txt) |
 | ReadyIDC Co._ Ltd. | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC%20Co._%20Ltd..txt) |
-| ReadyIDC Co._Ltd. | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC%20Co._Ltd..txt) |
+| ReadyIDC Co._Ltd. | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC%20Co._Ltd..txt) |
 | ReadyIDC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/ReadyIDC.txt) |
 | VP InfoTech Co._ Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/VP%20InfoTech%20Co._%20Ltd..txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

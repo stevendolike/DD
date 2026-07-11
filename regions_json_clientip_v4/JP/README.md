@@ -1,6 +1,6 @@
 # JP 
 
-**共 35 條** · [返回主頁](../../README.md)
+**共 36 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all_443.txt)
 
@@ -11,14 +11,13 @@
 | Akile LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Akile%20LTD.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Baxet%20Group%20Inc..txt) |
-| DIAMOND IP BROKERS FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
-| Dromatics Systems Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Dromatics%20Systems%20Pte%20Ltd.txt) |
+| DIAMOND IP BROKERS FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/DIAMOND%20IP%20BROKERS%20FZCO.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Google%20LLC.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Linode.txt) |
+| NetFuture Technology LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/NetFuture%20Technology%20LLC.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
 | Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Public%20Cloud.txt) |
-| OrangeVPS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/OrangeVPS%20LLC.txt) |
+| Oracle Public Cloud | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Public%20Cloud.txt) |
 | PSINet_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/PSINet_%20Inc..txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Private%20Customer.txt) |
 | SAKURA Internet Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/SAKURA%20Internet%20Inc..txt) |
@@ -28,4 +27,4 @@
 | oneprovider.com - Tokyo Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/oneprovider.com%20-%20Tokyo%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

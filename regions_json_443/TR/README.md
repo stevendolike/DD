@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 37 條** · [返回主頁](../../README.md)
+**共 35 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt)
 
@@ -18,10 +18,9 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Private%20Customer.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI..txt) |
 | White Label Services_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services_%20LLC.txt) |
-| WorkTitans B.V. | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/WorkTitans%20B.V..txt) |
-| YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
+| WorkTitans B.V. | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/WorkTitans%20B.V..txt) |
 | YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

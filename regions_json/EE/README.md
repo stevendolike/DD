@@ -9,9 +9,9 @@
 | 1Cent Host | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | Aktsiaselts WaveCom | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Aktsiaselts%20WaveCom.txt) |
-| Baykov Ilya Sergeevich | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Cogent%20Communications_%20LLC.txt) |
 | Dynamic Links | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Dynamic%20Links.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
@@ -34,4 +34,4 @@
 | xTom OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

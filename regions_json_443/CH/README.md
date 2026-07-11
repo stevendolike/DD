@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 110 條** · [返回主頁](../../README.md)
+**共 111 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -15,7 +15,7 @@
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting_ Geronimo Ramirez | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting_%20Geronimo%20Ramirez.txt) |
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HOSTKEY%20B.V..txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HostHatch.txt) |
@@ -33,4 +33,4 @@
 | evoxt.com | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

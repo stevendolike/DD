@@ -1,14 +1,13 @@
 # GB （純 IP）
 
-**共 85 條** · [返回主頁](../../README.md)
+**共 84 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/AEZA%20GROUP%20LLC.txt) |
-| AEZA NETWORK FRANKFURT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/AEZA%20NETWORK%20FRANKFURT.txt) |
 | DigitalOcean_ LLC | 75 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/DigitalOcean_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

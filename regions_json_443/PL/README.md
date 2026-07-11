@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 148 條** · [返回主頁](../../README.md)
+**共 147 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -15,7 +15,6 @@
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BlueVPS%20OU.txt) |
 | BrainStorm Network_ Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BrainStorm%20Network_%20Inc.txt) |
-| EDIS Infrastructure in Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Evoxt.com.txt) |
 | ExpressHost LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/FASTWARP%20LLP.txt) |
@@ -25,7 +24,7 @@
 | GOLD IP L.L.C-FZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GOLD%20IP%20L.L.C-FZ.txt) |
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GREEN%20FLOID%20LLC.txt) |
 | HOSTKEY B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V..txt) |
-| HOSTOFF infrastructure and hosting services | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HOSTOFF infrastructure and hosting services | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HZ%20Hosting%20Ltd.txt) |
 | Host4Biz sp. z o.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o..txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Hurricane%20Electric%20LLC.txt) |
@@ -53,8 +52,8 @@
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/UpCloud%20Cloud%20Servers.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 | interlir | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/interlir.txt) |
-| nodehost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/nodehost.txt) |
+| nodehost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/nodehost.txt) |
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

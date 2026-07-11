@@ -1,13 +1,12 @@
 # US （純 IP）
 
-**共 46 條** · [返回主頁](../../README.md)
+**共 44 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cloudflare%20London_%20LLC.txt) |
-| Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cluster%20Logic%20Inc.txt) |
 | DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/DMIT%20Cloud%20Services.txt) |
 | DigitalOcean_ LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/DigitalOcean_%20LLC.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Google%20LLC.txt) |
@@ -19,8 +18,7 @@
 | Leaseweb USA_ Inc. | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Leaseweb%20USA_%20Inc..txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/NetCrafters%20OU.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Oracle%20Corporation.txt) |
-| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/as56971%20network.txt) |
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

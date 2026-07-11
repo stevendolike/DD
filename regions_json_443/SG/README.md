@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 219 條** · [返回主頁](../../README.md)
+**共 216 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/_all.txt)
 
@@ -19,8 +19,7 @@
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/BAGE%20CLOUD%20LLC.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Baxet%20Group%20Inc..txt) |
 | Contabo Asia Private Limited | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Contabo%20Asia%20Private%20Limited.txt) |
-| DigitalOcean_ LLC | 160 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean_%20LLC.txt) |
-| Equidity Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Equidity%20Technologies%20LLC.txt) |
+| DigitalOcean_ LLC | 158 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean_%20LLC.txt) |
 | Hetzner Online GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Hetzner%20Online%20GmbH.txt) |
 | Huawei-Cloud-SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Huawei-Cloud-SG.txt) |
 | IPv6 services for VDS_VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/IPv6%20services%20for%20VDS_VPS.txt) |
@@ -32,12 +31,12 @@
 | Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Public%20Cloud.txt) |
 | PRIVATE CUSTOMER | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/PRIVATE%20CUSTOMER.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Private%20Customer.txt) |
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/RouterHosting%20LLC.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SG.GS.txt) |
 | The Constant Company_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/The%20Constant%20Company_%20LLC.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/UCUL-SG.txt) |
+| Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Vultr%20Holdings_%20LLC.txt) |
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

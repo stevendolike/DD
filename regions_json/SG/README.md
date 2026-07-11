@@ -1,6 +1,6 @@
 # SG 
 
-**共 283 條** · [返回主頁](../../README.md)
+**共 278 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all_443.txt)
 
@@ -23,8 +23,7 @@
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Baxet%20Group%20Inc..txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Cloudflare%20London_%20LLC.txt) |
 | Contabo Asia Private Limited | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Contabo%20Asia%20Private%20Limited.txt) |
-| DigitalOcean_ LLC | 174 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/DigitalOcean_%20LLC.txt) |
-| Equidity Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Equidity%20Technologies%20LLC.txt) |
+| DigitalOcean_ LLC | 172 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/DigitalOcean_%20LLC.txt) |
 | Hetzner Online GmbH | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Hetzner%20Online%20GmbH.txt) |
 | Huawei-Cloud-SG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Huawei-Cloud-SG.txt) |
 | IPv6 services for VDS_VPS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/IPv6%20services%20for%20VDS_VPS.txt) |
@@ -32,14 +31,12 @@
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Linode.txt) |
 | Linode_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Linode_%20LLC.txt) |
 | M1 LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/M1%20LIMITED.txt) |
-| Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Melbikomas%20UAB.txt) |
 | OVH SINGAPOR DC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/OVH%20SINGAPOR%20DC.txt) |
-| Oracle Corporation | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Public%20Cloud.txt) |
 | PI-SINGAPORE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/PI-SINGAPORE.txt) |
 | PRIVATE CUSTOMER | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/PRIVATE%20CUSTOMER.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Prinode%20AB.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Private%20Customer.txt) |
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/RouterHosting%20LLC.txt) |
 | SG.GS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SG.GS.txt) |
 | SGP_VULTR_CUST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SGP_VULTR_CUST.txt) |
@@ -50,4 +47,4 @@
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

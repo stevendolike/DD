@@ -1,6 +1,6 @@
 # AU 
 
-**共 34 條** · [返回主頁](../../README.md)
+**共 33 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | Akamai Connected Cloud _ Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Contabo%20Asia%20Private%20Limited.txt) |
 | Digital Ocean_ Inc. | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Digital%20Ocean_%20Inc..txt) |
-| DigitalOcean_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/DigitalOcean_%20LLC.txt) |
 | Level 6_ 9-13 Young Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Level%206_%209-13%20Young%20Street.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Linode.txt) |
 | Macquarie Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Macquarie%20Telecom.txt) |
@@ -25,4 +25,4 @@
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/oracle.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

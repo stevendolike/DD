@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 185 條** · [返回主頁](../../README.md)
+**共 183 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/_all.txt)
 
@@ -19,7 +19,7 @@
 | HOS-2990149 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOS-2990149.txt) |
 | HOSTKEY B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOSTKEY%20B.V..txt) |
 | Hetzner Online GmbH | 51 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Hetzner%20Online%20GmbH.txt) |
-| I-SERVERS LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/I-SERVERS%20LTD.txt) |
+| I-SERVERS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/I-SERVERS%20LTD.txt) |
 | IP MARKET - FZCO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IP%20MARKET%20-%20FZCO.txt) |
 | IT-Garage | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IT-Garage.txt) |
 | Individual Entrepreneur Anton Levin | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -40,11 +40,11 @@
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WorkTitans%20B.V..txt) |
 | Xorek.Cloud Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Xorek.Cloud%20Helsinki.txt) |
 | ZTV CORP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/ZTV%20CORP%20LLC.txt) |
-| as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/as56971%20network.txt) |
+| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/as56971%20network.txt) |
 | nuxt.cloud hosting provider | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/nuxt.cloud%20hosting%20provider.txt) |
 | nuxtcloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/nuxtcloud.txt) |
 | play2go.cloud - Cheap and reliable hosting | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | u1host Finland | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

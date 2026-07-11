@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 49 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt)
 
@@ -13,6 +13,7 @@
 | Co-location | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Co-location.txt) |
 | EQU Technologies LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/EQU%20Technologies%20LLP.txt) |
 | GOhost.KZ | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/GOhost.KZ.txt) |
+| HostLab LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/HostLab%20LLC.txt) |
 | Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Hoster.KZ.txt) |
 | ITGLOBAL.COM KZ LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/ITGLOBAL.COM%20KZ%20LLP.txt) |
 | JSC Datacenter | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20Datacenter.txt) |
@@ -26,4 +27,4 @@
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 188 條** · [返回主頁](../../README.md)
+**共 163 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt)
 
@@ -25,7 +25,7 @@
 | Subnet Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Subnet%20Digital%20LLC.txt) |
 | Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Versija%20SIA.txt) |
-| as56971 network | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
+| as56971 network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

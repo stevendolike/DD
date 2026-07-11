@@ -7,11 +7,12 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365.partners%20INC.txt) |
+| 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
 | 7F_World peace center_55 wo tong tsui st_kwai chung | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/7F_World%20peace%20center_55%20wo%20tong%20tsui%20st_kwai%20chung.txt) |
+| A Pensonal Global Research Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/A%20Pensonal%20Global%20Research%20Network.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ACE.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
-| ALICE NETWORKS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALICE%20NETWORKS%20LTD.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Alibaba%20Cloud%20-%20HK.txt) |
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Aliyun%20Computing%20Co.LTD.txt) |
@@ -39,7 +40,8 @@
 | NextStage Innovations LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/NextStage%20Innovations%20LLC.txt) |
 | PANSTAR CLOUD LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/PANSTAR%20CLOUD%20LIMITED.txt) |
 | Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Private%20Customer.txt) |
-| RM301K_3_F_HONGKONG TRADE CENTRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RM301K_3_F_HONGKONG%20TRADE%20CENTRE.txt) |
+| RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RIPE%20NCC.txt) |
+| RM301K_3_F_HONGKONG TRADE CENTRE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RM301K_3_F_HONGKONG%20TRADE%20CENTRE.txt) |
 | STYLISH BY A_L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/STYLISH%20BY%20A_L%20SRL.txt) |
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/SonderCloud%20Limited.txt) |
 | Subnet Digital LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Subnet%20Digital%20LLC.txt) |
@@ -48,8 +50,7 @@
 | Xorek.Cloud Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Xorek.Cloud%20Helsinki.txt) |
 | ZOUTER HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ZOUTER%20HK.txt) |
 | ZYC Network LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ZYC%20Network%20LLC.txt) |
-| as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/as56971%20network.txt) |
 | ihc.hk vps in Hong Kong | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

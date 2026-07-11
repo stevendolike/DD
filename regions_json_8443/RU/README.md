@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 126 條** · [返回主頁](../../README.md)
+**共 121 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/_all.txt)
 
@@ -24,15 +24,14 @@
 | Internet Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Internet%20Hosting%20LLC.txt) |
 | Internet-Pro LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Internet-Pro%20LLC.txt) |
 | JSC IOT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20IOT.txt) |
-| JSC TIMEWEB | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/KVIKTEL%20LLC.txt) |
 | LLC BAXET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20BAXET.txt) |
-| LLC Baxet | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20Baxet.txt) |
+| LLC Baxet | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20Baxet.txt) |
 | LLC IT BASIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20IT%20BASIS.txt) |
 | LLC Smart Ape | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20Smart%20Ape.txt) |
 | LLC VEKTOR AITI TEKHNOLOGII | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20VEKTOR%20AITI%20TEKHNOLOGII.txt) |
 | LLC Vpsville | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20Vpsville.txt) |
-| Lovitel LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Lovitel%20LLC.txt) |
 | MT FINANCE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/MT%20FINANCE%20LLC.txt) |
 | Net By Net Holding LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Net%20By%20Net%20Holding%20LLC.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/NetCrafters%20OU.txt) |
@@ -48,7 +47,6 @@
 | Selectel Network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Selectel%20Network.txt) |
 | Selectel | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Selectel.txt) |
 | Stolica Telecom Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Stolica%20Telecom%20Ltd..txt) |
-| TIMEWEB-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/TIMEWEB-NET.txt) |
 | TimeWeb Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/TimeWeb%20Ltd..txt) |
 | Timeweb_ LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Timeweb_%20LLP.txt) |
 | UFO Hosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/UFO%20Hosting%20LLC.txt) |
@@ -57,8 +55,8 @@
 | VDSka hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VDSka%20hosting.txt) |
 | VISP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VISP%20LLC.txt) |
 | VPSVILLE-RU VPS HOSTING | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/VPSVILLE-RU%20VPS%20HOSTING.txt) |
-| Yandex.Cloud LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Yandex.Cloud%20LLC.txt) |
+| Yandex.Cloud LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Yandex.Cloud%20LLC.txt) |
 | e-Style ISP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/e-Style%20ISP%20LLC.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

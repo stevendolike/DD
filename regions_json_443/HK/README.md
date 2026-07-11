@@ -7,6 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/365.partners%20INC.txt) |
+| 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/6%20COLLYER%20QUAY.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ACE.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
@@ -27,7 +28,6 @@
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/SonderCloud%20Limited.txt) |
 | Xorek.Cloud Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Xorek.Cloud%20Helsinki.txt) |
 | ZYC Network LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ZYC%20Network%20LLC.txt) |
-| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*

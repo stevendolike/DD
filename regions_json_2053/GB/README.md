@@ -6,9 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20GROUP%20LLC.txt) |
-| AEZA NETWORK FRANKFURT | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20NETWORK%20FRANKFURT.txt) |
-| AEZA NETWORK STOCKHOLM | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20NETWORK%20STOCKHOLM.txt) |
+| AEZA GROUP LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20GROUP%20LLC.txt) |
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
 | DigitalOcean_ LLC | 76 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean_%20LLC.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
@@ -21,4 +19,4 @@
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-10 23:01 UTC*
+*最後更新：2026-07-11 06:06 UTC*
