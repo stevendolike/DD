@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 38 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -14,8 +14,8 @@
 | HostPapa | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/IT%20Hostline%20Ltd.txt) |
 | ITGLOBAL.COM NL B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/ITGLOBAL.COM%20NL%20B.V..txt) |
-| OVH Hosting_ Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting_%20Inc..txt) |
+| OVH Hosting_ Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting_%20Inc..txt) |
 | Oracle Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-07-11 22:54 UTC*
+*最後更新：2026-07-12 06:25 UTC*

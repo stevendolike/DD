@@ -1,14 +1,15 @@
 # TR （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/HZD%20TEKNOLOJI%20VE%20INOVASYON%20SAN.%20VE%20TIC.%20LTD.%20STI..txt) |
+| Netlen Internet | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/Netlen%20Internet.txt) |
 | Tellcom Adana Fiber Dynamic | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/Tellcom%20Adana%20Fiber%20Dynamic.txt) |
 | White Label Services_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/White%20Label%20Services_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-11 22:54 UTC*
+*最後更新：2026-07-12 06:25 UTC*
