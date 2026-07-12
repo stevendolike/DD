@@ -10,4 +10,4 @@
 | DMIT Cloud Service - Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/HK/DMIT%20Cloud%20Service%20-%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-07-12 11:17 UTC*
+*最後更新：2026-07-12 17:04 UTC*
