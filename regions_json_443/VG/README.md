@@ -9,4 +9,4 @@
 | IT WEB LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/VG/IT%20WEB%20LTD.txt) |
 
 ---
-*最後更新：2026-07-12 22:54 UTC*
+*最後更新：2026-07-13 06:44 UTC*

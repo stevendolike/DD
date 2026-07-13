@@ -1,6 +1,6 @@
 # IE （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/_all.txt)
 
@@ -10,9 +10,9 @@
 | Amazon.com_ Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/Amazon.com_%20Inc..txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/Cloudflare%20London_%20LLC.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/HostPapa.txt) |
-| INTERKVM HOST SRL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/INTERKVM%20HOST%20SRL.txt) |
+| INTERKVM HOST SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/INTERKVM%20HOST%20SRL.txt) |
 | RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/RackNerd%20LLC.txt) |
 | Sternforth Ltd. trading as WebWorld | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/Sternforth%20Ltd.%20trading%20as%20WebWorld.txt) |
 
 ---
-*最後更新：2026-07-12 22:54 UTC*
+*最後更新：2026-07-13 06:44 UTC*
