@@ -25,4 +25,4 @@
 | u1host ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/u1host%20ltd.txt) |
 
 ---
-*最後更新：2026-07-14 11:37 UTC*
+*最後更新：2026-07-14 17:19 UTC*
