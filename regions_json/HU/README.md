@@ -12,4 +12,4 @@
 | ServerAstra Kft. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/ServerAstra%20Kft..txt) |
 
 ---
-*最後更新：2026-07-13 22:58 UTC*
+*最後更新：2026-07-14 06:03 UTC*

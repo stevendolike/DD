@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 38 條** · [返回主頁](../../README.md)
+**共 40 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/_all.txt)
 
@@ -10,15 +10,16 @@
 | BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/BitWeb%20LLC.txt) |
 | Domain names registrar REG.RU_ Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Domain%20names%20registrar%20REG.RU_%20Ltd.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
-| Hosting technology LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Hosting%20technology%20LTD.txt) |
+| Hosting technology LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Hosting%20technology%20LTD.txt) |
 | Hosting-VDS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Hosting-VDS.txt) |
 | Ildar Gilmutdinov PE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Ildar%20Gilmutdinov%20PE.txt) |
 | JSC IOT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20IOT.txt) |
-| JSC TIMEWEB | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
-| LLC Baxet | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Baxet.txt) |
+| JSC TIMEWEB | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
+| LLC Baxet | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Baxet.txt) |
 | LLC IT BASIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20IT%20BASIS.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Vpsville.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/MT%20FINANCE%20LLC.txt) |
+| NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/NetCrafters%20OU.txt) |
 | Network for COMCOR-B2B-Clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Network%20for%20COMCOR-B2B-Clients.txt) |
 | Okay-Telecom Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Okay-Telecom%20Ltd..txt) |
 | PSERVERS Enterprise Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/PSERVERS%20Enterprise%20Network.txt) |
@@ -33,4 +34,4 @@
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 
 ---
-*最後更新：2026-07-13 22:58 UTC*
+*最後更新：2026-07-14 06:03 UTC*
