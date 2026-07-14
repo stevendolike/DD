@@ -16,4 +16,4 @@
 | RackNerd LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/RackNerd%20LLC.txt) |
 
 ---
-*最後更新：2026-07-14 06:03 UTC*
+*最後更新：2026-07-14 11:37 UTC*
