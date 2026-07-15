@@ -13,4 +13,4 @@
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/NetCrafters%20OU.txt) |
 
 ---
-*最後更新：2026-07-15 06:06 UTC*
+*最後更新：2026-07-15 11:40 UTC*
