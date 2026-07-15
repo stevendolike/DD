@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 189 條** · [返回主頁](../../README.md)
+**共 188 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/_all.txt)
 
@@ -12,7 +12,7 @@
 | Blockchain Games N.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Blockchain%20Games%20N.V..txt) |
 | CGI GLOBAL LIMITED | 59 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CloudBackbone.txt) |
-| Contabo GmbH | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/EGIHosting.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/FASTWARP%20LLP.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -31,4 +31,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

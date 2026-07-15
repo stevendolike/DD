@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 380 條** · [返回主頁](../../README.md)
+**共 374 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -12,7 +12,7 @@
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CloudBackbone.txt) |
-| Contabo GmbH | 56 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 52 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | Dyjix SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Dyjix%20SAS.txt) |
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FEELB%20SARL.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FIRST%20SERVER%20LIMITED.txt) |
@@ -33,7 +33,7 @@
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/NetCrafters%20OU.txt) |
 | Neterra Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Neterra%20Ltd..txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20Hispano.txt) |
-| OVH SAS | 103 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20SAS.txt) |
+| OVH SAS | 102 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20SAS.txt) |
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Svenska%20AB.txt) |
@@ -52,8 +52,7 @@
 | VIRTUASYS PARIS (PAR01FR) | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | VPS static ips | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VPS%20static%20ips.txt) |
 | Vultr Holdings_ LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Vultr%20Holdings_%20LLC.txt) |
-| WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/WorkTitans%20B.V..txt) |
-| as56971 network | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
+| as56971 network | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

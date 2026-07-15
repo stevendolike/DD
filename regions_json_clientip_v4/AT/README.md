@@ -13,8 +13,8 @@
 | InterLIR-Marketplace | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/InterLIR-Marketplace.txt) |
 | Iron Hosting Centre Ltd._ London_ UK (mchost) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Iron%20Hosting%20Centre%20Ltd._%20London_%20UK%20%28mchost%29.txt) |
 | NETAXIS GROUP LTD | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/NETAXIS%20GROUP%20LTD.txt) |
-| RapidSeedbox Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/RapidSeedbox%20Ltd.txt) |
+| NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/NetCrafters%20OU.txt) |
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

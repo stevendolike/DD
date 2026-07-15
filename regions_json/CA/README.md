@@ -1,6 +1,6 @@
 # CA 
 
-**共 76 條** · [返回主頁](../../README.md)
+**共 75 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -18,11 +18,11 @@
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/IT%20Hostline%20Ltd.txt) |
 | ITGLOBAL.COM NL B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/ITGLOBAL.COM%20NL%20B.V..txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Linode.txt) |
-| OVH Hosting_ Inc. | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting_%20Inc..txt) |
+| OVH Hosting_ Inc. | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting_%20Inc..txt) |
 | Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Corporation.txt) |
 | Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Rica%20Web%20Services.txt) |
 | Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/The%20Constant%20Company_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

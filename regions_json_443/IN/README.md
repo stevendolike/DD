@@ -1,6 +1,6 @@
 # IN （純 IP）
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 21 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Amazon.com_%20Inc..txt) |
 | B FIBER PVT LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/B%20FIBER%20PVT%20LTD.txt) |
-| DigitalOcean_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/DigitalOcean_%20LLC.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Linode.txt) |
 | MANNDESHI GURU NET PRIVATE LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Microsoft%20Corporation.txt) |
@@ -20,4 +20,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

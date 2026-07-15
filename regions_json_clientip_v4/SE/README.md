@@ -1,6 +1,6 @@
 # SE 
 
-**共 125 條** · [返回主頁](../../README.md)
+**共 124 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/3NT%20SOLUTIONS%20LLP.txt) |
 | A100 ROW Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/A100%20ROW%20Inc.txt) |
 | AEZA GROUP LLC | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/AEZA%20GROUP%20LLC.txt) |
-| ALEXHOST SRL | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/ALEXHOST%20SRL.txt) |
+| ALEXHOST SRL | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/ALEXHOST%20SRL.txt) |
 | Assigned to ORG-HIP1-RIPE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Baykov%20Ilya%20Sergeevich.txt) |
@@ -38,4 +38,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

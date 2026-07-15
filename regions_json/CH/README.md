@@ -1,6 +1,6 @@
 # CH 
 
-**共 160 條** · [返回主頁](../../README.md)
+**共 156 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -21,7 +21,7 @@
 | Green Floid LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HOSTKEY%20B.V..txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HostHatch.txt) |
-| Infomaniak Network SA | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Infomaniak%20Network%20SA.txt) |
+| Infomaniak Network SA | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Infomaniak%20Network%20SA.txt) |
 | Iway AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Iway%20AG.txt) |
 | Julian Achter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Julian%20Achter.txt) |
 | M247 Europe - Zurich Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20Europe%20-%20Zurich%20Infrastructure.txt) |
@@ -30,9 +30,9 @@
 | OVH CH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/OVH%20CH.txt) |
 | Oracle Public Cloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Prinode%20AB.txt) |
-| RouterHosting LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | evoxt.com | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

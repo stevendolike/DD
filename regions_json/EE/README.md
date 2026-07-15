@@ -1,13 +1,13 @@
 # EE 
 
-**共 129 條** · [返回主頁](../../README.md)
+**共 126 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/1Cent%20Host.txt) |
-| 3NT SOLUTIONS LLP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
+| 3NT SOLUTIONS LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | Aktsiaselts WaveCom | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Aktsiaselts%20WaveCom.txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
@@ -16,7 +16,6 @@
 | Dynamic Links | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Dynamic%20Links.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | ESTOXY OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ESTOXY%20OU.txt) |
-| HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HexCore%20cloud%20s.r.o..txt) |
 | Host-World OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Host-World%20OU.txt) |
 | HostSlim OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HostSlim%20OU.txt) |
@@ -30,8 +29,8 @@
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SA.txt) |
 | SERV.HOST GROUP LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SERV.HOST%20GROUP%20LTD.txt) |
 | Wavecom Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Wavecom%20Infrastructure.txt) |
-| servinga.com - Estonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
+| servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
 | xTom OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

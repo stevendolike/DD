@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 321 條** · [返回主頁](../../README.md)
+**共 318 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/_all.txt)
 
@@ -13,10 +13,10 @@
 | ALEKSEI FEDOROV PR KRUSEVAC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Amsterdam_ Netherlands | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Amsterdam_%20Netherlands.txt) |
 | BL Networks | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/BL%20Networks.txt) |
-| Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | Brainoza OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Brainoza%20OU.txt) |
-| CGI GLOBAL LIMITED | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CGI%20GLOBAL%20LIMITED.txt) |
 | CLODO CLOUD SERVICE CO. L.L.C | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CLODO%20CLOUD%20SERVICE%20CO.%20L.L.C.txt) |
 | Cloud Backbone Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Cloud%20Backbone%20Inc..txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Cloudflare%20London_%20LLC.txt) |
@@ -64,4 +64,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*

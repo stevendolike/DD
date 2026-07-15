@@ -1,6 +1,6 @@
 # SG 
 
-**共 296 條** · [返回主頁](../../README.md)
+**共 295 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all_443.txt)
 
@@ -32,7 +32,7 @@
 | Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Linode.txt) |
 | Linode_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Linode_%20LLC.txt) |
 | OVH SINGAPOR DC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/OVH%20SINGAPOR%20DC.txt) |
-| Oracle Corporation | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Public%20Cloud.txt) |
 | PI-SINGAPORE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/PI-SINGAPORE.txt) |
 | PRIVATE CUSTOMER | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/PRIVATE%20CUSTOMER.txt) |
@@ -41,11 +41,11 @@
 | SG.GS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SG.GS.txt) |
 | SGP_VULTR_CUST | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SGP_VULTR_CUST.txt) |
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SPEEDYPAGE-LTD.txt) |
-| The Constant Company_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/The%20Constant%20Company_%20LLC.txt) |
+| The Constant Company_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/The%20Constant%20Company_%20LLC.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/UCUL-SG.txt) |
 | Viewqwest Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Viewqwest%20Pte%20Ltd.txt) |
 | Vultr Holdings_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Vultr%20Holdings_%20LLC.txt) |
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-07-14 22:59 UTC*
+*最後更新：2026-07-15 06:06 UTC*
