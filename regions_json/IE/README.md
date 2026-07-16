@@ -13,4 +13,4 @@
 | Sternforth Ltd. trading as WebWorld | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Sternforth%20Ltd.%20trading%20as%20WebWorld.txt) |
 
 ---
-*最後更新：2026-07-16 17:23 UTC*
+*最後更新：2026-07-16 23:00 UTC*
