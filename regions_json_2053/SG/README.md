@@ -12,9 +12,9 @@
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Contabo%20Asia%20Private%20Limited.txt) |
 | DigitalOcean_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/DigitalOcean_%20LLC.txt) |
 | Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Hetzner%20Online%20GmbH.txt) |
-| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Oracle%20Corporation.txt) |
+| Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Melbikomas%20UAB.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Prinode%20AB.txt) |
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/SPEEDYPAGE-LTD.txt) |
 
 ---
-*最後更新：2026-07-15 23:00 UTC*
+*最後更新：2026-07-16 06:10 UTC*

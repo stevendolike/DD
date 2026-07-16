@@ -7,10 +7,10 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/AEZA%20GROUP%20LLC.txt) |
-| CGI GLOBAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/Baxet%20Group%20Inc..txt) |
 | Contabo GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/Contabo%20GmbH.txt) |
 | RACKNERD-FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/RACKNERD-FR.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-15 23:00 UTC*
+*最後更新：2026-07-16 06:10 UTC*
