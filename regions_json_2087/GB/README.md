@@ -12,4 +12,4 @@
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/HOSTKEY%20B.V..txt) |
 
 ---
-*最後更新：2026-07-17 06:08 UTC*
+*最後更新：2026-07-17 11:25 UTC*
