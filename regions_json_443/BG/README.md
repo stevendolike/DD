@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt)
 
@@ -11,7 +11,7 @@
 | Belcloud LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Belcloud%20LTD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
-| Friendhosting LTD | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Green%20Floid%20LLC.txt) |
 | Hosting Provider Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Hosting%20Provider%20Virterion%20LLC.txt) |
 | ITLDC Bulgaria network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ITLDC%20Bulgaria%20network.txt) |
@@ -24,4 +24,4 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-07-16 23:00 UTC*
+*最後更新：2026-07-17 06:08 UTC*

@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 316 條** · [返回主頁](../../README.md)
+**共 313 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/_all.txt)
 
@@ -35,7 +35,7 @@
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/IROKO%20Networks%20Corporation.txt) |
 | IT-DELUX ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/IT-DELUX%20ltd..txt) |
 | ITGLOBAL.COM NL B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ITGLOBAL.COM%20NL%20B.V..txt) |
-| Individual Entrepreneur Anton Levin | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Individual Entrepreneur Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | It Hosting Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/It%20Hosting%20Group.txt) |
 | JSC TIMEWEB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/JSC%20TIMEWEB.txt) |
 | Kamatera Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Kamatera%20Inc.txt) |
@@ -60,4 +60,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-16 23:00 UTC*
+*最後更新：2026-07-17 06:08 UTC*

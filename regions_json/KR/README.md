@@ -1,6 +1,6 @@
 # KR 
 
-**共 35 條** · [返回主頁](../../README.md)
+**共 34 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all_443.txt)
 
@@ -10,7 +10,6 @@
 | 500 Oracle Parkway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/500%20Oracle%20Parkway.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/6%20COLLYER%20QUAY.txt) |
 | ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/ACEVILLE%20PTE.LTD..txt) |
-| Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Amazon.com_%20Inc..txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Cloudflare%20London_%20LLC.txt) |
 | Great Flower | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Great%20Flower.txt) |
 | Korea Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/Korea%20Telecom.txt) |
@@ -24,4 +23,4 @@
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/oracle.txt) |
 
 ---
-*最後更新：2026-07-16 23:00 UTC*
+*最後更新：2026-07-17 06:08 UTC*

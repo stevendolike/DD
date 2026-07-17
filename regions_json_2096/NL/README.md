@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 183 條** · [返回主頁](../../README.md)
+**共 182 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/_all.txt)
 
@@ -9,8 +9,7 @@
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/AEZA%20GROUP%20LLC.txt) |
 | DigitalOcean_ LLC | 178 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/DigitalOcean_%20LLC.txt) |
 | MagicHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/MagicHosting.txt) |
-| NETAXIS GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/NETAXIS%20GROUP%20LTD.txt) |
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-07-16 23:00 UTC*
+*最後更新：2026-07-17 06:08 UTC*

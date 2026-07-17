@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 36 條** · [返回主頁](../../README.md)
+**共 35 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/_all.txt)
 
@@ -13,7 +13,6 @@
 | Materialism s.r.l. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Materialism%20s.r.l..txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Oracle%20Corporation.txt) |
-| SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/SIA%20VEESP.txt) |
 
 ---
-*最後更新：2026-07-16 23:00 UTC*
+*最後更新：2026-07-17 06:08 UTC*
