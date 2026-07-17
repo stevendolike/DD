@@ -28,4 +28,4 @@
 | ihc.hk vps in Hong Kong | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-07-17 17:16 UTC*
+*最後更新：2026-07-17 22:52 UTC*

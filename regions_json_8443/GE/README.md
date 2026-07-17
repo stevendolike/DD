@@ -9,4 +9,4 @@
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GE/HZ%20Hosting%20Ltd.txt) |
 
 ---
-*最後更新：2026-07-17 17:16 UTC*
+*最後更新：2026-07-17 22:52 UTC*
