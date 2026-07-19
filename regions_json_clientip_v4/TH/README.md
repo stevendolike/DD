@@ -16,4 +16,4 @@
 | VP InfoTech Co._ Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/VP%20InfoTech%20Co._%20Ltd..txt) |
 
 ---
-*最後更新：2026-07-19 06:22 UTC*
+*最後更新：2026-07-19 11:14 UTC*
