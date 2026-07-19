@@ -9,4 +9,4 @@
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RO/Friendhosting%20LTD.txt) |
 
 ---
-*最後更新：2026-07-19 11:14 UTC*
+*最後更新：2026-07-19 17:03 UTC*
