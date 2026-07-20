@@ -11,4 +11,4 @@
 | OVH Sp. z o. o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 
 ---
-*最後更新：2026-07-20 12:21 UTC*
+*最後更新：2026-07-20 18:08 UTC*
