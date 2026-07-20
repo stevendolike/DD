@@ -55,4 +55,4 @@
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-07-20 18:08 UTC*
+*最後更新：2026-07-20 23:03 UTC*
