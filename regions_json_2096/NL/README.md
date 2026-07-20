@@ -8,8 +8,9 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/AEZA%20GROUP%20LLC.txt) |
 | DigitalOcean_ LLC | 178 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/DigitalOcean_%20LLC.txt) |
-| MagicHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/MagicHosting.txt) |
+| MagicHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/MagicHosting.txt) |
+| NETAXIS GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/NETAXIS%20GROUP%20LTD.txt) |
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-07-19 22:56 UTC*
+*最後更新：2026-07-20 06:37 UTC*
