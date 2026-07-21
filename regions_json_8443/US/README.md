@@ -86,4 +86,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/xTom.txt) |
 
 ---
-*最後更新：2026-07-21 11:51 UTC*
+*最後更新：2026-07-21 17:25 UTC*
