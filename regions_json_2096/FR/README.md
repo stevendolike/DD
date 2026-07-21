@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/_all.txt)
 
@@ -10,7 +10,6 @@
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/Baxet%20Group%20Inc..txt) |
 | Contabo GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/Contabo%20GmbH.txt) |
 | RACKNERD-FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/RACKNERD-FR.txt) |
-| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-20 23:03 UTC*
+*最後更新：2026-07-21 06:21 UTC*
