@@ -1,6 +1,6 @@
 # BG 
 
-**共 61 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all_443.txt)
 
@@ -17,6 +17,7 @@
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/IROKO%20Networks%20Corporation.txt) |
 | ITLDC Bulgaria network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ITLDC%20Bulgaria%20network.txt) |
 | ITLDC EU2.SOF Datacenter Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
+| Julian Achter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Julian%20Achter.txt) |
 | Lir.bg EOOD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Lir.bg%20EOOD.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/NetGrid%20Host%20LTD.txt) |
 | ROLANDAS USCILA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ROLANDAS%20USCILA.txt) |
@@ -24,4 +25,4 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-07-21 23:00 UTC*
+*最後更新：2026-07-22 06:21 UTC*

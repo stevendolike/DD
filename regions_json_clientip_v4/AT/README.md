@@ -1,19 +1,19 @@
 # AT 
 
-**共 91 條** · [返回主頁](../../README.md)
+**共 87 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/AEZA%20GROUP%20LLC.txt) |
-| Alwyzon_ a trading name of Hohl IT e.U. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Alwyzon_%20a%20trading%20name%20of%20Hohl%20IT%20e.U..txt) |
+| Alwyzon_ a trading name of Hohl IT e.U. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Alwyzon_%20a%20trading%20name%20of%20Hohl%20IT%20e.U..txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/HostHatch%20LLC.txt) |
-| InterLIR-Marketplace | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/InterLIR-Marketplace.txt) |
+| InterLIR-Marketplace | 48 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/InterLIR-Marketplace.txt) |
 | NETAXIS GROUP LTD | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/NETAXIS%20GROUP%20LTD.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/NetCrafters%20OU.txt) |
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-07-21 23:00 UTC*
+*最後更新：2026-07-22 06:21 UTC*

@@ -1,13 +1,12 @@
 # JP （純 IP）
 
-**共 26 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/3nt%20solutions%20LLP.txt) |
-| ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ACEVILLE%20PTE.LTD..txt) |
 | Akamai Connected Cloud _ Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | BITSFLOWCLOUD LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/BITSFLOWCLOUD%20LTD.txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Cloudflare%20London_%20LLC.txt) |
@@ -21,7 +20,7 @@
 | Server Hosting Service  (NTTPCCommunications_Inc.) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Server%20Hosting%20Service%20%20%28NTTPCCommunications_Inc.%29.txt) |
 | Starry Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Starry%20Network%20Limited.txt) |
 | The Constant Company_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company_%20LLC.txt) |
-| Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings_%20LLC.txt) |
+| Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-21 23:00 UTC*
+*最後更新：2026-07-22 06:21 UTC*
