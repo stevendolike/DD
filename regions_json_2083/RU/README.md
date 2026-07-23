@@ -11,4 +11,4 @@
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/LLC%20Vpsville.txt) |
 
 ---
-*最後更新：2026-07-23 11:55 UTC*
+*最後更新：2026-07-23 17:28 UTC*

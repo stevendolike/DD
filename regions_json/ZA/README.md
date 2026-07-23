@@ -13,4 +13,4 @@
 | xneelo-tscolo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/xneelo-tscolo.txt) |
 
 ---
-*最後更新：2026-07-23 11:55 UTC*
+*最後更新：2026-07-23 17:28 UTC*

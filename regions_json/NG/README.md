@@ -9,4 +9,4 @@
 | Host Africa (Pty) Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NG/Host%20Africa%20%28Pty%29%20Ltd.txt) |
 
 ---
-*最後更新：2026-07-23 11:55 UTC*
+*最後更新：2026-07-23 17:28 UTC*
