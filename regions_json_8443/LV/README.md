@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 134 條** · [返回主頁](../../README.md)
+**共 133 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
@@ -21,8 +21,8 @@
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/RETN%20Limited.txt) |
 | SIA VEESP | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/SIA%20VEESP.txt) |
 | Subnet Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Subnet%20Digital%20LLC.txt) |
-| Versija SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Versija%20SIA.txt) |
+| Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Versija%20SIA.txt) |
 | as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

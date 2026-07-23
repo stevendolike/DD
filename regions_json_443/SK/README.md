@@ -9,4 +9,4 @@
 | WebSupport s.r.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SK/WebSupport%20s.r.o..txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

@@ -1,6 +1,6 @@
 # EE 
 
-**共 124 條** · [返回主頁](../../README.md)
+**共 122 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | Aktsiaselts WaveCom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Aktsiaselts%20WaveCom.txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Cogent%20Communications_%20LLC.txt) |
 | Dynamic Links | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Dynamic%20Links.txt) |
 | ESTOXY OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ESTOXY%20OU.txt) |
@@ -29,4 +29,4 @@
 | xTom OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

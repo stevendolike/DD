@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 57 條** · [返回主頁](../../README.md)
+**共 56 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/_all.txt)
 
@@ -27,7 +27,6 @@
 | WorkTitans B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/WorkTitans%20B.V..txt) |
 | Xorek.Cloud Helsinki | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Xorek.Cloud%20Helsinki.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/as56971%20network.txt) |
-| u1host Finland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 158 條** · [返回主頁](../../README.md)
+**共 152 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/_all.txt)
 
@@ -18,7 +18,7 @@
 | GCS Service Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/GCS%20Service%20Network.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOSTKEY%20B.V..txt) |
-| Hetzner Online GmbH | 49 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Hetzner%20Online%20GmbH.txt) |
 | I-SERVERS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/I-SERVERS%20LTD.txt) |
 | IP MARKET - FZCO | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IP%20MARKET%20-%20FZCO.txt) |
 | IT-Garage | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IT-Garage.txt) |
@@ -34,7 +34,7 @@
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UpCloud%20Cloud%20Servers.txt) |
 | VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/VPSPay%20-%20vpspay.cloud.txt) |
-| WAIcore Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WAIcore%20Ltd.txt) |
+| WAIcore Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WAIcore%20Ltd.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WorkTitans%20B.V..txt) |
 | ZTV CORP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/ZTV%20CORP%20LLC.txt) |
 | as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/as56971%20network.txt) |
@@ -44,4 +44,4 @@
 | u1host Finland | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

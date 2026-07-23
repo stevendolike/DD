@@ -1,6 +1,6 @@
 # TR 
 
-**共 65 條** · [返回主頁](../../README.md)
+**共 66 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -16,6 +16,7 @@
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/HOSTKEY%20B.V..txt) |
 | HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/HZD%20TEKNOLOJI%20VE%20INOVASYON%20SAN.%20VE%20TIC.%20LTD.%20STI..txt) |
 | IPv4Center.com Partition - Order _4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/IPv4Center.com%20Partition%20-%20Order%20_4.txt) |
+| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/LIGHT%20NODE%20LIMITED.txt) |
 | Netlen Internet | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netlen%20Internet.txt) |
 | PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/PENTECH%20BILISIM%20TEKNOLOJILERI%20SANAYI%20VE%20TICARET%20LIMITED%20SIRKET.txt) |
 | Plant Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Plant%20Holding%20GmbH.txt) |
@@ -32,4 +33,4 @@
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

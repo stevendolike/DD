@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 869 條** · [返回主頁](../../README.md)
+**共 822 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 11 Hanbury St | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/11%20Hanbury%20St.txt) |
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/365%20Group%20LLC.txt) |
-| AEZA GROUP LLC | 310 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 308 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services UK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Amazon%20Data%20Services%20UK.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BG-NETWORK.txt) |
@@ -19,9 +19,8 @@
 | Clouvider Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Clouvider%20Limited.txt) |
 | DA International Group Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DA%20International%20Group%20Ltd..txt) |
 | DigitalOcean London | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%20London.txt) |
-| DigitalOcean_ LLC | 342 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 340 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean_%20LLC.txt) |
 | EDIS Infrastructure in the London Docklands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/EDIS%20Infrastructure%20in%20the%20London%20Docklands.txt) |
-| FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/FORTIS.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Fabric_zone.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
@@ -40,11 +39,11 @@
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Microsoft%20Limited.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/NetCrafters%20OU.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
-| OVH Ltd | 116 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/OVH%20Ltd.txt) |
+| OVH Ltd | 75 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/OVH%20Ltd.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Oracle%20Svenska%20AB.txt) |
 | Perfecto Mobile UK LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Perfecto%20Mobile%20UK%20LTD.txt) |
-| Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Private%20Customer.txt) |
+| Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Private%20Customer.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/RCS%20Technologies%20FZE%20LLC.txt) |
 | RouterHosting LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/RouterHosting%20LLC.txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/STYLISH%20BY%20A_L%20SRL.txt) |
@@ -57,4 +56,4 @@
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

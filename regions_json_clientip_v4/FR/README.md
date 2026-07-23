@@ -1,6 +1,6 @@
 # FR 
 
-**共 653 條** · [返回主頁](../../README.md)
+**共 549 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/_all_443.txt)
 
@@ -9,9 +9,8 @@
 | 20_22_ Rue Des Gardinoux | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/20_22_%20Rue%20Des%20Gardinoux.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/AEZA%20GROUP%20LLC.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Baykov%20Ilya%20Sergeevich.txt) |
-| BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/BitWeb%20LLC.txt) |
 | CGI GLOBAL LIMITED | 134 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Cloud%20Software%20-%20FZCO.txt) |
 | CloudBackbone | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/CloudBackbone.txt) |
@@ -33,8 +32,8 @@
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/NetCrafters%20OU.txt) |
 | Neterra Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Neterra%20Ltd..txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/OVH%20Hispano.txt) |
-| OVH SAS | 300 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/OVH%20SAS.txt) |
-| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Oracle%20Corporation.txt) |
+| OVH SAS | 198 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/OVH%20SAS.txt) |
+| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Oracle%20Svenska%20AB.txt) |
 | POP GRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/POP%20GRE.txt) |
 | Petersburg Internet Network ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Petersburg%20Internet%20Network%20ltd..txt) |
@@ -47,9 +46,9 @@
 | Subnet Digital LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Subnet%20Digital%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/UNKNOWN.txt) |
 | VIRTUASYS PARIS (PAR01FR) | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
-| VPS static ips | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/VPS%20static%20ips.txt) |
-| Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Vultr%20Holdings_%20LLC.txt) |
+| VPS static ips | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/VPS%20static%20ips.txt) |
+| Vultr Holdings_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Vultr%20Holdings_%20LLC.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

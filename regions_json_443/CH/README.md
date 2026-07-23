@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 98 條** · [返回主頁](../../README.md)
+**共 106 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -11,7 +11,7 @@
 | Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Baxet%20Group%20Inc..txt) |
 | BuyVM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/BuyVM.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Cloudflare%20London_%20LLC.txt) |
-| Datasource AG | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Datasource%20AG.txt) |
+| Datasource AG | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Datasource%20AG.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting_ Geronimo Ramirez | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting_%20Geronimo%20Ramirez.txt) |
 | Friendhosting LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
@@ -23,16 +23,16 @@
 | Infomaniak Network SA | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Infomaniak%20Network%20SA.txt) |
 | Internet Utilities Europe and Asia Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
 | Iway AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Iway%20AG.txt) |
+| Julian Achter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Julian%20Achter.txt) |
 | M247 Europe - Zurich Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/M247%20Europe%20-%20Zurich%20Infrastructure.txt) |
 | M247 LTD Zurich Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
 | M247 LTD Zurich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/M247%20LTD%20Zurich.txt) |
 | OVH CH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/OVH%20CH.txt) |
-| Oracle Public Cloud | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Oracle%20Public%20Cloud.txt) |
+| Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Prinode%20AB.txt) |
-| RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | evoxt.com | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/evoxt.com.txt) |
-| www.fornex.com_ Fornex Hosting S.L. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

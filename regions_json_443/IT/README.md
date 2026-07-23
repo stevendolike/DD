@@ -1,6 +1,6 @@
 # IT （純 IP）
 
-**共 26 條** · [返回主頁](../../README.md)
+**共 25 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/_all.txt)
 
@@ -18,8 +18,8 @@
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Linode.txt) |
 | Microsoft Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Microsoft%20Corporation.txt) |
 | Misaka Network_ Inc. (Milan) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Misaka%20Network_%20Inc.%20%28Milan%29.txt) |
-| OVH Srl | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/OVH%20Srl.txt) |
+| OVH Srl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/OVH%20Srl.txt) |
 | plym.cc network - Milan | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/plym.cc%20network%20-%20Milan.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

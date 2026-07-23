@@ -1,6 +1,6 @@
 # BG 
 
-**共 32 條** · [返回主頁](../../README.md)
+**共 31 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/_all_443.txt)
 
@@ -18,8 +18,8 @@
 | ITLDC EU2.SOF Datacenter Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/NetGrid%20Host%20LTD.txt) |
 | ROLANDAS USCILA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/ROLANDAS%20USCILA.txt) |
-| Redcluster LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Redcluster%20LTD.txt) |
+| Redcluster LTD | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Redcluster%20LTD.txt) |
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

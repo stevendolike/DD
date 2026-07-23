@@ -6,12 +6,13 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3NT%20SOLUTIONS%20LLP.txt) |
 | Beget LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Beget%20LLC.txt) |
 | Big Data Host LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Big%20Data%20Host%20LLC.txt) |
 | Cloud Services Kazakhstan LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
 | Co-location | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Co-location.txt) |
+| EQU Technologies LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/EQU%20Technologies%20LLP.txt) |
 | GOhost.KZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/GOhost.KZ.txt) |
 | HostLab LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/HostLab%20LLC.txt) |
 | Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Hoster.KZ.txt) |
@@ -27,4 +28,4 @@
 | Quasar LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Quasar%20LLC.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

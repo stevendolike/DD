@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 121 條** · [返回主頁](../../README.md)
+**共 116 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -26,13 +26,11 @@
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GREEN%20FLOID%20LLC.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Google%20LLC.txt) |
 | HOSTKEY B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V..txt) |
-| HOSTOFF infrastructure and hosting services | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HOSTOFF infrastructure and hosting services | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HZ%20Hosting%20Ltd.txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Hurricane%20Electric%20LLC.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IROKO%20Networks%20Corporation.txt) |
-| Individual Entrepreneur Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Intezio%20Networks%20Warsaw.txt) |
-| Intezio Worldwide Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Intezio%20Worldwide%20Limited.txt) |
+| Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Korbank S. A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Korbank%20S.%20A..txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Melbikomas%20UAB.txt) |
@@ -49,11 +47,9 @@
 | Snowd Security OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Snowd%20Security%20OU.txt) |
 | The Constant Company_ LLC. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/The%20Constant%20Company_%20LLC..txt) |
 | The Constant Company_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/The%20Constant%20Company_%20LLC.txt) |
-| UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/UpCloud%20Cloud%20Servers.txt) |
-| Warsaw_ Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Warsaw_%20Poland.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 | interlir | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/interlir.txt) |
-| nodehost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/nodehost.txt) |
+| nodehost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/nodehost.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

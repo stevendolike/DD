@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 35 條** · [返回主頁](../../README.md)
+**共 34 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/_all.txt)
 
@@ -13,7 +13,7 @@
 | Hosting-VDS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Hosting-VDS.txt) |
 | Ildar Gilmutdinov PE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Ildar%20Gilmutdinov%20PE.txt) |
 | JSC IOT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20IOT.txt) |
-| JSC TIMEWEB | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
 | LLC Baxet | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Baxet.txt) |
 | LLC IT BASIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20IT%20BASIS.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Vpsville.txt) |
@@ -31,4 +31,4 @@
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

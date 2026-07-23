@@ -1,6 +1,6 @@
 # AU （純 IP）
 
-**共 34 條** · [返回主頁](../../README.md)
+**共 32 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/_all.txt)
 
@@ -19,8 +19,8 @@
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Corporation.txt) |
 | Ransom IT Melbourne VPS Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Ransom%20IT%20Melbourne%20VPS%20Services.txt) |
 | The Constant Company_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/The%20Constant%20Company_%20LLC.txt) |
-| Vultr Holdings_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Vultr%20Holdings_%20LLC.txt) |
+| Vultr Holdings_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Vultr%20Holdings_%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/oracle.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*

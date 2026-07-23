@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 258 條** · [返回主頁](../../README.md)
+**共 257 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/_all.txt)
 
@@ -13,11 +13,10 @@
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/6%20COLLYER%20QUAY.txt) |
 | AlphaVPS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/AlphaVPS%20LLC.txt) |
 | Amazon.com_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Amazon.com_%20Inc..txt) |
-| Baxet Group Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Baykov%20Ilya%20Sergeevich.txt) |
 | Black Mesa Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Black%20Mesa%20Corporation.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/BlueVPS%20OU.txt) |
-| ByteVirt LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/ByteVirt%20LLC.txt) |
 | CGI GLOBAL LIMITED | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/CGI%20GLOBAL%20LIMITED.txt) |
 | Charter Communications Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Charter%20Communications%20Inc.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Cloud%20Software%20-%20FZCO.txt) |
@@ -62,7 +61,7 @@
 | Oracle Corporation | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Oracle%20Corporation.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Private%20Customer.txt) |
 | RAMNODE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/RAMNODE.txt) |
-| RackNerd LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/RackNerd%20LLC.txt) |
+| RackNerd LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/RackNerd%20LLC.txt) |
 | RouterHosting LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/RouterHosting%20LLC.txt) |
 | SK-BUSNET-6-2-LAX1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/SK-BUSNET-6-2-LAX1.txt) |
 | Snaju Development | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Snaju%20Development.txt) |
@@ -84,4 +83,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/xTom.txt) |
 
 ---
-*最後更新：2026-07-22 23:08 UTC*
+*最後更新：2026-07-23 06:23 UTC*
