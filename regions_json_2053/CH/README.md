@@ -16,4 +16,4 @@
 | Infomaniak Network SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Infomaniak%20Network%20SA.txt) |
 
 ---
-*最後更新：2026-07-24 06:18 UTC*
+*最後更新：2026-07-24 11:47 UTC*
