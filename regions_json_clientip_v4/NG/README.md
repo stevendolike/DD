@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Host Africa (Pty) Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NG/Host%20Africa%20%28Pty%29%20Ltd.txt) |
+| Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NG/Melbikomas%20UAB.txt) |
 
 ---
-*最後更新：2026-07-23 22:59 UTC*
+*最後更新：2026-07-24 06:18 UTC*

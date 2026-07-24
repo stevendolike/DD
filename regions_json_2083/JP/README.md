@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Cloudflare%20London_%20LLC.txt) |
 | Leaseweb Japan K.K. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Leaseweb%20Japan%20K.K..txt) |
-| Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Oracle%20Public%20Cloud.txt) |
 
 ---
-*最後更新：2026-07-23 22:59 UTC*
+*最後更新：2026-07-24 06:18 UTC*

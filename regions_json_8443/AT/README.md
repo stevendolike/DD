@@ -1,6 +1,6 @@
 # AT （純 IP）
 
-**共 53 條** · [返回主頁](../../README.md)
+**共 45 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/_all.txt)
 
@@ -8,8 +8,8 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/AEZA%20GROUP%20LLC.txt) |
 | Alwyzon_ a trading name of Hohl IT e.U. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/Alwyzon_%20a%20trading%20name%20of%20Hohl%20IT%20e.U..txt) |
-| InterLIR-Marketplace | 48 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/InterLIR-Marketplace.txt) |
+| InterLIR-Marketplace | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/InterLIR-Marketplace.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/NetCrafters%20OU.txt) |
 
 ---
-*最後更新：2026-07-23 22:59 UTC*
+*最後更新：2026-07-24 06:18 UTC*
