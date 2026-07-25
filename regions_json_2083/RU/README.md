@@ -9,7 +9,7 @@
 | Hosting technology LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/Hosting%20technology%20LTD.txt) |
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/JSC%20TIMEWEB.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/LLC%20Vpsville.txt) |
-| OOO VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/OOO%20VPS.txt) |
+| Network for hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/Network%20for%20hosting%20services.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

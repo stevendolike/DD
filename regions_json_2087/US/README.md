@@ -1,13 +1,12 @@
 # US （純 IP）
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DMIT%20Cloud%20Services.txt) |
-| DigitalOcean_ LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean_%20LLC.txt) |
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/EGIHosting.txt) |
 | HIVELOCITY_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HIVELOCITY_%20Inc..txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HOSTKEY%20B.V..txt) |
@@ -19,4 +18,4 @@
 | RackNerd LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/RackNerd%20LLC.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

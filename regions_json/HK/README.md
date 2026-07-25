@@ -1,13 +1,12 @@
 # HK 
 
-**共 77 條** · [返回主頁](../../README.md)
+**共 55 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365.partners%20INC.txt) |
-| 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
 | A Pensonal Global Research Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/A%20Pensonal%20Global%20Research%20Network.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ACE.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
@@ -22,8 +21,6 @@
 | Cloudie Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloudie%20Limited.txt) |
 | DMIT Cloud Service - Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
 | FreeNet L.L.C-FZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/FreeNet%20L.L.C-FZ.txt) |
-| GDI-HK | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/GDI-HK.txt) |
-| Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Google%20LLC.txt) |
 | HK DINGDIAN NETWORK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HK%20DINGDIAN%20NETWORK%20LIMITED.txt) |
 | HUIZE TELECOM LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HUIZE%20TELECOM%20LIMITED.txt) |
 | HYTRON NETWORK HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HYTRON%20NETWORK%20HK.txt) |
@@ -42,4 +39,4 @@
 | ihc.hk vps in Hong Kong | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

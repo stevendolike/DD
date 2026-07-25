@@ -1,16 +1,15 @@
 # SE （純 IP）
 
-**共 136 條** · [返回主頁](../../README.md)
+**共 132 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/1Cent%20Host.txt) |
-| 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/3NT%20SOLUTIONS%20LLP.txt) |
 | AEZA GROUP LLC | 64 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/AEZA%20GROUP%20LLC.txt) |
-| Assigned to ORG-HIP1-RIPE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
-| Baxet Group Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baxet%20Group%20Inc..txt) |
+| Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
+| Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/BlueVPS%20OU.txt) |
 | FORTIS Hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/FORTIS%20Hosting%20services.txt) |
@@ -30,10 +29,9 @@
 | SIA VEESP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
 | Sweden infrastructure | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Sweden%20infrastructure.txt) |
 | The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/The%20Constant%20Company_%20LLC.txt) |
-| The subnet 2a0c_5700_3133_1705___64 in this range is used for TOR-Exit services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/The%20subnet%202a0c_5700_3133_1705___64%20in%20this%20range%20is%20used%20for%20TOR-Exit%20services.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oracle.txt) |
 | play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

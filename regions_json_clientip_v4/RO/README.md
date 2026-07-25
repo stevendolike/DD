@@ -1,6 +1,6 @@
 # RO 
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/_all_443.txt)
 
@@ -12,9 +12,8 @@
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/IROKO%20Networks%20Corporation.txt) |
 | MivoCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/MivoCloud.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/RCS%20Technologies%20FZE%20LLC.txt) |
-| RCS _ RDS Campia-Turzii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/RCS%20_%20RDS%20Campia-Turzii.txt) |
 | TIPZOR MEDIA SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/TIPZOR%20MEDIA%20SRL.txt) |
 | ZetServers Bucharest | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/ZetServers%20Bucharest.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Baxet%20Group%20Inc..txt) |
 | EDIS IPv6 Infrastructure in Czechia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/EDIS%20IPv6%20Infrastructure%20in%20Czechia.txt) |
 | FDCservers.net | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/FDCservers.net.txt) |
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Friendhosting%20LTD.txt) |
@@ -15,9 +15,9 @@
 | HOST-TELECOM.COM s.r.o. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | INTERNET CZ_ a.s. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/INTERNET%20CZ_%20a.s..txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Retzor-com.txt) |
-| SmartApe OU | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
 | WEDOS server hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/WEDOS%20server%20hosting.txt) |
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

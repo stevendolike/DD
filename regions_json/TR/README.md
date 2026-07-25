@@ -1,12 +1,12 @@
 # TR 
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 61 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 2E TELEKOMUNIKASYON LTD STI | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
+| 2E TELEKOMUNIKASYON LTD STI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 2E Telekomunikasyon LTD. STI. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/2E%20Telekomunikasyon%20LTD.%20STI..txt) |
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/365.partners%20INC.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Baxet%20Group%20Inc..txt) |
@@ -33,4 +33,4 @@
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

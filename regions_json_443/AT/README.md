@@ -1,6 +1,6 @@
 # AT （純 IP）
 
-**共 48 條** · [返回主頁](../../README.md)
+**共 49 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/_all.txt)
 
@@ -15,8 +15,9 @@
 | HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/HostHatch%20LLC.txt) |
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/M247%20LTD%20Vienna%20Infrastructure.txt) |
 | NETAXIS GROUP LTD | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/NETAXIS%20GROUP%20LTD.txt) |
+| Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Prinode%20AB.txt) |
 | netcup GmbH | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/netcup%20GmbH.txt) |
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

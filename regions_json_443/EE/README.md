@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 101 條** · [返回主頁](../../README.md)
+**共 99 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt)
 
@@ -18,12 +18,11 @@
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HexCore%20cloud%20s.r.o..txt) |
 | Host-World OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Host-World%20OU.txt) |
-| HostSlim OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HostSlim%20OU.txt) |
-| IPv6 network for hosting services | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| HostSlim OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HostSlim%20OU.txt) |
+| IPv6 network for hosting services | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/IROKO%20Networks%20Corporation.txt) |
 | Network for hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Network%20for%20hosting%20services.txt) |
 | QWINS Hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/QWINS%20Hosting.txt) |
-| RAKAR INVESTMENTS HOLDING B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V..txt) |
 | RJ Network OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/RJ%20Network%20OU.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SA.txt) |
 | SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SERV.HOST%20GROUP%20LTD.txt) |
@@ -31,4 +30,4 @@
 | xTom OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

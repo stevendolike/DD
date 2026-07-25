@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 160 條** · [返回主頁](../../README.md)
+**共 155 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
 
@@ -8,10 +8,10 @@
 |------|--------|---------|
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/6%20COLLYER%20QUAY.txt) |
 | ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ACEVILLE%20PTE.LTD..txt) |
-| Akamai Connected Cloud _ Linode | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
-| AkileCloud LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/AkileCloud%20LLC.txt) |
+| Akamai Connected Cloud _ Linode | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
+| AkileCloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| Amazon.com_ Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
+| Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Baxet%20Group%20Inc..txt) |
 | ByteVirt LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ByteVirt%20LLC.txt) |
 | CTG Server Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/CTG%20Server%20Ltd..txt) |
@@ -31,7 +31,7 @@
 | KDDI CORPORATION | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/KDDI%20CORPORATION.txt) |
 | Leaseweb Japan K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Leaseweb%20Japan%20K.K..txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Linode.txt) |
-| Oracle Corporation | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Public%20Cloud.txt) |
 | OrangeVPS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/OrangeVPS%20LLC.txt) |
 | PANSTAR CLOUD LIMITED - Tokyo JPP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/PANSTAR%20CLOUD%20LIMITED%20-%20Tokyo%20JPP.txt) |
@@ -48,4 +48,4 @@
 | xTom | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

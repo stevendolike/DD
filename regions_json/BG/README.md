@@ -1,6 +1,6 @@
 # BG 
 
-**共 61 條** · [返回主頁](../../README.md)
+**共 60 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all_443.txt)
 
@@ -14,7 +14,6 @@
 | Friendhosting LTD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Green%20Floid%20LLC.txt) |
 | Hosting Provider Virterion LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Hosting%20Provider%20Virterion%20LLC.txt) |
-| IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/IROKO%20Networks%20Corporation.txt) |
 | ITLDC Bulgaria network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ITLDC%20Bulgaria%20network.txt) |
 | ITLDC EU2.SOF Datacenter Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
 | Lir.bg EOOD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Lir.bg%20EOOD.txt) |
@@ -24,4 +23,4 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*

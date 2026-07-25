@@ -1,6 +1,6 @@
 # JP 
 
-**共 200 條** · [返回主頁](../../README.md)
+**共 193 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all_443.txt)
 
@@ -9,11 +9,11 @@
 | 16 COLLYER QUAY _ 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/16%20COLLYER%20QUAY%20_%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/3nt%20solutions%20LLP.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/6%20COLLYER%20QUAY.txt) |
-| ACEVILLE PTE.LTD. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ACEVILLE%20PTE.LTD..txt) |
-| Akamai Connected Cloud _ Linode | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
-| AkileCloud LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/AkileCloud%20LLC.txt) |
+| ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ACEVILLE%20PTE.LTD..txt) |
+| Akamai Connected Cloud _ Linode | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
+| AkileCloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| Amazon.com_ Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon.com_%20Inc..txt) |
+| Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon.com_%20Inc..txt) |
 | BITSFLOWCLOUD LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/BITSFLOWCLOUD%20LTD.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Baxet%20Group%20Inc..txt) |
 | ByteVirt LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ByteVirt%20LLC.txt) |
@@ -34,7 +34,7 @@
 | KDDI CORPORATION | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/KDDI%20CORPORATION.txt) |
 | Leaseweb Japan K.K. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Leaseweb%20Japan%20K.K..txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Linode.txt) |
-| Oracle Corporation | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
 | OrangeVPS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/OrangeVPS%20LLC.txt) |
 | PANSTAR CLOUD LIMITED - Tokyo JPP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/PANSTAR%20CLOUD%20LIMITED%20-%20Tokyo%20JPP.txt) |
@@ -45,7 +45,6 @@
 | Server Hosting Service  (NTTPCCommunications_Inc.) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Server%20Hosting%20Service%20%20%28NTTPCCommunications_Inc.%29.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/SmartHost%20LLC.txt) |
 | So-net Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/So-net%20Service.txt) |
-| Starry Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Starry%20Network%20Limited.txt) |
 | TYO_VULTR_CUST | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/TYO_VULTR_CUST.txt) |
 | The Constant Company_ LLC | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/The%20Constant%20Company_%20LLC.txt) |
 | Virtono Networks SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Virtono%20Networks%20SRL.txt) |
@@ -55,4 +54,4 @@
 | xTom | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/xTom.txt) |
 
 ---
-*最後更新：2026-07-24 23:04 UTC*
+*最後更新：2026-07-25 06:09 UTC*
