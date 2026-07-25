@@ -16,4 +16,4 @@
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/SPEEDYPAGE-LTD.txt) |
 
 ---
-*最後更新：2026-07-25 11:17 UTC*
+*最後更新：2026-07-25 17:04 UTC*
