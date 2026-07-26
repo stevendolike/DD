@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/_all.txt)
 
@@ -9,7 +9,6 @@
 | Hosting technology LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/Hosting%20technology%20LTD.txt) |
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/JSC%20TIMEWEB.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/LLC%20Vpsville.txt) |
-| Network for hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/RU/Network%20for%20hosting%20services.txt) |
 
 ---
-*最後更新：2026-07-25 22:58 UTC*
+*最後更新：2026-07-26 06:28 UTC*
