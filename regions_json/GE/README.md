@@ -10,4 +10,4 @@
 | WORLDBUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/WORLDBUS.txt) |
 
 ---
-*最後更新：2026-07-26 17:07 UTC*
+*最後更新：2026-07-26 23:01 UTC*
