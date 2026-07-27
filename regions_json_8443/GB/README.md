@@ -1,19 +1,19 @@
 # GB （純 IP）
 
-**共 499 條** · [返回主頁](../../README.md)
+**共 498 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 81 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/AEZA%20GROUP%20LLC.txt) |
-| Amazon Data Services Ireland Ltd | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
-| Amazon Data Services UK | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
+| AEZA GROUP LLC | 80 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/AEZA%20GROUP%20LLC.txt) |
+| Amazon Data Services Ireland Ltd | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Amazon Data Services UK | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd..txt) |
 | CLOUVIDER Virtual Machines | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/CLOUVIDER%20Virtual%20Machines.txt) |
 | DigitalOcean_ LLC | 73 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/DigitalOcean_%20LLC.txt) |
 | GTHost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/GTHost.txt) |
-| Linode | 196 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Linode.txt) |
+| Linode | 197 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Linode.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 | OVH Ltd | 80 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/OVH%20Ltd.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Private%20Customer.txt) |
@@ -23,4 +23,4 @@
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-26 23:01 UTC*
+*最後更新：2026-07-27 06:54 UTC*

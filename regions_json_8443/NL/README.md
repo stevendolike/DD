@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 514 條** · [返回主頁](../../README.md)
+**共 515 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/_all.txt)
 
@@ -19,7 +19,7 @@
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | BlazingFast LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/BlazingFast%20LLC.txt) |
 | Brainoza OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Brainoza%20OU.txt) |
-| CGI GLOBAL LIMITED | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/CGI%20GLOBAL%20LIMITED.txt) |
 | CLODO CLOUD SERVICE CO. L.L.C | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/CLODO%20CLOUD%20SERVICE%20CO.%20L.L.C.txt) |
 | Cloud Backbone Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Cloud%20Backbone%20Inc..txt) |
 | Cogent Communications_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Cogent%20Communications_%20LLC.txt) |
@@ -40,8 +40,10 @@
 | Greenhost BV | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Greenhost%20BV.txt) |
 | HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/HOSTKEY%20B.V..txt) |
 | HOSTOFF infrastructure and hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/HZ%20Hosting%20Ltd.txt) |
 | Host Sailor Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Host%20Sailor%20Ltd.txt) |
 | Host9x Web Solutions Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Host9x%20Web%20Solutions%20Limited.txt) |
+| HostHatch Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/HostHatch%20Inc.txt) |
 | HostHatch | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/HostHatch.txt) |
 | Hosting Provider Virterion LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Hosting%20Provider%20Virterion%20LLC.txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Hurricane%20Electric%20LLC.txt) |
@@ -91,4 +93,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-26 23:01 UTC*
+*最後更新：2026-07-27 06:54 UTC*

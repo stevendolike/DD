@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 682 條** · [返回主頁](../../README.md)
+**共 679 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/_all.txt)
 
@@ -16,7 +16,7 @@
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/BG-NETWORK.txt) |
 | Baxet Group Inc. | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Baykov%20Ilya%20Sergeevich.txt) |
-| CHSL Helsinki | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/CHSL%20Helsinki.txt) |
+| CHSL Helsinki | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/CHSL%20Helsinki.txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Cloudflare%20London_%20LLC.txt) |
 | Creanova | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Creanova.txt) |
 | DNA Oyj | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/DNA%20Oyj.txt) |
@@ -39,18 +39,18 @@
 | HOSTKEY B.V. | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOSTKEY%20B.V..txt) |
 | Hetzner Online GmbH | 133 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Hetzner%20Online%20GmbH.txt) |
 | I-SERVERS LTD | 54 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/I-SERVERS%20LTD.txt) |
-| IP MARKET - FZCO | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IP%20MARKET%20-%20FZCO.txt) |
+| IP MARKET - FZCO | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IP%20MARKET%20-%20FZCO.txt) |
 | IT-Garage | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IT-Garage.txt) |
-| Individual Entrepreneur Anton Levin | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Individual Entrepreneur Anton Levin | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Intezio Worldwide Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Intezio%20Worldwide%20Limited.txt) |
 | LIVI HOSTING LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/LIVI%20HOSTING%20LTD.txt) |
 | M247 Europe - Helsinki Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/M247%20Europe%20-%20Helsinki%20Infrastructure.txt) |
-| NetCrafters OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/NetCrafters%20OU.txt) |
+| NetCrafters OU | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/NetCrafters%20OU.txt) |
 | Neterra Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Neterra%20Ltd..txt) |
 | New Hosting Technologies LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/New%20Hosting%20Technologies%20LLC.txt) |
 | Oneprovider.com - Helsinki Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Oneprovider.com%20-%20Helsinki%20Infrastructure.txt) |
 | Oy Creanova Hosting Solutions Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Oy%20Creanova%20Hosting%20Solutions%20Ltd..txt) |
-| PSERVERS Enterprise Network | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/PSERVERS%20Enterprise%20Network.txt) |
+| PSERVERS Enterprise Network | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/PSERVERS%20Enterprise%20Network.txt) |
 | QWINS Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/QWINS%20Hosting.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/RCS%20Technologies%20FZE%20LLC.txt) |
 | RTM Networks B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/RTM%20Networks%20B.V..txt) |
@@ -63,7 +63,7 @@
 | UNKNOWN | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/UpCloud%20Cloud%20Servers.txt) |
 | VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/VPSPay%20-%20vpspay.cloud.txt) |
-| WAIcore Ltd | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WAIcore%20Ltd.txt) |
+| WAIcore Ltd | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WAIcore%20Ltd.txt) |
 | Web1 Oy | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Web1%20Oy.txt) |
 | WorkTitans B.V. | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WorkTitans%20B.V..txt) |
 | Xorek.Cloud Helsinki | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Xorek.Cloud%20Helsinki.txt) |
@@ -71,8 +71,8 @@
 | ZTV CORP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/ZTV%20CORP%20LLC.txt) |
 | nuxt.cloud hosting provider | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/nuxt.cloud%20hosting%20provider.txt) |
 | nuxtcloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/nuxtcloud.txt) |
-| play2go.cloud - Cheap and reliable hosting | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
+| play2go.cloud - Cheap and reliable hosting | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | u1host Finland | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-07-26 23:01 UTC*
+*最後更新：2026-07-27 06:54 UTC*
