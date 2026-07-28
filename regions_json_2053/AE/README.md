@@ -9,4 +9,4 @@
 | ITGLOBAL COM DMCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AE/ITGLOBAL%20COM%20DMCC.txt) |
 
 ---
-*最後更新：2026-07-27 23:06 UTC*
+*最後更新：2026-07-28 06:17 UTC*

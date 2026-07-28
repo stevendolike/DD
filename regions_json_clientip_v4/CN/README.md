@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Aliyun Computing Co._ LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Aliyun%20Computing%20Co._%20LTD.txt) |
+| ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/ACEVILLE%20PTE.LTD..txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-07-27 23:06 UTC*
+*最後更新：2026-07-28 06:17 UTC*

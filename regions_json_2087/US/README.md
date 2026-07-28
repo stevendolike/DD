@@ -1,14 +1,16 @@
 # US （純 IP）
 
-**共 37 條** · [返回主頁](../../README.md)
+**共 38 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| DigitalOcean_ LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean_%20LLC.txt) |
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/EGIHosting.txt) |
+| HIVELOCITY_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HIVELOCITY_%20Inc..txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HOSTKEY%20B.V..txt) |
+| HOSTKEY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HOSTKEY.txt) |
 | HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HostPapa.txt) |
 | LeaseWeb USA_ Inc. Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/LeaseWeb%20USA_%20Inc.%20Los%20Angeles.txt) |
 | Leaseweb USA_ Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Leaseweb%20USA_%20Inc..txt) |
@@ -16,4 +18,4 @@
 | RackNerd LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/RackNerd%20LLC.txt) |
 
 ---
-*最後更新：2026-07-27 23:06 UTC*
+*最後更新：2026-07-28 06:17 UTC*

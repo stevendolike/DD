@@ -12,18 +12,19 @@
 | AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/AEZA%20GROUP%20Ltd.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | AlbHost SH.P.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/AlbHost%20SH.P.K..txt) |
-| Amsterdam_ Netherlands | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Amsterdam_%20Netherlands.txt) |
+| Amsterdam_ Netherlands | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Amsterdam_%20Netherlands.txt) |
 | Anexia Holding GmbH | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Anexia%20Holding%20GmbH.txt) |
 | B2 Net Solutions Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/B2%20Net%20Solutions%20Inc..txt) |
 | Baxet Group Inc. | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | BlazingFast LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/BlazingFast%20LLC.txt) |
 | Brainoza OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Brainoza%20OU.txt) |
-| CGI GLOBAL LIMITED | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/CGI%20GLOBAL%20LIMITED.txt) |
 | CLODO CLOUD SERVICE CO. L.L.C | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/CLODO%20CLOUD%20SERVICE%20CO.%20L.L.C.txt) |
 | Cloud Backbone Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Cloud%20Backbone%20Inc..txt) |
 | Cogent Communications_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Cogent%20Communications_%20LLC.txt) |
 | Customer IP range | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Customer%20IP%20range.txt) |
+| Denis Terehov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Denis%20Terehov.txt) |
 | Digital City FZE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Digital%20City%20FZE.txt) |
 | Digital Hosting Provider LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Digital%20Hosting%20Provider%20LLC.txt) |
 | Digital Ocean_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Digital%20Ocean_%20Inc..txt) |
@@ -50,7 +51,7 @@
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/IROKO%20Networks%20Corporation.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/IT7%20Networks%20Inc.txt) |
 | ITGLOBAL.COM NL B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/ITGLOBAL.COM%20NL%20B.V..txt) |
-| Individual Entrepreneur Anton Levin | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Iron Hosting Centre Ltd._ London_ UK (mchost) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Iron%20Hosting%20Centre%20Ltd._%20London_%20UK%20%28mchost%29.txt) |
 | Iron Hosting Centre Ltd._ London_ UK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Iron%20Hosting%20Centre%20Ltd._%20London_%20UK.txt) |
 | It Hosting Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/It%20Hosting%20Group.txt) |
@@ -67,13 +68,13 @@
 | PDK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/PDK%20LLC.txt) |
 | Petersburg Internet Network ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Petersburg%20Internet%20Network%20ltd..txt) |
 | Podaon SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Podaon%20SIA.txt) |
-| Private Customer | 118 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Private%20Customer.txt) |
+| Private Customer | 117 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Private%20Customer.txt) |
 | QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/QWINS%20Hosting.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/RETN%20Limited.txt) |
 | Rackhost Zrt. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Rackhost%20Zrt..txt) |
 | Red Switches | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Red%20Switches.txt) |
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/RouterHosting%20LLC.txt) |
-| SERVERS TECH FZCO | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/SERVERS%20TECH%20FZCO.txt) |
+| SERVERS TECH FZCO | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/SERVERS%20TECH%20FZCO.txt) |
 | SIA VEESP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/SIA%20VEESP.txt) |
 | SkyCore Technologies L.L.C-FZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/SkyCore%20Technologies%20L.L.C-FZ.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/Snowd%20Security%20OU.txt) |
@@ -93,4 +94,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-07-27 23:06 UTC*
+*最後更新：2026-07-28 06:17 UTC*
