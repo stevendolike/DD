@@ -12,4 +12,4 @@
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MY/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-07-28 12:02 UTC*
+*最後更新：2026-07-28 17:38 UTC*
