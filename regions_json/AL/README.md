@@ -9,4 +9,4 @@
 | AlbHost SH.P.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AL/AlbHost%20SH.P.K..txt) |
 
 ---
-*最後更新：2026-07-29 12:06 UTC*
+*最後更新：2026-07-29 17:19 UTC*
