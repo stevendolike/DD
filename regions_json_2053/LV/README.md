@@ -1,13 +1,12 @@
 # LV （純 IP）
 
-**共 100 條** · [返回主頁](../../README.md)
+**共 99 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Beget LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Beget%20LLC.txt) |
-| CGI GLOBAL LIMITED | 54 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 55 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Dmitrii Vladimirovich Malkov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Green%20Floid%20LLC.txt) |
@@ -16,8 +15,8 @@
 | Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Private%20Customer.txt) |
 | SIA VEESP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
-| Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Subnet%20Digital%20LLC.txt) |
+| Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Subnet%20Digital%20LLC.txt) |
 | as56971 network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-28 23:03 UTC*
+*最後更新：2026-07-29 06:23 UTC*

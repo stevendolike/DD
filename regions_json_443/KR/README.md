@@ -1,6 +1,6 @@
 # KR （純 IP）
 
-**共 14 條** · [返回主頁](../../README.md)
+**共 13 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/_all.txt)
 
@@ -12,7 +12,6 @@
 | Oracle Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/Oracle%20Corporation.txt) |
 | SK Broadband Co Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/SK%20Broadband%20Co%20Ltd.txt) |
 | The Constant Company_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/The%20Constant%20Company_%20LLC.txt) |
-| oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/oracle.txt) |
 
 ---
-*最後更新：2026-07-28 23:03 UTC*
+*最後更新：2026-07-29 06:23 UTC*
