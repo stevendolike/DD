@@ -9,4 +9,4 @@
 | EDIS IPv6 Infrastructure in Slovenia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SI/EDIS%20IPv6%20Infrastructure%20in%20Slovenia.txt) |
 
 ---
-*最後更新：2026-07-28 23:03 UTC*
+*最後更新：2026-07-29 06:23 UTC*
