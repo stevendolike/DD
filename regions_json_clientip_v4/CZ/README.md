@@ -1,17 +1,19 @@
 # CZ 
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 16 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/3NT%20SOLUTIONS%20LLP.txt) |
-| HOST-TELECOM.COM s.r.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
+| Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Baxet%20Group%20Inc..txt) |
+| GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/GREEN%20FLOID%20LLC.txt) |
+| Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Green%20Floid%20LLC.txt) |
+| HOST-TELECOM.COM s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | Iron Hosting Centre LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
-| Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Retzor-com.txt) |
-| SmartApe OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/SmartApe%20OU.txt) |
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-07-29 23:00 UTC*
+*最後更新：2026-07-30 06:19 UTC*
