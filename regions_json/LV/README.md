@@ -1,6 +1,6 @@
 # LV 
 
-**共 350 條** · [返回主頁](../../README.md)
+**共 346 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all_443.txt)
 
@@ -10,7 +10,7 @@
 | Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Baykov%20Ilya%20Sergeevich.txt) |
 | Beget LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Beget%20LLC.txt) |
-| CGI GLOBAL LIMITED | 146 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 143 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Customer subnet in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Customer%20subnet%20in%20Latvia.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Friendhosting%20LTD.txt) |
@@ -30,7 +30,7 @@
 | Subnet Digital LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Subnet%20Digital%20LLC.txt) |
 | Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Versija%20SIA.txt) |
-| as56971 network | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
+| as56971 network | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-30 23:11 UTC*
+*最後更新：2026-07-31 06:36 UTC*
