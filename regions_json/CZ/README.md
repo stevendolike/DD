@@ -1,6 +1,6 @@
 # CZ 
 
-**共 76 條** · [返回主頁](../../README.md)
+**共 74 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
@@ -13,12 +13,12 @@
 | Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/GREEN%20FLOID%20LLC.txt) |
 | Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Green%20Floid%20LLC.txt) |
-| HOST-TELECOM.COM s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
+| HOST-TELECOM.COM s.r.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | INTERNET CZ_ a.s. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/INTERNET%20CZ_%20a.s..txt) |
 | Iron Hosting Centre LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
-| SmartApe OU | 48 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 47 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
 | WEDOS server hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/WEDOS%20server%20hosting.txt) |
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-07-30 23:11 UTC*
+*最後更新：2026-07-31 06:36 UTC*
