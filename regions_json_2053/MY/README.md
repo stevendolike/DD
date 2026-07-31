@@ -9,4 +9,4 @@
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/MY/Alibaba%20Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-07-31 12:05 UTC*
+*最後更新：2026-07-31 17:43 UTC*
