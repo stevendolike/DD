@@ -11,7 +11,7 @@
 | Belcloud LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Belcloud%20LTD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
-| Friendhosting LTD | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Green%20Floid%20LLC.txt) |
 | Hosting Provider Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Hosting%20Provider%20Virterion%20LLC.txt) |
 | ITLDC Bulgaria network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ITLDC%20Bulgaria%20network.txt) |
@@ -20,8 +20,8 @@
 | Lir.bg EOOD | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/NetGrid%20Host%20LTD.txt) |
 | ROLANDAS USCILA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ROLANDAS%20USCILA.txt) |
-| Redcluster LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Redcluster%20LTD.txt) |
+| Redcluster LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Redcluster%20LTD.txt) |
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-07-31 23:04 UTC*
+*最後更新：2026-08-01 06:20 UTC*

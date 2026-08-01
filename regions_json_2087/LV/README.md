@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/LV/Friendhosting%20LTD.txt) |
-| SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/LV/SIA%20VEESP.txt) |
+| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-07-31 23:04 UTC*
+*最後更新：2026-08-01 06:20 UTC*
