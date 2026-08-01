@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 57 條** · [返回主頁](../../README.md)
+**共 35 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -9,12 +9,12 @@
 | Atlantic.Net - Toronto_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Atlantic.Net%20-%20Toronto_%20LLC..txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Baxet%20Group%20Inc..txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/CENTRILOGICCANADA.txt) |
-| DigitalOcean_ LLC | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean_%20LLC.txt) |
 | HostPapa | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/IT%20Hostline%20Ltd.txt) |
-| OVH Hosting_ Inc. | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting_%20Inc..txt) |
+| OVH Hosting_ Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting_%20Inc..txt) |
 | Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Oracle%20Corporation.txt) |
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-07-31 23:04 UTC*
+*最後更新：2026-08-01 06:20 UTC*
