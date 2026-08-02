@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/LIGHT%20NODE%20LIMITED.txt) |
+| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/Oracle%20Svenska%20AB.txt) |
 | The Constant Company_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/The%20Constant%20Company_%20LLC.txt) |
 | xneelo-tscolo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/xneelo-tscolo.txt) |
 
 ---
-*最後更新：2026-08-01 22:57 UTC*
+*最後更新：2026-08-02 06:25 UTC*

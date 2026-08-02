@@ -1,6 +1,6 @@
 # CN 
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all_443.txt)
 
@@ -8,8 +8,7 @@
 |------|--------|---------|
 | ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/ACEVILLE%20PTE.LTD..txt) |
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Aliyun%20Computing%20Co.LTD.txt) |
-| Aliyun Computing Co._ LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Aliyun%20Computing%20Co._%20LTD.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-08-01 22:57 UTC*
+*最後更新：2026-08-02 06:25 UTC*

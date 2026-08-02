@@ -7,9 +7,9 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BR/3NT%20SOLUTIONS%20LLP.txt) |
-| HLL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BR/HLL%20LLC.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BR/Oracle%20Corporation.txt) |
 | SPRINTHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BR/SPRINTHOST%20LLP.txt) |
 
 ---
-*最後更新：2026-08-01 22:57 UTC*
+*最後更新：2026-08-02 06:25 UTC*

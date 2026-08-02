@@ -9,4 +9,4 @@
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BY/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 
 ---
-*最後更新：2026-08-01 22:57 UTC*
+*最後更新：2026-08-02 06:25 UTC*

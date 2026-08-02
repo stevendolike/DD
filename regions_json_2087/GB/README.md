@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 75 條** · [返回主頁](../../README.md)
+**共 77 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/_all.txt)
 
@@ -8,7 +8,8 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/AEZA%20GROUP%20LLC.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/Baxet%20Group%20Inc..txt) |
-| DigitalOcean_ LLC | 69 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 70 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/DigitalOcean_%20LLC.txt) |
+| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/HOSTKEY%20B.V..txt) |
 
 ---
-*最後更新：2026-08-01 22:57 UTC*
+*最後更新：2026-08-02 06:25 UTC*
