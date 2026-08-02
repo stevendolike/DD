@@ -13,4 +13,4 @@
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-02 06:25 UTC*
+*最後更新：2026-08-02 11:21 UTC*
