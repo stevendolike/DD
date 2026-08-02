@@ -9,4 +9,4 @@
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FR/EGIHosting.txt) |
 
 ---
-*最後更新：2026-08-02 06:25 UTC*
+*最後更新：2026-08-02 11:21 UTC*
