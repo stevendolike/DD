@@ -13,4 +13,4 @@
 | IPv6 network for hosting services | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/IPv6%20network%20for%20hosting%20services.txt) |
 
 ---
-*最後更新：2026-08-03 06:51 UTC*
+*最後更新：2026-08-03 13:14 UTC*
