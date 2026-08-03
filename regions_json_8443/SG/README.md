@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 45 條** · [返回主頁](../../README.md)
+**共 44 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
@@ -20,7 +20,7 @@
 | LEASEWEB SINGAPORE PTE. LTD. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD..txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Melbikomas%20UAB.txt) |
 | OVH SINGAPOR DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/OVH%20SINGAPOR%20DC.txt) |
-| Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
 | PI-SINGAPORE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/PI-SINGAPORE.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SG.GS.txt) |
 | SGP_VULTR_CUST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SGP_VULTR_CUST.txt) |
@@ -28,4 +28,4 @@
 | Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-08-02 22:58 UTC*
+*最後更新：2026-08-03 06:51 UTC*

@@ -1,6 +1,6 @@
 # BG 
 
-**共 53 條** · [返回主頁](../../README.md)
+**共 54 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all_443.txt)
 
@@ -20,8 +20,8 @@
 | Lir.bg EOOD | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Lir.bg%20EOOD.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/NetGrid%20Host%20LTD.txt) |
 | ROLANDAS USCILA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ROLANDAS%20USCILA.txt) |
-| Redcluster LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Redcluster%20LTD.txt) |
+| Redcluster LTD | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Redcluster%20LTD.txt) |
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-08-02 22:58 UTC*
+*最後更新：2026-08-03 06:51 UTC*

@@ -1,12 +1,12 @@
 # SE （純 IP）
 
-**共 26 條** · [返回主頁](../../README.md)
+**共 25 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/AEZA%20GROUP%20LLC.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/MVPS%20LTD.txt) |
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/NetCrafters%20OU.txt) |
@@ -14,4 +14,4 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-02 22:58 UTC*
+*最後更新：2026-08-03 06:51 UTC*

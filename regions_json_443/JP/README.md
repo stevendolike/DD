@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 120 條** · [返回主頁](../../README.md)
+**共 117 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
 
@@ -11,7 +11,7 @@
 | Akamai Connected Cloud _ Linode | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | AkileCloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
+| Amazon.com_ Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
 | BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/BBIX%20IPv6%20Network.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Baxet%20Group%20Inc..txt) |
 | ByteVirt LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ByteVirt%20LLC.txt) |
@@ -30,12 +30,13 @@
 | KAGOYA JAPAN Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/KAGOYA%20JAPAN%20Inc..txt) |
 | KDDI CORPORATION | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/KDDI%20CORPORATION.txt) |
 | Leaseweb Japan K.K. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Leaseweb%20Japan%20K.K..txt) |
+| NetFuture Technology LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/NetFuture%20Technology%20LLC.txt) |
 | Oracle Corporation | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Oracle%20Public%20Cloud.txt) |
+| OrangeVPS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/OrangeVPS%20LLC.txt) |
 | Prime Security Corp. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Prime%20Security%20Corp..txt) |
-| SAKURA Internet Inc. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/SAKURA%20Internet%20Inc..txt) |
+| SAKURA Internet Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/SAKURA%20Internet%20Inc..txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/STYLISH%20BY%20A_L%20SRL.txt) |
-| ShouyuResearchNetwork-LUX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ShouyuResearchNetwork-LUX.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/SmartHost%20LLC.txt) |
 | So-net Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/So-net%20Service.txt) |
 | TYO_VULTR_CUST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/TYO_VULTR_CUST.txt) |
@@ -43,8 +44,7 @@
 | Virtono Networks SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Virtono%20Networks%20SRL.txt) |
 | Vultr Holdings_ LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Vultr%20Holdings_%20LLC.txt) |
 | imported inetnum object for OCPL-1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/imported%20inetnum%20object%20for%20OCPL-1.txt) |
-| xTom Japan Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20Japan%20Corporation.txt) |
-| xTom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom.txt) |
+| xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom.txt) |
 
 ---
-*最後更新：2026-08-02 22:58 UTC*
+*最後更新：2026-08-03 06:51 UTC*
