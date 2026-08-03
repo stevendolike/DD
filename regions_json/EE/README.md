@@ -1,6 +1,6 @@
 # EE 
 
-**共 103 條** · [返回主頁](../../README.md)
+**共 102 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt)
 
@@ -17,7 +17,7 @@
 | HexCore cloud s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HexCore%20cloud%20s.r.o..txt) |
 | Host-World OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Host-World%20OU.txt) |
 | HostSlim OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HostSlim%20OU.txt) |
-| IPv6 network for hosting services | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| IPv6 network for hosting services | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | Network for hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Network%20for%20hosting%20services.txt) |
 | QWINS Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/QWINS%20Hosting.txt) |
 | RAKAR INVESTMENTS HOLDING B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V..txt) |
@@ -28,4 +28,4 @@
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-08-02 22:58 UTC*
+*最後更新：2026-08-03 06:51 UTC*
