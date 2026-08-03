@@ -28,4 +28,4 @@
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-08-03 06:51 UTC*
+*最後更新：2026-08-03 13:14 UTC*
