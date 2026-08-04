@@ -11,4 +11,4 @@
 | MivoCloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/MivoCloud.txt) |
 
 ---
-*最後更新：2026-08-04 12:06 UTC*
+*最後更新：2026-08-04 17:52 UTC*
