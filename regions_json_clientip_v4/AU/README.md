@@ -10,9 +10,8 @@
 | DigitalOcean_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/DigitalOcean_%20LLC.txt) |
 | Level 6_ 9-13 Young Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Level%206_%209-13%20Young%20Street.txt) |
 | Macquarie Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Macquarie%20Telecom.txt) |
-| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Oracle%20Corporation.txt) |
-| Ransom IT Melbourne VPS Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Ransom%20IT%20Melbourne%20VPS%20Services.txt) |
+| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Oracle%20Corporation.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/oracle.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*

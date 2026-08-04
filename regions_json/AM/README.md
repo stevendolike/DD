@@ -1,14 +1,13 @@
 # AM 
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/365.partners%20INC.txt) |
 | Proitlab LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/Proitlab%20LLC.txt) |
 | WorkTitans B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/WorkTitans%20B.V..txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*

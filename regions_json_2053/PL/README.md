@@ -13,12 +13,12 @@
 | EDIS Infrastructure in Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/FASTWARP%20LLP.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Intezio%20Networks%20Warsaw.txt) |
 | NET 185 226 181 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NET%20185%20226%20181%200%2024.txt) |
 | NET 45 149 63 0 24 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NET%2045%20149%2063%200%2024.txt) |
 | Newserverlife LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20VPS%20WAW.txt) |
-| Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Podaon%20SIA.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/QWINS%20Hosting.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Snowd%20Security%20OU.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/South%20Park%20Networks%20LLC.txt) |
@@ -26,4 +26,4 @@
 | Warsaw_ Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Warsaw_%20Poland.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*
