@@ -12,9 +12,9 @@
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | Friendhosting LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
+| GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/GREEN%20FLOID%20LLC.txt) |
 | Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Green%20Floid%20LLC.txt) |
 | Hosting Provider Virterion LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Hosting%20Provider%20Virterion%20LLC.txt) |
-| ITLDC Bulgaria network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ITLDC%20Bulgaria%20network.txt) |
 | ITLDC EU2.SOF Datacenter Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
 | Julian Achter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Julian%20Achter.txt) |
 | Lir.bg EOOD | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Lir.bg%20EOOD.txt) |
@@ -24,4 +24,4 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*

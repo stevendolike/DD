@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 15 條** · [返回主頁](../../README.md)
+**共 16 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/_all.txt)
 
@@ -12,9 +12,10 @@
 | PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/PENTECH%20BILISIM%20TEKNOLOJILERI%20SANAYI%20VE%20TICARET%20LIMITED%20SIRKET.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Private%20Customer.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
+| Superonline Iletisim Hizmetleri A.S. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Superonline%20Iletisim%20Hizmetleri%20A.S..txt) |
 | Tellcom Adana Fiber Dynamic | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Tellcom%20Adana%20Fiber%20Dynamic.txt) |
 | TradeZone LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/TradeZone%20LLC.txt) |
 | White Label Services_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/White%20Label%20Services_%20LLC.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*

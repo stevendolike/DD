@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | CLOUDLAYER8 LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/CLOUDLAYER8%20LIMITED.txt) |
-| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/MVPS%20LTD.txt) |
+| EDIS IPv6 Infrastructure in Cyprus | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/EDIS%20IPv6%20Infrastructure%20in%20Cyprus.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*

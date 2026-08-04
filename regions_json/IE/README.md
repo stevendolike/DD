@@ -1,12 +1,12 @@
 # IE 
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 14 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Amazon Data Services Ireland Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
+| Amazon Data Services Ireland Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon.com_%20Inc..txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/HostPapa.txt) |
@@ -15,4 +15,4 @@
 | VPS ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/VPS%20ACE.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*

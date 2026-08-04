@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 20 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt)
 
@@ -8,17 +8,13 @@
 |------|--------|---------|
 | 2E TELEKOMUNIKASYON LTD STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Baxet%20Group%20Inc..txt) |
-| GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/HOSTKEY%20B.V..txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/LIGHT%20NODE%20LIMITED.txt) |
-| Plant Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Plant%20Holding%20GmbH.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI..txt) |
-| VULUT BILISIM TEKNOLOJILERI LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/VULUT%20BILISIM%20TEKNOLOJILERI%20LIMITED%20SIRKETI.txt) |
 | White Label Services_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services_%20LLC.txt) |
-| WorkTitans B.V. | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/WorkTitans%20B.V..txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*

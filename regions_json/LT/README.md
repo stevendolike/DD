@@ -10,9 +10,9 @@
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Melbikomas%20UAB.txt) |
 | Pirma alokacija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Pirma%20alokacija.txt) |
 | SOLID Lithuania | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/SOLID%20Lithuania.txt) |
-| UAB Cherry Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Cherry%20Servers.txt) |
+| UAB Cherry Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
+| UAB Interneto vizija | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-08-03 23:05 UTC*
+*最後更新：2026-08-04 06:19 UTC*
