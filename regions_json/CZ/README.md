@@ -1,6 +1,6 @@
 # CZ 
 
-**共 62 條** · [返回主頁](../../README.md)
+**共 61 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
@@ -17,9 +17,9 @@
 | INTERNET CZ_ a.s. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/INTERNET%20CZ_%20a.s..txt) |
 | Iron Hosting Centre LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor-com.txt) |
-| SmartApe OU | 41 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
 | WEDOS server hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/WEDOS%20server%20hosting.txt) |
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*

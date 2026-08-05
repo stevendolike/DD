@@ -1,6 +1,6 @@
 # AT 
 
-**共 95 條** · [返回主頁](../../README.md)
+**共 94 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all_443.txt)
 
@@ -10,7 +10,6 @@
 | Alwyzon_ a trading name of Hohl IT e.U. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Alwyzon_%20a%20trading%20name%20of%20Hohl%20IT%20e.U..txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Baxet%20Group%20Inc..txt) |
 | EDIS IPv6 Infrastructure in Austria | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/EDIS%20IPv6%20Infrastructure%20in%20Austria.txt) |
-| Evolus IT Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/HostHatch%20LLC.txt) |
 | IPAX GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/IPAX%20GmbH.txt) |
@@ -22,4 +21,4 @@
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*
