@@ -10,7 +10,7 @@
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/3nt%20solutions%20LLP.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/6%20COLLYER%20QUAY.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Nearoute%20Limited.txt) |
+| Cloudflare_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Cloudflare_%20Inc..txt) |
 | NetFuture Technology LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/NetFuture%20Technology%20LLC.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Corporation.txt) |
@@ -24,4 +24,4 @@
 | oneprovider.com - Tokyo Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/oneprovider.com%20-%20Tokyo%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*

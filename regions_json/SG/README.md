@@ -1,12 +1,13 @@
 # SG 
 
-**共 254 條** · [返回主頁](../../README.md)
+**共 253 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 16 COLLYER QUAY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/16%20COLLYER%20QUAY.txt) |
+| 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/3NT%20SOLUTIONS%20LLP.txt) |
 | 500 Oracle Parkway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/500%20Oracle%20Parkway.txt) |
 | 6 COLLYER QUAY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/6%20COLLYER%20QUAY.txt) |
 | ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/ACEVILLE%20PTE.LTD..txt) |
@@ -20,7 +21,7 @@
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Baxet%20Group%20Inc..txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Cloudflare%20London_%20LLC.txt) |
 | Contabo Asia Private Limited | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Contabo%20Asia%20Private%20Limited.txt) |
-| DigitalOcean_ LLC | 167 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 165 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/DigitalOcean_%20LLC.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/GREEN%20FLOID%20LLC.txt) |
 | Hetzner Online GmbH | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Hetzner%20Online%20GmbH.txt) |
@@ -28,6 +29,7 @@
 | LEASEWEB SINGAPORE PTE. LTD. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD..txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Linode.txt) |
 | Linode_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Linode_%20LLC.txt) |
+| M1 LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/M1%20LIMITED.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Melbikomas%20UAB.txt) |
 | OVH SINGAPOR DC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/OVH%20SINGAPOR%20DC.txt) |
 | Oracle Corporation | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Corporation.txt) |
@@ -40,8 +42,7 @@
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/SPEEDYPAGE-LTD.txt) |
 | The Constant Company_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/The%20Constant%20Company_%20LLC.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/UCUL-SG.txt) |
-| Viewqwest Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Viewqwest%20Pte%20Ltd.txt) |
 | Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*

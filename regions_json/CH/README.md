@@ -1,6 +1,6 @@
 # CH 
 
-**共 136 條** · [返回主頁](../../README.md)
+**共 134 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -15,7 +15,7 @@
 | Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Green Floid LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
+| Green Floid LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HOSTKEY%20B.V..txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HostHatch.txt) |
 | Infomaniak Network SA | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Infomaniak%20Network%20SA.txt) |
@@ -26,11 +26,11 @@
 | M247 LTD Zurich Infrastructure | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
 | M247 LTD Zurich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich.txt) |
 | OVH CH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/OVH%20CH.txt) |
-| Oracle Public Cloud | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Oracle%20Public%20Cloud.txt) |
+| Oracle Public Cloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Prinode%20AB.txt) |
 | RouterHosting LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*

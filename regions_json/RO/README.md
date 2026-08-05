@@ -1,11 +1,12 @@
 # RO 
 
-**共 24 條** · [返回主頁](../../README.md)
+**共 26 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| AlexHost SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/AlexHost%20SRL.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Cloudflare%20London_%20LLC.txt) |
 | DOTRO TELECOM SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/DOTRO%20TELECOM%20SRL.txt) |
 | DataNode DC SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/DataNode%20DC%20SRL.txt) |
@@ -18,8 +19,9 @@
 | MivoCloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/MivoCloud.txt) |
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RCS%20Technologies%20FZE%20LLC.txt) |
+| RCS _ RDS Campia-Turzii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RCS%20_%20RDS%20Campia-Turzii.txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/STYLISH%20BY%20A_L%20SRL.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*

@@ -1,18 +1,18 @@
 # EE （純 IP）
 
-**共 74 條** · [返回主頁](../../README.md)
+**共 75 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/1Cent%20Host.txt) |
-| 3NT SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/3NT%20SOLUTIONS%20LLP.txt) |
+| 3NT SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
 | Brainoza OU | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Cogent%20Communications_%20LLC.txt) |
-| ESTOXY OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/ESTOXY%20OU.txt) |
+| ESTOXY OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/ESTOXY%20OU.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HexCore%20cloud%20s.r.o..txt) |
 | Host-World OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Host-World%20OU.txt) |
@@ -24,6 +24,7 @@
 | RJ Network OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/RJ%20Network%20OU.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SA.txt) |
 | SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SERV.HOST%20GROUP%20LTD.txt) |
+| TAKEHOST.BIZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/TAKEHOST.BIZ.txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*

@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 230 條** · [返回主頁](../../README.md)
+**共 229 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/_all.txt)
 
@@ -27,7 +27,7 @@
 | Contabo Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Contabo%20Inc..txt) |
 | Contabo Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Contabo%20Inc.txt) |
 | Cox Communications Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Cox%20Communications%20Inc..txt) |
-| DMIT Cloud Services | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/DMIT%20Cloud%20Services.txt) |
+| DMIT Cloud Services | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/DMIT%20Cloud%20Services.txt) |
 | DigitalOcean_ LLC | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/DigitalOcean_%20LLC.txt) |
 | Ethernet Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Ethernet%20Servers.txt) |
 | Exabytes Network (Singapore) Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Exabytes%20Network%20%28Singapore%29%20Pte%20Ltd.txt) |
@@ -37,7 +37,7 @@
 | GoDaddy.com_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/GoDaddy.com_%20LLC.txt) |
 | HIVELOCITY_ Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/HIVELOCITY_%20Inc..txt) |
 | HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/HOSTKEY%20B.V..txt) |
-| HOSTKEY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/HOSTKEY.txt) |
+| HOSTKEY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/HOSTKEY.txt) |
 | Hetzner Online GmbH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Hetzner%20Online%20GmbH.txt) |
 | HostPapa | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/HostPapa.txt) |
 | Huize Holdings LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Huize%20Holdings%20LLC.txt) |
@@ -51,7 +51,7 @@
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Linode.txt) |
 | MULTACOM CORPORATION | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/MULTACOM%20CORPORATION.txt) |
 | NTT DATA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/NTT%20DATA.txt) |
-| NetCrafters OU | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/NetCrafters%20OU.txt) |
+| NetCrafters OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/NetCrafters%20OU.txt) |
 | NetLab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/NetLab.txt) |
 | Nexeon Technologies_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Nexeon%20Technologies_%20Inc..txt) |
 | OVH US LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/OVH%20US%20LLC.txt) |
@@ -80,4 +80,4 @@
 | sally wang | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/sally%20wang.txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*

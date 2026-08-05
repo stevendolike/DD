@@ -1,6 +1,6 @@
 # CZ （純 IP）
 
-**共 48 條** · [返回主頁](../../README.md)
+**共 47 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/_all.txt)
 
@@ -15,9 +15,9 @@
 | HOST-TELECOM.COM s.r.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/HOST-TELECOM.COM%20s.r.o..txt) |
 | INTERNET CZ_ a.s. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/INTERNET%20CZ_%20a.s..txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Retzor-com.txt) |
-| SmartApe OU | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
 | WEDOS server hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/WEDOS%20server%20hosting.txt) |
 | vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-08-04 23:05 UTC*
+*最後更新：2026-08-05 06:19 UTC*
