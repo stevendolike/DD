@@ -10,4 +10,4 @@
 | Oneprovider.com - Kiev Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/Oneprovider.com%20-%20Kiev%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-08-05 17:44 UTC*
+*最後更新：2026-08-05 23:03 UTC*
