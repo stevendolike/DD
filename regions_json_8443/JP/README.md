@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 22 條** · [返回主頁](../../README.md)
+**共 23 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -15,7 +15,7 @@
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Evoxt.com.txt) |
 | KDDI CORPORATION | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/KDDI%20CORPORATION.txt) |
 | Leaseweb Japan K.K. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Leaseweb%20Japan%20K.K..txt) |
-| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
 | Server Hosting Service  (NTTPCCommunications_Inc.) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Server%20Hosting%20Service%20%20%28NTTPCCommunications_Inc.%29.txt) |
 | Starry Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Starry%20Network%20Limited.txt) |
@@ -23,4 +23,4 @@
 | Vultr Holdings_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-08-05 23:03 UTC*
+*最後更新：2026-08-06 06:22 UTC*

@@ -1,6 +1,6 @@
 # TR 
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 45 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all_443.txt)
 
@@ -10,6 +10,7 @@
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Baxet%20Group%20Inc..txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/HOSTKEY%20B.V..txt) |
 | IPv4Center.com Partition - Order _4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/IPv4Center.com%20Partition%20-%20Order%20_4.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/LIGHT%20NODE%20LIMITED.txt) |
 | PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/PENTECH%20BILISIM%20TEKNOLOJILERI%20SANAYI%20VE%20TICARET%20LIMITED%20SIRKET.txt) |
@@ -20,8 +21,8 @@
 | TradeZone LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/TradeZone%20LLC.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI..txt) |
 | White Label Services_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/White%20Label%20Services_%20LLC.txt) |
-| WorkTitans B.V. | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/WorkTitans%20B.V..txt) |
+| WorkTitans B.V. | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/WorkTitans%20B.V..txt) |
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-05 23:03 UTC*
+*最後更新：2026-08-06 06:22 UTC*

@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 15 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt)
 
@@ -10,9 +10,9 @@
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Melbikomas%20UAB.txt) |
 | Pirma alokacija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Pirma%20alokacija.txt) |
 | SOLID Lithuania | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/SOLID%20Lithuania.txt) |
-| UAB Cherry Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Cherry%20Servers.txt) |
+| UAB Cherry Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-08-05 23:03 UTC*
+*最後更新：2026-08-06 06:22 UTC*

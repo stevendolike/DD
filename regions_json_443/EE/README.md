@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 75 條** · [返回主頁](../../README.md)
+**共 79 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt)
 
@@ -8,23 +8,24 @@
 |------|--------|---------|
 | 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/3NT%20SOLUTIONS%20LLP.txt) |
-| Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Baykov%20Ilya%20Sergeevich.txt) |
-| BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
+| Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Baykov%20Ilya%20Sergeevich.txt) |
+| BlueVPS OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
+| Brainoza OU | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
 | Cogent Communications_ LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Cogent%20Communications_%20LLC.txt) |
-| ESTOXY OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/ESTOXY%20OU.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HZ%20Hosting%20Ltd.txt) |
-| HexCore cloud s.r.o. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HexCore%20cloud%20s.r.o..txt) |
+| HexCore cloud s.r.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HexCore%20cloud%20s.r.o..txt) |
 | Host-World OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Host-World%20OU.txt) |
-| HostSlim OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HostSlim%20OU.txt) |
-| IPv6 network for hosting services | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/IPv6%20network%20for%20hosting%20services.txt) |
-| Network for hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Network%20for%20hosting%20services.txt) |
-| QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/QWINS%20Hosting.txt) |
+| IPv6 network for hosting services | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| Network for hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Network%20for%20hosting%20services.txt) |
+| QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/QWINS%20Hosting.txt) |
 | RAKAR INVESTMENTS HOLDING B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V..txt) |
 | RJ Network OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/RJ%20Network%20OU.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SA.txt) |
-| SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SERV.HOST%20GROUP%20LTD.txt) |
+| SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SERV.HOST%20GROUP%20LTD.txt) |
 | TAKEHOST.BIZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/TAKEHOST.BIZ.txt) |
+| as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/as56971%20network.txt) |
+| servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/servinga.com%20-%20Estonia.txt) |
+| xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-08-05 23:03 UTC*
+*最後更新：2026-08-06 06:22 UTC*
