@@ -7,9 +7,9 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/3NT%20SOLUTIONS%20LLP.txt) |
-| Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Baxet%20Group%20Inc..txt) |
 | EDIS IPv6 Infrastructure in Belgium | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/EDIS%20IPv6%20Infrastructure%20in%20Belgium.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Google LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Google%20LLC.txt) |
 
 ---
-*最後更新：2026-08-05 23:03 UTC*
+*最後更新：2026-08-06 06:22 UTC*

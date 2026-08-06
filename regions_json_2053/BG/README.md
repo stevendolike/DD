@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Green%20Floid%20LLC.txt) |
 | Hosting Provider Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Hosting%20Provider%20Virterion%20LLC.txt) |
-| Redcluster LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Redcluster%20LTD.txt) |
+| Redcluster LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Redcluster%20LTD.txt) |
 
 ---
-*最後更新：2026-08-05 23:03 UTC*
+*最後更新：2026-08-06 06:22 UTC*
