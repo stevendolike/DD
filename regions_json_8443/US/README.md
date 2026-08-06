@@ -77,4 +77,4 @@
 | sally wang | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/sally%20wang.txt) |
 
 ---
-*最後更新：2026-08-06 06:22 UTC*
+*最後更新：2026-08-06 12:06 UTC*
