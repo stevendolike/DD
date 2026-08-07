@@ -13,4 +13,4 @@
 | Lir.bg EOOD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Lir.bg%20EOOD.txt) |
 
 ---
-*最後更新：2026-08-07 10:59 UTC*
+*最後更新：2026-08-07 16:57 UTC*
