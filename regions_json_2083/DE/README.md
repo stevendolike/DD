@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 179 條** · [返回主頁](../../README.md)
+**共 180 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/_all.txt)
 
@@ -14,6 +14,7 @@
 | Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Fornex%20Hosting%20S.L..txt) |
 | HOS-1711113 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/HOS-1711113.txt) |
 | Hetzner Online GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Hetzner%20Online%20GmbH.txt) |
+| INYC HOLDING LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/INYC%20HOLDING%20LIMITED.txt) |
 | IT-Garage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/IT-Garage.txt) |
 | Leaseweb Deutschland GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Leaseweb%20Deutschland%20GmbH.txt) |
 | NEKOBYTE INTERNATIONAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/NEKOBYTE%20INTERNATIONAL%20LIMITED.txt) |
@@ -26,4 +27,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-08-07 01:30 UTC*
+*最後更新：2026-08-07 05:27 UTC*

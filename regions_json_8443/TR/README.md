@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/_all.txt)
 
@@ -13,7 +13,7 @@
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Superonline Iletisim Hizmetleri A.S. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Superonline%20Iletisim%20Hizmetleri%20A.S..txt) |
 | TradeZone LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/TradeZone%20LLC.txt) |
-| White Label Services_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/White%20Label%20Services_%20LLC.txt) |
+| White Label Services_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/White%20Label%20Services_%20LLC.txt) |
 
 ---
-*最後更新：2026-08-07 01:30 UTC*
+*最後更新：2026-08-07 05:27 UTC*

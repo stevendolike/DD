@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 127 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/_all.txt)
 
@@ -22,7 +22,7 @@
 | I-SERVERS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/I-SERVERS%20LTD.txt) |
 | IP MARKET - FZCO | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IP%20MARKET%20-%20FZCO.txt) |
 | IT-Garage | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IT-Garage.txt) |
-| Individual Entrepreneur Anton Levin | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Individual Entrepreneur Anton Levin | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | NetCrafters OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/NetCrafters%20OU.txt) |
 | New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/New%20Hosting%20Technologies%20LLC.txt) |
 | PSERVERS Enterprise Network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/PSERVERS%20Enterprise%20Network.txt) |
@@ -32,13 +32,13 @@
 | Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Snowd%20Security%20OU.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UpCloud%20Cloud%20Servers.txt) |
-| WAIcore Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WAIcore%20Ltd.txt) |
+| WAIcore Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WAIcore%20Ltd.txt) |
 | WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WorkTitans%20B.V..txt) |
 | ZTV CORP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/ZTV%20CORP%20LLC.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/as56971%20network.txt) |
 | nuxt.cloud hosting provider | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/nuxt.cloud%20hosting%20provider.txt) |
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
-| u1host Finland | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
+| u1host Finland | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-08-07 01:30 UTC*
+*最後更新：2026-08-07 05:27 UTC*

@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 108 條** · [返回主頁](../../README.md)
+**共 104 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt)
 
@@ -13,7 +13,7 @@
 | Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Amazon.com_%20Inc..txt) |
 | BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/BBIX%20IPv6%20Network.txt) |
 | Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Baxet%20Group%20Inc..txt) |
-| ByteVirt LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ByteVirt%20LLC.txt) |
+| ByteVirt LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/ByteVirt%20LLC.txt) |
 | CTG Server Ltd. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/CTG%20Server%20Ltd..txt) |
 | CYBERJET PTE. LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/CYBERJET%20PTE.%20LTD..txt) |
 | Cloudflare London_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Cloudflare%20London_%20LLC.txt) |
@@ -37,12 +37,11 @@
 | Silicon Cloud Tokyo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Silicon%20Cloud%20Tokyo%20LLC.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/SmartHost%20LLC.txt) |
 | So-net Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/So-net%20Service.txt) |
-| Techavenue International Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Techavenue%20International%20Ltd.txt) |
 | The Constant Company_ LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/The%20Constant%20Company_%20LLC.txt) |
 | Virtono Networks SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Virtono%20Networks%20SRL.txt) |
-| Vultr Holdings_ LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Vultr%20Holdings_%20LLC.txt) |
+| Vultr Holdings_ LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/Vultr%20Holdings_%20LLC.txt) |
 | xTom Japan Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom%20Japan%20Corporation.txt) |
 | xTom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/xTom.txt) |
 
 ---
-*最後更新：2026-08-07 01:30 UTC*
+*最後更新：2026-08-07 05:27 UTC*

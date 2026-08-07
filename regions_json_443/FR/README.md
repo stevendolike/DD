@@ -1,17 +1,17 @@
 # FR （純 IP）
 
-**共 228 條** · [返回主頁](../../README.md)
+**共 230 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CloudBackbone.txt) |
-| Contabo GmbH | 45 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | Dyjix SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Dyjix%20SAS.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FIRST%20SERVER%20LIMITED.txt) |
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Free%20SAS.txt) |
@@ -50,4 +50,4 @@
 | as56971 network | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-07 01:30 UTC*
+*最後更新：2026-08-07 05:27 UTC*

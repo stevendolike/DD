@@ -10,11 +10,11 @@
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/365.partners%20INC.txt) |
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/3nt%20solutions%20LLP.txt) |
 | A100 ROW GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/A100%20ROW%20GmbH.txt) |
-| AEZA GROUP LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20Ltd.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Alibaba%20Cloud%20LLC.txt) |
 | AlphaVPS LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AlphaVPS%20LLC.txt) |
-| Amsterdam_ Netherlands | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Amsterdam_%20Netherlands.txt) |
+| Amsterdam_ Netherlands | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Amsterdam_%20Netherlands.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Baykov%20Ilya%20Sergeevich.txt) |
 | CHSL ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/CHSL%20ONE%20LTD.txt) |
@@ -36,7 +36,7 @@
 | HFM S.R.L | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HFM%20S.R.L.txt) |
 | HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HOSTKEY%20B.V..txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HZ%20Hosting%20Ltd.txt) |
-| Hetzner Online GmbH | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hetzner%20Online%20GmbH.txt) |
 | Huize Holdings LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Huize%20Holdings%20LLC.txt) |
 | IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IONOS%20SE.txt) |
 | IP-Projects GmbH _ Co. KG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IP-Projects%20GmbH%20_%20Co.%20KG.txt) |
@@ -80,4 +80,4 @@
 | www.fornex.com_ Fornex Hosting S.L. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-08-07 01:30 UTC*
+*最後更新：2026-08-07 05:27 UTC*
