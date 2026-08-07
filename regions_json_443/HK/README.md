@@ -25,4 +25,4 @@
 | VH Global Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VH%20Global%20Limited.txt) |
 
 ---
-*最後更新：2026-08-07 05:27 UTC*
+*最後更新：2026-08-07 10:59 UTC*
