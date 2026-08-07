@@ -1,6 +1,6 @@
 # CA 
 
-**共 50 條** · [返回主頁](../../README.md)
+**共 49 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -13,7 +13,7 @@
 | Cogeco Cable Canada Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Cable%20Canada%20Inc..txt) |
 | DigitalOcean_ LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean_%20LLC.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
-| HostPapa | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
+| HostPapa | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Linode.txt) |
 | OVH Hosting_ Inc. | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting_%20Inc..txt) |
 | Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Corporation.txt) |
@@ -23,4 +23,4 @@
 | Vultr Holdings_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-08-07 01:30 UTC*
+*最後更新：2026-08-07 05:27 UTC*
