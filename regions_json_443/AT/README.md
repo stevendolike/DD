@@ -18,4 +18,4 @@
 | netcup GmbH | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-07 10:59 UTC*
+*最後更新：2026-08-07 16:57 UTC*
