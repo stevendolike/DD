@@ -1,13 +1,13 @@
 # US （純 IP）
 
-**共 39 條** · [返回主頁](../../README.md)
+**共 40 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Cloudflare%20London_%20LLC.txt) |
-| DigitalOcean_ LLC | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/DigitalOcean_%20LLC.txt) |
+| DigitalOcean_ LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/DigitalOcean_%20LLC.txt) |
 | LeaseWeb USA_ Inc. Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/LeaseWeb%20USA_%20Inc.%20Los%20Angeles.txt) |
 | Leaseweb USA_ Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Leaseweb%20USA_%20Inc..txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/NetCrafters%20OU.txt) |
@@ -17,4 +17,4 @@
 | Red Team LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Red%20Team%20LTD.txt) |
 
 ---
-*最後更新：2026-08-07 22:39 UTC*
+*最後更新：2026-08-08 04:46 UTC*

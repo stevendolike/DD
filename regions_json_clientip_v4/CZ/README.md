@@ -1,6 +1,6 @@
 # CZ 
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all_443.txt)
 
@@ -13,6 +13,7 @@
 | Iron Hosting Centre LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Retzor-com.txt) |
 | SmartApe OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/SmartApe%20OU.txt) |
+| vpsFree.cz_ z.s. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/vpsFree.cz_%20z.s..txt) |
 
 ---
-*最後更新：2026-08-07 22:39 UTC*
+*最後更新：2026-08-08 04:46 UTC*
