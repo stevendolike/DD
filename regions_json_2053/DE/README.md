@@ -1,13 +1,11 @@
 # DE （純 IP）
 
-**共 345 條** · [返回主頁](../../README.md)
+**共 341 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 139.162.0.0_16 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/139.162.0.0_16.txt) |
-| 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/365.partners%20INC.txt) |
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/3nt%20solutions%20LLP.txt) |
 | A100 ROW GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/A100%20ROW%20GmbH.txt) |
 | AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
@@ -20,8 +18,8 @@
 | CHSL ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/CHSL%20ONE%20LTD.txt) |
 | Cloud Hosting Solutions_ Limited. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Cloud%20Hosting%20Solutions_%20Limited..txt) |
 | Customer allocation HB Client 11647 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Customer%20allocation%20HB%20Client%2011647.txt) |
-| Datalix | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Datalix.txt) |
-| Deployish Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Deployish%20Limited.txt) |
+| Datalix | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Datalix.txt) |
+| Deployish Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Deployish%20Limited.txt) |
 | DigitalOcean_ LLC | 164 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/DigitalOcean_%20LLC.txt) |
 | EnSilica Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/EnSilica%20Ltd.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Evoxt.com.txt) |
@@ -33,10 +31,10 @@
 | Germany_ Frankfurt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Germany_%20Frankfurt.txt) |
 | H2.NEXUS Frankfurt Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/H2.NEXUS%20Frankfurt%20Network.txt) |
 | H2NEXUS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/H2NEXUS%20LTD.txt) |
-| HFM S.R.L | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HFM%20S.R.L.txt) |
+| HFM S.R.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HFM%20S.R.L.txt) |
 | HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HOSTKEY%20B.V..txt) |
-| HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HZ%20Hosting%20Ltd.txt) |
-| Hetzner Online GmbH | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hetzner%20Online%20GmbH.txt) |
+| HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HZ%20Hosting%20Ltd.txt) |
+| Hetzner Online GmbH | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hetzner%20Online%20GmbH.txt) |
 | Huize Holdings LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Huize%20Holdings%20LLC.txt) |
 | IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IONOS%20SE.txt) |
 | IP-Projects GmbH _ Co. KG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IP-Projects%20GmbH%20_%20Co.%20KG.txt) |
@@ -54,7 +52,7 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Oracle%20Svenska%20AB.txt) |
 | PDK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/PDK%20LLC.txt) |
-| QWINS Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/QWINS%20Hosting.txt) |
+| QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/QWINS%20Hosting.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/RCS%20Technologies%20FZE%20LLC.txt) |
 | RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/RouterHosting%20LLC.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/SERV.HOST%20GROUP%20LTD.txt) |
@@ -71,13 +69,13 @@
 | ahbr company limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/ahbr%20company%20limited.txt) |
 | dataforest GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/dataforest%20GmbH.txt) |
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/lease%20for%20Timeweb.txt) |
-| netcup GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/netcup%20GmbH.txt) |
+| netcup GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/netcup%20GmbH.txt) |
 | nuxtcloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/nuxtcloud.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/oracle.txt) |
 | play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | u1host ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/u1host%20ltd.txt) |
 | webtropia dedicated Server by http___www.webtropia.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/webtropia%20dedicated%20Server%20by%20http___www.webtropia.com.txt) |
-| www.fornex.com_ Fornex Hosting S.L. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
+| www.fornex.com_ Fornex Hosting S.L. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
 
 ---
-*最後更新：2026-08-07 22:39 UTC*
+*最後更新：2026-08-08 04:46 UTC*

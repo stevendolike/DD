@@ -1,14 +1,13 @@
 # DE （純 IP）
 
-**共 166 條** · [返回主頁](../../README.md)
+**共 164 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Baxet%20Group%20Inc..txt) |
-| DigitalOcean_ LLC | 157 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/DigitalOcean_%20LLC.txt) |
-| Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Fornex%20Hosting%20S.L..txt) |
+| DigitalOcean_ LLC | 156 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/DigitalOcean_%20LLC.txt) |
 | Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Hetzner%20Online%20GmbH.txt) |
 | OVH GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/OVH%20GmbH.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/SEBEK%20sp.%20z%20o.o.txt) |
@@ -17,4 +16,4 @@
 | nuxt.cloud hosting provider | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/nuxt.cloud%20hosting%20provider.txt) |
 
 ---
-*最後更新：2026-08-07 22:39 UTC*
+*最後更新：2026-08-08 04:46 UTC*

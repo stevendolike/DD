@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 45 條** · [返回主頁](../../README.md)
+**共 43 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Artnet Sp. z o.o. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Artnet%20Sp.%20z%20o.o..txt) |
 | Aruba S.p.A. - Cloud Services PL1 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Aruba%20S.p.A.%20-%20Cloud%20Services%20PL1.txt) |
-| BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
+| BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
 | Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baxet%20Group%20Inc..txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baykov%20Ilya%20Sergeevich.txt) |
 | EDIS Infrastructure in Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
@@ -23,12 +23,11 @@
 | Newserverlife LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o. | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20Sp.%20z%20o.%20o..txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20VPS%20WAW.txt) |
-| Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Podaon%20SIA.txt) |
+| Podaon SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Podaon%20SIA.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/QWINS%20Hosting.txt) |
 | QuadSpark IT Solutions Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/QuadSpark%20IT%20Solutions%20Private%20Limited.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Snowd%20Security%20OU.txt) |
-| South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/South%20Park%20Networks%20LLC.txt) |
-| The Constant Company_ LLC. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/The%20Constant%20Company_%20LLC..txt) |
+| The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/The%20Constant%20Company_%20LLC..txt) |
 
 ---
-*最後更新：2026-08-07 22:39 UTC*
+*最後更新：2026-08-08 04:46 UTC*
