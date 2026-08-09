@@ -9,4 +9,4 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NG/Melbikomas%20UAB.txt) |
 
 ---
-*最後更新：2026-08-09 04:54 UTC*
+*最後更新：2026-08-09 10:41 UTC*
