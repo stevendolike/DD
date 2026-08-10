@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | DigitalOcean_ LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean_%20LLC.txt) |
-| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HOSTKEY%20B.V..txt) |
+| HIVELOCITY_ Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HIVELOCITY_%20Inc..txt) |
 | HOSTKEY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HOSTKEY.txt) |
 | HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HostPapa.txt) |
 | LeaseWeb USA_ Inc. Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/LeaseWeb%20USA_%20Inc.%20Los%20Angeles.txt) |
@@ -16,4 +16,4 @@
 | RackNerd LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/RackNerd%20LLC.txt) |
 
 ---
-*最後更新：2026-08-09 22:34 UTC*
+*最後更新：2026-08-10 05:15 UTC*

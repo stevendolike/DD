@@ -1,6 +1,6 @@
 # AT 
 
-**共 101 條** · [返回主頁](../../README.md)
+**共 100 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all_443.txt)
 
@@ -12,11 +12,10 @@
 | EDIS IPv6 Infrastructure in Austria | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/EDIS%20IPv6%20Infrastructure%20in%20Austria.txt) |
 | Evolus IT Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/HostHatch%20LLC.txt) |
 | InterLIR-Marketplace | 54 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/InterLIR-Marketplace.txt) |
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/M247%20LTD%20Vienna%20Infrastructure.txt) |
 | NETAXIS GROUP LTD | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/NETAXIS%20GROUP%20LTD.txt) |
 | netcup GmbH | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-09 22:34 UTC*
+*最後更新：2026-08-10 05:15 UTC*
