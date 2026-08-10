@@ -18,7 +18,7 @@ import shutil
 import unicodedata
 from collections import OrderedDict, defaultdict
 
-PREFERRED_ASN = {906, 25820, 32097, 63888, 396982, 137929, 40065, 135064, 4809, 9929, 58453}
+from asns import PREFERRED_ASN
 
 ILLEGAL = re.compile(r'[\\/:*?"<>|\x00-\x1f]')
 
