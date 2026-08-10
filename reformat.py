@@ -96,12 +96,19 @@ def read_entries(path):
         return [l.strip() for l in f.read().splitlines() if l.strip()]
 
 
-def write_entries(path, entries):
-    """寫檔：去重 + 排序 + LF + 末行 newline。"""
+def write_entries(path, entries, key=entry_sort_key):
+    """寫檔：去重 + 排序（可指定 key）+ LF + 末行 newline。"""
     unique = OrderedDict((e, None) for e in entries)
-    lines = sorted(unique.keys(), key=entry_sort_key)
+    lines = sorted(unique.keys(), key=key)
     with open(path, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(lines) + ("\n" if lines else ""))
+
+
+def asn_all_key(entry):
+    """ip:port#國家（或 ip#國家）→ (國家, ip_int, port_int)：跟國家排列。"""
+    country = entry.rpartition("#")[2]
+    ip_int, port_int = entry_sort_key(entry)
+    return (country, ip_int, port_int)
 
 
 def rebuild_organized_dir(base_dir):
@@ -199,7 +206,7 @@ def rebuild_flat_dir(base_dir):
         total += len(entries)
         files += 1
         all_entries.extend(f"{e}#{fname[:-4]}" for e in entries)
-    write_entries(os.path.join(base_dir, "_all.txt"), all_entries)
+    write_entries(os.path.join(base_dir, "_all.txt"), all_entries, key=asn_all_key)
     return files, total
 
 

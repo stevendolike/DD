@@ -13,4 +13,4 @@
 | NETAXIS GROUP LTD | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/NETAXIS%20GROUP%20LTD.txt) |
 
 ---
-*最後更新：2026-08-10 07:21 UTC*
+*最後更新：2026-08-10 07:23 UTC*
