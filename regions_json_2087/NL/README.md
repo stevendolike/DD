@@ -12,4 +12,4 @@
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Oracle%20Svenska%20AB.txt) |
 
 ---
-*最後更新：2026-08-10 11:13 UTC*
+*最後更新：2026-08-10 16:57 UTC*
