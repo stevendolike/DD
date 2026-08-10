@@ -10,7 +10,7 @@
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/3NT%20SOLUTIONS%20LLP.txt) |
 | AEZA GROUP LLC | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/AEZA%20GROUP%20LLC.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
-| Ace Data Centers II_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Ace%20Data%20Centers%20II_%20LLC.txt) |
+| Ace Data Centers II, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Ace%20Data%20Centers%20II%2C%20LLC.txt) |
 | Aeza-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Aeza-Network.txt) |
 | Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Anton%20Levin.txt) |
 | BG-NETWORK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/BG-NETWORK.txt) |
@@ -18,14 +18,14 @@
 | Baykov Ilya Sergeevich | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/CGI%20GLOBAL%20LIMITED.txt) |
 | CHSL Helsinki | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/CHSL%20Helsinki.txt) |
-| Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Cloudflare%20London_%20LLC.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Cloudflare%20London%2C%20LLC.txt) |
 | Creanova | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/Creanova.txt) |
 | DNA Oyj | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/DNA%20Oyj.txt) |
 | EDIS IPv6 Infrastructure in Finland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/EDIS%20IPv6%20Infrastructure%20in%20Finland.txt) |
 | EDIS Infrastructure in Finland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/EDIS%20Infrastructure%20in%20Finland.txt) |
 | FI-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/FI-Network.txt) |
 | FIRST SERVER LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER_ SOCIEDAD LIMITADA | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | FlokiNET | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/FlokiNET.txt) |
 | GCS Service Network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/GCS%20Service%20Network.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -74,4 +74,4 @@
 | u1host Finland | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

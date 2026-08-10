@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| DigitalOcean_ LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/DigitalOcean_%20LLC.txt) |
+| DigitalOcean, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/DigitalOcean%2C%20LLC.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Linode.txt) |
 | MANNDESHI GURU NET PRIVATE LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Melbikomas%20UAB.txt) |
@@ -15,4 +15,4 @@
 | P.D.R Solutions FZC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/P.D.R%20Solutions%20FZC.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

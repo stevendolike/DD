@@ -10,7 +10,7 @@
 | Amazon Data Services Ireland Ltd | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services UK | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20UK.txt) |
 | CLOUVIDER Virtual Machines | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/CLOUVIDER%20Virtual%20Machines.txt) |
-| DigitalOcean_ LLC | 65 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean, LLC | 65 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/DigitalOcean%2C%20LLC.txt) |
 | GTHost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/GTHost.txt) |
 | Linode | 165 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Linode.txt) |
 | OVH Ltd | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/OVH%20Ltd.txt) |
@@ -19,4 +19,4 @@
 | Virgin Media Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Virgin%20Media%20Limited.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Cloudflare%20London_%20LLC.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Cloudflare%20London%2C%20LLC.txt) |
 | Leaseweb Japan K.K | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Leaseweb%20Japan%20K.K.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

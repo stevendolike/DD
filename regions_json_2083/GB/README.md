@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/AEZA%20GROUP%20LLC.txt) |
-| DigitalOcean_ LLC | 65 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/DigitalOcean_%20LLC.txt) |
+| DigitalOcean, LLC | 65 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/GB/DigitalOcean%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

@@ -8,11 +8,11 @@
 |------|--------|---------|
 | 2E TELEKOMUNIKASYON LTD STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Baxet%20Group%20Inc.txt) |
-| IPv4Center.com Partition - Order _4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/IPv4Center.com%20Partition%20-%20Order%20_4.txt) |
+| IPv4Center.com Partition - Order #4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/IPv4Center.com%20Partition%20-%20Order%20%234.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Superonline Iletisim Hizmetleri A.S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Superonline%20Iletisim%20Hizmetleri%20A.S.txt) |
 | TradeZone LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/TradeZone%20LLC.txt) |
-| White Label Services_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/White%20Label%20Services_%20LLC.txt) |
+| White Label Services, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/White%20Label%20Services%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

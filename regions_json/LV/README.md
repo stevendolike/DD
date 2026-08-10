@@ -14,7 +14,7 @@
 | EDIS IPv6 Infrastructure in Latvia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Green Floid LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Green%20Floid%20LLC.txt) |
+| GREEN FLOID LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/GREEN%20FLOID%20LLC.txt) |
 | HostVDS.com Cloud Provider | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -28,4 +28,4 @@
 | as56971 network | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

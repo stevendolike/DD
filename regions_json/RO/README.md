@@ -13,14 +13,14 @@
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/GREEN%20FLOID%20LLC.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/IROKO%20Networks%20Corporation.txt) |
-| LifeinCloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/LifeinCloud%20LTD.txt) |
+| LifeinCloud LTD, | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/LifeinCloud%20LTD%2C.txt) |
 | RARE MOOD AGENCY SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RCS%20Technologies%20FZE%20LLC.txt) |
-| STYLISH BY A_L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/STYLISH%20BY%20A_L%20SRL.txt) |
+| STYLISH BY A&L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/STYLISH%20BY%20A%26L%20SRL.txt) |
 | TIPZOR MEDIA SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/TIPZOR%20MEDIA%20SRL.txt) |
-| WWW.RAREACLOUD.IO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/WWW.RAREACLOUD.IO.txt) |
-| WWW.RARECLOUD.IO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/WWW.RARECLOUD.IO.txt) |
+| _ WWW.RAREACLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_%20WWW.RAREACLOUD.IO%20_.txt) |
+| _ WWW.RARECLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_%20WWW.RARECLOUD.IO%20_.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

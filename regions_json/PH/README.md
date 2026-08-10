@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| R_R Managed Telecom Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/R_R%20Managed%20Telecom%20Services.txt) |
+| R&R Managed Telecom Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/R%26R%20Managed%20Telecom%20Services.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*

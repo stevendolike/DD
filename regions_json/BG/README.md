@@ -9,7 +9,7 @@
 | 2E Telekomunikasyon LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
 | Belcloud LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Belcloud%20LTD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
-| FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | Friendhosting LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
 | GF EU2 SOF VM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/GF%20EU2%20SOF%20VM.txt) |
 | Hosting Provider Virterion LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Hosting%20Provider%20Virterion%20LLC.txt) |
@@ -22,4 +22,4 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SERVA%20ONE%20LTD.txt) |
 
 ---
-*最後更新：2026-08-10 09:08 UTC*
+*最後更新：2026-08-10 11:13 UTC*
