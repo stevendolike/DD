@@ -348,6 +348,8 @@
 
 ### 全部 Port（共 73 條）
 
+📥 [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt)
+
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
 | BE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/BE.txt) |
@@ -359,6 +361,8 @@
 | US | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
 
 ### 443 純 IP（共 57 條）
+
+📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
@@ -438,4 +442,4 @@
 | ZA | 5 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-08-10 07:12 UTC*
+*最後更新：2026-08-10 07:21 UTC*

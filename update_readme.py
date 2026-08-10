@@ -112,7 +112,8 @@ def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
 def build_asn_table(base_dir):
     if not os.path.exists(base_dir):
         return "_（無數據）_"
-    files = sorted(f for f in os.listdir(base_dir) if f.endswith(".txt"))
+    files = sorted(f for f in os.listdir(base_dir)
+                   if f.endswith(".txt") and f != "_all.txt")
     rows = []
     for fname in files:
         country = fname[:-4]
@@ -178,9 +179,13 @@ def write_main_readme():
 
 ### 全部 Port（共 {total_asn:,} 條）
 
+📥 [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_preferred_asn/_all.txt)
+
 {table_asn}
 
 ### 443 純 IP（共 {total_asn_443:,} 條）
+
+📥 [整合全部]({BASE_RAW}/regions_json_preferred_asn_443/_all.txt)
 
 {table_asn_443}
 

@@ -57,11 +57,12 @@ def merge_key(name):
 
 
 def entry_sort_key(entry):
-    """'ip' 或 'ip:port' → (ip_int, port_int) 排序。"""
+    """'ip' 或 'ip:port' 或 'ip:port#tag' → (ip_int, port_int) 排序。"""
     entry = entry.strip()
-    ip_part, port_part = entry, "0"
-    if ":" in entry:
-        head, _, tail = entry.rpartition(":")
+    base = entry.split("#")[0]          # 剝離 #國家 標記
+    ip_part, port_part = base, "0"
+    if ":" in base:
+        head, _, tail = base.rpartition(":")
         if tail.isdigit() and head:
             ip_part, port_part = head, tail
     try:
@@ -179,12 +180,15 @@ def rebuild_port_dir(base_dir, country_data):
 
 
 def rebuild_asn_dir(base_dir, country_data):
-    """ASN 目錄：扁平，只有國家文件"""
+    """ASN 目錄：扁平國家文件 + _all.txt（格式 ip:port#國家）"""
     if os.path.exists(base_dir):
         shutil.rmtree(base_dir)
     os.makedirs(base_dir, exist_ok=True)
-    for country, entries in country_data.items():
+    all_entries = []
+    for country, entries in sorted(country_data.items()):
         write_entries(f"{base_dir}/{country}.txt", entries)
+        all_entries.extend(f"{e}#{country}" for e in entries)
+    write_entries(f"{base_dir}/_all.txt", all_entries)
 
 
 rebuild_dir("regions_json", groups)

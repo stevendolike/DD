@@ -70,12 +70,13 @@ def merge_key(name):
 
 
 def entry_sort_key(entry):
-    """'ip' 或 'ip:port' → (ip_int, port_int) 排序。"""
+    """'ip' 或 'ip:port' 或 'ip:port#tag' → (ip_int, port_int) 排序。"""
     entry = entry.strip()
-    ip_part, port_part = entry, "0"
-    if ":" in entry:
+    base = entry.split("#")[0]          # 剝離 #國家 標記
+    ip_part, port_part = base, "0"
+    if ":" in base:
         # IPv6 內含多個冒號，用 rsplit 分 port
-        head, _, tail = entry.rpartition(":")
+        head, _, tail = base.rpartition(":")
         if tail.isdigit() and head:
             ip_part, port_part = head, tail
     try:
@@ -181,19 +182,24 @@ def rebuild_organized_dir(base_dir):
 
 
 def rebuild_flat_dir(base_dir):
-    """重整扁平國家目錄。"""
+    """重整扁平國家目錄 + 重新生成 _all.txt（格式 ip:port#國家）。"""
     if not os.path.isdir(base_dir):
         return 0, 0
     total = 0
     files = 0
-    for fname in sorted(os.listdir(base_dir)):
-        if not fname.endswith(".txt"):
-            continue
+    country_files = [
+        f for f in sorted(os.listdir(base_dir))
+        if f.endswith(".txt") and f not in SYSTEM_FILES
+    ]
+    all_entries = []
+    for fname in country_files:
         path = os.path.join(base_dir, fname)
         entries = read_entries(path)
         write_entries(path, entries)
         total += len(entries)
         files += 1
+        all_entries.extend(f"{e}#{fname[:-4]}" for e in entries)
+    write_entries(os.path.join(base_dir, "_all.txt"), all_entries)
     return files, total
 
 
@@ -208,7 +214,7 @@ def build_stats():
             stats[base_dir] = {
                 f[:-4]: len(read_entries(os.path.join(base_dir, f)))
                 for f in sorted(os.listdir(base_dir))
-                if f.endswith(".txt")
+                if f.endswith(".txt") and f not in SYSTEM_FILES
             }
         else:
             d = {}
