@@ -5006,32 +5006,36 @@
     }
   },
   "regions_json_preferred_asn": {
+    "AR": 1,
     "BE": 2,
     "CN": 1,
-    "DE": 4,
+    "DE": 8,
     "ES": 1,
-    "GB": 1,
-    "HK": 46,
+    "GB": 2,
+    "GR": 1,
+    "HK": 47,
     "ID": 1,
-    "JP": 5,
+    "JP": 6,
+    "KR": 3,
     "MY": 4,
     "NL": 2,
-    "SG": 4,
-    "TH": 1,
-    "US": 53
+    "SG": 11,
+    "TH": 2,
+    "US": 59
   },
   "regions_json_preferred_asn_443": {
+    "AR": 1,
     "BE": 2,
-    "DE": 2,
+    "DE": 5,
     "ES": 1,
-    "GB": 1,
-    "HK": 43,
+    "GB": 2,
+    "HK": 44,
     "ID": 1,
     "JP": 4,
     "MY": 2,
     "NL": 2,
-    "SG": 1,
-    "TH": 1,
-    "US": 38
+    "SG": 5,
+    "TH": 2,
+    "US": 42
   }
 }
