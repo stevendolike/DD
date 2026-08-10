@@ -11,6 +11,7 @@
 - [📁 全部 Port](#-全部-port)
 - [🔒 各 Port 純 IP](#-各-port-純-ip)
 - [⭐ 優選 ASN](#-優選-asn)
+- [🏠 家庭寬帶](#-家庭寬帶)
 - [🌐 ClientIP 為 IPv4](#-clientip-為-ipv4)
 
 ---
@@ -391,6 +392,39 @@
 
 ---
 
+## 🏠 家庭寬帶
+
+### 全部 Port（共 13 條）
+
+📥 [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
+
+| 國家 | 條目數 | Raw URL |
+|------|--------|---------|
+| CA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| DE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
+| ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/ES.txt) |
+| FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
+| GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
+| JP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
+| NL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
+| TW | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
+| US | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+
+### 443 純 IP（共 6 條）
+
+📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/_all.txt)
+
+| 國家 | 條目數 | Raw URL |
+|------|--------|---------|
+| ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/ES.txt) |
+| FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/FR.txt) |
+| JP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/JP.txt) |
+| NL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/NL.txt) |
+| TW | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
+| US | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
+
+---
+
 ## 🌐 ClientIP 為 IPv4
 
 **共 4,156 條**
@@ -458,4 +492,4 @@
 | ZA | 5 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-08-10 07:55 UTC*
+*最後更新：2026-08-10 08:07 UTC*

@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""residential.py — 家庭寬帶（residential ISP）組織名判斷。
+
+分類原理：家庭寬帶 IP 嘅 ASN 名稱（asOrganization）係著名家用 ISP
+（Comcast、AT&T、電信省級骨幹等）。用關鍵字匹配 + 排除機房字眼
+（IDC/CLOUD/HOSTING/VPS…）嚟判斷。
+
+注意：呢個分類依賴數據入面有家用 ISP 嘅 IP。現有掃描數據（all.json）
+以機房為主，家寬 IP 好少；數據源恢復後先會充實。
+"""
+# 家庭 ISP 關鍵字（大階匹配；唔好加太短/太通用嘅字，避免誤判）
+RESIDENTIAL_KEYWORDS = [
+    # 美國
+    "COMCAST",
+    "AT&T",
+    "ATT-INTERNET", "ATT-MOBILITY", "ATT-SERVICES",
+    "VERIZON WIRELESS", "VERIZON FIOS",
+    "CHARTER COMMUNICATIONS", "SPECTRUM",
+    "COX COMMUNICATIONS",
+    "FRONTIER COMMUNICATIONS",
+    "CENTURYLINK", "LUMEN TECHNOLOGIES",
+    "WINDSTREAM",
+    "T-MOBILE",
+    "MEDIACOM COMMUNICATIONS",
+    "OPTIMUM", "ALTICE",
+    "CONSOLIDATED COMMUNICATIONS",
+    "TDS TELECOM",
+    # 中國（省級骨幹 = 家寬線路；排除 IDC 由 EXCLUDE 處理）
+    "CHINANET-", "CHINA169-", "CMNET-", "CHINATELECOM-",
+    # 日本
+    "KDDI CORPORATION",
+    "SOFTBANK",
+    "OCN", "BIGLOBE", "ASAHI-NET", "SONY NETWORK", "NIFTY",
+    # 韓國
+    "KORNET", "SK TELECOM", "LG U+",
+    # 台灣
+    "HINET",
+    # 英國
+    "VIRGIN MEDIA", "TALKTALK", "SKY UK", "EE LIMITED",
+    # 德國 / 歐洲
+    "DEUTSCHE TELEKOM", "VODAFONE", "TELEFONICA", "O2 GERMANY",
+    "SWISSCOM", "TELENOR", "KPN",
+    # 法國
+    "ORANGE", "SFR", "BOUYGUES", "FREE SAS", "FREE MOBILE",
+    # 意大利
+    "TELECOM ITALIA", "WIND TRE",
+    # 加拿大 / 澳洲
+    "BELL CANADA", "ROGERS COMMUNICATIONS", "TELUS", "SHAW COMMUNICATIONS", "VIDEOTRON",
+    "TELSTRA", "OPTUS", "TPG INTERNET",
+    # 新加坡 / 香港
+    "SINGTEL", "STARHUB", "NETVIGATOR",
+]
+
+# 機房 / 數據中心字眼：命中即排除（唔係家寬）
+EXCLUDE_KEYWORDS = [
+    "IDC", "CLOUD", "HOSTING", "VPS", "SERVER", "COLO", "DEDICATED", "DATACENTER", "DATA CENTER",
+    "TRUSTEE",  # 信託公司（如 KEY STONE CORPORATE TRUSTEE），避免 EE LIMITED 誤中
+]
+
+
+def is_residential(org):
+    """判斷組織名係咪家庭寬帶 ISP。"""
+    up = str(org).upper()
+    for ex in EXCLUDE_KEYWORDS:
+        if ex in up:
+            return False
+    for kw in RESIDENTIAL_KEYWORDS:
+        if kw in up:
+            return True
+    return False

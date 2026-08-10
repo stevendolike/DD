@@ -5037,5 +5037,24 @@
     "SG": 5,
     "TH": 2,
     "US": 42
+  },
+  "regions_json_residential": {
+    "CA": 1,
+    "DE": 1,
+    "ES": 1,
+    "FR": 1,
+    "GB": 1,
+    "JP": 2,
+    "NL": 1,
+    "TW": 1,
+    "US": 4
+  },
+  "regions_json_residential_443": {
+    "ES": 1,
+    "FR": 1,
+    "JP": 1,
+    "NL": 1,
+    "TW": 1,
+    "US": 1
   }
 }

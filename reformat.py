@@ -27,7 +27,7 @@ def discover_dirs():
     """分組：organized（國家/組織結構）vs flat（扁平國家檔）。
 
     - regions_json / regions_json_clientip_v4 / regions_json_<port> → organized
-    - regions_json_preferred_asn* → flat
+    - regions_json_preferred_asn* / regions_json_residential* → flat
     """
     organized, flat = [], []
     for d in sorted(os.listdir(".")):
@@ -36,7 +36,7 @@ def discover_dirs():
         suffix = d[len("regions_json"):]
         if suffix == "" or (suffix.startswith("_") and suffix[1:].isdigit()):
             organized.append(d)
-        elif d.startswith("regions_json_preferred_asn"):
+        elif d.startswith("regions_json_preferred_asn") or d.startswith("regions_json_residential"):
             flat.append(d)
         elif d == "regions_json_clientip_v4":
             organized.append(d)

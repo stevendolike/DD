@@ -129,11 +129,15 @@ def write_main_readme():
     total_asn = dir_total("regions_json_preferred_asn")
     total_asn_443 = dir_total("regions_json_preferred_asn_443")
     total_v4 = dir_total("regions_json_clientip_v4")
+    total_res = dir_total("regions_json_residential")
+    total_res_443 = dir_total("regions_json_residential_443")
 
     table_all = make_country_table("regions_json", has_443=True)
     table_v4 = make_country_table("regions_json_clientip_v4", has_443=True)
     table_asn = build_asn_table("regions_json_preferred_asn")
     table_asn_443 = build_asn_table("regions_json_preferred_asn_443")
+    table_res = build_asn_table("regions_json_residential")
+    table_res_443 = build_asn_table("regions_json_residential_443")
 
     port_sections = []
     for port, base_dir in get_port_dirs():
@@ -157,6 +161,7 @@ def write_main_readme():
 - [📁 全部 Port](#-全部-port)
 - [🔒 各 Port 純 IP](#-各-port-純-ip)
 - [⭐ 優選 ASN](#-優選-asn)
+- [🏠 家庭寬帶](#-家庭寬帶)
 - [🌐 ClientIP 為 IPv4](#-clientip-為-ipv4)
 
 ---
@@ -188,6 +193,22 @@ def write_main_readme():
 📥 [整合全部]({BASE_RAW}/regions_json_preferred_asn_443/_all.txt)
 
 {table_asn_443}
+
+---
+
+## 🏠 家庭寬帶
+
+### 全部 Port（共 {total_res:,} 條）
+
+📥 [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_residential/_all.txt)
+
+{table_res}
+
+### 443 純 IP（共 {total_res_443:,} 條）
+
+📥 [整合全部]({BASE_RAW}/regions_json_residential_443/_all.txt)
+
+{table_res_443}
 
 ---
 

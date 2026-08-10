@@ -19,6 +19,7 @@ import unicodedata
 from collections import OrderedDict, defaultdict
 
 from asns import PREFERRED_ASN
+from residential import is_residential
 
 ILLEGAL = re.compile(r'[\\/:*?"<>|\x00-\x1f]')
 
@@ -109,6 +110,7 @@ groups_port        = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
 groups_asn         = defaultdict(list)
 groups_asn_443     = defaultdict(list)
 groups_clientip_v4 = defaultdict(lambda: defaultdict(list))
+groups_residential = defaultdict(list)   # country -> [entries]（家庭寬帶，國家合併）
 name_map           = defaultdict(lambda: defaultdict(list))
 
 skipped = 0
@@ -138,6 +140,9 @@ for item in data:
 
         if is_ipv4(client_ip):
             groups_clientip_v4[country][key].append(entry)
+
+        if is_residential(org):
+            groups_residential[country].append(entry)
 
         name_map[country][key].append(display)
 
@@ -198,12 +203,31 @@ def rebuild_asn_dir(base_dir, country_data):
     write_entries(f"{base_dir}/_all.txt", all_entries, key=asn_all_key)
 
 
+def rebuild_residential_dir(base_dir, base_dir_443, country_data):
+    """家庭寬帶目錄：國家合併檔 + _all.txt（ip:port#國家 跟國家排）+ 443 純 IP 版"""
+    for bd in (base_dir, base_dir_443):
+        if os.path.exists(bd):
+            shutil.rmtree(bd)
+        os.makedirs(bd)
+    all_entries, all_443 = [], []
+    for country, entries in sorted(country_data.items()):
+        write_entries(f"{base_dir}/{country}.txt", entries)
+        all_entries.extend(f"{e}#{country}" for e in entries)
+        entries_443 = [e.rpartition(":")[0] for e in entries if e.rpartition(":")[2] == "443"]
+        if entries_443:
+            write_entries(f"{base_dir_443}/{country}.txt", entries_443)
+            all_443.extend(f"{e}#{country}" for e in entries_443)
+    write_entries(f"{base_dir}/_all.txt", all_entries, key=asn_all_key)
+    write_entries(f"{base_dir_443}/_all.txt", all_443, key=asn_all_key)
+
+
 rebuild_dir("regions_json", groups)
 for port, countries in groups_port.items():
     rebuild_port_dir(f"regions_json_{port}", countries)
 rebuild_asn_dir("regions_json_preferred_asn", groups_asn)
 rebuild_asn_dir("regions_json_preferred_asn_443", groups_asn_443)
 rebuild_dir("regions_json_clientip_v4", groups_clientip_v4)
+rebuild_residential_dir("regions_json_residential", "regions_json_residential_443", groups_residential)
 
 # stats.json（不計 _all.txt / _all_443.txt；國家/組織均按名排序，與 reformat.py 一致）
 stats = {}
@@ -226,6 +250,13 @@ stats["regions_json_preferred_asn_443"] = {
 stats["regions_json_clientip_v4"] = {
     country: {pick_display(country, k): len(entries) for k, entries in sorted(orgs.items(), key=lambda kv: pick_display(country, kv[0]))}
     for country, orgs in sorted(groups_clientip_v4.items())
+}
+stats["regions_json_residential"] = {
+    country: len(entries) for country, entries in sorted(groups_residential.items())
+}
+stats["regions_json_residential_443"] = {
+    country: len([e for e in entries if e.rpartition(":")[2] == "443"])
+    for country, entries in sorted(groups_residential.items())
 }
 
 stats = dict(sorted(stats.items()))  # 鍵按字母序，與 reformat.py 一致
