@@ -1,4 +1,4 @@
-# SE 
+# SE
 
 **共 183 條** · [返回主頁](../../README.md)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 96 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
 | Assigned to ORG-HIP1-RIPE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
-| Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/BlueVPS%20OU.txt) |
 | FORTIS Hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/FORTIS%20Hosting%20services.txt) |
@@ -20,7 +20,7 @@
 | Internetport Sweden AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Internetport%20Sweden%20AB.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Linode.txt) |
 | MVPS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/MVPS%20LTD.txt) |
-| Materialism s.r.l. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l..txt) |
+| Materialism s.r.l | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Microsoft%20Corporation.txt) |
 | NetCrafters OU | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/NetCrafters%20OU.txt) |
 | O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
@@ -32,7 +32,7 @@
 | Switzerland infrastructure | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Switzerland%20infrastructure.txt) |
 | Vultr Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Vultr%20Sweden.txt) |
 | play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
-| www.fornex.com_ Fornex Hosting S.L. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
+| www.fornex.com_ Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com_%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

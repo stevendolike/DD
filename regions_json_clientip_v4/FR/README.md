@@ -1,4 +1,4 @@
-# FR 
+# FR
 
 **共 304 條** · [返回主頁](../../README.md)
 
@@ -17,7 +17,7 @@
 | EGIHosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/EGIHosting.txt) |
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Free%20SAS.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/HOSTKEY%20B.V.txt) |
 | IPXO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/IPXO.txt) |
 | Inter Connects Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Inter%20Connects%20Inc.txt) |
 | Jogcorp SAS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Jogcorp%20SAS.txt) |
@@ -28,7 +28,7 @@
 | Mo_s Operations GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Mo_s%20Operations%20GmbH.txt) |
 | NET 145 223 68 0 22 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/NET%20145%20223%2068%200%2022.txt) |
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/NetCrafters%20OU.txt) |
-| Neterra Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Neterra%20Ltd..txt) |
+| Neterra Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Neterra%20Ltd.txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/OVH%20Hispano.txt) |
 | OVH SAS | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/OVH%20SAS.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Oracle%20Corporation.txt) |
@@ -45,4 +45,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

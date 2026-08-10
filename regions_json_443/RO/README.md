@@ -12,7 +12,7 @@
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/FlokiNET%20ehf.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/GREEN%20FLOID%20LLC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/IROKO%20Networks%20Corporation.txt) |
-| LifeinCloud LTD_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/LifeinCloud%20LTD_.txt) |
+| LifeinCloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/LifeinCloud%20LTD.txt) |
 | RARE MOOD AGENCY SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
 | STYLISH BY A_L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/STYLISH%20BY%20A_L%20SRL.txt) |
@@ -20,4 +20,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

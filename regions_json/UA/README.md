@@ -1,4 +1,4 @@
-# UA 
+# UA
 
 **共 2 條** · [返回主頁](../../README.md)
 
@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| TOV _Dream Line Holding_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/TOV%20_Dream%20Line%20Holding_.txt) |
+| TOV _Dream Line Holding | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/TOV%20_Dream%20Line%20Holding.txt) |
 | Virtual Systems LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/Virtual%20Systems%20LLC.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

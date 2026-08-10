@@ -1,4 +1,4 @@
-# GB 
+# GB
 
 **共 237 條** · [返回主頁](../../README.md)
 
@@ -11,19 +11,19 @@
 | Amazon Data Services UK | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Amazon%20Data%20Services%20UK.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BG-NETWORK.txt) |
 | BT-R101-TEST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BT-R101-TEST.txt) |
-| Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Baxet%20Group%20Inc.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/DigitalOcean%20London.txt) |
 | DigitalOcean_ LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/DigitalOcean_%20LLC.txt) |
 | EDIS Infrastructure in the London Docklands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/EDIS%20Infrastructure%20in%20the%20London%20Docklands.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Fabric_zone.txt) |
 | GTHost | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Google%20LLC.txt) |
-| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/HOSTKEY%20B.V.txt) |
 | HR SYSHEAD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/HR%20SYSHEAD.txt) |
 | IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/IONOS%20SE.txt) |
 | Iomart Group Plc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Iomart%20Group%20Plc.txt) |
 | Iomart Managed Services Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Iomart%20Managed%20Services%20Limited.txt) |
-| LifeinCloud LTD_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/LifeinCloud%20LTD_.txt) |
+| LifeinCloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/LifeinCloud%20LTD.txt) |
 | Linode | 76 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode.txt) |
 | Linode_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode_%20LLC.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/MVPS%20LTD.txt) |
@@ -45,4 +45,4 @@
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

@@ -1,4 +1,4 @@
-# HK 
+# HK
 
 **共 90 條** · [返回主頁](../../README.md)
 
@@ -13,7 +13,7 @@
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Aliyun%20Computing%20Co.LTD.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BAGE%20CLOUD%20LLC.txt) |
 | BINARY NETWORKS SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BINARY%20NETWORKS%20SOLUTIONS%20LLC.txt) |
-| Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BlueVPS%20OU.txt) |
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloudflare%20London_%20LLC.txt) |
 | Cloudie Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloudie%20Limited.txt) |
@@ -33,11 +33,11 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Private%20Customer.txt) |
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RIPE%20NCC.txt) |
 | RM301K_3_F_HONGKONG TRADE CENTRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RM301K_3_F_HONGKONG%20TRADE%20CENTRE.txt) |
-| STARCLOUD GLOBAL PTE. LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/STARCLOUD%20GLOBAL%20PTE.%20LTD..txt) |
+| STARCLOUD GLOBAL PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/STARCLOUD%20GLOBAL%20PTE.%20LTD.txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/STYLISH%20BY%20A_L%20SRL.txt) |
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Subnet%20Digital%20LLC.txt) |
 | VH Global Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/VH%20Global%20Limited.txt) |
 | ihc.hk vps in Hong Kong | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ihc.hk%20vps%20in%20Hong%20Kong.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

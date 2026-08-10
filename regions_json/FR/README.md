@@ -1,4 +1,4 @@
-# FR 
+# FR
 
 **共 463 條** · [返回主頁](../../README.md)
 
@@ -8,11 +8,11 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/3NT%20SOLUTIONS%20LLP.txt) |
 | AEZA GROUP LLC | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/AEZA%20GROUP%20LLC.txt) |
-| Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/BitWeb%20LLC.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
-| Blockchain Games N.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Blockchain%20Games%20N.V..txt) |
+| Blockchain Games N.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Blockchain%20Games%20N.V.txt) |
 | CGI GLOBAL LIMITED | 114 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CloudBackbone.txt) |
 | Contabo GmbH | 83 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
@@ -23,7 +23,7 @@
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Free%20SAS.txt) |
 | GANDI-HOSTING DC0 DATACENTER PA2 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/GANDI-HOSTING%20DC0%20DATACENTER%20PA2.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HOSTKEY B.V. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HZ%20Hosting%20Ltd.txt) |
 | Host Europe GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Host%20Europe%20GmbH.txt) |
 | IPXO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPXO.txt) |
@@ -37,7 +37,7 @@
 | Mo_s Operations GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Mo_s%20Operations%20GmbH.txt) |
 | NET 145 223 68 0 22 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NET%20145%20223%2068%200%2022.txt) |
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NetCrafters%20OU.txt) |
-| Neterra Ltd. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Neterra%20Ltd..txt) |
+| Neterra Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Neterra%20Ltd.txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/OVH%20Hispano.txt) |
 | OVH SAS | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/OVH%20SAS.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Corporation.txt) |
@@ -51,7 +51,7 @@
 | Seigohost LLC | 74 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Seigohost%20LLC.txt) |
 | Subnet Digital LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Subnet%20Digital%20LLC.txt) |
 | TakeHost.Biz | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/TakeHost.Biz.txt) |
-| The Constant Company_ LLC. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/The%20Constant%20Company_%20LLC..txt) |
+| The Constant Company_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/The%20Constant%20Company_%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/UNKNOWN.txt) |
 | VIRTUASYS PARIS (PAR01FR) | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | VPS static ips | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/VPS%20static%20ips.txt) |
@@ -60,4 +60,4 @@
 | as56971 network | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

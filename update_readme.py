@@ -1,20 +1,26 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+update_readme.py — 生成主 README.md 及各國家 README.md
+
+統一格式：
+- 主 README：每個分類用表格（國家 | 條目數 | 檔案連結），唔再一行塞晒
+- 國家 README：標題無 trailing space，表格排序
+"""
 import os
 import json
 from datetime import datetime, timezone
 from urllib.parse import quote
 
-REPO   = os.environ.get("GITHUB_REPOSITORY", "your-username/your-repo")
+REPO   = os.environ.get("GITHUB_REPOSITORY", "stevendolike/DD")
 BRANCH = "main"
 BASE_RAW  = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}"
 BASE_BLOB = f"https://github.com/{REPO}/blob/{BRANCH}"
 updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-with open("stats.json") as f:
+with open("stats.json", encoding="utf-8") as f:
     STATS = json.load(f)
 
-def get_count(base_dir, country, org_file):
-    org = org_file.replace(".txt", "")
-    return STATS.get(base_dir, {}).get(country, {}).get(org, 0)
 
 def dir_total(base_dir):
     val = STATS.get(base_dir, {})
@@ -22,27 +28,36 @@ def dir_total(base_dir):
         return 0
     first = list(val.values())[0]
     if isinstance(first, dict):
-        return sum(count for country_stats in val.values() for count in country_stats.values())
-    else:
-        return sum(val.values())
+        return sum(count for cs in val.values() for count in cs.values())
+    return sum(val.values())
+
 
 def get_country_dirs(base_dir):
     if not os.path.exists(base_dir):
         return []
     return sorted(d for d in os.listdir(base_dir) if os.path.isdir(f"{base_dir}/{d}"))
 
-def make_country_links(base_dir, has_443=True):
+
+def country_count(base_dir, country):
+    """該國家所有組織條目總數。"""
+    return sum(STATS.get(base_dir, {}).get(country, {}).values())
+
+
+def make_country_table(base_dir, has_443=True):
+    """國家表格：| 國家 | 條目數 | all | 443(可選) |"""
     countries = get_country_dirs(base_dir)
-    lines = []
+    if not countries:
+        return "_（無數據）_"
+    rows = []
     for c in countries:
-        readme_url  = f"{BASE_BLOB}/{base_dir}/{c}/README.md"
-        all_url     = f"{BASE_RAW}/{base_dir}/{c}/_all.txt"
-        all_443_url = f"{BASE_RAW}/{base_dir}/{c}/_all_443.txt"
+        count = country_count(base_dir, c)
+        all_url = f"{BASE_RAW}/{base_dir}/{c}/_all.txt"
+        links = f"[all]({all_url})"
         if has_443:
-            lines.append(f"[{c}]({readme_url}) ([all]({all_url}) · [443]({all_443_url}))")
-        else:
-            lines.append(f"[{c}]({readme_url}) ([all]({all_url}))")
-    return " · ".join(lines)
+            links += f" · [443]({BASE_RAW}/{base_dir}/{c}/_all_443.txt)"
+        rows.append(f"| {c} | {count:,} | {links} |")
+    return "| 國家 | 條目數 | 檔案 |\n|------|--------|------|\n" + "\n".join(rows)
+
 
 def get_port_dirs():
     dirs = []
@@ -53,32 +68,32 @@ def get_port_dirs():
                 dirs.append((port, d))
     return sorted(dirs, key=lambda x: int(x[0]))
 
+
 def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
     if not os.path.exists(base_dir):
         return
     label = "（純 IP）" if is_ip_only else ""
+    title_suffix = f" {label}" if label else ""
     for country in get_country_dirs(base_dir):
         country_path = f"{base_dir}/{country}"
-        files = sorted(f for f in os.listdir(country_path) if f.endswith(".txt") and not f.startswith("_"))
-        rows = []
-        total = 0
+        files = sorted(f for f in os.listdir(country_path)
+                       if f.endswith(".txt") and f not in ("_all.txt", "_all_443.txt"))
+        rows, total = [], 0
         for fname in files:
-            count = get_count(base_dir, country, fname)
+            count = STATS.get(base_dir, {}).get(country, {}).get(fname[:-4], 0)
             total += count
             raw_url = f"{BASE_RAW}/{base_dir}/{country}/{quote(fname)}"
-            org = fname.replace(".txt", "")
-            rows.append(f"| {org} | {count} | [raw]({raw_url}) |")
+            rows.append(f"| {fname[:-4]} | {count:,} | [raw]({raw_url}) |")
         table = "\n".join(rows) if rows else "_（無數據）_"
 
-        all_url     = f"{BASE_RAW}/{base_dir}/{country}/_all.txt"
-        all_443_url = f"{BASE_RAW}/{base_dir}/{country}/_all_443.txt"
+        all_url = f"{BASE_RAW}/{base_dir}/{country}/_all.txt"
         combined = f"[📥 整合全部]({all_url})"
         if has_443:
-            combined += f" · [🔒 整合 443 純 IP]({all_443_url})"
+            combined += f" · [🔒 整合 443 純 IP]({BASE_RAW}/{base_dir}/{country}/_all_443.txt)"
 
-        content = f"""# {country} {label}
+        content = f"""# {country}{title_suffix}
 
-**共 {total} 條** · [返回主頁](../../README.md)
+**共 {total:,} 條** · [返回主頁](../../README.md)
 
 {combined}
 
@@ -89,9 +104,10 @@ def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
 ---
 *最後更新：{updated}*
 """
-        with open(f"{country_path}/README.md", "w", encoding="utf-8") as f:
+        with open(f"{country_path}/README.md", "w", encoding="utf-8", newline="\n") as f:
             f.write(content)
     print(f"{base_dir} country READMEs updated")
+
 
 def build_asn_table(base_dir):
     if not os.path.exists(base_dir):
@@ -99,35 +115,33 @@ def build_asn_table(base_dir):
     files = sorted(f for f in os.listdir(base_dir) if f.endswith(".txt"))
     rows = []
     for fname in files:
-        country = fname.replace(".txt", "")
+        country = fname[:-4]
         count = STATS.get(base_dir, {}).get(country, 0)
         raw_url = f"{BASE_RAW}/{base_dir}/{quote(fname)}"
-        rows.append(f"| {country} | {count} | [raw]({raw_url}) |")
-    return "\n".join(rows) if rows else "_（無數據）_"
+        rows.append(f"| {country} | {count:,} | [raw]({raw_url}) |")
+    return "| 國家 | 條目數 | Raw URL |\n|------|--------|---------|\n" + (
+        "\n".join(rows) if rows else "_（無數據）_")
+
 
 def write_main_readme():
-    links_all     = make_country_links("regions_json", has_443=True)
-    total_all     = dir_total("regions_json")
-    total_asn     = dir_total("regions_json_preferred_asn")
+    total_all = dir_total("regions_json")
+    total_asn = dir_total("regions_json_preferred_asn")
     total_asn_443 = dir_total("regions_json_preferred_asn_443")
-    table_asn     = build_asn_table("regions_json_preferred_asn")
+    total_v4 = dir_total("regions_json_clientip_v4")
+
+    table_all = make_country_table("regions_json", has_443=True)
+    table_v4 = make_country_table("regions_json_clientip_v4", has_443=True)
+    table_asn = build_asn_table("regions_json_preferred_asn")
     table_asn_443 = build_asn_table("regions_json_preferred_asn_443")
-    links_v4      = make_country_links("regions_json_clientip_v4", has_443=True)
-    total_v4      = dir_total("regions_json_clientip_v4")
 
-    port_sections = ""
+    port_sections = []
     for port, base_dir in get_port_dirs():
-        links = make_country_links(base_dir, has_443=False)
+        table = make_country_table(base_dir, has_443=False)
         total = dir_total(base_dir)
-        port_sections += f"""
-## 🔒 Port {port} 純 IP（按國家 + 組織）
-
-**共 {total} 條**
-
-{links}
-
----
-"""
+        port_sections.append(
+            f"### 🔒 Port {port}\n\n**共 {total:,} 條**\n\n{table}"
+        )
+    ports_block = "\n\n---\n\n".join(port_sections) if port_sections else "_（無數據）_"
 
     content = f"""# IP List by Region
 
@@ -137,44 +151,51 @@ def write_main_readme():
 
 ---
 
-## 📁 全部 Port（按國家 + 組織）
+## 📋 目錄
 
-**共 {total_all} 條**
-
-{links_all}
+- [📁 全部 Port](#-全部-port)
+- [🔒 各 Port 純 IP](#-各-port-純-ip)
+- [⭐ 優選 ASN](#-優選-asn)
+- [🌐 ClientIP 為 IPv4](#-clientip-為-ipv4)
 
 ---
-{port_sections}
-## ⭐ 優選 ASN（全部 Port）
 
-**共 {total_asn} 條**
+## 📁 全部 Port
 
-| 國家 | 條目數 | Raw URL |
-|------|--------|---------|
+**共 {total_all:,} 條**
+
+{table_all}
+
+---
+
+## 🔒 各 Port 純 IP
+
+{ports_block}
+
+---
+
+## ⭐ 優選 ASN
+
+### 全部 Port（共 {total_asn:,} 條）
+
 {table_asn}
 
----
+### 443 純 IP（共 {total_asn_443:,} 條）
 
-## ⭐ 優選 ASN（443 純 IP）
-
-**共 {total_asn_443} 條**
-
-| 國家 | 條目數 | Raw URL |
-|------|--------|---------|
 {table_asn_443}
 
 ---
 
-## 🌐 ClientIP 為 IPv4（按國家 + 組織）
+## 🌐 ClientIP 為 IPv4
 
-**共 {total_v4} 條**
+**共 {total_v4:,} 條**
 
-{links_v4}
+{table_v4}
 
 ---
 *最後更新：{updated}*
 """
-    with open("README.md", "w", encoding="utf-8") as f:
+    with open("README.md", "w", encoding="utf-8", newline="\n") as f:
         f.write(content)
     print("README.md updated")
 

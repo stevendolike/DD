@@ -11,7 +11,7 @@
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Aliyun%20Computing%20Co.LTD.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/BAGE%20CLOUD%20LLC.txt) |
 | BINARY NETWORKS SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/BINARY%20NETWORKS%20SOLUTIONS%20LLC.txt) |
-| Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Baxet%20Group%20Inc.txt) |
 | Cloudie Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Cloudie%20Limited.txt) |
 | DEBEE Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DEBEE%20Network.txt) |
 | GDI-HK | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/GDI-HK.txt) |
@@ -21,7 +21,7 @@
 | LANDUPS LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/LANDUPS%20LIMITED.txt) |
 | MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Private%20Customer.txt) |
-| STARCLOUD GLOBAL PTE. LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/STARCLOUD%20GLOBAL%20PTE.%20LTD..txt) |
+| STARCLOUD GLOBAL PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/STARCLOUD%20GLOBAL%20PTE.%20LTD.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

@@ -7,11 +7,11 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/AEZA%20GROUP%20LLC.txt) |
-| Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/BitWeb%20LLC.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
-| Blockchain Games N.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Blockchain%20Games%20N.V..txt) |
+| Blockchain Games N.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Blockchain%20Games%20N.V.txt) |
 | CGI GLOBAL LIMITED | 51 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CloudBackbone.txt) |
 | Contabo GmbH | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Contabo%20GmbH.txt) |
@@ -35,4 +35,4 @@
 | as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

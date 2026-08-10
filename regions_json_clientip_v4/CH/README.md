@@ -1,4 +1,4 @@
-# CH 
+# CH
 
 **共 58 條** · [返回主頁](../../README.md)
 
@@ -8,14 +8,14 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/3NT%20SOLUTIONS%20LLP.txt) |
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/ALEXHOST%20SRL.txt) |
-| Baxet Group Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Baxet%20Group%20Inc.txt) |
 | BuyVM | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/BuyVM.txt) |
 | Datasource AG | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Datasource%20AG.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
-| HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/HOSTKEY%20B.V.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/HostHatch.txt) |
 | Infomaniak Network SA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Infomaniak%20Network%20SA.txt) |
 | Internet Utilities Europe and Asia Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
@@ -25,4 +25,4 @@
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

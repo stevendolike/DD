@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/3NT%20SOLUTIONS%20LLP.txt) |
-| eServer s.r.o. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/eServer%20s.r.o..txt) |
+| eServer s.r.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/eServer%20s.r.o.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

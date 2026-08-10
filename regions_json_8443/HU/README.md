@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| G-Core Labs S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/G-Core%20Labs%20S.A..txt) |
+| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/G-Core%20Labs%20S.A.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

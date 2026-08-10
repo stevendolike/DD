@@ -1,20 +1,19 @@
-# LV 
+# LV
 
-**共 326 條** · [返回主頁](../../README.md)
+**共 319 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Anton%20Levin.txt) |
-| Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Baxet%20Group%20Inc.txt) |
 | CGI GLOBAL LIMITED | 135 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Customer subnet in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Customer%20subnet%20in%20Latvia.txt) |
 | Dmitrii Vladimirovich Malkov | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GREEN FLOID LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/GREEN%20FLOID%20LLC.txt) |
 | Green Floid LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Green%20Floid%20LLC.txt) |
 | HostVDS.com Cloud Provider | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
@@ -29,4 +28,4 @@
 | as56971 network | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

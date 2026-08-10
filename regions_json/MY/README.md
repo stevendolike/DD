@@ -1,4 +1,4 @@
-# MY 
+# MY
 
 **共 8 條** · [返回主頁](../../README.md)
 
@@ -12,4 +12,4 @@
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

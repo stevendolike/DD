@@ -1,6 +1,6 @@
-# GB 
+# GB
 
-**共 1202 條** · [返回主頁](../../README.md)
+**共 1,202 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all_443.txt)
 
@@ -13,7 +13,7 @@
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BG-NETWORK.txt) |
 | BT-R101-TEST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BT-R101-TEST.txt) |
-| Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Baxet%20Group%20Inc.txt) |
 | BrainStorm Network_ Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BrainStorm%20Network_%20Inc.txt) |
 | CLOUVIDER Virtual Machines | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/CLOUVIDER%20Virtual%20Machines.txt) |
 | Clouvider Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Clouvider%20Limited.txt) |
@@ -24,14 +24,14 @@
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Fabric_zone.txt) |
 | GTHost | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Google%20LLC.txt) |
-| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HOSTKEY%20B.V.txt) |
 | HR SYSHEAD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HR%20SYSHEAD.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HZ%20Hosting%20Ltd.txt) |
 | HostUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HostUS.txt) |
 | IONOS SE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/IONOS%20SE.txt) |
 | Iomart Group Plc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Iomart%20Group%20Plc.txt) |
 | Iomart Managed Services Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Iomart%20Managed%20Services%20Limited.txt) |
-| LifeinCloud LTD_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/LifeinCloud%20LTD_.txt) |
+| LifeinCloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/LifeinCloud%20LTD.txt) |
 | Linode | 168 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode.txt) |
 | Linode_ LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode_%20LLC.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/MVPS%20LTD.txt) |
@@ -48,7 +48,7 @@
 | RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/RouterHosting%20LLC.txt) |
 | STYLISH BY A_L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/STYLISH%20BY%20A_L%20SRL.txt) |
 | Shaposhnikov Maxim | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Shaposhnikov%20Maxim.txt) |
-| The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/The%20Constant%20Company_%20LLC..txt) |
+| The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/The%20Constant%20Company_%20LLC.txt) |
 | UK Next Generation Cloud Server (NGCS) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/UK%20Next%20Generation%20Cloud%20Server%20%28NGCS%29.txt) |
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Urban%20Network%20Solutions%20SRL.txt) |
 | Virgin Media Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Virgin%20Media%20Limited.txt) |
@@ -57,4 +57,4 @@
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

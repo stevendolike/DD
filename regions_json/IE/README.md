@@ -1,4 +1,4 @@
-# IE 
+# IE
 
 **共 15 條** · [返回主頁](../../README.md)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Amazon Data Services Ireland Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
-| Amazon.com_ Inc. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon.com_%20Inc..txt) |
+| Amazon.com_ Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Amazon.com_%20Inc.txt) |
 | Angelnet Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Angelnet%20Limited.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/HostPapa.txt) |
@@ -16,4 +16,4 @@
 | VPS ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/VPS%20ACE.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

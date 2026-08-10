@@ -1,4 +1,4 @@
-# HU 
+# HU
 
 **共 4 條** · [返回主頁](../../README.md)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/3NT%20SOLUTIONS%20LLP.txt) |
 | ATW VPS IPv6 range | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/ATW%20VPS%20IPv6%20range.txt) |
-| G-Core Labs S.A. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/G-Core%20Labs%20S.A..txt) |
+| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/G-Core%20Labs%20S.A.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

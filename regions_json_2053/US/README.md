@@ -7,10 +7,10 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3HCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/3HCLOUD%20LLC.txt) |
-| Baxet Group Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc.txt) |
 | CGI GLOBAL LIMITED | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
-| Contabo Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Contabo%20Inc..txt) |
+| Contabo Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Contabo%20Inc.txt) |
 | DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
 | DigitalOcean_ LLC | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DigitalOcean_%20LLC.txt) |
 | EXTRAVM LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/EXTRAVM%20LLC.txt) |
@@ -18,16 +18,16 @@
 | FASTVPS HOSTING COMPANY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/FASTVPS%20HOSTING%20COMPANY.txt) |
 | Fiberpower LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Fiberpower%20LLC.txt) |
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Green%20Floid%20LLC.txt) |
-| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Hetzner%20Online%20GmbH.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HostPapa.txt) |
 | HostRush | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HostRush.txt) |
 | Huize Holdings LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Huize%20Holdings%20LLC.txt) |
-| IONOS Inc. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/IONOS%20Inc..txt) |
+| IONOS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/IONOS%20Inc.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/IT7%20Networks%20Inc.txt) |
 | Layer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Layer.txt) |
 | LeaseWeb USA_ Inc. Los Angeles | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/LeaseWeb%20USA_%20Inc.%20Los%20Angeles.txt) |
-| Leaseweb USA_ Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Leaseweb%20USA_%20Inc..txt) |
+| Leaseweb USA_ Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Leaseweb%20USA_%20Inc.txt) |
 | NetCrafters OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
 | NetLab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetLab.txt) |
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Oracle%20Corporation.txt) |
@@ -45,4 +45,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

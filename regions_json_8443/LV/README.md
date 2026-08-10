@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 117 條** · [返回主頁](../../README.md)
+**共 111 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
@@ -11,7 +11,6 @@
 | Dmitrii Vladimirovich Malkov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Dmitrii%20Vladimirovich%20Malkov.txt) |
 | Friendhosting LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GREEN FLOID LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/GREEN%20FLOID%20LLC.txt) |
 | Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Green%20Floid%20LLC.txt) |
 | HostVDS.com Cloud Provider | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
@@ -23,4 +22,4 @@
 | as56971 network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

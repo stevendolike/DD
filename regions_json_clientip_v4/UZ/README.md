@@ -1,4 +1,4 @@
-# UZ 
+# UZ
 
 **共 1 條** · [返回主頁](../../README.md)
 
@@ -9,4 +9,4 @@
 | SERVERCORE CIS FE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/SERVERCORE%20CIS%20FE%20LLC.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

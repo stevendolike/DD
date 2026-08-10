@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 500 Oracle Parkway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/500%20Oracle%20Parkway.txt) |
-| ACEVILLE PTE.LTD. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/ACEVILLE%20PTE.LTD..txt) |
+| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/ACEVILLE%20PTE.LTD.txt) |
 | AKILE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/AKILE%20LTD.txt) |
 | Akamai Connected Cloud _ Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Akari Networks (Singapore) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Akari%20Networks%20%28Singapore%29.txt) |
@@ -17,7 +17,7 @@
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/GREEN%20FLOID%20LLC.txt) |
 | Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Hetzner%20Online%20GmbH.txt) |
 | Huawei-Cloud-SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Huawei-Cloud-SG.txt) |
-| LEASEWEB SINGAPORE PTE. LTD. | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD..txt) |
+| LEASEWEB SINGAPORE PTE. LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Melbikomas%20UAB.txt) |
 | OVH SINGAPOR DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/OVH%20SINGAPOR%20DC.txt) |
 | Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
@@ -29,4 +29,4 @@
 | Vultr Holdings_ LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings_%20LLC.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

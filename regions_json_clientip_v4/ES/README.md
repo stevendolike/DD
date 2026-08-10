@@ -1,4 +1,4 @@
-# ES 
+# ES
 
 **共 107 條** · [返回主頁](../../README.md)
 
@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ARSYS INTERNET S.L.U. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/ARSYS%20INTERNET%20S.L.U..txt) |
+| ARSYS INTERNET S.L.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/ARSYS%20INTERNET%20S.L.U.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | GTHost | 89 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Google%20LLC.txt) |
@@ -18,7 +18,7 @@
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Snowd%20Security%20OU.txt) |
 | arsys.es | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/arsys.es.txt) |
 | oneprovider.com - Barcelona Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/oneprovider.com%20-%20Barcelona%20Infrastructure.txt) |
-| www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
+| www.fornex.com_ Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/www.fornex.com_%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

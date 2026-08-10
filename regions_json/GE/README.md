@@ -1,4 +1,4 @@
-# GE 
+# GE
 
 **共 3 條** · [返回主頁](../../README.md)
 
@@ -9,4 +9,4 @@
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/HZ%20Hosting%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

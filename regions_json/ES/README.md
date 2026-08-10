@@ -1,4 +1,4 @@
-# ES 
+# ES
 
 **共 125 條** · [返回主頁](../../README.md)
 
@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ARSYS INTERNET S.L.U. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/ARSYS%20INTERNET%20S.L.U..txt) |
-| Baxet Group Inc. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Baxet%20Group%20Inc..txt) |
+| ARSYS INTERNET S.L.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/ARSYS%20INTERNET%20S.L.U.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/BlueVPS%20OU.txt) |
 | Cloudflare London_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Cloudflare%20London_%20LLC.txt) |
 | FIRST SERVER_ SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
@@ -23,11 +23,11 @@
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/OVH%20Hispano.txt) |
 | Orange Spain Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Orange%20Spain%20Network.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Snowd%20Security%20OU.txt) |
-| The Constant Company_ LLC. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/The%20Constant%20Company_%20LLC..txt) |
+| The Constant Company_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/The%20Constant%20Company_%20LLC.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/UpCloud%20Cloud%20Servers.txt) |
 | arsys.es | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/arsys.es.txt) |
 | oneprovider.com - Barcelona Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/oneprovider.com%20-%20Barcelona%20Infrastructure.txt) |
-| www.fornex.com_ Fornex Hosting S.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com_%20Fornex%20Hosting%20S.L..txt) |
+| www.fornex.com_ Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com_%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

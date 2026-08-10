@@ -9,7 +9,7 @@
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/1Cent%20Host.txt) |
 | AEZA GROUP LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/AEZA%20GROUP%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/BG-NETWORK.txt) |
-| Baxet Group Inc. | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/CGI%20GLOBAL%20LIMITED.txt) |
 | CHSL Helsinki | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/CHSL%20Helsinki.txt) |
@@ -17,7 +17,7 @@
 | FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | GCS Service Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/GCS%20Service%20Network.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HOSTKEY B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/Hetzner%20Online%20GmbH.txt) |
 | I-SERVERS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/I-SERVERS%20LTD.txt) |
 | IP MARKET - FZCO | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/IP%20MARKET%20-%20FZCO.txt) |
@@ -33,7 +33,7 @@
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/UpCloud%20Cloud%20Servers.txt) |
 | WAIcore Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WAIcore%20Ltd.txt) |
-| WorkTitans B.V. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WorkTitans%20B.V..txt) |
+| WorkTitans B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/WorkTitans%20B.V.txt) |
 | ZTV CORP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/ZTV%20CORP%20LLC.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/as56971%20network.txt) |
 | nuxt.cloud hosting provider | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/nuxt.cloud%20hosting%20provider.txt) |
@@ -41,4 +41,4 @@
 | u1host Finland | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

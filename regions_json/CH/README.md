@@ -1,4 +1,4 @@
-# CH 
+# CH
 
 **共 112 條** · [返回主頁](../../README.md)
 
@@ -7,9 +7,9 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/3NT%20SOLUTIONS%20LLP.txt) |
-| ALEXHOST S.R.L. | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/ALEXHOST%20S.R.L..txt) |
+| ALEXHOST S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/ALEXHOST%20S.R.L.txt) |
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/ALEXHOST%20SRL.txt) |
-| Baxet Group Inc. | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Baxet%20Group%20Inc..txt) |
+| Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Baxet%20Group%20Inc.txt) |
 | BuyVM | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BuyVM.txt) |
 | Datasource AG | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting_ Geronimo Ramirez | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting_%20Geronimo%20Ramirez.txt) |
@@ -18,7 +18,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Green Floid LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
-| HOSTKEY B.V. | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HOSTKEY%20B.V..txt) |
+| HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HOSTKEY%20B.V.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HostHatch.txt) |
 | Infomaniak Network SA | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Infomaniak%20Network%20SA.txt) |
 | Internet Utilities Europe and Asia Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
@@ -33,4 +33,4 @@
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-08-10 05:15 UTC*
+*最後更新：2026-08-10 06:56 UTC*

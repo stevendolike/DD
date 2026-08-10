@@ -1,10 +1,27 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+split_json.py — 從 all.json 生成按地區/組織分類的 IP 清單
+
+統一格式規則（與 reformat.py 一致）：
+1. 組織名 sanitize：NFC → strip → 壓縮空白 → 移除尾部句點 → 非法字符轉 _
+2. 合併：忽略大小階/空白/底線/尾部句點的組織名視為同一組織
+3. 內容：去重 + 按 IP 排序（IPv4/IPv6 安全）
+4. 寫檔：LF 換行、末行 newline、無空行
+5. _all.txt / _all_443.txt 由 org 檔重新生成
+"""
+import ipaddress
 import json
 import os
+import re
 import shutil
-import ipaddress
-from collections import defaultdict
+import unicodedata
+from collections import OrderedDict, defaultdict
 
 PREFERRED_ASN = {906, 25820, 32097, 63888, 396982, 137929, 40065, 135064, 4809, 9929, 58453}
+
+ILLEGAL = re.compile(r'[\\/:*?"<>|\x00-\x1f]')
+
 
 def is_valid_ip(ip):
     try:
@@ -13,11 +30,58 @@ def is_valid_ip(ip):
     except ValueError:
         return False
 
+
 def is_ipv4(ip):
     try:
         return ipaddress.ip_address(ip).version == 4
     except ValueError:
         return False
+
+
+def sanitize_org(name):
+    """統一檔名規則。"""
+    n = unicodedata.normalize("NFC", str(name)).strip()
+    n = n.strip(" _")                    # 移除首尾底線（組織名怪異前綴）
+    n = re.sub(r"\s+", " ", n)
+    n = re.sub(r"\.+$", "", n)
+    n = ILLEGAL.sub("_", n)
+    return n.strip() or "UNKNOWN"
+
+
+def merge_key(name):
+    """合併偵測 key：忽略大小階 / 空白 / 底線 / 尾部句點。"""
+    n = unicodedata.normalize("NFC", str(name)).lower()
+    n = re.sub(r"[\s_]+", "", n)
+    n = re.sub(r"\.+$", "", n)
+    return n
+
+
+def entry_sort_key(entry):
+    """'ip' 或 'ip:port' → (ip_int, port_int) 排序。"""
+    entry = entry.strip()
+    ip_part, port_part = entry, "0"
+    if ":" in entry:
+        head, _, tail = entry.rpartition(":")
+        if tail.isdigit() and head:
+            ip_part, port_part = head, tail
+    try:
+        ip_int = int(ipaddress.ip_address(ip_part))
+    except ValueError:
+        ip_int = 1 << 200
+    try:
+        port_int = int(port_part)
+    except ValueError:
+        port_int = 0
+    return (ip_int, port_int)
+
+
+def write_entries(path, entries):
+    """寫檔：去重 + 排序 + LF + 末行 newline。"""
+    unique = OrderedDict((e, None) for e in entries)
+    lines = sorted(unique.keys(), key=entry_sort_key)
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(lines) + ("\n" if lines else ""))
+
 
 try:
     with open("all.json", "r", encoding="utf-8") as f:
@@ -31,11 +95,13 @@ except (json.JSONDecodeError, KeyError) as e:
     print(f"all.json 解析失敗：{e}")
     exit(0)
 
+# 結構：key(merge_key) -> list[entries]；name_map: key -> display name
 groups             = defaultdict(lambda: defaultdict(list))
 groups_port        = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
 groups_asn         = defaultdict(list)
 groups_asn_443     = defaultdict(list)
 groups_clientip_v4 = defaultdict(lambda: defaultdict(list))
+name_map           = defaultdict(dict)
 
 skipped = 0
 for item in data:
@@ -45,25 +111,30 @@ for item in data:
         continue
     item_ports = item.get("port", [])
     meta = item.get("meta", {})
-    country = meta.get("country", "UNKNOWN").upper()
-    org = meta.get("asOrganization", "UNKNOWN")
+    country = str(meta.get("country", "UNKNOWN")).upper()
+    org = str(meta.get("asOrganization", "UNKNOWN"))
     asn = meta.get("asn", 0)
     client_ip = meta.get("clientIp", "")
-    org_safe = "".join(c if c.isalnum() or c in " .-_()" else "_" for c in org).strip()
+    display = sanitize_org(org)
+    key = merge_key(org)
 
     for port in item_ports:
-        groups[country][org_safe].append(f"{ip}:{port}")
-        groups_port[port][country][org_safe].append(ip)
+        entry = f"{ip}:{port}"
+        groups[country][key].append(entry)
+        groups_port[port][country][key].append(ip)
 
         if asn in PREFERRED_ASN:
-            groups_asn[country].append(f"{ip}:{port}")
+            groups_asn[country].append(entry)
             if port == 443:
                 groups_asn_443[country].append(ip)
 
         if is_ipv4(client_ip):
-            groups_clientip_v4[country][org_safe].append(f"{ip}:{port}")
+            groups_clientip_v4[country][key].append(entry)
+
+        name_map[country][key] = display
 
 print(f"跳過無效 IP：{skipped} 條")
+
 
 def rebuild_dir(base_dir, country_data):
     """按國家+組織分類，加 _all.txt 和 _all_443.txt"""
@@ -74,22 +145,19 @@ def rebuild_dir(base_dir, country_data):
         path = f"{base_dir}/{country}"
         os.makedirs(path, exist_ok=True)
         all_entries = []
-        all_443 = []
-        for org, entries in orgs.items():
-            with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
-                f.write("\n".join(entries))
+        for key, entries in orgs.items():
+            display = name_map[country].get(key, key)
+            write_entries(f"{path}/{display}.txt", entries)
             all_entries.extend(entries)
-            for e in entries:
-                ip_part = e.split(":")[0]
-                port_part = e.split(":")[-1]
-                if port_part == "443":
-                    all_443.append(ip_part)
-        with open(f"{path}/_all.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(all_entries))
-        with open(f"{path}/_all_443.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(all_443))
+        write_entries(f"{path}/_all.txt", all_entries)
+        all_443 = [
+            e.rpartition(":")[0] for e in all_entries
+            if e.rpartition(":")[2] == "443"
+        ]
+        write_entries(f"{path}/_all_443.txt", all_443)
 
-def rebuild_port_dir(base_dir, country_data, port):
+
+def rebuild_port_dir(base_dir, country_data):
     """port 目錄：純 IP，加 _all.txt"""
     if os.path.exists(base_dir):
         shutil.rmtree(base_dir)
@@ -98,12 +166,12 @@ def rebuild_port_dir(base_dir, country_data, port):
         path = f"{base_dir}/{country}"
         os.makedirs(path, exist_ok=True)
         all_entries = []
-        for org, entries in orgs.items():
-            with open(f"{path}/{org}.txt", "w", encoding="utf-8") as f:
-                f.write("\n".join(entries))
+        for key, entries in orgs.items():
+            display = name_map[country].get(key, key)
+            write_entries(f"{path}/{display}.txt", entries)
             all_entries.extend(entries)
-        with open(f"{path}/_all.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(all_entries))
+        write_entries(f"{path}/_all.txt", all_entries)
+
 
 def rebuild_asn_dir(base_dir, country_data):
     """ASN 目錄：扁平，只有國家文件"""
@@ -111,12 +179,12 @@ def rebuild_asn_dir(base_dir, country_data):
         shutil.rmtree(base_dir)
     os.makedirs(base_dir, exist_ok=True)
     for country, entries in country_data.items():
-        with open(f"{base_dir}/{country}.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(entries))
+        write_entries(f"{base_dir}/{country}.txt", entries)
+
 
 rebuild_dir("regions_json", groups)
 for port, countries in groups_port.items():
-    rebuild_port_dir(f"regions_json_{port}", countries, port)
+    rebuild_port_dir(f"regions_json_{port}", countries)
 rebuild_asn_dir("regions_json_preferred_asn", groups_asn)
 rebuild_asn_dir("regions_json_preferred_asn_443", groups_asn_443)
 rebuild_dir("regions_json_clientip_v4", groups_clientip_v4)
@@ -124,13 +192,13 @@ rebuild_dir("regions_json_clientip_v4", groups_clientip_v4)
 # stats.json（不計 _all.txt / _all_443.txt）
 stats = {}
 stats["regions_json"] = {
-    country: {org: len(entries) for org, entries in orgs.items()}
+    country: {name_map[country].get(k, k): len(entries) for k, entries in orgs.items()}
     for country, orgs in groups.items()
 }
 for port, countries in groups_port.items():
     base_dir = f"regions_json_{port}"
     stats[base_dir] = {
-        country: {org: len(entries) for org, entries in orgs.items()}
+        country: {name_map[country].get(k, k): len(entries) for k, entries in orgs.items()}
         for country, orgs in countries.items()
     }
 stats["regions_json_preferred_asn"] = {
@@ -140,12 +208,13 @@ stats["regions_json_preferred_asn_443"] = {
     country: len(entries) for country, entries in groups_asn_443.items()
 }
 stats["regions_json_clientip_v4"] = {
-    country: {org: len(entries) for org, entries in orgs.items()}
+    country: {name_map[country].get(k, k): len(entries) for k, entries in orgs.items()}
     for country, orgs in groups_clientip_v4.items()
 }
 
-with open("stats.json", "w") as f:
-    json.dump(stats, f)
+with open("stats.json", "w", encoding="utf-8", newline="\n") as f:
+    json.dump(stats, f, ensure_ascii=False, indent=2)
+    f.write("\n")
 
 total = sum(
     (sum(v.values()) if isinstance(list(v.values())[0], int) else sum(sum(x.values()) for x in v.values()))
