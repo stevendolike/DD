@@ -347,7 +347,7 @@
 
 ## ⭐ 優選 ASN
 
-### 全部 Port（共 151 條）
+### 全部 Port（共 155 條）
 
 📥 [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt)
 
@@ -362,7 +362,7 @@
 | GR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/GR.txt) |
 | HK | 47 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/ID.txt) |
-| JP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
+| JP | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
 | KR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/KR.txt) |
 | MY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/MY.txt) |
 | NL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/NL.txt) |
@@ -370,7 +370,7 @@
 | TH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/TH.txt) |
 | US | 59 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
 
-### 443 純 IP（共 113 條）
+### 443 純 IP（共 117 條）
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/_all.txt)
 
@@ -383,7 +383,7 @@
 | GB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/GB.txt) |
 | HK | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/ID.txt) |
-| JP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/JP.txt) |
+| JP | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/JP.txt) |
 | MY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/MY.txt) |
 | NL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/NL.txt) |
 | SG | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/SG.txt) |
@@ -492,4 +492,4 @@
 | ZA | 5 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-08-10 08:07 UTC*
+*最後更新：2026-08-10 09:08 UTC*

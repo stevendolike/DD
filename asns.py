@@ -33,6 +33,7 @@ PREFERRED_ASN = {
     9381,    # HKBN Enterprise Solutions（香港寬頻企業方案）
     40065,   # CNSERVERS
     63888,   # DataWing Limited
+    3258,    # xTom Japan（東京/大阪 CN2 GIA）
     # ── 中國雲廠海外節點 ──
     45102,   # 阿里雲（美國）
     132203,  # 騰訊雲國際
