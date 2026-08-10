@@ -1,6 +1,6 @@
 # DE
 
-**共 3,204 條** · [返回主頁](../../README.md)
+**共 3,215 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | 24fire GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/24fire%20GmbH.txt) |
 | 365 Group LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/365%20Group%20LLC.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/365.partners%20INC.txt) |
-| 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/3nt%20solutions%20LLP.txt) |
+| 3nt solutions LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/3nt%20solutions%20LLP.txt) |
 | 5001 BEACH ROAD _ 04-01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/5001%20BEACH%20ROAD%20_%2004-01.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/6%20COLLYER%20QUAY.txt) |
 | A100 ROW GmbH | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/A100%20ROW%20GmbH.txt) |
@@ -51,9 +51,9 @@
 | ComputeBox Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/ComputeBox%20Hosting.txt) |
 | Customer allocation HB Client 11647 | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Customer%20allocation%20HB%20Client%2011647.txt) |
 | DEDIK SERVICES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/DEDIK%20SERVICES%20LIMITED.txt) |
-| Dasabo OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Dasabo%20OU.txt) |
+| Dasabo OU | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Dasabo%20OU.txt) |
 | Datacamp Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Datacamp%20Limited.txt) |
-| Datalix | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Datalix.txt) |
+| Datalix | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Datalix.txt) |
 | DePowered | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/DePowered.txt) |
 | Deployish Limited | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Deployish%20Limited.txt) |
 | Digital Hosting Provider LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/Digital%20Hosting%20Provider%20LLC.txt) |
@@ -214,4 +214,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/xTom.txt) |
 
 ---
-*最後更新：2026-08-10 06:56 UTC*
+*最後更新：2026-08-10 07:12 UTC*

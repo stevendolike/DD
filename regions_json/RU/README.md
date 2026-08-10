@@ -1,6 +1,6 @@
 # RU
 
-**共 325 條** · [返回主頁](../../README.md)
+**共 327 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt)
 
@@ -17,7 +17,7 @@
 | Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Cloudflare%20London_%20LLC.txt) |
 | Comfortel Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Comfortel%20Ltd.txt) |
 | Data Storage Center JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Data%20Storage%20Center%20JSC.txt) |
-| Datacheap LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Datacheap%20LLC.txt) |
+| Datacheap LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Datacheap%20LLC.txt) |
 | Def-Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Def-Group%20LLC.txt) |
 | Delta Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Delta%20Ltd.txt) |
 | Dynamic distribution IP_s for broadband services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Dynamic%20distribution%20IP_s%20for%20broadband%20services.txt) |
@@ -43,7 +43,7 @@
 | JSC TIMEWEB | 56 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/KVIKTEL%20LLC.txt) |
 | Kontel LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Kontel%20LLC.txt) |
-| LLC Baxet | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Baxet.txt) |
+| LLC Baxet | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Baxet.txt) |
 | LLC Digital Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Digital%20Network.txt) |
 | LLC IT BASIS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20IT%20BASIS.txt) |
 | LLC Smart Ape | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Smart%20Ape.txt) |
@@ -93,4 +93,4 @@
 | www.fornex.com_ Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/www.fornex.com_%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-10 06:56 UTC*
+*最後更新：2026-08-10 07:12 UTC*

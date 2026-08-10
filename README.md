@@ -17,7 +17,7 @@
 
 ## 📁 全部 Port
 
-**共 12,649 條**
+**共 12,696 條**
 
 | 國家 | 條目數 | 檔案 |
 |------|--------|------|
@@ -37,8 +37,8 @@
 | CL | 4 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CL/_all_443.txt) |
 | CN | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CN/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CN/_all_443.txt) |
 | CY | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/_all_443.txt) |
-| CZ | 67 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt) |
-| DE | 3,204 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/_all_443.txt) |
+| CZ | 68 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt) |
+| DE | 3,215 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DE/_all_443.txt) |
 | DK | 23 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/_all_443.txt) |
 | EC | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EC/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EC/_all_443.txt) |
 | EE | 99 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt) |
@@ -62,13 +62,13 @@
 | KR | 21 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/_all_443.txt) |
 | KZ | 47 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt) |
 | LT | 16 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all_443.txt) |
-| LV | 319 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all_443.txt) |
-| MD | 9 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all_443.txt) |
+| LV | 326 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all_443.txt) |
+| MD | 13 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all_443.txt) |
 | MK | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MK/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MK/_all_443.txt) |
 | MX | 10 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MX/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MX/_all_443.txt) |
 | MY | 8 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all_443.txt) |
 | NG | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NG/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NG/_all_443.txt) |
-| NL | 3,051 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NL/_all_443.txt) |
+| NL | 3,055 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NL/_all_443.txt) |
 | NO | 10 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all_443.txt) |
 | NZ | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/_all_443.txt) |
 | PH | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/_all_443.txt) |
@@ -76,16 +76,16 @@
 | PT | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/_all_443.txt) |
 | RO | 23 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all_443.txt) |
 | RS | 3 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all_443.txt) |
-| RU | 325 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt) |
+| RU | 327 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt) |
 | SA | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SA/_all_443.txt) |
 | SE | 183 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt) |
-| SG | 245 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all_443.txt) |
+| SG | 246 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all_443.txt) |
 | SI | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SI/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SI/_all_443.txt) |
 | TH | 8 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TH/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TH/_all_443.txt) |
 | TR | 51 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt) |
 | TW | 3 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all_443.txt) |
 | UA | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/_all_443.txt) |
-| US | 1,436 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all_443.txt) |
+| US | 1,453 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all_443.txt) |
 | UZ | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UZ/_all_443.txt) |
 | VG | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VG/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VG/_all_443.txt) |
 | VN | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/_all_443.txt) |
@@ -97,7 +97,7 @@
 
 ### 🔒 Port 443
 
-**共 7,028 條**
+**共 7,039 條**
 
 | 國家 | 條目數 | 檔案 |
 |------|--------|------|
@@ -116,8 +116,8 @@
 | CL | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CL/_all.txt) |
 | CN | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CN/_all.txt) |
 | CY | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CY/_all.txt) |
-| CZ | 52 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/_all.txt) |
-| DE | 1,742 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/_all.txt) |
+| CZ | 53 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/_all.txt) |
+| DE | 1,743 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/_all.txt) |
 | DK | 13 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/_all.txt) |
 | EC | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EC/_all.txt) |
 | EE | 83 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt) |
@@ -142,12 +142,12 @@
 | KZ | 39 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt) |
 | LT | 14 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt) |
 | LV | 112 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt) |
-| MD | 8 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/_all.txt) |
+| MD | 12 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/_all.txt) |
 | MK | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MK/_all.txt) |
 | MX | 7 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MX/_all.txt) |
 | MY | 6 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/_all.txt) |
 | NG | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NG/_all.txt) |
-| NL | 1,810 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/_all.txt) |
+| NL | 1,813 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/_all.txt) |
 | NO | 6 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NO/_all.txt) |
 | NZ | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NZ/_all.txt) |
 | PH | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/_all.txt) |
@@ -155,10 +155,10 @@
 | PT | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PT/_all.txt) |
 | RO | 18 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt) |
 | RS | 3 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/_all.txt) |
-| RU | 199 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/_all.txt) |
+| RU | 200 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/_all.txt) |
 | SA | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SA/_all.txt) |
 | SE | 99 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt) |
-| SG | 188 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/_all.txt) |
+| SG | 189 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/_all.txt) |
 | SI | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SI/_all.txt) |
 | TH | 8 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/_all.txt) |
 | TR | 19 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt) |
@@ -294,7 +294,7 @@
 
 ### 🔒 Port 8443
 
-**共 2,484 條**
+**共 2,496 條**
 
 | 國家 | 條目數 | 檔案 |
 |------|--------|------|
@@ -329,18 +329,18 @@
 | KR | 10 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/_all.txt) |
 | KZ | 4 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/_all.txt) |
 | LT | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/_all.txt) |
-| LV | 111 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt) |
+| LV | 117 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt) |
 | MD | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MD/_all.txt) |
 | MX | 3 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MX/_all.txt) |
 | NL | 480 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NL/_all.txt) |
 | NO | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/_all.txt) |
 | PL | 41 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt) |
 | RO | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_all.txt) |
-| RU | 90 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/_all.txt) |
+| RU | 91 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/_all.txt) |
 | SE | 51 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt) |
 | SG | 45 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt) |
 | TR | 10 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/_all.txt) |
-| US | 213 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/_all.txt) |
+| US | 218 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/_all.txt) |
 
 ---
 
@@ -373,7 +373,7 @@
 
 ## 🌐 ClientIP 為 IPv4
 
-**共 4,143 條**
+**共 4,156 條**
 
 | 國家 | 條目數 | 檔案 |
 |------|--------|------|
@@ -389,8 +389,8 @@
 | CA | 20 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all_443.txt) |
 | CH | 58 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all_443.txt) |
 | CN | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all_443.txt) |
-| CZ | 11 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all_443.txt) |
-| DE | 717 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all_443.txt) |
+| CZ | 12 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all_443.txt) |
+| DE | 722 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all_443.txt) |
 | DK | 5 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DK/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DK/_all_443.txt) |
 | EC | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EC/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EC/_all_443.txt) |
 | EE | 20 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/_all_443.txt) |
@@ -414,18 +414,18 @@
 | KZ | 27 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all_443.txt) |
 | LT | 3 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/_all_443.txt) |
 | LV | 228 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all_443.txt) |
-| MD | 3 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/_all_443.txt) |
+| MD | 6 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/_all_443.txt) |
 | MK | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MK/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MK/_all_443.txt) |
 | MX | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MX/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MX/_all_443.txt) |
 | MY | 6 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MY/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MY/_all_443.txt) |
 | NG | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NG/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NG/_all_443.txt) |
-| NL | 969 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/_all_443.txt) |
+| NL | 970 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/_all_443.txt) |
 | NO | 6 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/_all_443.txt) |
 | NZ | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NZ/_all_443.txt) |
 | PL | 100 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all_443.txt) |
 | RO | 10 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/_all_443.txt) |
 | RS | 2 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/_all_443.txt) |
-| RU | 204 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all_443.txt) |
+| RU | 206 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all_443.txt) |
 | SA | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SA/_all_443.txt) |
 | SE | 92 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all_443.txt) |
 | SG | 44 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all_443.txt) |
@@ -433,9 +433,9 @@
 | TH | 8 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/_all_443.txt) |
 | TR | 44 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all_443.txt) |
 | UA | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/_all_443.txt) |
-| US | 314 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/_all_443.txt) |
+| US | 315 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/_all_443.txt) |
 | UZ | 1 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/_all_443.txt) |
 | ZA | 5 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-08-10 06:56 UTC*
+*最後更新：2026-08-10 07:12 UTC*

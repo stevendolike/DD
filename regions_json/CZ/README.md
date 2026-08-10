@@ -1,6 +1,6 @@
 # CZ
 
-**共 67 條** · [返回主頁](../../README.md)
+**共 68 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | EDIS IPv6 Infrastructure in Czechia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/EDIS%20IPv6%20Infrastructure%20in%20Czechia.txt) |
 | FDCservers.net | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/FDCservers.net.txt) |
 | Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Friendhosting%20LTD.txt) |
-| Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Green%20Floid%20LLC.txt) |
+| Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Green%20Floid%20LLC.txt) |
 | INTERNET CZ_ a.s | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/INTERNET%20CZ_%20a.s.txt) |
 | Iron Hosting Centre LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor-com.txt) |
@@ -20,4 +20,4 @@
 | vpsFree.cz_ z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz_%20z.s.txt) |
 
 ---
-*最後更新：2026-08-10 06:56 UTC*
+*最後更新：2026-08-10 07:12 UTC*

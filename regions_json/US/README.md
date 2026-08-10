@@ -1,6 +1,6 @@
 # US
 
-**共 1,436 條** · [返回主頁](../../README.md)
+**共 1,453 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | 16 COLLYER QUAY _ 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/16%20COLLYER%20QUAY%20_%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 1GSERVERS_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/1GSERVERS_%20LLC.txt) |
 | 2E TELEKOMUNIKASYON LTD STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
-| 3HCloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/3HCloud%20LLC.txt) |
+| 3HCloud LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/3HCloud%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/3NT%20SOLUTIONS%20LLP.txt) |
 | 5001 BEACH ROAD _ 04-01 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/5001%20BEACH%20ROAD%20_%2004-01.txt) |
 | 5G NETWORK OPERATIONS PTY LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/5G%20NETWORK%20OPERATIONS%20PTY%20LTD.txt) |
@@ -62,7 +62,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GoDaddy.com_ LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GoDaddy.com_%20LLC.txt) |
 | Google LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Google%20LLC.txt) |
-| Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Green%20Floid%20LLC.txt) |
+| Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Green%20Floid%20LLC.txt) |
 | GreencloudVPS JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GreencloudVPS%20JSC.txt) |
 | HIVELOCITY_ Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/HIVELOCITY_%20Inc.txt) |
 | HLL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/HLL%20LLC.txt) |
@@ -141,4 +141,4 @@
 | www.fornex.com_ Fornex Hosting S.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/www.fornex.com_%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-10 06:56 UTC*
+*最後更新：2026-08-10 07:12 UTC*

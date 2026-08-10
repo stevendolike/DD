@@ -22,22 +22,25 @@ import sys
 import unicodedata
 from collections import OrderedDict, defaultdict
 
-# 含 國家/組織 結構的目錄（含 _all.txt / _all_443.txt）
-ORGANIZED_DIRS = [
-    "regions_json",
-    "regions_json_443",
-    "regions_json_2053",
-    "regions_json_2083",
-    "regions_json_2087",
-    "regions_json_2096",
-    "regions_json_8443",
-    "regions_json_clientip_v4",
-]
-# 扁平國家目錄（只有 國家.txt）
-FLAT_DIRS = [
-    "regions_json_preferred_asn",
-    "regions_json_preferred_asn_443",
-]
+# 目錄偵測：動態（唔硬編碼），支援任意 port 目錄
+def discover_dirs():
+    """分組：organized（國家/組織結構）vs flat（扁平國家檔）。
+
+    - regions_json / regions_json_clientip_v4 / regions_json_<port> → organized
+    - regions_json_preferred_asn* → flat
+    """
+    organized, flat = [], []
+    for d in sorted(os.listdir(".")):
+        if not (d.startswith("regions_json") and os.path.isdir(d)):
+            continue
+        suffix = d[len("regions_json"):]
+        if suffix == "" or (suffix.startswith("_") and suffix[1:].isdigit()):
+            organized.append(d)
+        elif d.startswith("regions_json_preferred_asn"):
+            flat.append(d)
+        elif d == "regions_json_clientip_v4":
+            organized.append(d)
+    return organized, flat
 
 ILLEGAL = re.compile(r'[\\/:*?"<>|\x00-\x1f]')
 SYSTEM_FILES = ("_all.txt", "_all_443.txt")
@@ -196,11 +199,12 @@ def rebuild_flat_dir(base_dir):
 
 def build_stats():
     """生成 stats.json（結構與 split_json.py 相同）。"""
+    organized, flat = discover_dirs()
     stats = {}
-    for base_dir in ORGANIZED_DIRS + FLAT_DIRS:
+    for base_dir in organized + flat:
         if not os.path.isdir(base_dir):
             continue
-        if base_dir in FLAT_DIRS:
+        if base_dir in flat:
             stats[base_dir] = {
                 f[:-4]: len(read_entries(os.path.join(base_dir, f)))
                 for f in sorted(os.listdir(base_dir))
@@ -214,7 +218,7 @@ def build_stats():
                     continue
                 orgs = {}
                 for f in sorted(os.listdir(cdir)):
-                    if f.endswith(".txt") and not f.startswith("_"):
+                    if f.endswith(".txt") and f not in SYSTEM_FILES:
                         orgs[f[:-4]] = len(read_entries(os.path.join(cdir, f)))
                 if orgs:
                     d[country] = orgs
@@ -225,14 +229,15 @@ def build_stats():
 
 
 def main():
+    organized, flat = discover_dirs()
     total_org, total_entries, merges = 0, 0, []
-    for d in ORGANIZED_DIRS:
+    for d in organized:
         oc, te, mg = rebuild_organized_dir(d)
         total_org += oc
         total_entries += te
         merges.extend(mg)
         print(f"✓ {d}: {oc} 個組織檔, {te} 條")
-    for d in FLAT_DIRS:
+    for d in flat:
         fc, fe = rebuild_flat_dir(d)
         total_org += fc
         total_entries += fe

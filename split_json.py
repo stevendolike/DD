@@ -95,13 +95,13 @@ except (json.JSONDecodeError, KeyError) as e:
     print(f"all.json 解析失敗：{e}")
     exit(0)
 
-# 結構：key(merge_key) -> list[entries]；name_map: key -> display name
+# 結構：key(merge_key) -> list[entries]；name_map: (country,key) -> [候選 display 名]
 groups             = defaultdict(lambda: defaultdict(list))
 groups_port        = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
 groups_asn         = defaultdict(list)
 groups_asn_443     = defaultdict(list)
 groups_clientip_v4 = defaultdict(lambda: defaultdict(list))
-name_map           = defaultdict(dict)
+name_map           = defaultdict(lambda: defaultdict(list))
 
 skipped = 0
 for item in data:
@@ -131,9 +131,14 @@ for item in data:
         if is_ipv4(client_ip):
             groups_clientip_v4[country][key].append(entry)
 
-        name_map[country][key] = display
+        name_map[country][key].append(display)
 
 print(f"跳過無效 IP：{skipped} 條")
+
+
+def pick_display(country, key):
+    """display 名 = 候選名 alphabetical 首名（與 reformat.py 一致）。"""
+    return min(name_map[country][key])
 
 
 def rebuild_dir(base_dir, country_data):
@@ -146,7 +151,7 @@ def rebuild_dir(base_dir, country_data):
         os.makedirs(path, exist_ok=True)
         all_entries = []
         for key, entries in orgs.items():
-            display = name_map[country].get(key, key)
+            display = pick_display(country, key)
             write_entries(f"{path}/{display}.txt", entries)
             all_entries.extend(entries)
         write_entries(f"{path}/_all.txt", all_entries)
@@ -167,7 +172,7 @@ def rebuild_port_dir(base_dir, country_data):
         os.makedirs(path, exist_ok=True)
         all_entries = []
         for key, entries in orgs.items():
-            display = name_map[country].get(key, key)
+            display = pick_display(country, key)
             write_entries(f"{path}/{display}.txt", entries)
             all_entries.extend(entries)
         write_entries(f"{path}/_all.txt", all_entries)
@@ -189,29 +194,30 @@ rebuild_asn_dir("regions_json_preferred_asn", groups_asn)
 rebuild_asn_dir("regions_json_preferred_asn_443", groups_asn_443)
 rebuild_dir("regions_json_clientip_v4", groups_clientip_v4)
 
-# stats.json（不計 _all.txt / _all_443.txt）
+# stats.json（不計 _all.txt / _all_443.txt；國家/組織均按名排序，與 reformat.py 一致）
 stats = {}
 stats["regions_json"] = {
-    country: {name_map[country].get(k, k): len(entries) for k, entries in orgs.items()}
-    for country, orgs in groups.items()
+    country: {pick_display(country, k): len(entries) for k, entries in sorted(orgs.items(), key=lambda kv: pick_display(country, kv[0]))}
+    for country, orgs in sorted(groups.items())
 }
 for port, countries in groups_port.items():
     base_dir = f"regions_json_{port}"
     stats[base_dir] = {
-        country: {name_map[country].get(k, k): len(entries) for k, entries in orgs.items()}
-        for country, orgs in countries.items()
+        country: {pick_display(country, k): len(entries) for k, entries in sorted(orgs.items(), key=lambda kv: pick_display(country, kv[0]))}
+        for country, orgs in sorted(countries.items())
     }
 stats["regions_json_preferred_asn"] = {
-    country: len(entries) for country, entries in groups_asn.items()
+    country: len(entries) for country, entries in sorted(groups_asn.items())
 }
 stats["regions_json_preferred_asn_443"] = {
-    country: len(entries) for country, entries in groups_asn_443.items()
+    country: len(entries) for country, entries in sorted(groups_asn_443.items())
 }
 stats["regions_json_clientip_v4"] = {
-    country: {name_map[country].get(k, k): len(entries) for k, entries in orgs.items()}
-    for country, orgs in groups_clientip_v4.items()
+    country: {pick_display(country, k): len(entries) for k, entries in sorted(orgs.items(), key=lambda kv: pick_display(country, kv[0]))}
+    for country, orgs in sorted(groups_clientip_v4.items())
 }
 
+stats = dict(sorted(stats.items()))  # 鍵按字母序，與 reformat.py 一致
 with open("stats.json", "w", encoding="utf-8", newline="\n") as f:
     json.dump(stats, f, ensure_ascii=False, indent=2)
     f.write("\n")

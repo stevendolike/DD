@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 1,742 條** · [返回主頁](../../README.md)
+**共 1,743 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/_all.txt)
 
@@ -47,7 +47,7 @@
 | DASABO OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DASABO%20OU.txt) |
 | DEDIK SERVICES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DEDIK%20SERVICES%20LIMITED.txt) |
 | Datacamp Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Datacamp%20Limited.txt) |
-| Datalix | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Datalix.txt) |
+| Datalix | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Datalix.txt) |
 | DePowered | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DePowered.txt) |
 | Deployish Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Deployish%20Limited.txt) |
 | DigitalOcean_ LLC | 495 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DigitalOcean_%20LLC.txt) |
@@ -178,4 +178,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/xTom.txt) |
 
 ---
-*最後更新：2026-08-10 06:56 UTC*
+*最後更新：2026-08-10 07:12 UTC*
