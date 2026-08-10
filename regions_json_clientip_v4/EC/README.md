@@ -9,4 +9,4 @@
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EC/LIGHT%20NODE%20LIMITED.txt) |
 
 ---
-*最後更新：2026-08-10 16:57 UTC*
+*最後更新：2026-08-10 22:41 UTC*

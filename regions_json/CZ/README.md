@@ -20,4 +20,4 @@
 | vpsFree.cz, z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz%2C%20z.s.txt) |
 
 ---
-*最後更新：2026-08-10 16:57 UTC*
+*最後更新：2026-08-10 22:41 UTC*
