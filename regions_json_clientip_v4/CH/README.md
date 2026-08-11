@@ -26,4 +26,4 @@
 | Switzerland infrastructure | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Switzerland%20infrastructure.txt) |
 
 ---
-*最後更新：2026-08-11 10:56 UTC*
+*最後更新：2026-08-11 17:01 UTC*
