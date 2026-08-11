@@ -1,6 +1,6 @@
 # IT
 
-**共 25 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all_443.txt)
 
@@ -11,7 +11,6 @@
 | Aruba S.p.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Baxet%20Group%20Inc.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/G-Core%20Labs%20S.A.txt) |
-| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/HOSTKEY%20B.V.txt) |
 | IT Hostline Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Kamatera%20Inc.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Linode.txt) |
@@ -20,4 +19,4 @@
 | OVH Srl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/OVH%20Srl.txt) |
 
 ---
-*最後更新：2026-08-10 22:41 UTC*
+*最後更新：2026-08-11 04:57 UTC*

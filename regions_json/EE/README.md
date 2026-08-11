@@ -10,22 +10,23 @@
 | 3NT SOLUTIONS LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
 | Cogent Communications, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Cogent%20Communications%2C%20LLC.txt) |
-| ESTOXY OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ESTOXY%20OU.txt) |
+| ESTOXY OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ESTOXY%20OU.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HexCore%20cloud%20s.r.o.txt) |
 | Host-World OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Host-World%20OU.txt) |
 | IPv6 network for hosting services | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | Network for hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Network%20for%20hosting%20services.txt) |
-| QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/QWINS%20Hosting.txt) |
+| QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/QWINS%20Hosting.txt) |
 | RAKAR INVESTMENTS HOLDING B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V.txt) |
 | RJ Network OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/RJ%20Network%20OU.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SA.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SERV.HOST%20GROUP%20LTD.txt) |
+| TAKEHOST.BIZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/TAKEHOST.BIZ.txt) |
 | as56971 network | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/as56971%20network.txt) |
 | servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-08-10 22:41 UTC*
+*最後更新：2026-08-11 04:57 UTC*

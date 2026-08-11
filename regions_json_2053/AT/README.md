@@ -10,4 +10,4 @@
 | Alwyzon, a trading name of Hohl IT e.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 
 ---
-*最後更新：2026-08-10 22:41 UTC*
+*最後更新：2026-08-11 04:57 UTC*

@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 259 條** · [返回主頁](../../README.md)
+**共 258 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/_all.txt)
 
@@ -10,7 +10,7 @@
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/365.partners%20INC.txt) |
 | AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/AEZA%20GROUP%20LLC.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
-| Amsterdam, Netherlands | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Amsterdam%2C%20Netherlands.txt) |
+| Amsterdam, Netherlands | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Amsterdam%2C%20Netherlands.txt) |
 | BL Networks | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/BL%20Networks.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baykov%20Ilya%20Sergeevich.txt) |
@@ -50,4 +50,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-10 22:41 UTC*
+*最後更新：2026-08-11 04:57 UTC*
