@@ -14,4 +14,4 @@
 | UAB ESNET | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20ESNET.txt) |
 
 ---
-*最後更新：2026-08-11 04:57 UTC*
+*最後更新：2026-08-11 10:56 UTC*
