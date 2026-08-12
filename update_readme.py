@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-update_readme.py — 生成主 README.md 及各國家 README.md
+update_readme.py — 生成主 README.md、各目錄 README.md 及國家 README.md
 
-統一格式：
-- 主 README：每個分類用表格（國家 | 條目數 | 檔案連結），唔再一行塞晒
-- 國家 README：標題無 trailing space，表格排序
+結構：
+- 主 README：精簡（分類總覽表格 + 文件結構）
+- 目錄 README：每個分類目錄一個（國家列表 + 條數 + 檔案連結）
+- 國家 README：組織列表（組織 | 條目數 | Raw URL）
 """
 import os
 import json
@@ -39,24 +40,7 @@ def get_country_dirs(base_dir):
 
 
 def country_count(base_dir, country):
-    """該國家所有組織條目總數。"""
     return sum(STATS.get(base_dir, {}).get(country, {}).values())
-
-
-def make_country_table(base_dir, has_443=True):
-    """國家表格：| 國家 | 條目數 | all | 443(可選) |"""
-    countries = get_country_dirs(base_dir)
-    if not countries:
-        return "_（無數據）_"
-    rows = []
-    for c in countries:
-        count = country_count(base_dir, c)
-        all_url = f"{BASE_RAW}/{base_dir}/{c}/_all.txt"
-        links = f"[all]({all_url})"
-        if has_443:
-            links += f" · [443]({BASE_RAW}/{base_dir}/{c}/_all_443.txt)"
-        rows.append(f"| {c} | {count:,} | {links} |")
-    return "| 國家 | 條目數 | 檔案 |\n|------|--------|------|\n" + "\n".join(rows)
 
 
 def get_port_dirs():
@@ -70,6 +54,7 @@ def get_port_dirs():
 
 
 def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
+    """國家層 README：組織列表（組織 | 條目數 | Raw URL）"""
     if not os.path.exists(base_dir):
         return
     label = "（純 IP）" if is_ip_only else ""
@@ -109,44 +94,75 @@ def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
     print(f"{base_dir} country READMEs updated")
 
 
-def build_asn_table(base_dir):
+def write_category_readme(base_dir, title, is_ip_only=False, has_443=True, is_flat=False):
+    """目錄層 README：國家列表（國家 | 條目數 | 檔案連結）
+
+    is_flat=True：國家檔直接喺目錄（優選 ASN / 家庭寬帶）
+    is_flat=False：國家係子目錄（regions_json / port / clientip_v4）
+    """
     if not os.path.exists(base_dir):
-        return "_（無數據）_"
-    files = sorted(f for f in os.listdir(base_dir)
-                   if f.endswith(".txt") and f != "_all.txt")
-    rows = []
-    for fname in files:
-        country = fname[:-4]
-        count = STATS.get(base_dir, {}).get(country, 0)
-        raw_url = f"{BASE_RAW}/{base_dir}/{quote(fname)}"
-        rows.append(f"| {country} | {count:,} | [raw]({raw_url}) |")
-    return "| 國家 | 條目數 | Raw URL |\n|------|--------|---------|\n" + (
-        "\n".join(rows) if rows else "_（無數據）_")
+        return
+    label = "（純 IP）" if is_ip_only else ""
+    title_full = f"{title}{label}"
+
+    if is_flat:
+        files = sorted(f for f in os.listdir(base_dir)
+                       if f.endswith(".txt") and f != "_all.txt")
+        rows = []
+        for fname in files:
+            country = fname[:-4]
+            count = STATS.get(base_dir, {}).get(country, 0)
+            raw_url = f"{BASE_RAW}/{base_dir}/{quote(fname)}"
+            rows.append(f"| {country} | {count:,} | [raw]({raw_url}) |")
+        total = sum(STATS.get(base_dir, {}).values())
+        header = "| 國家 | 條目數 | Raw URL |\n|------|--------|---------|\n"
+        all_url = f"{BASE_RAW}/{base_dir}/_all.txt"
+        back = "../README.md"
+    else:
+        rows = []
+        for c in get_country_dirs(base_dir):
+            count = country_count(base_dir, c)
+            links = f"[列表]({BASE_BLOB}/{base_dir}/{c}/README.md)"
+            links += f" · [all]({BASE_RAW}/{base_dir}/{c}/_all.txt)"
+            if has_443:
+                links += f" · [443]({BASE_RAW}/{base_dir}/{c}/_all_443.txt)"
+            rows.append(f"| {c} | {count:,} | {links} |")
+        total = dir_total(base_dir)
+        header = "| 國家 | 條目數 | 檔案 |\n|------|--------|------|\n"
+        all_url = f"{BASE_RAW}/{base_dir}/_all.txt"
+        back = "../README.md"
+
+    table = "\n".join(rows) if rows else "_（無數據）_"
+
+    content = f"""# {title_full}
+
+**共 {total:,} 條** · [返回主頁]({back})
+
+📥 [整合全部]({all_url})
+
+{header}{table}
+
+---
+*最後更新：{updated}*
+"""
+    with open(f"{base_dir}/README.md", "w", encoding="utf-8", newline="\n") as f:
+        f.write(content)
+    print(f"{base_dir}/README.md updated")
 
 
 def write_main_readme():
     total_all = dir_total("regions_json")
     total_asn = dir_total("regions_json_preferred_asn")
-    total_asn_443 = dir_total("regions_json_preferred_asn_443")
-    total_v4 = dir_total("regions_json_clientip_v4")
     total_res = dir_total("regions_json_residential")
-    total_res_443 = dir_total("regions_json_residential_443")
+    total_v4 = dir_total("regions_json_clientip_v4")
 
-    table_all = make_country_table("regions_json", has_443=True)
-    table_v4 = make_country_table("regions_json_clientip_v4", has_443=True)
-    table_asn = build_asn_table("regions_json_preferred_asn")
-    table_asn_443 = build_asn_table("regions_json_preferred_asn_443")
-    table_res = build_asn_table("regions_json_residential")
-    table_res_443 = build_asn_table("regions_json_residential_443")
-
-    port_sections = []
+    port_rows = []
     for port, base_dir in get_port_dirs():
-        table = make_country_table(base_dir, has_443=False)
-        total = dir_total(base_dir)
-        port_sections.append(
-            f"### 🔒 Port {port}\n\n**共 {total:,} 條**\n\n{table}"
+        port_rows.append(
+            f"| 🔒 Port {port} 純 IP | {dir_total(base_dir):,} | "
+            f"[國家列表]({base_dir}/README.md) |"
         )
-    ports_block = "\n\n---\n\n".join(port_sections) if port_sections else "_（無數據）_"
+    ports_block = "\n".join(port_rows) if port_rows else "_（無數據）_"
 
     content = f"""# IP List by Region
 
@@ -158,12 +174,8 @@ def write_main_readme():
 
 ## 📋 目錄
 
-- [📁 全部 Port](#-全部-port)
-- [🔒 各 Port 純 IP](#-各-port-純-ip)
-- [⭐ 優選 ASN](#-優選-asn)
-- [🏠 家庭寬帶](#-家庭寬帶)
-- [🌐 ClientIP 為 IPv4](#-clientip-為-ipv4)
 - [📂 文件結構](#-文件結構)
+- [📁 分類總覽](#-分類總覽)
 
 ---
 
@@ -183,57 +195,15 @@ def write_main_readme():
 
 ---
 
-## 📁 全部 Port
+## 📁 分類總覽
 
-**共 {total_all:,} 條**
-
-{table_all}
-
----
-
-## 🔒 各 Port 純 IP
-
+| 分類 | 條數 | 明細 |
+|------|------|------|
+| 📁 全部 Port | {total_all:,} | [國家列表](regions_json/README.md) |
 {ports_block}
-
----
-
-## ⭐ 優選 ASN
-
-### 全部 Port（共 {total_asn:,} 條）
-
-📥 [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_preferred_asn/_all.txt)
-
-{table_asn}
-
-### 443 純 IP（共 {total_asn_443:,} 條）
-
-📥 [整合全部]({BASE_RAW}/regions_json_preferred_asn_443/_all.txt)
-
-{table_asn_443}
-
----
-
-## 🏠 家庭寬帶
-
-### 全部 Port（共 {total_res:,} 條）
-
-📥 [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_residential/_all.txt)
-
-{table_res}
-
-### 443 純 IP（共 {total_res_443:,} 條）
-
-📥 [整合全部]({BASE_RAW}/regions_json_residential_443/_all.txt)
-
-{table_res_443}
-
----
-
-## 🌐 ClientIP 為 IPv4
-
-**共 {total_v4:,} 條**
-
-{table_v4}
+| ⭐ 優選 ASN | {total_asn:,} | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_preferred_asn/_all.txt) |
+| 🏠 家庭寬帶 | {total_res:,} | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_residential/_all.txt) |
+| 🌐 ClientIP 為 IPv4 | {total_v4:,} | [國家列表](regions_json_clientip_v4/README.md) |
 
 ---
 *最後更新：{updated}*
@@ -243,7 +213,20 @@ def write_main_readme():
     print("README.md updated")
 
 
+# ── 主 README ──
 write_main_readme()
+
+# ── 目錄 README（分類總覽）──
+write_category_readme("regions_json", "全部 Port", is_ip_only=False, has_443=True, is_flat=False)
+for port, base_dir in get_port_dirs():
+    write_category_readme(base_dir, f"Port {port} 純 IP", is_ip_only=True, has_443=False, is_flat=False)
+write_category_readme("regions_json_clientip_v4", "ClientIP 為 IPv4", is_ip_only=False, has_443=True, is_flat=False)
+write_category_readme("regions_json_preferred_asn", "優選 ASN（全部 Port）", is_ip_only=False, has_443=False, is_flat=True)
+write_category_readme("regions_json_preferred_asn_443", "優選 ASN 443 純 IP", is_ip_only=True, has_443=False, is_flat=True)
+write_category_readme("regions_json_residential", "家庭寬帶（全部 Port）", is_ip_only=False, has_443=False, is_flat=True)
+write_category_readme("regions_json_residential_443", "家庭寬帶 443 純 IP", is_ip_only=True, has_443=False, is_flat=True)
+
+# ── 國家 README（組織列表）──
 write_country_readmes("regions_json", is_ip_only=False, has_443=True)
 for port, base_dir in get_port_dirs():
     write_country_readmes(base_dir, is_ip_only=True, has_443=False)
