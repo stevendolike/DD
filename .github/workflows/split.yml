@@ -30,10 +30,15 @@ jobs:
       - name: Download all.json (fallback chain)
         run: |
           dl() { curl -skL -m 60 -A "Mozilla/5.0" -o all_new.json "$1" && [ -s all_new.json ] && head -c 20 all_new.json | grep -q '"'; }
-          dl "https://zip.cm.edu.kg/all.json" && echo "✓ 官方源" \
-            || dl "https://[REDACTED]/zip.cm.edu.kg/all.json" && echo "✓ [REDACTED]" \
-            || dl "https://proxy-cm-json.[REDACTED]/all.json" && echo "✓ Cloudflare Worker" \
-            || echo "⚠️ 所有源失敗，用 cache（如有）"
+          if dl "https://zip.cm.edu.kg/all.json"; then
+            echo "✓ 官方源"
+          elif dl "https://[REDACTED]/zip.cm.edu.kg/all.json"; then
+            echo "✓ [REDACTED]"
+          elif dl "https://proxy-cm-json.[REDACTED]/all.json"; then
+            echo "✓ Cloudflare Worker"
+          else
+            echo "⚠️ 所有源失敗，用 cache（如有）"
+          fi
           head -c 100 all_new.json; echo
 
       - name: Validate and replace
