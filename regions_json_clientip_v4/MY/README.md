@@ -13,4 +13,4 @@
 | Microsoft Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MY/Microsoft%20Limited.txt) |
 
 ---
-*最後更新：2026-08-12 08:59 UTC*
+*最後更新：2026-08-12 10:23 UTC*
