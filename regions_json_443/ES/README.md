@@ -1,30 +1,35 @@
 # ES （純 IP）
 
-**共 113 條** · [返回主頁](../../README.md)
+**共 116 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ARSYS INTERNET S.L.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
-| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Baxet%20Group%20Inc.txt) |
+| ARSYS INTERNET S.L.U | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
+| Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/BlueVPS%20OU.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Cloudflare%20London%2C%20LLC.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| GTHost | 89 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| GTHost | 78 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Google%20LLC.txt) |
-| HUIZE LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HOSTKEY%20B.V.txt) |
+| HUIZE LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IONOS%20SE.txt) |
-| Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Linode%2C%20LLC.txt) |
-| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/MVPS%20LTD.txt) |
+| IT Hostline Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IT%20Hostline%20Ltd.txt) |
+| Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Kamatera%20Inc.txt) |
+| Linode, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Linode%2C%20LLC.txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/OVH%20Hispano.txt) |
 | Orange Spain Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Orange%20Spain%20Network.txt) |
+| Raiola Networks IPv4 static | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Raiola%20Networks%20IPv4%20static.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Snowd%20Security%20OU.txt) |
-| The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/UpCloud%20Cloud%20Servers.txt) |
 | arsys.es | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.es.txt) |
+| arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.pt.txt) |
 | oneprovider.com - Barcelona Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/oneprovider.com%20-%20Barcelona%20Infrastructure.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-11 22:47 UTC*
+*最後更新：2026-08-12 05:23 UTC*

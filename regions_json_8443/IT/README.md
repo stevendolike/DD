@@ -1,13 +1,14 @@
 # IT （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/Baxet%20Group%20Inc.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/HOSTKEY%20B.V.txt) |
+| Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/Kamatera%20Inc.txt) |
 
 ---
-*最後更新：2026-08-11 22:47 UTC*
+*最後更新：2026-08-12 05:23 UTC*

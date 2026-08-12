@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/BEAFORT%20LIMITED.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/LIGHT%20NODE%20LIMITED.txt) |
-| Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/Oracle%20Svenska%20AB.txt) |
 | The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-11 22:47 UTC*
+*最後更新：2026-08-12 05:23 UTC*

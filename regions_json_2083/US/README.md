@@ -1,21 +1,28 @@
 # US （純 IP）
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| 365 Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/365%20Group.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Baxet%20Group%20Inc.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cloudflare%20London%2C%20LLC.txt) |
 | DigitalOcean, LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/DigitalOcean%2C%20LLC.txt) |
-| HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/HostPapa.txt) |
+| Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hetzner%20Online%20GmbH.txt) |
+| HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/HostPapa.txt) |
 | Hostsymbol Pte. Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hostsymbol%20Pte.%20Ltd.txt) |
-| Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hurricane%20Electric%20LLC.txt) |
+| Hurricane Electric LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hurricane%20Electric%20LLC.txt) |
+| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/LIGHT%20NODE%20LIMITED.txt) |
 | LeaseWeb USA, Inc. Los Angeles | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/LeaseWeb%20USA%2C%20Inc.%20Los%20Angeles.txt) |
 | Leaseweb USA, Inc | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Leaseweb%20USA%2C%20Inc.txt) |
+| Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Linode.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/NetCrafters%20OU.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Oracle%20Corporation.txt) |
+| RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/RackNerd%20LLC.txt) |
+| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/as56971%20network.txt) |
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-11 22:47 UTC*
+*最後更新：2026-08-12 05:23 UTC*

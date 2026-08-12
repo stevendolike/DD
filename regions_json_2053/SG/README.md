@@ -1,11 +1,12 @@
 # SG （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/3NT%20SOLUTIONS%20LLP.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Alibaba%20Cloud%20LLC.txt) |
 | Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Contabo%20Asia%20Private%20Limited.txt) |
@@ -14,4 +15,4 @@
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/SPEEDYPAGE-LTD.txt) |
 
 ---
-*最後更新：2026-08-11 22:47 UTC*
+*最後更新：2026-08-12 05:23 UTC*
