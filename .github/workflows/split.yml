@@ -20,10 +20,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download all.json
+      - name: Restore all.json cache
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: all_new.json
+          key: alljson-cache-v1
+
+      - name: Download all.json (fallback chain)
         run: |
-          curl -A "Mozilla/5.0" -o all_new.json "https://[REDACTED]/zip.cm.edu.kg/all.json"
-          head -c 100 all_new.json
+          dl() { curl -skL -m 60 -A "Mozilla/5.0" -o all_new.json "$1" && [ -s all_new.json ] && head -c 20 all_new.json | grep -q '"'; }
+          dl "https://zip.cm.edu.kg/all.json" && echo "✓ 官方源" \
+            || dl "https://[REDACTED]/zip.cm.edu.kg/all.json" && echo "✓ [REDACTED]" \
+            || dl "https://REPLACE_WITH_YOUR_WORKER.workers.dev/all.json" && echo "✓ Cloudflare Worker" \
+            || echo "⚠️ 所有源失敗，用 cache（如有）"
+          head -c 100 all_new.json; echo
 
       - name: Validate and replace
         run: python3 validate.py
