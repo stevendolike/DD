@@ -48,6 +48,8 @@ RESIDENTIAL_KEYWORDS = [
     "HKT", "NETVIGATOR", "PCCW", "HKBN", "CHUNGHWA",
     # 日本
     "NTT", "IIJ",
+    # BBIX：IX 名但數據入面嘅 IP 實為 SoftBank 光纖家寬（AS17676，126.x 網段）
+    "BBIX",
     # 歐洲
     "TELIA", "TELENET", "PROXIMUS", "UPC", "LIBERTY GLOBAL",
     # 東南亞
@@ -65,14 +67,17 @@ RESIDENTIAL_KEYWORDS = [
     "SOFTBANK",
     "OCN", "BIGLOBE", "ASAHI-NET", "SONY NETWORK", "NIFTY",
     # 韓國
-    "KORNET", "SK TELECOM", "LG U+",
+    "KORNET", "SK TELECOM", "LG U+", "KOREA TELECOM",   # Korea Telecom = KT（AS4766 家寬）
     # 台灣
     "HINET",
     # 英國
     "VIRGIN MEDIA", "TALKTALK", "SKY UK", "EE LIMITED",
+    "BT-",              # 英國 BT（組織名 BT-R101-TEST 等，BT- 開頭）
+    "COMMUNITY FIBRE",  # 英國光纖家寬（數據未有，等將來）
     # 德國 / 歐洲
     "DEUTSCHE TELEKOM", "VODAFONE", "TELEFONICA", "O2 GERMANY",
     "SWISSCOM", "TELENOR", "KPN",
+    "TELE COLUMBUS",    # 德國有線家寬（PYUR 品牌）
     # 法國
     "ORANGE", "SFR", "BOUYGUES", "FREE SAS", "FREE MOBILE",
     # 意大利
