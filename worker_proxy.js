@@ -1,19 +1,19 @@
 // worker_proxy.js — Cloudflare Worker：代理 zip.cm.edu.kg/all.json
 // ============================================================
 // 格式：Service Worker 格式（addEventListener）— dashboard 舊版/新版都支援
-// 用途：GitHub Actions 連唔到 zip.cm.edu.kg 官方源時，經呢個 Worker 攞數據
-// 部署後網址: https://<你的子域>.workers.dev/all.json
+// 用途：GitHub Actions 唯一數據源（zip.cm.edu.kg 喺 Actions 環境 403）
+// 安全：X-Auth-Token header 驗證 — 冇正確 token 一律 403
+//       部署後網址: https://proxy-cm-json.[REDACTED]/all.json
+//
+// ⚠️ 部署前必改：將下方 TOKEN 換成你自己嘅秘密字串（例如 32 位隨機）
+//    然後喺 GitHub repo Settings → Secrets → Actions 加 PROXY_TOKEN（同一值）
 //
 // 部署方法（dashboard）:
-//   1. dashboard.cloudflare.com → Workers & Pages → Create → Worker
-//   2. 改名（例如 dd-proxy）→ Deploy
-//   3. Edit code → 刪晒預設代碼，貼上呢段 → Deploy
-// 或者 (wrangler CLI):
-//   npm i -g wrangler && wrangler login
-//   wrangler deploy worker_proxy.js --name dd-proxy
-//
-// 部署完將網址填入 .github/workflows/split.yml 嘅 fallback 鏈
+//   1. dashboard.cloudflare.com → Workers & Pages → 揀 proxy-cm-json → Edit code
+//   2. 改 TOKEN 值 → 貼上呢段 → Deploy
 // ============================================================
+
+const TOKEN = "CHANGE_ME_TO_A_LONG_RANDOM_STRING";
 
 addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
@@ -21,6 +21,12 @@ addEventListener("fetch", (event) => {
   // 只代理 all.json，其他路徑一律 404
   if (url.pathname !== "/all.json") {
     event.respondWith(new Response("Not Found", { status: 404 }));
+    return;
+  }
+
+  // Token 驗證：冇正確 token 一律 403
+  if (event.request.headers.get("X-Auth-Token") !== TOKEN) {
+    event.respondWith(new Response("Forbidden", { status: 403 }));
     return;
   }
 
