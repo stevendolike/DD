@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Webhost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IL/Webhost%20LLC.txt) |
+| Partner Communications Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IL/Partner%20Communications%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-12 05:58 UTC*
+*最後更新：2026-08-12 06:08 UTC*

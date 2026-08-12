@@ -1,12 +1,17 @@
 # FI （純 IP）
 
-**共 1 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Hetzner%20Online%20GmbH.txt) |
+| FlokiNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/FlokiNET.txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/HOSTKEY%20B.V.txt) |
+| Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Hetzner%20Online%20GmbH.txt) |
+| SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/SERV.HOST%20GROUP%20LTD.txt) |
+| Senko Digital LLC - FI Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
+| Xorek.Cloud Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Xorek.Cloud%20Helsinki.txt) |
 
 ---
-*最後更新：2026-08-12 05:58 UTC*
+*最後更新：2026-08-12 06:08 UTC*

@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| DigitalOcean_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/SG/DigitalOcean_%20LLC.txt) |
+| DigitalOcean, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/SG/DigitalOcean%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-12 05:58 UTC*
+*最後更新：2026-08-12 06:08 UTC*

@@ -1,13 +1,20 @@
 # JP （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Cloudflare%20London_%20LLC.txt) |
+| AkileCloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/AkileCloud%20LLC.txt) |
+| Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Amazon.com%2C%20Inc.txt) |
+| BACK WAVES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/BACK%20WAVES%20LIMITED.txt) |
+| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Cloudflare%20London%2C%20LLC.txt) |
+| HostHatch Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/HostHatch%20Tokyo.txt) |
 | Leaseweb Japan K.K | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Leaseweb%20Japan%20K.K.txt) |
+| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Oracle%20Corporation.txt) |
+| Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/Oracle%20Public%20Cloud.txt) |
+| ZOUTER TOKYO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/JP/ZOUTER%20TOKYO.txt) |
 
 ---
-*最後更新：2026-08-12 05:58 UTC*
+*最後更新：2026-08-12 06:08 UTC*

@@ -1,31 +1,42 @@
 # FI （純 IP）
 
-**共 47 條** · [返回主頁](../../README.md)
+**共 108 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/BG-NETWORK.txt) |
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baxet%20Group%20Inc.txt) |
-| CGI GLOBAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/CGI%20GLOBAL%20LIMITED.txt) |
-| FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER_ SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baxet%20Group%20Inc.txt) |
+| Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baykov%20Ilya%20Sergeevich.txt) |
+| CHSL Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/CHSL%20Helsinki.txt) |
+| DGTL TECH UK LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/DGTL%20TECH%20UK%20LLP.txt) |
+| FIRST SERVER LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FIRST%20SERVER%20LIMITED.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FlokiNET | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FlokiNET.txt) |
 | H2NEXUS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/H2NEXUS%20LTD.txt) |
-| Hetzner Online GmbH | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Hetzner%20Online%20GmbH.txt) |
-| IP MARKET - FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/IP%20MARKET%20-%20FZCO.txt) |
-| Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/NetCrafters%20OU.txt) |
-| PSERVERS Enterprise Network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/PSERVERS%20Enterprise%20Network.txt) |
-| SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/SERV.HOST%20GROUP%20LTD.txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/HOSTKEY%20B.V.txt) |
+| Hetzner Online GmbH | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Hetzner%20Online%20GmbH.txt) |
+| I-SERVERS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/I-SERVERS%20LTD.txt) |
+| IP MARKET - FZCO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/IP%20MARKET%20-%20FZCO.txt) |
+| Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/NetCrafters%20OU.txt) |
+| New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/New%20Hosting%20Technologies%20LLC.txt) |
+| PSERVERS Enterprise Network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/PSERVERS%20Enterprise%20Network.txt) |
+| QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/QWINS%20Hosting.txt) |
+| SERV.HOST GROUP LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/SERV.HOST%20GROUP%20LTD.txt) |
 | Senko Digital LLC - FI Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
-| Snowd Security OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Snowd%20Security%20OU.txt) |
+| TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/TA%20Consulting%20%26%20Services%20UG.txt) |
 | WAIcore Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/WAIcore%20Ltd.txt) |
 | WorkTitans B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/WorkTitans%20B.V.txt) |
-| Xorek.Cloud Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Xorek.Cloud%20Helsinki.txt) |
-| u1host Finland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/u1host%20Finland.txt) |
+| Xorek.Cloud Helsinki | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Xorek.Cloud%20Helsinki.txt) |
+| as56971 network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/as56971%20network.txt) |
+| jogcorp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/jogcorp.txt) |
+| nuxt.cloud hosting provider | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/nuxt.cloud%20hosting%20provider.txt) |
+| u1host Finland | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-08-12 05:58 UTC*
+*最後更新：2026-08-12 06:08 UTC*

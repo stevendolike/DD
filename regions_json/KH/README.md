@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Cogent Communications_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KH/Cogent%20Communications_%20LLC.txt) |
+| Cogent Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KH/Cogent%20Communications%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-12 05:58 UTC*
+*最後更新：2026-08-12 06:08 UTC*
