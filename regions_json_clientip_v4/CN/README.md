@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/ACEVILLE%20PTE.LTD.txt) |
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Aliyun%20Computing%20Co.LTD.txt) |
-| China Mobile Communications Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/China%20Mobile%20Communications%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-12 05:23 UTC*
+*最後更新：2026-08-12 05:58 UTC*

@@ -26,6 +26,21 @@ RESIDENTIAL_KEYWORDS = [
     "OPTIMUM", "ALTICE",
     "CONSOLIDATED COMMUNICATIONS",
     "TDS TELECOM",
+    "WYYERD",
+    "COGECO",           # 加拿大 Cogeco（家寬）
+    "FIBERPOWER",       # 美國 FiberPower（光纖 ISP）
+    "FIBERXPRESS",      # 荷蘭 FiberXpress（光纖家寬）
+    "M-NET",            # 德國 M-net（慕尼黑家寬）
+    "SUPERONLINE",      # 土耳其 Superonline（家寬）
+    "ZIGGO",            # 荷蘭 Ziggo（家寬）
+    "TELEMACH",         # 斯洛文尼亞 Telemach（家寬）
+    "ROSTELECOM",       # 俄羅斯 Rostelecom（國營電訊）
+    "KAZTELECOM",       # 哈薩克 Kazakhtelecom（國營電訊）
+    "NOVOTELEKOM",      # 俄羅斯 Novotelecom（家寬）
+    "SK BROADBAND",     # 韓國 SK Broadband（家寬）
+    "SO-NET",           # 日本 So-net（家寬）
+    # 家寬 pool 特徵：組織名係「客戶池」名（唔含 ISP 名）
+    "XDSL", "FTTX", "ADSL", "BROADBAND",
     # 中國（省級骨幹 = 家寬線路；排除 IDC 由 EXCLUDE 處理）
     "CHINANET-", "CHINA169-", "CMNET-", "CHINATELECOM-",
     # 日本
@@ -56,6 +71,7 @@ RESIDENTIAL_KEYWORDS = [
 EXCLUDE_KEYWORDS = [
     "IDC", "CLOUD", "HOSTING", "VPS", "SERVER", "COLO", "DEDICATED", "DATACENTER", "DATA CENTER",
     "TRUSTEE",  # 信託公司（如 KEY STONE CORPORATE TRUSTEE），避免 EE LIMITED 誤中
+    "WEBHORIZON",  # 新加坡 VPS 商（個名有 IT Broadband，但係 hosting）
 ]
 
 

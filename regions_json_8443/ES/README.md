@@ -1,22 +1,16 @@
 # ES （純 IP）
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ARSYS INTERNET S.L.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HOSTKEY%20B.V.txt) |
-| HUIZE LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HUIZE%20LTD.txt) |
+| Cloudflare London_ LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/Cloudflare%20London_%20LLC.txt) |
+| FIRST SERVER_ SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/FIRST%20SERVER_%20SOCIEDAD%20LIMITADA.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/IONOS%20SE.txt) |
-| JaJoJoo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20Madrid%20Region.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
-| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/The%20Constant%20Company%2C%20LLC.txt) |
-| Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/Vultr%20Holdings%2C%20LLC.txt) |
-| servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/servinga%20GmbH.txt) |
+| O.M.C. COMPUTERS _ COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/O.M.C.%20COMPUTERS%20_%20COMMUNICATIONS%20LTD.txt) |
 
 ---
-*最後更新：2026-08-12 05:23 UTC*
+*最後更新：2026-08-12 05:58 UTC*
