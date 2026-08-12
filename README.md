@@ -45,4 +45,4 @@
 | 🌐 ClientIP 為 IPv4 | 6,454 | [國家列表](regions_json_clientip_v4/README.md) |
 
 ---
-*最後更新：2026-08-12 17:00 UTC*
+*最後更新：2026-08-12 22:45 UTC*
