@@ -51,8 +51,8 @@
 | OVH SINGAPOR DC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/OVH%20SINGAPOR%20DC.txt) |
 | OVH Singapore PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/OVH%20Singapore%20PTE.%20LTD.txt) |
 | Oracle Corporation | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Corporation.txt) |
+| PRIVATE CUSTOMER | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/PRIVATE%20CUSTOMER.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Prinode%20AB.txt) |
-| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Private%20Customer.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SG.GS.txt) |
 | SPEEDYPAGE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SPEEDYPAGE%20LTD.txt) |
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SPEEDYPAGE-LTD.txt) |
@@ -67,4 +67,4 @@
 | xTom Pty Ltd | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-12 07:37 UTC*
+*最後更新：2026-08-12 08:29 UTC*
