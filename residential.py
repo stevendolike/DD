@@ -41,6 +41,23 @@ RESIDENTIAL_KEYWORDS = [
     "SO-NET",           # 日本 So-net（家寬）
     # 家寬 pool 特徵：組織名係「客戶池」名（唔含 ISP 名）
     "XDSL", "FTTX", "ADSL", "BROADBAND",
+    # 通用標記：任何 ISP 嘅住宅/大眾產品線
+    "MASS INTERNET", "RESIDENTIAL",
+    # ── 混合型電訊商（家用+商用同一品牌，家用為主體）──
+    # 香港 / 台灣
+    "HKT", "NETVIGATOR", "PCCW", "HKBN", "CHUNGHWA",
+    # 日本
+    "NTT", "IIJ",
+    # 歐洲
+    "TELIA", "TELENET", "PROXIMUS", "UPC", "LIBERTY GLOBAL",
+    # 東南亞
+    "AIS", "TRUE", "VNPT", "VIETTEL", "PLDT", "GLOBE TELECOM", "GLOBE MOBILE", "TELKOM", "INDOSAT",
+    # 南亞
+    "AIRTEL", "JIO", "BSNL",
+    # 中東
+    "ETISALAT", "OREDOO", "STC", "ZAIN",
+    # 拉丁美洲
+    "TELMEX", "CLARO", "VIVO", "ENTEL", "MOVISTAR",
     # 中國（省級骨幹 = 家寬線路；排除 IDC 由 EXCLUDE 處理）
     "CHINANET-", "CHINA169-", "CMNET-", "CHINATELECOM-",
     # 日本
@@ -72,6 +89,8 @@ EXCLUDE_KEYWORDS = [
     "IDC", "CLOUD", "HOSTING", "VPS", "SERVER", "COLO", "DEDICATED", "DATACENTER", "DATA CENTER",
     "TRUSTEE",  # 信託公司（如 KEY STONE CORPORATE TRUSTEE），避免 EE LIMITED 誤中
     "WEBHORIZON",  # 新加坡 VPS 商（個名有 IT Broadband，但係 hosting）
+    # 教育機構（如 Universitaet Kaiserslautern 會誤中 AIS 等短關鍵字）
+    "UNIVERSIT", "COLLEGE", "SCHOOL", "ACADEMY", "UNIVERSITY",
 ]
 
 

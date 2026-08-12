@@ -466,7 +466,7 @@
 
 ## 🏠 家庭寬帶
 
-### 全部 Port（共 52 條）
+### 全部 Port（共 68 條）
 
 📥 [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -475,23 +475,25 @@
 | AU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/AU.txt) |
 | CA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
+| CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
 | DE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/ES.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
 | GB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
-| HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
+| HK | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | JP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
+| NO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NO.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RO.txt) |
 | RU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RU.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
-| US | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| TW | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
+| US | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
-### 443 純 IP（共 32 條）
+### 443 純 IP（共 43 條）
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/_all.txt)
 
@@ -501,15 +503,15 @@
 | DE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/DE.txt) |
 | ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/ES.txt) |
 | FR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/FR.txt) |
-| HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/HK.txt) |
+| HK | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/HK.txt) |
 | JP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/JP.txt) |
 | KR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/KR.txt) |
 | NL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/NL.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RO.txt) |
 | RU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RU.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TH.txt) |
-| TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
-| US | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
+| TW | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
+| US | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
 
 ---
 
@@ -592,4 +594,4 @@
 | ZA | 5 | [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-08-12 06:08 UTC*
+*最後更新：2026-08-12 06:25 UTC*
