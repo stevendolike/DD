@@ -24,4 +24,4 @@
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SEBEK%20sp.%20z%20o.o.txt) |
 
 ---
-*最後更新：2026-08-12 10:54 UTC*
+*最後更新：2026-08-12 11:03 UTC*

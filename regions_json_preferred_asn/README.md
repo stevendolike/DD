@@ -12,4 +12,4 @@
 | US | 328 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
 
 ---
-*最後更新：2026-08-12 10:54 UTC*
+*最後更新：2026-08-12 11:03 UTC*
