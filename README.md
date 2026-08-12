@@ -40,9 +40,9 @@
 | 🔒 Port 2087 純 IP | 591 | [國家列表](regions_json_2087/README.md) |
 | 🔒 Port 2096 純 IP | 541 | [國家列表](regions_json_2096/README.md) |
 | 🔒 Port 8443 純 IP | 4,254 | [國家列表](regions_json_8443/README.md) |
-| ⭐ 優選 ASN | 451 | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt) |
+| ⭐ 優選 ASN | 585 | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt) |
 | 🏠 家庭寬帶 | 74 | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt) |
 | 🌐 ClientIP 為 IPv4 | 6,454 | [國家列表](regions_json_clientip_v4/README.md) |
 
 ---
-*最後更新：2026-08-12 11:03 UTC*
+*最後更新：2026-08-12 11:16 UTC*

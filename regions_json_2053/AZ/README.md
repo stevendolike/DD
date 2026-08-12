@@ -9,4 +9,4 @@
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AZ/G-Core%20Labs%20Customer%20assignment.txt) |
 
 ---
-*最後更新：2026-08-12 11:03 UTC*
+*最後更新：2026-08-12 11:16 UTC*
