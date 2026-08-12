@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 2,417 條** · [返回主頁](../../README.md)
+**共 2,414 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/_all.txt)
 
@@ -34,7 +34,7 @@
 | Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/Cloudflare%20London%2C%20LLC.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/Cluster%20Logic%20Inc.txt) |
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/Costel%20Savulescu.txt) |
-| CrownCloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/CrownCloud.txt) |
+| Crowncloud | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/Crowncloud.txt) |
 | Customer Allocation 00000856 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/Customer%20Allocation%2000000856.txt) |
 | Customer IP range | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/Customer%20IP%20range.txt) |
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/Datacamp%20Limited.txt) |
@@ -223,4 +223,4 @@
 | xTom GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-12 10:23 UTC*
+*最後更新：2026-08-12 10:44 UTC*

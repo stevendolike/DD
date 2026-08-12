@@ -163,6 +163,23 @@ def write_main_readme():
 - [⭐ 優選 ASN](#-優選-asn)
 - [🏠 家庭寬帶](#-家庭寬帶)
 - [🌐 ClientIP 為 IPv4](#-clientip-為-ipv4)
+- [📂 文件結構](#-文件結構)
+
+---
+
+## 📂 文件結構
+
+| 檔案 | 用途 |
+|------|------|
+| `split_json.py` | 主程式：all.json → 按國家/組織/port 拆分（Actions 自動跑） |
+| `update_readme.py` | 生成 README（Actions 自動跑） |
+| `validate.py` | 驗證下載嘅 all_new.json 有效性（Actions 自動跑） |
+| `asns.py` | **優選 ASN 清單**（中國優化線路，想調整改呢個） |
+| `residential.py` | **家庭寬帶 ISP 關鍵字**（想調整改呢個） |
+| `reclassify_asn.py` | 工具：數據源失效時用 RIPEstat 重建優選 ASN |
+| `classify_residential.py` | 工具：重新生成家庭寬帶分類 |
+| `reformat.py` | 工具：一次性重整全庫格式（檔名/排序/LF） |
+| `worker_proxy.js` | Cloudflare Worker：all.json 代理（GitHub Actions 唯一數據源） |
 
 ---
 

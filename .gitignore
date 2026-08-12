@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# 本地備份
+*.bundle
+
+# 暫存/測試檔
+*_test.json
+px_test.json
