@@ -2,18 +2,25 @@
 // ============================================================
 // 格式：Service Worker 格式（addEventListener）— dashboard 舊版/新版都支援
 // 用途：GitHub Actions 唯一數據源（zip.cm.edu.kg 喺 Actions 環境 403）
-// 安全：X-Auth-Token header 驗證 — 冇正確 token 一律 403
-//       部署後網址: https://proxy-cm-json.[REDACTED]/all.json
+// 安全：X-Auth-Token header 驗證（token 喺環境變量，唔寫死喺代碼）
+// 部署後網址: https://proxy-cm-json.[REDACTED]/all.json
 //
-// ⚠️ 部署前必改：將下方 TOKEN 換成你自己嘅秘密字串（例如 32 位隨機）
-//    然後喺 GitHub repo Settings → Secrets → Actions 加 PROXY_TOKEN（同一值）
+// ⚠️ 設定（重要）：
+//   Cloudflare dashboard → Workers → proxy-cm-json →
+//   Settings → Variables → Add variable:
+//     Variable name:  TOKEN
+//     Value:          <你自己嘅秘密字串，例如 32 位隨機>
+//   之後再 Edit code 貼呢段代碼 → Deploy
 //
-// 部署方法（dashboard）:
-//   1. dashboard.cloudflare.com → Workers & Pages → 揀 proxy-cm-json → Edit code
-//   2. 改 TOKEN 值 → 貼上呢段 → Deploy
+//   GitHub repo → Settings → Secrets and variables → Actions →
+//   New repository secret:
+//     Name:  PROXY_TOKEN
+//     Value: <同一字串>
+//
+// 冇設定 TOKEN 環境變量 → 一律 403（fail closed，安全）
 // ============================================================
 
-const TOKEN = "CHANGE_ME_TO_A_LONG_RANDOM_STRING";
+const EXPECTED_TOKEN = typeof TOKEN !== "undefined" ? TOKEN : "";
 
 addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
@@ -24,8 +31,8 @@ addEventListener("fetch", (event) => {
     return;
   }
 
-  // Token 驗證：冇正確 token 一律 403
-  if (event.request.headers.get("X-Auth-Token") !== TOKEN) {
+  // Token 驗證：冇設定 token 或冇帶正確 token → 403
+  if (!EXPECTED_TOKEN || event.request.headers.get("X-Auth-Token") !== EXPECTED_TOKEN) {
     event.respondWith(new Response("Forbidden", { status: 403 }));
     return;
   }
