@@ -201,8 +201,8 @@ def write_main_readme():
 |------|------|------|
 | 📁 全部 Port | {total_all:,} | [國家列表](regions_json/README.md) |
 {ports_block}
-| ⭐ 優選 ASN | {total_asn:,} | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_preferred_asn/_all.txt) |
-| 🏠 家庭寬帶 | {total_res:,} | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_residential/_all.txt) |
+| ⭐ 優選 ASN | {total_asn:,} | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_preferred_asn/_all.txt) · [443 目錄](regions_json_preferred_asn_443/README.md) |
+| 🏠 家庭寬帶 | {total_res:,} | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_residential/_all.txt) · [443 目錄](regions_json_residential_443/README.md) |
 | 🌐 ClientIP 為 IPv4 | {total_v4:,} | [國家列表](regions_json_clientip_v4/README.md) |
 
 ---
