@@ -1,6 +1,14 @@
 // Cloudflare Worker：代理 all.json（GitHub Actions 數據源）
-// 需設定 TOKEN 環境變量（冇設定一律 403）
+// ============================================================
+// 設定步驟：
+//   1. Cloudflare Dashboard → Workers → 你嘅 Worker → Settings → Variables
+//      → 加 TOKEN = <隨機秘密字串>（冇設定一律 403，fail closed）
+//   2. Edit code → 刪晒預設代碼 → 貼呢段 → Deploy
+//   3. GitHub repo → Settings → Secrets and variables → Actions
+//      → Secret:   PROXY_TOKEN = <同一字串>
+//      → Variable: PROXY_URL  = https://<你嘅worker>.workers.dev/all.json
 // 使用：GET /all.json + header "X-Auth-Token: <TOKEN>"
+// ============================================================
 
 const EXPECTED_TOKEN = typeof TOKEN !== "undefined" ? TOKEN : "";
 
