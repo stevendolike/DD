@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 1,213 條** · [返回主頁](../../README.md)
+**共 1,212 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/_all.txt)
 
@@ -157,11 +157,11 @@
 | ZMTO Technologies OÜ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/ZMTO%20Technologies%20O%C3%9C.txt) |
 | ZOUTER SLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/ZOUTER%20SLC.txt) |
 | Zont LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Zont%20LLC.txt) |
-| _ WWW.RARECLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/_%20WWW.RARECLOUD.IO%20_.txt) |
+| _ WWW.RARECLOUD.IO _ | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/_%20WWW.RARECLOUD.IO%20_.txt) |
 | as56971 network | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/as56971%20network.txt) |
 | netcup GmbH | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/netcup%20GmbH.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 | xTom | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/xTom.txt) |
 
 ---
-*最後更新：2026-08-12 22:45 UTC*
+*最後更新：2026-08-13 02:53 UTC*
