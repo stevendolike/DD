@@ -67,4 +67,4 @@
 | xTom Pty Ltd | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-13 03:13 UTC*
+*最後更新：2026-08-13 03:44 UTC*

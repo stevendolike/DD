@@ -36,4 +36,4 @@
 | hostigger_datacenter_TR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-13 03:13 UTC*
+*最後更新：2026-08-13 03:44 UTC*

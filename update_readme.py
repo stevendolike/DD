@@ -206,6 +206,14 @@ def write_main_readme():
 | 🌐 ClientIP 為 IPv4 | {total_v4:,} | [國家列表](regions_json_clientip_v4/README.md) |
 
 ---
+
+## 🍴 Fork 後自動同步
+
+Fork 之後 repo 內置 [Upstream Sync](.github/workflows/upstream-sync.yml)：每日 00:00 自動同步上游改動（或者 Actions → Upstream Sync → Run workflow 手動同步）。
+
+如果 GitHub 因 workflow 變更暫停自動更新，手動 Run 一次即可。
+
+---
 *最後更新：{updated}*
 """
     with open("README.md", "w", encoding="utf-8", newline="\n") as f:
