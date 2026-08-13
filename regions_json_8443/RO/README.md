@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_all.txt)
 
@@ -11,9 +11,9 @@
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/IROKO%20Networks%20Corporation.txt) |
 | M247 Europe SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/M247%20Europe%20SRL.txt) |
 | STYLISH BY A&L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/STYLISH%20BY%20A%26L%20SRL.txt) |
+| WWW.RAREACLOUD.IO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/WWW.RAREACLOUD.IO.txt) |
 | ZERGRUSH SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/ZERGRUSH%20SRL.txt) |
 | ZetServers RO | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/ZetServers%20RO.txt) |
-| _ WWW.RAREACLOUD.IO _ | 0 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_%20WWW.RAREACLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-08-13 02:53 UTC*
+*最後更新：2026-08-13 02:56 UTC*
