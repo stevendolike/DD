@@ -53,4 +53,4 @@ Fork 之後 repo 內置 [Upstream Sync](.github/workflows/upstream-sync.yml)：�
 如果 GitHub 因 workflow 變更暫停自動更新，手動 Run 一次即可。
 
 ---
-*最後更新：2026-08-14 15:25 UTC*
+*最後更新：2026-08-14 15:33 UTC*
