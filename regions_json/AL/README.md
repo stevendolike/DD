@@ -14,4 +14,4 @@
 | oneprovider.com - Tirana infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AL/oneprovider.com%20-%20Tirana%20infrastructure.txt) |
 
 ---
-*最後更新：2026-08-14 16:58 UTC*
+*最後更新：2026-08-14 22:27 UTC*
