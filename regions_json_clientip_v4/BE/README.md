@@ -11,4 +11,4 @@
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BE/HZ%20Hosting%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-14 15:33 UTC*
+*最後更新：2026-08-14 16:58 UTC*
