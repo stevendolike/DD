@@ -55,7 +55,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          cp all_new.json all.json
           git add all.json
           for dir in regions_json regions_json_*/; do
             [ -d "$dir" ] && git add "$dir"

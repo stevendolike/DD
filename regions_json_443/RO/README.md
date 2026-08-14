@@ -8,11 +8,11 @@
 |------|--------|---------|
 | ALEXHOST S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ALEXHOST%20S.R.L.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/Baxet%20Group%20Inc.txt) |
-| DOTRO TELECOM SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DOTRO%20TELECOM%20SRL.txt) |
+| DOTRO TELECOM SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DOTRO%20TELECOM%20SRL.txt) |
 | DataNode DC SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DataNode%20DC%20SRL.txt) |
 | Eclipse ADSL Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/Eclipse%20ADSL%20Customer.txt) |
 | FlokiNET ehf | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/FlokiNET%20ehf.txt) |
-| GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/GREEN%20FLOID%20LLC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/IROKO%20Networks%20Corporation.txt) |
 | LifeinCloud LTD, | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/LifeinCloud%20LTD%2C.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/NetGrid%20Host%20LTD.txt) |
@@ -25,4 +25,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-13 03:44 UTC*
+*最後更新：2026-08-14 15:25 UTC*

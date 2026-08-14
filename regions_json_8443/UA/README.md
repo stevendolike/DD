@@ -6,10 +6,10 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/GREEN%20FLOID%20LLC.txt) |
+| GMHOST datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/GMHOST%20datacenter.txt) |
 | Hostiko | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/Hostiko.txt) |
 | Hosting Ukraine LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/Hosting%20Ukraine%20LTD.txt) |
 | Virtual Systems LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/Virtual%20Systems%20LLC.txt) |
 
 ---
-*最後更新：2026-08-13 03:44 UTC*
+*最後更新：2026-08-14 15:25 UTC*

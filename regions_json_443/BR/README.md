@@ -7,9 +7,10 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BR/3NT%20SOLUTIONS%20LLP.txt) |
-| ACE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BR/ACE.txt) |
+| ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BR/ACE.txt) |
+| ATPlus Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BR/ATPlus%20Telecom.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BR/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-13 03:44 UTC*
+*最後更新：2026-08-14 15:25 UTC*

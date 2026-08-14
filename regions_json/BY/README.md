@@ -1,6 +1,6 @@
 # BY
 
-**共 15 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/_all_443.txt)
 
@@ -8,13 +8,10 @@
 |------|--------|---------|
 | Abonent MGTS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Abonent%20MGTS.txt) |
 | Besthost.by network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Besthost.by%20network.txt) |
-| GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | LLC Raccoon technology | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/LLC%20Raccoon%20technology.txt) |
-| LLC Supportby | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/LLC%20Supportby.txt) |
 | Reliable Software, Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Reliable%20Software%2C%20Ltd.txt) |
-| Republican Unitary Telecommunication Enterprise Beltelecom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Republican%20Unitary%20Telecommunication%20Enterprise%20Beltelecom.txt) |
 | SPRINTHOST LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/SPRINTHOST%20LLP.txt) |
-| Yedinyye Resheniya LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Yedinyye%20Resheniya%20LLC.txt) |
+| Yedinyye Resheniya LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Yedinyye%20Resheniya%20LLC.txt) |
 
 ---
-*最後更新：2026-08-13 03:44 UTC*
+*最後更新：2026-08-14 15:25 UTC*

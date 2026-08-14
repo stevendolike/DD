@@ -1,14 +1,13 @@
 # ES （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HUIZE LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/HUIZE%20LTD.txt) |
+| HUIZE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/HUIZE%20LTD.txt) |
 | JaJoJoo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/JaJoJoo%20Madrid%20Region.txt) |
 | Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/Linode%2C%20LLC.txt) |
@@ -16,4 +15,4 @@
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/OVH%20Hispano.txt) |
 
 ---
-*最後更新：2026-08-13 03:44 UTC*
+*最後更新：2026-08-14 15:25 UTC*
