@@ -37,4 +37,4 @@
 | as56971 network | 116 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-15 10:29 UTC*
+*最後更新：2026-08-15 16:29 UTC*
