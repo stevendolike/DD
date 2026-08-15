@@ -1,6 +1,6 @@
 # AU （純 IP）
 
-**共 44 條** · [返回主頁](../../README.md)
+**共 45 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/_all.txt)
 
@@ -18,7 +18,7 @@
 | Macquarie Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Macquarie%20Telecom.txt) |
 | OVH SYD DC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/OVH%20SYD%20DC.txt) |
 | OVH SYD2 DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/OVH%20SYD2%20DC.txt) |
-| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Corporation.txt) |
+| Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Public%20Cloud.txt) |
 | The Constant Company, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Vultr%20Holdings%2C%20LLC.txt) |
@@ -26,4 +26,4 @@
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-14 22:27 UTC*
+*最後更新：2026-08-15 04:19 UTC*

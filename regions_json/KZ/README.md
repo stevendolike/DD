@@ -1,6 +1,6 @@
 # KZ
 
-**共 104 條** · [返回主頁](../../README.md)
+**共 103 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -13,7 +13,6 @@
 | Big Data Host LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Big%20Data%20Host%20LLC.txt) |
 | Cloud Services Kazakhstan LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Cloudflare%20London%2C%20LLC.txt) |
-| Cloudpard LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Cloudpard%20LLC.txt) |
 | Co-location | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Co-location.txt) |
 | EQU Technologies LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/EQU%20Technologies%20LLP.txt) |
 | GOhost.KZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/GOhost.KZ.txt) |
@@ -38,4 +37,4 @@
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-08-14 22:27 UTC*
+*最後更新：2026-08-15 04:19 UTC*

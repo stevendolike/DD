@@ -1,6 +1,6 @@
 # AU
 
-**共 51 條** · [返回主頁](../../README.md)
+**共 52 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all_443.txt)
 
@@ -19,7 +19,7 @@
 | My Net Fone Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/My%20Net%20Fone%20Limited.txt) |
 | OVH SYD DC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/OVH%20SYD%20DC.txt) |
 | OVH SYD2 DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/OVH%20SYD2%20DC.txt) |
-| Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Corporation.txt) |
+| Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Public%20Cloud.txt) |
 | TPG Internet Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/TPG%20Internet%20Pty%20Ltd.txt) |
 | The Constant Company, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/The%20Constant%20Company%2C%20LLC.txt) |
@@ -28,4 +28,4 @@
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-14 22:27 UTC*
+*最後更新：2026-08-15 04:19 UTC*

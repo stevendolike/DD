@@ -1,6 +1,6 @@
 # JP
 
-**共 798 條** · [返回主頁](../../README.md)
+**共 768 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/_all_443.txt)
 
@@ -14,12 +14,12 @@
 | ACCK LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ACCK%20LLC.txt) |
 | ACEVILLE PTE.LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ACEVILLE%20PTE.LTD.txt) |
 | ASMBP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ASMBP%20LLC.txt) |
-| Akamai Connected Cloud _ Linode | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
+| Akamai Connected Cloud _ Linode | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Akari Networks (Tokyo) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Akari%20Networks%20%28Tokyo%29.txt) |
-| AkileCloud LLC | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/AkileCloud%20LLC.txt) |
+| AkileCloud LLC | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/AkileCloud%20LLC.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| Amazon Data Services Japan | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon%20Data%20Services%20Japan.txt) |
-| Amazon.com, Inc | 235 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon.com%2C%20Inc.txt) |
+| Amazon Data Services Japan | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon%20Data%20Services%20Japan.txt) |
+| Amazon.com, Inc | 216 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Amazon.com%2C%20Inc.txt) |
 | BACK WAVES LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/BACK%20WAVES%20LIMITED.txt) |
 | BAGE CLOUD LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/BAGE%20CLOUD%20LLC.txt) |
 | BBIX IPv6 Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/BBIX%20IPv6%20Network.txt) |
@@ -28,9 +28,9 @@
 | ByteVirt LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ByteVirt%20LLC.txt) |
 | CTG Server Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/CTG%20Server%20Ltd.txt) |
 | CYBERJET PTE. LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/CYBERJET%20PTE.%20LTD.txt) |
-| Cloudflare London, LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudflare London, LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cloudflare%20London%2C%20LLC.txt) |
 | Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cloudflare%2C%20Inc.txt) |
-| Cluster Logic Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cluster%20Logic%20Inc.txt) |
+| Cluster Logic Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cluster%20Logic%20Inc.txt) |
 | Contabo Asia Private Limited | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | Cornseed Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Cornseed%20Limited.txt) |
 | Customer-PAN-LIAN-TECHNOLOGY-CO-LIMITED-202507 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Customer-PAN-LIAN-TECHNOLOGY-CO-LIMITED-202507.txt) |
@@ -42,7 +42,7 @@
 | Datacamp Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Datacamp%20Limited.txt) |
 | EDGENAP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/EDGENAP%20LTD.txt) |
 | EDIS IPv6 Infrastructure In Japan | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/EDIS%20IPv6%20Infrastructure%20In%20Japan.txt) |
-| Evoxt.com | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Evoxt.com.txt) |
+| Evoxt.com | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Evoxt.com.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GMO Internet, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/GMO%20Internet%2C%20Inc.txt) |
 | Higashishinagawa, Shinagawa City, Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Higashishinagawa%2C%20Shinagawa%20City%2C%20Tokyo.txt) |
@@ -56,20 +56,20 @@
 | IT7 Networks Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/IT7%20Networks%20Inc.txt) |
 | KAGOYA JAPAN Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/KAGOYA%20JAPAN%20Inc.txt) |
 | KDDI CORPORATION | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/KDDI%20CORPORATION.txt) |
-| Leaseweb Japan K.K | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Leaseweb%20Japan%20K.K.txt) |
-| Linode | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Linode.txt) |
+| Leaseweb Japan K.K | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Leaseweb%20Japan%20K.K.txt) |
+| Linode | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Linode.txt) |
 | Microsoft Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Microsoft%20Corporation.txt) |
 | Nearoute Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Nearoute%20Limited.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
 | Oracle Corporation | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Public Cloud | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Oracle%20Public%20Cloud.txt) |
 | PANSTAR CLOUD LIMITED - Tokyo JPP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/PANSTAR%20CLOUD%20LIMITED%20-%20Tokyo%20JPP.txt) |
 | PI-TOKYO-KARVL | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/PI-TOKYO-KARVL.txt) |
 | PSINet, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/PSINet%2C%20Inc.txt) |
-| Private Customer | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Private%20Customer.txt) |
+| Private Customer | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Private%20Customer.txt) |
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/RIPE%20NCC.txt) |
 | Ransom IT Trust | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Ransom%20IT%20Trust.txt) |
-| SAKURA Internet Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/SAKURA%20Internet%20Inc.txt) |
+| SAKURA Internet Inc | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/SAKURA%20Internet%20Inc.txt) |
 | SAKURA LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/SAKURA%20LTD.txt) |
 | STYLISH BY A&L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/STYLISH%20BY%20A%26L%20SRL.txt) |
 | Server Hosting Service (NTTPCCommunications,Inc.) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Server%20Hosting%20Service%20%28NTTPCCommunications%2CInc.%29.txt) |
@@ -77,14 +77,14 @@
 | Silicon Cloud Tokyo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Silicon%20Cloud%20Tokyo%20LLC.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/SmartHost%20LLC.txt) |
 | So-net Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/So-net%20Service.txt) |
-| Starry Network Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Starry%20Network%20Limited.txt) |
+| Starry Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Starry%20Network%20Limited.txt) |
 | TYO_VULTR_CUST | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/TYO_VULTR_CUST.txt) |
-| Techavenue International Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Techavenue%20International%20Ltd.txt) |
+| Techavenue International Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Techavenue%20International%20Ltd.txt) |
 | The Constant Company, LLC | 81 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/The%20Constant%20Company%2C%20LLC.txt) |
 | V.PS Osaka | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/V.PS%20Osaka.txt) |
 | VMISS Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/VMISS%20Inc.txt) |
 | Virtono Networks SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Virtono%20Networks%20SRL.txt) |
-| Virtual Machine Solutions LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Virtual%20Machine%20Solutions%20LLC.txt) |
+| Virtual Machine Solutions LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Virtual%20Machine%20Solutions%20LLC.txt) |
 | Vultr Holdings, LLC | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/Vultr%20Holdings%2C%20LLC.txt) |
 | ZOUTER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ZOUTER%20LIMITED.txt) |
 | ZOUTER TOKYO | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/ZOUTER%20TOKYO.txt) |
@@ -95,4 +95,4 @@
 | xTom | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/JP/xTom.txt) |
 
 ---
-*最後更新：2026-08-14 22:27 UTC*
+*最後更新：2026-08-15 04:19 UTC*

@@ -33,16 +33,16 @@
 
 | 分類 | 條數 | 明細 |
 |------|------|------|
-| 📁 全部 Port | 20,057 | [國家列表](regions_json/README.md) |
-| 🔒 Port 443 純 IP | 11,811 | [國家列表](regions_json_443/README.md) |
-| 🔒 Port 2053 純 IP | 2,351 | [國家列表](regions_json_2053/README.md) |
+| 📁 全部 Port | 19,768 | [國家列表](regions_json/README.md) |
+| 🔒 Port 443 純 IP | 11,617 | [國家列表](regions_json_443/README.md) |
+| 🔒 Port 2053 純 IP | 2,334 | [國家列表](regions_json_2053/README.md) |
 | 🔒 Port 2083 純 IP | 623 | [國家列表](regions_json_2083/README.md) |
-| 🔒 Port 2087 純 IP | 591 | [國家列表](regions_json_2087/README.md) |
-| 🔒 Port 2096 純 IP | 536 | [國家列表](regions_json_2096/README.md) |
-| 🔒 Port 8443 純 IP | 4,145 | [國家列表](regions_json_8443/README.md) |
-| ⭐ 優選 ASN | 558 | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt) · [443 目錄](regions_json_preferred_asn_443/README.md) |
-| 🏠 家庭寬帶 | 81 | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt) · [443 目錄](regions_json_residential_443/README.md) |
-| 🌐 ClientIP 為 IPv4 | 6,317 | [國家列表](regions_json_clientip_v4/README.md) |
+| 🔒 Port 2087 純 IP | 587 | [國家列表](regions_json_2087/README.md) |
+| 🔒 Port 2096 純 IP | 534 | [國家列表](regions_json_2096/README.md) |
+| 🔒 Port 8443 純 IP | 4,073 | [國家列表](regions_json_8443/README.md) |
+| ⭐ 優選 ASN | 553 | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt) · [443 目錄](regions_json_preferred_asn_443/README.md) |
+| 🏠 家庭寬帶 | 79 | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt) · [443 目錄](regions_json_residential_443/README.md) |
+| 🌐 ClientIP 為 IPv4 | 6,232 | [國家列表](regions_json_clientip_v4/README.md) |
 
 ---
 
@@ -53,4 +53,4 @@ Fork 之後 repo 內置 [Upstream Sync](.github/workflows/upstream-sync.yml)：�
 如果 GitHub 因 workflow 變更暫停自動更新，手動 Run 一次即可。
 
 ---
-*最後更新：2026-08-14 22:27 UTC*
+*最後更新：2026-08-15 04:19 UTC*

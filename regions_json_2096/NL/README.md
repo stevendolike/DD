@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 193 條** · [返回主頁](../../README.md)
+**共 192 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/_all.txt)
 
@@ -13,8 +13,7 @@
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/JSC%20TIMEWEB.txt) |
 | MagicHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/MagicHosting.txt) |
 | NETAXIS GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/NETAXIS%20GROUP%20LTD.txt) |
-| Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/Podaon%20SIA.txt) |
 | SERVERS TECH FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/SERVERS%20TECH%20FZCO.txt) |
 
 ---
-*最後更新：2026-08-14 22:27 UTC*
+*最後更新：2026-08-15 04:19 UTC*

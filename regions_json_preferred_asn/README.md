@@ -1,6 +1,6 @@
 # 優選 ASN（全部 Port）
 
-**共 558 條** · [返回主頁](../README.md)
+**共 553 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt)
 
@@ -10,16 +10,16 @@
 | CN | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/CN.txt) |
 | DE | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/DE.txt) |
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/GB.txt) |
-| HK | 52 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/HK.txt) |
+| HK | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/ID.txt) |
-| JP | 97 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
+| JP | 96 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
 | KR | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/KR.txt) |
 | MY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/MY.txt) |
 | NL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/NL.txt) |
 | SG | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/SG.txt) |
 | TH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/TH.txt) |
-| TW | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/TW.txt) |
-| US | 338 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
+| TW | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/TW.txt) |
+| US | 334 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
 
 ---
-*最後更新：2026-08-14 22:27 UTC*
+*最後更新：2026-08-15 04:19 UTC*
