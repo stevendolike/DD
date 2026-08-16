@@ -6,9 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/3NT%20SOLUTIONS%20LLP.txt) |
 | EDIS Infrastructure in Denmark | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/EDIS%20Infrastructure%20in%20Denmark.txt) |
-| Webdock.io ApS | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/Webdock.io%20ApS.txt) |
+| Webdock.io ApS | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/Webdock.io%20ApS.txt) |
 
 ---
-*最後更新：2026-08-15 22:25 UTC*
+*最後更新：2026-08-16 04:25 UTC*

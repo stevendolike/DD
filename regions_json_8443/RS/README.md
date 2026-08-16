@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RS/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Digital City FZE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RS/Digital%20City%20FZE.txt) |
+| Majordomo in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RS/Majordomo%20in%20Serbia.txt) |
 
 ---
-*最後更新：2026-08-15 22:25 UTC*
+*最後更新：2026-08-16 04:25 UTC*

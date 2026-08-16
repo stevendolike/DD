@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/_all.txt)
 
@@ -9,7 +9,6 @@
 | Netlen Internet Hizmetleri Ltd. Sti | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Tellcom Adana Fiber Dynamic | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/Tellcom%20Adana%20Fiber%20Dynamic.txt) |
 | White Label Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/White%20Label%20Services%2C%20LLC.txt) |
-| YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 
 ---
-*最後更新：2026-08-15 22:25 UTC*
+*最後更新：2026-08-16 04:25 UTC*

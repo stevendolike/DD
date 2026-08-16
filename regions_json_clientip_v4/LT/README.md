@@ -1,6 +1,6 @@
 # LT
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/_all_443.txt)
 
@@ -10,7 +10,9 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Oneprovider.com - Vilnius Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/Oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 | PROGRESYVUS SPRENDIMAI UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/PROGRESYVUS%20SPRENDIMAI%20UAB.txt) |
+| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/Private%20Customer.txt) |
+| SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/SERV.HOST%20GROUP%20LTD.txt) |
 | UAB Cherry Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/UAB%20Cherry%20Servers.txt) |
 
 ---
-*最後更新：2026-08-15 22:25 UTC*
+*最後更新：2026-08-16 04:25 UTC*

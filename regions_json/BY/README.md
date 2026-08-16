@@ -1,6 +1,6 @@
 # BY
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | LLC Raccoon technology | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/LLC%20Raccoon%20technology.txt) |
 | Reliable Software, Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Reliable%20Software%2C%20Ltd.txt) |
 | SPRINTHOST LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/SPRINTHOST%20LLP.txt) |
-| Yedinyye Resheniya LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Yedinyye%20Resheniya%20LLC.txt) |
+| Yedinyye Resheniya LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Yedinyye%20Resheniya%20LLC.txt) |
 
 ---
-*最後更新：2026-08-15 22:25 UTC*
+*最後更新：2026-08-16 04:25 UTC*

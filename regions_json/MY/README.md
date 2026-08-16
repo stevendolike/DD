@@ -1,6 +1,6 @@
 # MY
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all_443.txt)
 
@@ -8,11 +8,10 @@
 |------|--------|---------|
 | Alibaba Cloud - MY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20-%20MY.txt) |
 | Alibaba Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20LLC.txt) |
-| Evoxt.com | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
+| Evoxt.com | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Microsoft%20Corporation.txt) |
 | Microsoft Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Microsoft%20Limited.txt) |
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Oracle%20Corporation.txt) |
-| TT DOTCOM SDN BHD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/TT%20DOTCOM%20SDN%20BHD.txt) |
 
 ---
-*最後更新：2026-08-15 22:25 UTC*
+*最後更新：2026-08-16 04:25 UTC*
