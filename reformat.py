@@ -211,7 +211,7 @@ def rebuild_flat_dir(base_dir):
 
 
 def rebuild_organized_top(base_dir, has_443=True):
-    """organized 目錄頂層統整：_all.txt（ip:port#國家 跟國家排）+ _all_443.txt（ip#國家）"""
+    """organized 目錄頂層統整：_all.txt（ip:port#國家 跟國家排）+ _all_443.txt（純 IP）"""
     if not os.path.isdir(base_dir):
         return
     all_entries, all_443 = [], []
@@ -227,11 +227,11 @@ def rebuild_organized_top(base_dir, has_443=True):
                     continue
                 all_entries.append(f"{e}#{country}")
                 if e.rpartition(":")[2] == "443":
-                    all_443.append(f"{e.rpartition(':')[0]}#{country}")
+                    all_443.append(e.rpartition(":")[0])  # 純 IP，冇 #國家
     write_entries(os.path.join(base_dir, "_all.txt"), all_entries, key=asn_all_key)
     if has_443:
-        write_entries(os.path.join(base_dir, "_all_443.txt"), all_443, key=asn_all_key)
-    print(f"✓ {base_dir} 頂層統整: {len(all_entries)} 條（443: {len(all_443)}）")
+        write_entries(os.path.join(base_dir, "_all_443.txt"), all_443)
+    print(f"✓ {base_dir} 頂層統整: {len(all_entries)} 條（443 純 IP: {len(all_443)}）")
 
 
 def build_stats():
