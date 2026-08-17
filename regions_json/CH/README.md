@@ -1,6 +1,6 @@
 # CH
 
-**共 180 條** · [返回主頁](../../README.md)
+**共 181 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -12,7 +12,7 @@
 | Baxet Group Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Baxet%20Group%20Inc.txt) |
 | BrainStorm Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BrainStorm%20Network%2C%20Inc.txt) |
 | BuyVM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BuyVM.txt) |
-| Datasource AG | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
+| Datasource AG | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
 | EDIS Infrastructure in Switzerland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/EDIS%20Infrastructure%20in%20Switzerland.txt) |
 | Evoxt CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Evoxt%20CH.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting%2C%20Geronimo%20Ramirez.txt) |
@@ -45,4 +45,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

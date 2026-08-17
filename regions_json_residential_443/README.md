@@ -1,6 +1,6 @@
 # 家庭寬帶 443 純 IP（純 IP）
 
-**共 54 條** · [返回主頁](../README.md)
+**共 53 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/_all.txt)
 
@@ -21,7 +21,7 @@
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TH.txt) |
 | TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
-| US | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
+| US | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

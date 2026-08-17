@@ -1,6 +1,6 @@
 # TR
 
-**共 142 條** · [返回主頁](../../README.md)
+**共 141 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -24,7 +24,8 @@
 | KAOPU CLOUD HK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/KAOPU%20CLOUD%20HK%20LIMITED.txt) |
 | Komuta Savunma Yuksek Teknoloji Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Komuta%20Savunma%20Yuksek%20Teknoloji%20Limited%20Sirketi.txt) |
 | LIGHT NODE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/LIGHT%20NODE%20LIMITED.txt) |
-| Netlen Internet Hizmetleri Ltd. Sti | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netlen Internet Hizmetleri Ltd. Sti | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netvia Bilisim Yazilim Danismanlik Tic. Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netvia%20Bilisim%20Yazilim%20Danismanlik%20Tic.%20Ltd.%20Sti.txt) |
 | OMEGATECH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/OMEGATECH.txt) |
 | PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/PENTECH%20BILISIM%20TEKNOLOJILERI%20SANAYI%20VE%20TICARET%20LIMITED%20SIRKET.txt) |
 | Plant Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Plant%20Holding%20GmbH.txt) |
@@ -37,10 +38,10 @@
 | TradeZone LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TradeZone%20LLC.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI.txt) |
 | VOYAR VERIMERKEZI TEKNOLOJILERI LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/VOYAR%20VERIMERKEZI%20TEKNOLOJILERI%20LTD.%20STI.txt) |
-| White Label Services, LLC | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
 | WorkTitans B.V | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/WorkTitans%20B.V.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | hostigger_datacenter_TR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

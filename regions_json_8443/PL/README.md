@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 67 條** · [返回主頁](../../README.md)
+**共 64 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt)
 
@@ -20,15 +20,15 @@
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTKEY%20B.V.txt) |
 | HOSTOFF infrastructure and hosting services | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | IQ REGIQDC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/IQ%20REGIQDC.txt) |
-| Local NCC Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Local%20NCC%20Ltd.txt) |
+| Local NCC Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Local%20NCC%20Ltd.txt) |
 | MEVSPACE sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/MEVSPACE%20sp.%20z%20o.o.txt) |
 | NET 168 222 49 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/NET%20168%20222%2049%200%2024.txt) |
 | NET 45 149 63 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/NET%2045%20149%2063%200%2024.txt) |
 | NetGrid Host LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/NetGrid%20Host%20LTD.txt) |
-| Newserverlife LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Newserverlife%20LLC.txt) |
+| Newserverlife LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20VPS%20WAW.txt) |
-| Podaon SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Podaon%20SIA.txt) |
+| Podaon SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Podaon%20SIA.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/QWINS%20Hosting.txt) |
 | QuadSpark IT Solutions Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/QuadSpark%20IT%20Solutions%20Private%20Limited.txt) |
 | Raul Ghita trading as 'Ghita Telekom' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27.txt) |
@@ -39,4 +39,4 @@
 | Vladislav Novitskii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Vladislav%20Novitskii.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

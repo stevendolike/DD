@@ -14,13 +14,14 @@
 | IPv4Center.com Partition - Order #4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/IPv4Center.com%20Partition%20-%20Order%20%234.txt) |
 | Komuta Savunma Yuksek Teknoloji Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Komuta%20Savunma%20Yuksek%20Teknoloji%20Limited%20Sirketi.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netvia Bilisim Yazilim Danismanlik Tic. Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Netvia%20Bilisim%20Yazilim%20Danismanlik%20Tic.%20Ltd.%20Sti.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Private%20Customer.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/RCS%20Technologies%20FZE%20LLC.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Superonline Iletisim Hizmetleri A.S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Superonline%20Iletisim%20Hizmetleri%20A.S.txt) |
 | TradeZone LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/TradeZone%20LLC.txt) |
-| White Label Services, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/White%20Label%20Services%2C%20LLC.txt) |
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

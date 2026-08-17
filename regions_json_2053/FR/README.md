@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 115 條** · [返回主頁](../../README.md)
+**共 116 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/_all.txt)
 
@@ -19,7 +19,7 @@
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Linode.txt) |
 | Mo's Operations GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Mo%27s%20Operations%20GmbH.txt) |
 | NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/NetCrafters%20OU.txt) |
-| OVH SAS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/OVH%20SAS.txt) |
+| OVH SAS | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/OVH%20SAS.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Oracle%20Svenska%20AB.txt) |
 | RACKNERD-FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/RACKNERD-FR.txt) |
 | RackNerd, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/RackNerd%2C%20LLC.txt) |
@@ -32,4 +32,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

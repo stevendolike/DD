@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 121 條** · [返回主頁](../../README.md)
+**共 120 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -15,7 +15,7 @@
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baykov%20Ilya%20Sergeevich.txt) |
 | BrainStorm Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BrainStorm%20Network%2C%20Inc.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Cloudflare%20London%2C%20LLC.txt) |
-| ExpressHost LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
+| ExpressHost LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/FASTWARP%20LLP.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -51,4 +51,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

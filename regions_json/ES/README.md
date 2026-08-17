@@ -1,6 +1,6 @@
 # ES
 
-**共 147 條** · [返回主頁](../../README.md)
+**共 148 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
@@ -33,7 +33,8 @@
 | arsys.es | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/arsys.es.txt) |
 | arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/arsys.pt.txt) |
 | oneprovider.com - Barcelona Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/oneprovider.com%20-%20Barcelona%20Infrastructure.txt) |
+| servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/servinga%20GmbH.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

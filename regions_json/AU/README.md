@@ -1,6 +1,6 @@
 # AU
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all_443.txt)
 
@@ -23,7 +23,6 @@
 | The Constant Company, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Vultr%20Holdings%2C%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/oracle.txt) |
-| xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

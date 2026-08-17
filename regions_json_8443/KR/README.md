@@ -1,6 +1,6 @@
 # KR （純 IP）
 
-**共 24 條** · [返回主頁](../../README.md)
+**共 23 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/6%20COLLYER%20QUAY.txt) |
-| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/ACEVILLE%20PTE.LTD.txt) |
 | Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Cloudflare%20London%2C%20LLC.txt) |
 | Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Public%20Cloud.txt) |
@@ -17,4 +16,4 @@
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

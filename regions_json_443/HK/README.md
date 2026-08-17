@@ -1,13 +1,12 @@
 # HK （純 IP）
 
-**共 359 條** · [返回主頁](../../README.md)
+**共 351 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 111 Sports West | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/111%20Sports%20West.txt) |
-| 16 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/16%20COLLYER%20QUAY.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/365.partners%20INC.txt) |
 | 6 COLLYER QUAY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/6%20COLLYER%20QUAY.txt) |
 | A Pensonal Global Research Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/A%20Pensonal%20Global%20Research%20Network.txt) |
@@ -20,7 +19,6 @@
 | ALICE NETWORKS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALICE%20NETWORKS%20LTD.txt) |
 | AkileCloud Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/AkileCloud%20Network.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Alibaba%20Cloud%20LLC.txt) |
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Aliyun%20Computing%20Co.LTD.txt) |
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Amazon.com%2C%20Inc.txt) |
 | BAGE CLOUD LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/BAGE%20CLOUD%20LLC.txt) |
@@ -33,17 +31,17 @@
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DATAWAVE%20GLOBAL%20LLC.txt) |
 | DEBEE Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DEBEE%20Network.txt) |
 | DMIT Cloud Service - Hong Kong | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DMIT%20Cloud%20Service%20-%20Hong%20Kong.txt) |
-| DMIT Cloud Service - Los Angeles | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
-| Evoxt.com | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Evoxt.com.txt) |
+| DMIT Cloud Service - Los Angeles | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
+| Evoxt.com | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Evoxt.com.txt) |
 | GDI-HK | 87 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/GDI-HK.txt) |
 | HGC Global Communications Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/HGC%20Global%20Communications%20Limited.txt) |
 | HK DINGDIAN NETWORK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/HK%20DINGDIAN%20NETWORK%20LIMITED.txt) |
-| HYTRON NETWORK HK | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/HYTRON%20NETWORK%20HK.txt) |
+| HYTRON NETWORK HK | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/HYTRON%20NETWORK%20HK.txt) |
 | Hong Kong Broadband Network Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hong%20Kong%20Broadband%20Network%20Ltd.txt) |
 | Hong Kong Telecommunications (HKT) Limited Business Internet | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Business%20Internet.txt) |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
 | Hong Kong isp services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hong%20Kong%20isp%20services.txt) |
-| Hongkong Wen Jing Network Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
+| Hongkong Wen Jing Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | Hostker LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hostker%20LLC.txt) |
 | Hytron Network Services Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hytron%20Network%20Services%20Limited.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/IROKO%20Networks%20Corporation.txt) |
@@ -67,7 +65,7 @@
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/SonderCloud%20Limited.txt) |
 | VAPELINE TECHNOLOGY(HK).,LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VAPELINE%20TECHNOLOGY%28HK%29.%2CLIMITED.txt) |
 | VH Global Limited | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VH%20Global%20Limited.txt) |
-| VMISS Inc | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VMISS%20Inc.txt) |
+| VMISS Inc | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VMISS%20Inc.txt) |
 | XING XUN TECH LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/XING%20XUN%20TECH%20LIMITED.txt) |
 | ZOUTER HK | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ZOUTER%20HK.txt) |
 | as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/as56971%20network.txt) |
@@ -75,4 +73,4 @@
 | uqidc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/uqidc.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

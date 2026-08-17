@@ -1,12 +1,12 @@
 # FI （純 IP）
 
-**共 103 條** · [返回主頁](../../README.md)
+**共 101 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/BG-NETWORK.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baykov%20Ilya%20Sergeevich.txt) |
@@ -24,7 +24,7 @@
 | New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/New%20Hosting%20Technologies%20LLC.txt) |
 | PSERVERS Enterprise Network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/PSERVERS%20Enterprise%20Network.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/QWINS%20Hosting.txt) |
-| SERV.HOST GROUP LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/SERV.HOST%20GROUP%20LTD.txt) |
+| SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/SERV.HOST%20GROUP%20LTD.txt) |
 | Senko Digital LLC - FI Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
 | Snowd Security OU | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Snowd%20Security%20OU.txt) |
 | TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/TA%20Consulting%20%26%20Services%20UG.txt) |
@@ -36,4 +36,4 @@
 | u1host Finland | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

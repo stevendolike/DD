@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 663 條** · [返回主頁](../../README.md)
+**共 661 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -14,7 +14,6 @@
 | CENTRIOHOST-LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CENTRIOHOST-LLC.txt) |
 | CGI GLOBAL LIMITED | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Web Manage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloud%20Web%20Manage.txt) |
-| Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
 | Comcast Cable Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Comcast%20Cable%20Communications%2C%20LLC.txt) |
 | Contabo Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Contabo%20Inc.txt) |
 | DMIT Cloud Services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
@@ -48,7 +47,6 @@
 | Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/The%20Constant%20Company%2C%20LLC.txt) |
 | Tzulo-DJC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Tzulo-DJC.txt) |
-| UltaHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/UltaHost.txt) |
 | Unify Media Ltd | 513 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Unify%20Media%20Ltd.txt) |
 | United States. Utah | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/United%20States.%20Utah.txt) |
 | Zenlayer Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Zenlayer%20Inc.txt) |
@@ -56,4 +54,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

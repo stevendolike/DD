@@ -1,6 +1,6 @@
 # KZ
 
-**共 89 條** · [返回主頁](../../README.md)
+**共 90 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -31,8 +31,9 @@
 | ONEHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/ONEHOST%20LLP.txt) |
 | PS Internet Company LLP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Quasar%20LLC.txt) |
+| Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Servercore%20Network.txt) |
 | Webstudio Onelab LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Webstudio%20Onelab%20LLP.txt) |
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

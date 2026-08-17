@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 83 條** · [返回主頁](../../README.md)
+**共 82 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
@@ -26,7 +26,7 @@
 | SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SA.txt) |
 | SIA VEESP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SIA%20VEESP.txt) |
 | Vultr Sweden | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
-| play2go.cloud - Cheap and reliable hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
+| play2go.cloud - Cheap and reliable hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

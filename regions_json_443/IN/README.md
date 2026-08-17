@@ -1,6 +1,6 @@
 # IN （純 IP）
 
-**共 39 條** · [返回主頁](../../README.md)
+**共 40 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/_all.txt)
 
@@ -10,7 +10,7 @@
 | Amazon.com, Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Amazon.com%2C%20Inc.txt) |
 | BEAFORT LIMITED | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/BEAFORT%20LIMITED.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Cloudflare%20London%2C%20LLC.txt) |
-| DigitalOcean, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/DigitalOcean%2C%20LLC.txt) |
 | GLOBAL COMMUNICATION NETWORK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/GLOBAL%20COMMUNICATION%20NETWORK%20LIMITED.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Linode.txt) |
 | MANNDESHI GURU NET PRIVATE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
@@ -23,4 +23,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 239 條** · [返回主頁](../../README.md)
+**共 237 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
@@ -15,7 +15,6 @@
 | BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baykov%20Ilya%20Sergeevich.txt) |
-| BitCommand LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/BitCommand%20LLC.txt) |
 | CacheFly | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/CacheFly.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Deployish%20Limited.txt) |
 | EDIS GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/EDIS%20GmbH.txt) |
@@ -24,6 +23,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Glesys AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Glesys%20AB.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/HZ%20Hosting%20Ltd.txt) |
+| Hollander & Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
 | Hostup AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hostup%20AB.txt) |
 | IB Compute Systems Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/IB%20Compute%20Systems%20Inc.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/IROKO%20Networks%20Corporation.txt) |
@@ -48,12 +48,12 @@
 | SweHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SweHosting.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/UpCloud%20Cloud%20Servers.txt) |
-| Vultr Sweden | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
+| Vultr Sweden | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/ggyy-nl.txt) |
 | oneprovider.com - Stockholm Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oneprovider.com%20-%20Stockholm%20Infrastructure.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oracle.txt) |
-| play2go.cloud - Cheap and reliable hosting | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
+| play2go.cloud - Cheap and reliable hosting | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | www.fornex.com, Fornex Hosting S.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*

@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 83 條** · [返回主頁](../../README.md)
+**共 82 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt)
 
@@ -22,7 +22,7 @@
 | IPv4Center.com Partition - Order #5 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/IPv4Center.com%20Partition%20-%20Order%20%235.txt) |
 | KAOPU CLOUD HK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/KAOPU%20CLOUD%20HK%20LIMITED.txt) |
 | LIGHT NODE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/LIGHT%20NODE%20LIMITED.txt) |
-| Netlen Internet Hizmetleri Ltd. Sti | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netlen Internet Hizmetleri Ltd. Sti | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | OMEGATECH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/OMEGATECH.txt) |
 | Plant Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Plant%20Holding%20GmbH.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Private%20Customer.txt) |
@@ -35,4 +35,4 @@
 | hostigger_datacenter_TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-17 03:35 UTC*
+*最後更新：2026-08-17 04:31 UTC*
