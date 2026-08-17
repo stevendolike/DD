@@ -17,4 +17,4 @@
 | SERVERS TECH FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/SERVERS%20TECH%20FZCO.txt) |
 
 ---
-*最後更新：2026-08-17 16:32 UTC*
+*最後更新：2026-08-17 22:27 UTC*
