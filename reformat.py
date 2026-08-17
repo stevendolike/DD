@@ -210,6 +210,30 @@ def rebuild_flat_dir(base_dir):
     return files, total
 
 
+def rebuild_organized_top(base_dir, has_443=True):
+    """organized 目錄頂層統整：_all.txt（ip:port#國家 跟國家排）+ _all_443.txt（ip#國家）"""
+    if not os.path.isdir(base_dir):
+        return
+    all_entries, all_443 = [], []
+    for country in sorted(os.listdir(base_dir)):
+        cdir = os.path.join(base_dir, country)
+        if not os.path.isdir(cdir):
+            continue
+        for fname in sorted(os.listdir(cdir)):
+            if not is_org_file(fname):
+                continue
+            for e in read_entries(os.path.join(cdir, fname)):
+                if not e:
+                    continue
+                all_entries.append(f"{e}#{country}")
+                if e.rpartition(":")[2] == "443":
+                    all_443.append(f"{e.rpartition(':')[0]}#{country}")
+    write_entries(os.path.join(base_dir, "_all.txt"), all_entries, key=asn_all_key)
+    if has_443:
+        write_entries(os.path.join(base_dir, "_all_443.txt"), all_443, key=asn_all_key)
+    print(f"✓ {base_dir} 頂層統整: {len(all_entries)} 條（443: {len(all_443)}）")
+
+
 def build_stats():
     """生成 stats.json（結構與 split_json.py 相同）。"""
     organized, flat = discover_dirs()
@@ -250,6 +274,10 @@ def main():
         total_entries += te
         merges.extend(mg)
         print(f"✓ {d}: {oc} 個組織檔, {te} 條")
+    # 頂層統整（_all.txt + _all_443.txt，ip:port#國家 跟國家排）
+    for d in organized:
+        if d in ("regions_json", "regions_json_clientip_v4"):
+            rebuild_organized_top(d, has_443=True)
     for d in flat:
         fc, fe = rebuild_flat_dir(d)
         total_org += fc

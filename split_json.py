@@ -20,6 +20,7 @@ from collections import OrderedDict, defaultdict
 
 from asns import PREFERRED_ASN
 from residential import is_residential
+from reformat import asn_all_key, write_entries, rebuild_organized_top
 
 ILLEGAL = re.compile(r'[\\/:*?"<>|\x00-\x1f]')
 
@@ -227,6 +228,8 @@ for port, countries in groups_port.items():
 rebuild_asn_dir("regions_json_preferred_asn", groups_asn)
 rebuild_asn_dir("regions_json_preferred_asn_443", groups_asn_443)
 rebuild_dir("regions_json_clientip_v4", groups_clientip_v4)
+rebuild_organized_top("regions_json", has_443=True)
+rebuild_organized_top("regions_json_clientip_v4", has_443=True)
 rebuild_residential_dir("regions_json_residential", "regions_json_residential_443", groups_residential)
 
 # stats.json（不計 _all.txt / _all_443.txt；國家/組織均按名排序，與 reformat.py 一致）

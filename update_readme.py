@@ -117,6 +117,7 @@ def write_category_readme(base_dir, title, is_ip_only=False, has_443=True, is_fl
         total = sum(STATS.get(base_dir, {}).values())
         header = "| 國家 | 條目數 | Raw URL |\n|------|--------|---------|\n"
         all_url = f"{BASE_RAW}/{base_dir}/_all.txt"
+        combined = f"📥 [整合全部]({all_url})"
         back = "../README.md"
     else:
         rows = []
@@ -130,6 +131,9 @@ def write_category_readme(base_dir, title, is_ip_only=False, has_443=True, is_fl
         total = dir_total(base_dir)
         header = "| 國家 | 條目數 | 檔案 |\n|------|--------|------|\n"
         all_url = f"{BASE_RAW}/{base_dir}/_all.txt"
+        combined = f"📥 [整合全部]({all_url})"
+        if has_443 and os.path.exists(f"{base_dir}/_all_443.txt"):
+            combined += f" · [🔒 整合 443 純 IP]({BASE_RAW}/{base_dir}/_all_443.txt)"
         back = "../README.md"
 
     table = "\n".join(rows) if rows else "_（無數據）_"
@@ -138,7 +142,7 @@ def write_category_readme(base_dir, title, is_ip_only=False, has_443=True, is_fl
 
 **共 {total:,} 條** · [返回主頁]({back})
 
-📥 [整合全部]({all_url})
+{combined}
 
 {header}{table}
 

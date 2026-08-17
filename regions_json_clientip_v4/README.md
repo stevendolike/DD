@@ -2,7 +2,7 @@
 
 **共 6,199 條** · [返回主頁](../README.md)
 
-📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/_all.txt)
+📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/_all_443.txt)
 
 | 國家 | 條目數 | 檔案 |
 |------|--------|------|
@@ -20,6 +20,7 @@
 | CA | 23 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/CA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all_443.txt) |
 | CH | 86 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/CH/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all_443.txt) |
 | CL | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/CL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CL/_all_443.txt) |
+| CN | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/CN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all_443.txt) |
 | CO | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/CO/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CO/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CO/_all_443.txt) |
 | CZ | 31 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/CZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all_443.txt) |
 | DE | 963 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/DE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/_all_443.txt) |
@@ -39,6 +40,7 @@
 | IE | 16 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/IE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/_all_443.txt) |
 | IL | 6 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/IL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IL/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IL/_all_443.txt) |
 | IN | 27 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/IN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/_all_443.txt) |
+| IR | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/IR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IR/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IR/_all_443.txt) |
 | IS | 7 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/IS/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/_all_443.txt) |
 | IT | 26 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/IT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/_all_443.txt) |
 | JP | 71 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/JP/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all_443.txt) |
@@ -73,4 +75,4 @@
 | ZA | 6 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/ZA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-08-16 22:24 UTC*
+*最後更新：2026-08-17 03:31 UTC*

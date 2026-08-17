@@ -35,10 +35,12 @@
 | HU | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/HU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/_all.txt) |
 | ID | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/ID/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ID/_all.txt) |
 | IE | 8 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/IE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/_all.txt) |
+| IL | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/IL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IL/_all.txt) |
 | IN | 6 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/IN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IN/_all.txt) |
 | IS | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/IS/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IS/_all.txt) |
 | IT | 5 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/IT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/_all.txt) |
 | JP | 65 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/JP/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt) |
+| KG | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/KG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KG/_all.txt) |
 | KR | 24 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/KR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/_all.txt) |
 | KZ | 20 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/KZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/_all.txt) |
 | LT | 10 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/LT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/_all.txt) |
@@ -65,4 +67,4 @@
 | ZA | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/ZA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ZA/_all.txt) |
 
 ---
-*最後更新：2026-08-16 22:24 UTC*
+*最後更新：2026-08-17 03:31 UTC*
