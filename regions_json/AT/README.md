@@ -24,4 +24,4 @@
 | powered by ANX | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-08-18 10:35 UTC*
+*最後更新：2026-08-18 16:36 UTC*
