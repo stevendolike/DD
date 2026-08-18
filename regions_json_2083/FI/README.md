@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/_all.txt)
 
@@ -11,7 +11,6 @@
 | Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Hetzner%20Online%20GmbH.txt) |
 | SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/SERV.HOST%20GROUP%20LTD.txt) |
 | Senko Digital LLC - FI Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
-| Xorek.Cloud Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Xorek.Cloud%20Helsinki.txt) |
 
 ---
-*最後更新：2026-08-17 22:27 UTC*
+*最後更新：2026-08-18 04:24 UTC*

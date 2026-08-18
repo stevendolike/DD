@@ -8,8 +8,8 @@
 |------|--------|---------|
 | Belcloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Belcloud%20LTD.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/GREEN%20FLOID%20LLC.txt) |
-| Hosting Provider Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Hosting%20Provider%20Virterion%20LLC.txt) |
 | Redcluster LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Redcluster%20LTD.txt) |
+| Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-08-17 22:27 UTC*
+*最後更新：2026-08-18 04:24 UTC*

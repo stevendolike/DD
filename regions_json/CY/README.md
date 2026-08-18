@@ -1,14 +1,12 @@
 # CY
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| CLOUDLAYER8 LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/CLOUDLAYER8%20LIMITED.txt) |
-| EDIS IPv6 Infrastructure in Cyprus | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/EDIS%20IPv6%20Infrastructure%20in%20Cyprus.txt) |
-| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/MVPS%20LTD.txt) |
+| CLOUDLAYER8 LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/CLOUDLAYER8%20LIMITED.txt) |
 
 ---
-*最後更新：2026-08-17 22:27 UTC*
+*最後更新：2026-08-18 04:24 UTC*

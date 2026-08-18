@@ -6,8 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Digital City FZE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SK/Digital%20City%20FZE.txt) |
-| PE Denis Podolskii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SK/PE%20Denis%20Podolskii.txt) |
+| Digital City FZE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SK/Digital%20City%20FZE.txt) |
 
 ---
-*最後更新：2026-08-17 22:27 UTC*
+*最後更新：2026-08-18 04:24 UTC*
