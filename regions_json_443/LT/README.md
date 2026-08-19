@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 22 條** · [返回主頁](../../README.md)
+**共 21 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Melbikomas%20UAB.txt) |
 | Pirma alokacija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Pirma%20alokacija.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Private%20Customer.txt) |
@@ -19,4 +18,4 @@
 | UAB Interneto vizija | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-08-18 22:26 UTC*
+*最後更新：2026-08-19 04:26 UTC*

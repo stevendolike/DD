@@ -6,10 +6,10 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/HOSTKEY%20B.V.txt) |
+| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/HOSTKEY%20B.V.txt) |
 | HOSTOFF infrastructure and hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | OVH Sp. z o. o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/OVH%20Sp.%20z%20o.%20o.txt) |
-| South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/South%20Park%20Networks%20LLC.txt) |
+| South Park Networks LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/South%20Park%20Networks%20LLC.txt) |
 
 ---
-*最後更新：2026-08-18 22:26 UTC*
+*最後更新：2026-08-19 04:26 UTC*
