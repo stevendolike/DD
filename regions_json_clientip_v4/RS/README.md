@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/3NT%20SOLUTIONS%20LLP.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
-| Majordomo in Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/Majordomo%20in%20Serbia.txt) |
+| Digital City FZE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/Digital%20City%20FZE.txt) |
 
 ---
-*最後更新：2026-08-19 22:28 UTC*
+*最後更新：2026-08-20 04:26 UTC*

@@ -8,8 +8,8 @@
 |------|--------|---------|
 | BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IL/BEAFORT%20LIMITED.txt) |
 | GOLDENLINES ADSL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IL/GOLDENLINES%20ADSL.txt) |
+| LLC Smart Ape | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IL/LLC%20Smart%20Ape.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IL/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
-| Webhost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IL/Webhost%20LLC.txt) |
 
 ---
-*最後更新：2026-08-19 22:28 UTC*
+*最後更新：2026-08-20 04:26 UTC*

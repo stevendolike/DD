@@ -7,9 +7,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Alibaba Cloud - ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/Alibaba%20Cloud%20-%20ID.txt) |
-| Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/Linode.txt) |
-| PT Deneva | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/PT%20Deneva.txt) |
+| Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/Linode.txt) |
 | PT Telekomunikasi Indonesia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/PT%20Telekomunikasi%20Indonesia.txt) |
 
 ---
-*最後更新：2026-08-19 22:28 UTC*
+*最後更新：2026-08-20 04:26 UTC*

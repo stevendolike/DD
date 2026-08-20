@@ -10,4 +10,4 @@
 | ATW VPS IPv6 range | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/ATW%20VPS%20IPv6%20range.txt) |
 
 ---
-*最後更新：2026-08-19 22:28 UTC*
+*最後更新：2026-08-20 04:26 UTC*

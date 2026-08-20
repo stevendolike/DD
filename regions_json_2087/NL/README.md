@@ -1,12 +1,13 @@
 # NL （純 IP）
 
-**共 199 條** · [返回主頁](../../README.md)
+**共 201 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/AEZA%20GROUP%20LLC.txt) |
+| Amsterdam, Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Amsterdam%2C%20Netherlands.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Baxet%20Group%20Inc.txt) |
 | DigitalOcean, LLC | 183 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/DigitalOcean%2C%20LLC.txt) |
 | EDIS IPv6 Infrastructure in Netherlands | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/EDIS%20IPv6%20Infrastructure%20in%20Netherlands.txt) |
@@ -22,4 +23,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-19 22:28 UTC*
+*最後更新：2026-08-20 04:26 UTC*
