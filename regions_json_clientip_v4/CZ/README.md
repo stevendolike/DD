@@ -20,4 +20,4 @@
 | UPC Ceska republika, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/UPC%20Ceska%20republika%2C%20a.s.txt) |
 
 ---
-*最後更新：2026-08-20 04:26 UTC*
+*最後更新：2026-08-20 10:37 UTC*
