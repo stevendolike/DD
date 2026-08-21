@@ -10,4 +10,4 @@
 | MMITECH d.o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SI/MMITECH%20d.o.o.txt) |
 
 ---
-*最後更新：2026-08-21 04:28 UTC*
+*最後更新：2026-08-21 10:36 UTC*
