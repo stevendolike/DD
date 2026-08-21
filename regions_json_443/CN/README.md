@@ -10,4 +10,4 @@
 | Aliyun Computing Co., LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CN/Aliyun%20Computing%20Co.%2C%20LTD.txt) |
 
 ---
-*最後更新：2026-08-21 10:36 UTC*
+*最後更新：2026-08-21 16:39 UTC*
