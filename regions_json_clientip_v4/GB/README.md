@@ -1,6 +1,6 @@
 # GB
 
-**共 288 條** · [返回主頁](../../README.md)
+**共 271 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/365%20Group%20LLC.txt) |
 | AEZA GROUP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/AEZA%20GROUP%20LLC.txt) |
-| Amazon Data Services UK | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Amazon%20Data%20Services%20UK.txt) |
+| Amazon Data Services UK | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
 | BAGE CLOUD LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BG-NETWORK.txt) |
@@ -16,7 +16,6 @@
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Baxet%20Group%20Inc.txt) |
 | Contabo GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Contabo%20GmbH.txt) |
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Costel%20Savulescu.txt) |
-| Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Datacamp%20Limited.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/DigitalOcean%20London.txt) |
 | DigitalOcean, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/DigitalOcean%2C%20LLC.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Fabric_zone.txt) |
@@ -27,14 +26,11 @@
 | Hydra Communications Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Hydra%20Communications%20Ltd.txt) |
 | IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/IONOS%20SE.txt) |
 | Iomart Managed Services Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Iomart%20Managed%20Services%20Limited.txt) |
-| Kirino LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Kirino%20LLC.txt) |
-| LifeinCloud LTD, | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/LifeinCloud%20LTD%2C.txt) |
 | Linode, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode%2C%20LLC.txt) |
-| Linode | 97 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode.txt) |
+| Linode | 86 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/MVPS%20LTD.txt) |
 | Microsoft Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Microsoft%20Limited.txt) |
 | NOCX Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/NOCX%20Online%20GmbH.txt) |
-| NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/NetCrafters%20OU.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Ltd | 66 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/OVH%20Ltd.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Oracle%20Public%20Cloud.txt) |
@@ -49,4 +45,4 @@
 | Zenlayer Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Zenlayer%20Inc.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

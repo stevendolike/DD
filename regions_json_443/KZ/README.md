@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 58 條** · [返回主頁](../../README.md)
+**共 57 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt)
 
@@ -26,7 +26,6 @@
 | Modern Server Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | PS Internet Company LLP | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Quasar%20LLC.txt) |
-| Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Servercore%20Network.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

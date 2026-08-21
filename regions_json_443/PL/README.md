@@ -1,12 +1,12 @@
 # PL （純 IP）
 
-**共 115 條** · [返回主頁](../../README.md)
+**共 114 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/1Cent%20Host.txt) |
+| 1Cent Host | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/1Cent%20Host.txt) |
 | 3K33 sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3K33%20sp.%20z%20o.o.txt) |
 | Additional IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Additional%20IPv6.txt) |
 | Artnet Sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Artnet%20Sp.%20z%20o.o.txt) |
@@ -37,12 +37,12 @@
 | Local NCC Ltd | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
 | NET 45 149 63 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NET%2045%20149%2063%200%2024.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NetGrid%20Host%20LTD.txt) |
-| Newserverlife LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Newserverlife%20LLC.txt) |
+| Newserverlife LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | Podaon SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Podaon%20SIA.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Private%20Customer.txt) |
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Pronet%20LLC.txt) |
-| QWINS Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/QWINS%20Hosting.txt) |
+| QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/QWINS%20Hosting.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/SEBEK%20sp.%20z%20o.o.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Snowd%20Security%20OU.txt) |
 | The Constant Company, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/The%20Constant%20Company%2C%20LLC.txt) |
@@ -52,4 +52,4 @@
 | play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

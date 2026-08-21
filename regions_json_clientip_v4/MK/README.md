@@ -9,4 +9,4 @@
 | AVSISP MACEDONIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MK/AVSISP%20MACEDONIA.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

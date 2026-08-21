@@ -1,17 +1,16 @@
 # DE （純 IP）
 
-**共 411 條** · [返回主頁](../../README.md)
+**共 407 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 139.162.0.0_16 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/139.162.0.0_16.txt) |
-| 1Cent Host | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/1Cent%20Host.txt) |
+| 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/3NT%20SOLUTIONS%20LLP.txt) |
 | A100 ROW GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/A100%20ROW%20GmbH.txt) |
 | AEZA GROUP LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
-| AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20Ltd.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Alibaba%20Cloud%20LLC.txt) |
 | AlphaVPS LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AlphaVPS%20LLC.txt) |
 | Amsterdam, Netherlands | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Amsterdam%2C%20Netherlands.txt) |
@@ -29,7 +28,7 @@
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Evoxt.com.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| Fornex Hosting S.L | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Fornex%20Hosting%20S.L.txt) |
+| Fornex Hosting S.L | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Fornex%20Hosting%20S.L.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTELCOM LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/GTELCOM%20LLC.txt) |
@@ -78,7 +77,6 @@
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | ahbr company limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/ahbr%20company%20limited.txt) |
-| dataforest GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/dataforest%20GmbH.txt) |
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/lease%20for%20Timeweb.txt) |
 | netcup GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/netcup%20GmbH.txt) |
 | nuxtcloud | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/nuxtcloud.txt) |
@@ -90,4 +88,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/xTom.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

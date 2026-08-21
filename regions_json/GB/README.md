@@ -1,15 +1,15 @@
 # GB
 
-**共 1,471 條** · [返回主頁](../../README.md)
+**共 1,475 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/365%20Group%20LLC.txt) |
-| AEZA GROUP LLC | 328 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/AEZA%20GROUP%20LLC.txt) |
-| Amazon Data Services Ireland Ltd | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
-| Amazon Data Services UK | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20UK.txt) |
+| AEZA GROUP LLC | 337 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/AEZA%20GROUP%20LLC.txt) |
+| Amazon Data Services Ireland Ltd | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Amazon Data Services UK | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
 | BAGE CLOUD LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/BG-NETWORK.txt) |
@@ -21,9 +21,8 @@
 | Clouvider Limited | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Clouvider%20Limited.txt) |
 | Contabo GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Contabo%20GmbH.txt) |
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Costel%20Savulescu.txt) |
-| Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Datacamp%20Limited.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%20London.txt) |
-| DigitalOcean, LLC | 667 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 666 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%2C%20LLC.txt) |
 | Evoxt.com | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Evoxt.com.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Fabric_zone.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
@@ -36,15 +35,12 @@
 | Hydra Communications Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Hydra%20Communications%20Ltd.txt) |
 | IONOS SE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/IONOS%20SE.txt) |
 | Iomart Managed Services Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Iomart%20Managed%20Services%20Limited.txt) |
-| Kirino LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Kirino%20LLC.txt) |
-| LifeinCloud LTD, | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/LifeinCloud%20LTD%2C.txt) |
 | Linode, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode%2C%20LLC.txt) |
-| Linode | 190 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode.txt) |
+| Linode | 191 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/MVPS%20LTD.txt) |
 | Microsoft Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Microsoft%20Limited.txt) |
 | Monkey Tree Hosting Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Monkey%20Tree%20Hosting%20Limited.txt) |
 | NOCX Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/NOCX%20Online%20GmbH.txt) |
-| NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/NetCrafters%20OU.txt) |
 | None specified | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/None%20specified.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Ltd | 73 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/OVH%20Ltd.txt) |
@@ -69,4 +65,4 @@
 | xTom GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

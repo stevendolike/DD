@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 650 條** · [返回主頁](../../README.md)
+**共 648 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -22,7 +22,7 @@
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Google%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Hetzner%20Online%20GmbH.txt) |
-| HostPapa | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HostPapa.txt) |
+| HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/HostPapa.txt) |
 | Huize Holdings LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Huize%20Holdings%20LLC.txt) |
 | IONOS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/IONOS%20Inc.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/IT7%20Networks%20Inc.txt) |
@@ -32,7 +32,7 @@
 | Leaseweb USA, Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Leaseweb%20USA%2C%20Inc.txt) |
 | MULTACOM CORPORATION | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/MULTACOM%20CORPORATION.txt) |
 | NEBULA GLOBAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NEBULA%20GLOBAL%20LIMITED.txt) |
-| NetCrafters OU | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
+| NetCrafters OU | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
 | NetLab | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetLab.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Oracle%20Corporation.txt) |
 | Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Podaon%20SIA.txt) |
@@ -50,4 +50,4 @@
 | as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

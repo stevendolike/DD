@@ -1,13 +1,12 @@
 # HK
 
-**共 59 條** · [返回主頁](../../README.md)
+**共 56 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 111 Sports West | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/111%20Sports%20West.txt) |
-| 6 COLLYER QUAY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/6%20COLLYER%20QUAY.txt) |
 | ABCDE GROUP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/ABCDE%20GROUP.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/ACE.txt) |
 | AKILE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/AKILE%20LTD.txt) |
@@ -38,4 +37,4 @@
 | hongkong netbroadband | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/hongkong%20netbroadband.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 209 條** · [返回主頁](../../README.md)
+**共 210 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 92 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 91 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baxet%20Group%20Inc.txt) |
@@ -22,6 +22,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Glesys AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Glesys%20AB.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/HZ%20Hosting%20Ltd.txt) |
+| Hollander & Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
 | Hostup AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hostup%20AB.txt) |
 | IB Compute Systems Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/IB%20Compute%20Systems%20Inc.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/IROKO%20Networks%20Corporation.txt) |
@@ -30,7 +31,7 @@
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/MVPS%20LTD.txt) |
 | Materialism s.r.l | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Materialism%20s.r.l.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Melbikomas%20UAB.txt) |
-| NetCrafters OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/NetCrafters%20OU.txt) |
+| NetCrafters OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/NetCrafters%20OU.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Prinode AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Prinode%20AB.txt) |
 | Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Private%20Customer.txt) |
@@ -39,7 +40,7 @@
 | Reverse-Proxy | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Reverse-Proxy.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SEBEK%20sp.%20z%20o.o.txt) |
-| SIA VEESP | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
+| SIA VEESP | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
 | STO lab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/STO%20lab.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/South%20Park%20Networks%20LLC.txt) |
 | Vultr Sweden | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
@@ -49,4 +50,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 86 條** · [返回主頁](../../README.md)
+**共 85 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/_all.txt)
 
@@ -15,7 +15,7 @@
 | GLAVTEL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/GLAVTEL%20LLC.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Global Communications LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Global%20Communications%20LLC.txt) |
-| Hosting technology LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Hosting%20technology%20LTD.txt) |
+| Hosting technology LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Hosting%20technology%20LTD.txt) |
 | Internet Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Internet%20Hosting%20LLC.txt) |
 | JSC Datacenter | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20Datacenter.txt) |
 | JSC TIMEWEB | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/JSC%20TIMEWEB.txt) |
@@ -51,4 +51,4 @@
 | e-Style ISP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/e-Style%20ISP%20LLC.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

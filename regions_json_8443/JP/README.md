@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 61 條** · [返回主頁](../../README.md)
+**共 60 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -33,11 +33,10 @@
 | SAKURA LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/SAKURA%20LTD.txt) |
 | Server Hosting Service (NTTPCCommunications,Inc.) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Server%20Hosting%20Service%20%28NTTPCCommunications%2CInc.%29.txt) |
 | ShouyuResearchNetwork-LUX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ShouyuResearchNetwork-LUX.txt) |
-| Starry Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Starry%20Network%20Limited.txt) |
 | The Constant Company, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company%2C%20LLC.txt) |
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/VMISS%20Inc.txt) |
 | Vultr Holdings, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings%2C%20LLC.txt) |
 | xTom Japan Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

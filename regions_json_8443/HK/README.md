@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 68 條** · [返回主頁](../../README.md)
+**共 64 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
@@ -8,8 +8,7 @@
 |------|--------|---------|
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/6%20COLLYER%20QUAY.txt) |
 | A Pensonal Global Research Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/A%20Pensonal%20Global%20Research%20Network.txt) |
-| ACCK LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ACCK%20LLC.txt) |
-| ACEVILLE PTE.LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ACEVILLE%20PTE.LTD.txt) |
+| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ACEVILLE%20PTE.LTD.txt) |
 | AKILE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/AKILE%20LTD.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
@@ -35,8 +34,8 @@
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Subnet%20Digital%20LLC.txt) |
 | UNIT 04,7_F,BRIGHT WAY TOWER,NO. 33 MONG KOK ROAD,KOWLOON | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/UNIT%2004%2C7_F%2CBRIGHT%20WAY%20TOWER%2CNO.%2033%20MONG%20KOK%20ROAD%2CKOWLOON.txt) |
 | VH Global Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VH%20Global%20Limited.txt) |
-| VMISS Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc.txt) |
+| VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc.txt) |
 | ZOUTER HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ZOUTER%20HK.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

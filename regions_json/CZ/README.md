@@ -1,6 +1,6 @@
 # CZ
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 131 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
@@ -13,7 +13,7 @@
 | EDIS IPv6 Infrastructure in Czechia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/EDIS%20IPv6%20Infrastructure%20in%20Czechia.txt) |
 | FDCservers.net | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/FDCservers.net.txt) |
 | Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Friendhosting%20LTD.txt) |
-| GREEN FLOID LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/GREEN%20FLOID%20LLC.txt) |
 | HOST-TELECOM.COM s.r.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/HOST-TELECOM.COM%20s.r.o.txt) |
 | INTERNET CZ, a.s | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/INTERNET%20CZ%2C%20a.s.txt) |
 | Iron Hosting Centre LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
@@ -21,10 +21,11 @@
 | Jan Stetina | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Jan%20Stetina.txt) |
 | Reliable Communications s.r.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Reliable%20Communications%20s.r.o.txt) |
 | Retzor, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor%2C%20Inc.txt) |
-| SmartApe OU | 77 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
+| Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor-com.txt) |
+| SmartApe OU | 76 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
 | UPC Ceska republika, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/UPC%20Ceska%20republika%2C%20a.s.txt) |
 | Zdenek Klauda - FinalTek.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Zdenek%20Klauda%20-%20FinalTek.com.txt) |
 | Zoner webhosting and serverhosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Zoner%20webhosting%20and%20serverhosting%20services.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

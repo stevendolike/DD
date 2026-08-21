@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 42 條** · [返回主頁](../../README.md)
+**共 41 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/_all.txt)
 
@@ -22,7 +22,7 @@
 | NET 45 149 63 0 24 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NET%2045%20149%2063%200%2024.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NetGrid%20Host%20LTD.txt) |
 | Newserverlife LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20Sp.%20z%20o.%20o.txt) |
+| OVH Sp. z o. o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Podaon%20SIA.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/QWINS%20Hosting.txt) |
@@ -32,4 +32,4 @@
 | Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Warsaw%2C%20Poland.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*

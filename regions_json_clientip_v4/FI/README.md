@@ -1,6 +1,6 @@
 # FI
 
-**共 403 條** · [返回主頁](../../README.md)
+**共 396 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/_all_443.txt)
 
@@ -12,10 +12,10 @@
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Ace Data Centers II, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Ace%20Data%20Centers%20II%2C%20LLC.txt) |
 | Aeza-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Aeza-Network.txt) |
-| Anton Levin | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Anton%20Levin.txt) |
+| Anton Levin | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Anton%20Levin.txt) |
 | BG-NETWORK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/BG-NETWORK.txt) |
-| Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Baykov%20Ilya%20Sergeevich.txt) |
+| Baxet Group Inc | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Baxet%20Group%20Inc.txt) |
+| Baykov Ilya Sergeevich | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Baykov%20Ilya%20Sergeevich.txt) |
 | CHSL Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/CHSL%20Helsinki.txt) |
 | Creanova | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Creanova.txt) |
 | DGTL TECH UK LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/DGTL%20TECH%20UK%20LLP.txt) |
@@ -31,24 +31,23 @@
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Google%20LLC.txt) |
 | Great Flower | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Great%20Flower.txt) |
 | H2.NEXUS Minsk Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/H2.NEXUS%20Minsk%20Network.txt) |
-| HOSTKEY B.V | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/HOSTKEY%20B.V.txt) |
+| HOSTKEY B.V | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 68 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Hetzner%20Online%20GmbH.txt) |
-| IT-Garage | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/IT-Garage.txt) |
+| IT-Garage | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/IT-Garage.txt) |
 | Individual Entrepreneur Anton Levin | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| Intezio Worldwide Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Intezio%20Worldwide%20Limited.txt) |
 | LIVI HOSTING LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/LIVI%20HOSTING%20LTD.txt) |
 | MALLATIUS HOLDINGS ET INVESTISSEMENTS SARL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/MALLATIUS%20HOLDINGS%20ET%20INVESTISSEMENTS%20SARL.txt) |
-| NODE HOST LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/NODE%20HOST%20LIMITED.txt) |
-| NetCrafters OU | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/NetCrafters%20OU.txt) |
+| NODE HOST LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/NODE%20HOST%20LIMITED.txt) |
+| NetCrafters OU | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/NetCrafters%20OU.txt) |
 | New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/New%20Hosting%20Technologies%20LLC.txt) |
 | Oneprovider.com - Helsinki Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Oneprovider.com%20-%20Helsinki%20Infrastructure.txt) |
 | POWER-SERVERS-ROLE-ORG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/POWER-SERVERS-ROLE-ORG.txt) |
-| PSERVERS Enterprise Network | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/PSERVERS%20Enterprise%20Network.txt) |
+| PSERVERS Enterprise Network | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/PSERVERS%20Enterprise%20Network.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Private%20Customer.txt) |
-| QWINS Hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/QWINS%20Hosting.txt) |
-| RCS Technologies FZE LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/RCS%20Technologies%20FZE%20LLC.txt) |
+| QWINS Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/QWINS%20Hosting.txt) |
+| RCS Technologies FZE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/RCS%20Technologies%20FZE%20LLC.txt) |
 | RTM Networks B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/RTM%20Networks%20B.V.txt) |
-| RapidSeedbox Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/RapidSeedbox%20Ltd.txt) |
+| RapidSeedbox Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/RapidSeedbox%20Ltd.txt) |
 | Reliable Communications s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Reliable%20Communications%20s.r.o.txt) |
 | SERV.HOST GROUP LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/SERV.HOST%20GROUP%20LTD.txt) |
 | Senko Digital LLC - FI Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
@@ -58,12 +57,12 @@
 | VPSPay - vpspay.cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/VPSPay%20-%20vpspay.cloud.txt) |
 | WAIcore Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/WAIcore%20Ltd.txt) |
 | Web1 Oy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Web1%20Oy.txt) |
-| WorkTitans B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/WorkTitans%20B.V.txt) |
+| WorkTitans B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/WorkTitans%20B.V.txt) |
 | Xorek.Cloud Helsinki | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Xorek.Cloud%20Helsinki.txt) |
 | jogcorp | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/jogcorp.txt) |
-| nuxtcloud | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/nuxtcloud.txt) |
+| nuxtcloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/nuxtcloud.txt) |
 | play2go.cloud - Cheap and reliable hosting | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | u1host Finland | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-08-20 22:30 UTC*
+*最後更新：2026-08-21 04:28 UTC*
