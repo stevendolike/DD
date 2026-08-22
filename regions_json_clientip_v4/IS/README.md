@@ -7,9 +7,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1984 ehf | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/1984%20ehf.txt) |
-| FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/FlokiNET%20ehf.txt) |
-| HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/HOSTKEY%20B.V.txt) |
+| HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/HOSTKEY%20B.V.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IS/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

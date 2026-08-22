@@ -1,6 +1,6 @@
 # KR （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 20 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/_all.txt)
 
@@ -8,11 +8,12 @@
 |------|--------|---------|
 | 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/6%20COLLYER%20QUAY.txt) |
-| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Cloudflare%20London%2C%20LLC.txt) |
 | Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Public%20Cloud.txt) |
-| Prinode AB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Prinode%20AB.txt) |
-| The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/The%20Constant%20Company%2C%20LLC.txt) |
+| Prinode AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Prinode%20AB.txt) |
+| SK Broadband Co Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/SK%20Broadband%20Co%20Ltd.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

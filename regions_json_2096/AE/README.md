@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | BFB ONE FZ-LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/AE/BFB%20ONE%20FZ-LLC.txt) |
-| Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/AE/Cloudflare%2C%20Inc.txt) |
+| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/AE/Oracle%20Svenska%20AB.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

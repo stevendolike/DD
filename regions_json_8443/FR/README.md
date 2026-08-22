@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 164 條** · [返回主頁](../../README.md)
+**共 162 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/_all.txt)
 
@@ -13,7 +13,7 @@
 | BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/BitWeb%20LLC.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
 | Blockchain Games N.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Blockchain%20Games%20N.V.txt) |
-| CGI GLOBAL LIMITED | 57 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 55 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CloudBackbone.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo GmbH | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Contabo%20GmbH.txt) |
@@ -25,7 +25,7 @@
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Linode.txt) |
 | Mo's Operations GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Mo%27s%20Operations%20GmbH.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/NetCrafters%20OU.txt) |
-| OVH SAS | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
+| OVH SAS | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/OVH%20SAS.txt) |
 | RackNerd, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/RackNerd%2C%20LLC.txt) |
 | Scaleway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Scaleway.txt) |
 | Subnet Digital LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Subnet%20Digital%20LLC.txt) |
@@ -36,7 +36,7 @@
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
-| as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
+| as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

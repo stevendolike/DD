@@ -1,6 +1,6 @@
 # HK
 
-**共 56 條** · [返回主頁](../../README.md)
+**共 54 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/_all_443.txt)
 
@@ -21,8 +21,9 @@
 | DATAGEAR LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/DATAGEAR%20LLP.txt) |
 | Globaldata Investments Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Globaldata%20Investments%20Inc.txt) |
 | HK DINGDIAN NETWORK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/HK%20DINGDIAN%20NETWORK%20LIMITED.txt) |
+| Hong Kong Broadband Network Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Hong%20Kong%20Broadband%20Network%20Ltd.txt) |
 | Hong Kong Telecommunications (HKT) Limited Business Internet | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Business%20Internet.txt) |
-| Hong Kong Telecommunications (HKT) Limited Mass Internet | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
+| Hong Kong Telecommunications (HKT) Limited Mass Internet | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/IROKO%20Networks%20Corporation.txt) |
 | Integen, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Integen%2C%20Inc.txt) |
 | LeaseWeb Asia Pacific - Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/LeaseWeb%20Asia%20Pacific%20-%20Hong%20Kong.txt) |
@@ -32,9 +33,7 @@
 | Skyvoro Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Skyvoro%20Inc.txt) |
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/SonderCloud%20Limited.txt) |
 | Subnet Digital LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Subnet%20Digital%20LLC.txt) |
-| UNIT 04,7_F,BRIGHT WAY TOWER,NO. 33 MONG KOK ROAD,KOWLOON | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/UNIT%2004%2C7_F%2CBRIGHT%20WAY%20TOWER%2CNO.%2033%20MONG%20KOK%20ROAD%2CKOWLOON.txt) |
-| VAPELINE TECHNOLOGY(HK).,LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/VAPELINE%20TECHNOLOGY%28HK%29.%2CLIMITED.txt) |
 | hongkong netbroadband | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/hongkong%20netbroadband.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

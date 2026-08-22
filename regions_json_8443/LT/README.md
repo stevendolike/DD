@@ -8,10 +8,10 @@
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | PROGRESYVUS SPRENDIMAI UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/PROGRESYVUS%20SPRENDIMAI%20UAB.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Interneto%20vizija.txt) |
+| UAB Interneto vizija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

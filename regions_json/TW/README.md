@@ -8,15 +8,15 @@
 |------|--------|---------|
 | ACCK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ACCK%20LLC.txt) |
 | Akari Networks (Taipei) | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Akari%20Networks%20%28Taipei%29.txt) |
+| Antbox Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Antbox%20Network%20Limited.txt) |
 | ByteVirt LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ByteVirt%20LLC.txt) |
 | Chunghwa Telecom Data Communication Business Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/DATAWAVE%20GLOBAL%20LLC.txt) |
 | Data Communication Business Group, | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Data%20Communication%20Business%20Group%2C.txt) |
 | HiNet Taiwan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/HiNet%20Taiwan.txt) |
-| Imcloud Technology Co., Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Imcloud%20Technology%20Co.%2C%20Ltd.txt) |
 | NCSE NETWORK, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/NCSE%20NETWORK%2C%20LLC.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Private%20Customer.txt) |
 | STARVERSE POLOCLOUD 2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/STARVERSE%20POLOCLOUD%202.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

@@ -11,4 +11,4 @@
 | RACKNERD-FR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FR/RACKNERD-FR.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*

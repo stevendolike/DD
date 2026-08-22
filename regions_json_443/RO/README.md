@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 22 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt)
 
@@ -14,6 +14,7 @@
 | FlokiNET ehf | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/FlokiNET%20ehf.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/GREEN%20FLOID%20LLC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/IROKO%20Networks%20Corporation.txt) |
+| NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/NetGrid%20Host%20LTD.txt) |
 | NexonHost SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/NexonHost%20SRL.txt) |
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
@@ -22,4 +23,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-21 22:28 UTC*
+*最後更新：2026-08-22 04:21 UTC*
