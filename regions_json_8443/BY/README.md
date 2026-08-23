@@ -10,4 +10,4 @@
 | LLC Raccoon technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BY/LLC%20Raccoon%20technology.txt) |
 
 ---
-*最後更新：2026-08-23 16:31 UTC*
+*最後更新：2026-08-23 22:25 UTC*
