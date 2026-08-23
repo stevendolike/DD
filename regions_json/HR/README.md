@@ -10,4 +10,4 @@
 | MAXKO d.o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HR/MAXKO%20d.o.o.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

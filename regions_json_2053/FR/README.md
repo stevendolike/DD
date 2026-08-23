@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 108 條** · [返回主頁](../../README.md)
+**共 106 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/_all.txt)
 
@@ -8,13 +8,12 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/AEZA%20GROUP%20LLC.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Baxet%20Group%20Inc.txt) |
-| BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/BitWeb%20LLC.txt) |
 | Blockchain Games N.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Blockchain%20Games%20N.V.txt) |
 | CGI GLOBAL LIMITED | 58 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CloudBackbone.txt) |
 | Contabo GmbH | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/EGIHosting.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/HOSTKEY%20B.V.txt) |
 | IPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/IPXO.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Linode.txt) |
@@ -29,4 +28,4 @@
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

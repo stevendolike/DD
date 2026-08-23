@@ -1,6 +1,6 @@
 # KZ
 
-**共 95 條** · [返回主頁](../../README.md)
+**共 94 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -23,7 +23,7 @@
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | JSC Datacenter | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20Datacenter.txt) |
 | JSC Kazakhtelecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20Kazakhtelecom.txt) |
-| JSC TIMEWEB | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
 | LLP Internet Company First Page | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/MT%20FINANCE%20LLC.txt) |
 | Megahost Kazakhstan TOO | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Megahost%20Kazakhstan%20TOO.txt) |
@@ -36,4 +36,4 @@
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

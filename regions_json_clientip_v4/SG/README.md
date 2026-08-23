@@ -1,6 +1,6 @@
 # SG
 
-**共 67 條** · [返回主頁](../../README.md)
+**共 68 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all_443.txt)
 
@@ -18,7 +18,7 @@
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Hetzner%20Online%20GmbH.txt) |
 | Huawei-Cloud-SG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Huawei-Cloud-SG.txt) |
-| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Microsoft%20Corporation.txt) |
+| Microsoft Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Microsoft%20Corporation.txt) |
 | OVH Singapore PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/OVH%20Singapore%20PTE.%20LTD.txt) |
 | Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Public%20Cloud.txt) |
@@ -34,4 +34,4 @@
 | Zenlayer (Singapore) PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Zenlayer%20%28Singapore%29%20PTE.%20LTD.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

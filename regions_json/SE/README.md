@@ -1,6 +1,6 @@
 # SE
 
-**共 336 條** · [返回主頁](../../README.md)
+**共 329 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 153 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 148 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
 | ALEXHOST S.R.L | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20S.R.L.txt) |
 | Amazon Data Services Ireland Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Sweden.txt) |
@@ -16,7 +16,6 @@
 | Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/BlueVPS%20OU.txt) |
-| CacheFly | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/CacheFly.txt) |
 | DFDB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/DFDB%20LLC.txt) |
 | Deployish Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Deployish%20Limited.txt) |
 | EDIS GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/EDIS%20GmbH.txt) |
@@ -26,10 +25,12 @@
 | Glesys AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Glesys%20AB.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/HZ%20Hosting%20Ltd.txt) |
 | Hollander & Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
+| HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/HostHatch%20LLC.txt) |
 | Hostup AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hostup%20AB.txt) |
 | IB Compute Systems Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/IB%20Compute%20Systems%20Inc.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/IROKO%20Networks%20Corporation.txt) |
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ISPIRIA%20Networks%20Ltd.txt) |
+| Internetport Sweden AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Internetport%20Sweden%20AB.txt) |
 | Iranian Research Organization for Science & Technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Iranian%20Research%20Organization%20for%20Science%20%26%20Technology.txt) |
 | Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Linode.txt) |
 | MVPS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/MVPS%20LTD.txt) |
@@ -37,7 +38,7 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Microsoft%20Corporation.txt) |
 | NetCrafters OU | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/NetCrafters%20OU.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
+| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Oracle%20Svenska%20AB.txt) |
 | Prinode AB | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Prinode%20AB.txt) |
@@ -48,7 +49,7 @@
 | Reverse-Proxy | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Reverse-Proxy.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SEBEK%20sp.%20z%20o.o.txt) |
-| SIA VEESP | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
+| SIA VEESP | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
 | STO lab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/STO%20lab.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/South%20Park%20Networks%20LLC.txt) |
 | SweHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SweHosting.txt) |
@@ -62,4 +63,4 @@
 | www.fornex.com, Fornex Hosting S.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

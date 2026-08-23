@@ -1,12 +1,12 @@
 # AT
 
-**共 88 條** · [返回主頁](../../README.md)
+**共 90 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/AEZA%20GROUP%20LLC.txt) |
 | Alpenhost e.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Alpenhost%20e.U.txt) |
 | Alwyzon, a trading name of Hohl IT e.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | Anexia Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Anexia%20Holding%20GmbH.txt) |
@@ -18,4 +18,4 @@
 | powered by ANX | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 109 條** · [返回主頁](../../README.md)
+**共 108 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20GROUP%20LLC.txt) |
 | Contabo GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
-| DigitalOcean, LLC | 72 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 71 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean%2C%20LLC.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | HR SYSHEAD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/HR%20SYSHEAD.txt) |
 | Iomart Managed Services Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Iomart%20Managed%20Services%20Limited.txt) |
@@ -21,4 +21,4 @@
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

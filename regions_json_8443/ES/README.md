@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/_all.txt)
 
@@ -12,10 +12,9 @@
 | HUIZE LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HUIZE%20LTD.txt) |
 | JaJoJoo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20Madrid%20Region.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/Vultr%20Holdings%2C%20LLC.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

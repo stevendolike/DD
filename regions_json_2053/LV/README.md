@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 124 條** · [返回主頁](../../README.md)
+**共 125 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/_all.txt)
 
@@ -12,7 +12,7 @@
 | HostVDS.com Cloud Provider | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | Mistic Internet Security Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
-| Private Customer | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Private%20Customer.txt) |
+| Private Customer | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Private%20Customer.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SEBEK%20sp.%20z%20o.o.txt) |
 | SIA VEESP | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
@@ -20,4 +20,4 @@
 | as56971 network | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

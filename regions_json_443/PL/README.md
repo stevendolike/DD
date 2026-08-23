@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 105 條** · [返回主頁](../../README.md)
+**共 102 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 1Cent Host | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/1Cent%20Host.txt) |
 | 3K33 sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3K33%20sp.%20z%20o.o.txt) |
-| Additional IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Additional%20IPv6.txt) |
 | Artnet Sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Artnet%20Sp.%20z%20o.o.txt) |
 | BREEZLE LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BREEZLE%20LLC.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baxet%20Group%20Inc.txt) |
@@ -26,13 +25,13 @@
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Hurricane%20Electric%20LLC.txt) |
 | INTEZIO Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/INTEZIO%20Network.txt) |
+| IQ REGIQDC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IQ%20REGIQDC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IROKO%20Networks%20Corporation.txt) |
-| Individual Entrepreneur Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | InterLIR Marketplace | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/InterLIR%20Marketplace.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
 | LLC Euroinform | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/LLC%20Euroinform.txt) |
 | Local NCC Ltd | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
-| NODE HOST LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NODE%20HOST%20LIMITED.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NetGrid%20Host%20LTD.txt) |
 | Newserverlife LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/OVH%20Sp.%20z%20o.%20o.txt) |
@@ -41,7 +40,6 @@
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Pronet%20LLC.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/QWINS%20Hosting.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/SEBEK%20sp.%20z%20o.o.txt) |
-| Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Snowd%20Security%20OU.txt) |
 | The Constant Company, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | VPSPay - vpspay.cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/VPSPay%20-%20vpspay.cloud.txt) |
 | Vladislav Novitskii | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Vladislav%20Novitskii.txt) |
@@ -49,4 +47,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

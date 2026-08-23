@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 60 條** · [返回主頁](../../README.md)
+**共 57 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
@@ -17,7 +17,7 @@
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/BlueVPS%20OU.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Cloud%20Software%20-%20FZCO.txt) |
 | Cloudie Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Cloudie%20Limited.txt) |
-| DEBEE Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/DEBEE%20Network.txt) |
+| DEBEE Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/DEBEE%20Network.txt) |
 | DMIT Cloud Service - Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Evoxt.com.txt) |
 | Globaldata Investments Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Globaldata%20Investments%20Inc.txt) |
@@ -32,9 +32,9 @@
 | RM301K,3_F,HONGKONG TRADE CENTRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/RM301K%2C3_F%2CHONGKONG%20TRADE%20CENTRE.txt) |
 | Skyvoro Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Skyvoro%20Inc.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Subnet%20Digital%20LLC.txt) |
-| VH Global Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VH%20Global%20Limited.txt) |
+| VH Global Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VH%20Global%20Limited.txt) |
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc.txt) |
 | ZOUTER HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ZOUTER%20HK.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

@@ -1,6 +1,6 @@
 # KR
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 41 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all_443.txt)
 
@@ -8,6 +8,7 @@
 |------|--------|---------|
 | 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 6 COLLYER QUAY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/6%20COLLYER%20QUAY.txt) |
+| AWS Asia Pacific (Seoul) Region | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/AWS%20Asia%20Pacific%20%28Seoul%29%20Region.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Alibaba%20Cloud%20LLC.txt) |
 | KOR_VULTR_CUST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/KOR_VULTR_CUST.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/LIGHT%20NODE%20LIMITED.txt) |
@@ -22,4 +23,4 @@
 | XNNET LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/XNNET%20LIMITED.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

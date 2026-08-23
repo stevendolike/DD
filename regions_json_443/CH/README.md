@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 133 條** · [返回主頁](../../README.md)
+**共 108 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -9,7 +9,7 @@
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/3NT%20SOLUTIONS%20LLP.txt) |
 | ALEXHOST S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/ALEXHOST%20S.R.L.txt) |
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/ALEXHOST%20SRL.txt) |
-| Baxet Group Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Baxet%20Group%20Inc.txt) |
 | BuyVM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/BuyVM.txt) |
 | Datasource AG | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Datasource%20AG.txt) |
 | EDIS Infrastructure in Switzerland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/EDIS%20Infrastructure%20in%20Switzerland.txt) |
@@ -17,10 +17,9 @@
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting%2C%20Geronimo%20Ramirez.txt) |
 | Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Green%20Floid%20LLC.txt) |
-| HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HOSTKEY%20B.V.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HostHatch.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/IT%20Hostline%20Ltd.txt) |
 | Infomaniak Network SA | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Infomaniak%20Network%20SA.txt) |
@@ -36,11 +35,11 @@
 | PRIVATE LAYER INC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/PRIVATE%20LAYER%20INC.txt) |
 | Prinode AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Prinode%20AB.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Private%20Customer.txt) |
-| RouterHosting LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | Switzerland infrastructure | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Switzerland%20infrastructure.txt) |
 | WebPros International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/WebPros%20International%20GmbH.txt) |
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*

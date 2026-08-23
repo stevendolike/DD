@@ -1,6 +1,6 @@
 # FR
 
-**共 349 條** · [返回主頁](../../README.md)
+**共 293 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/_all_443.txt)
 
@@ -11,19 +11,16 @@
 | AEZA GROUP LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/BEAFORT%20LIMITED.txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Baykov%20Ilya%20Sergeevich.txt) |
-| BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/BitWeb%20LLC.txt) |
-| CGI GLOBAL LIMITED | 125 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 126 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/CloudBackbone.txt) |
 | Contabo GmbH | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Contabo%20GmbH.txt) |
 | Dyjix SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Dyjix%20SAS.txt) |
 | EGIHosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/EGIHosting.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/FASTWARP%20LLP.txt) |
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Free%20SAS.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/HOSTKEY%20B.V.txt) |
 | IPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/IPXO.txt) |
-| IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/IT%20Hostline%20Ltd.txt) |
-| Inter Connects Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Inter%20Connects%20Inc.txt) |
 | Jogcorp SAS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Jogcorp%20SAS.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Linode.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Microsoft%20Corporation.txt) |
@@ -36,12 +33,13 @@
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Oracle%20Svenska%20AB.txt) |
+| OuiHeberg - Hébergeur (Network V2) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/OuiHeberg%20-%20H%C3%A9bergeur%20%28Network%20V2%29.txt) |
 | POP GRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/POP%20GRE.txt) |
 | RACKNERD-FR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/RACKNERD-FR.txt) |
 | RBX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/RBX.txt) |
 | SEVIN Jacques | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/SEVIN%20Jacques.txt) |
 | Scaleway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Scaleway.txt) |
-| Seigohost LLC | 89 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Seigohost%20LLC.txt) |
+| Seigohost LLC | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Seigohost%20LLC.txt) |
 | Subnet Digital LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Subnet%20Digital%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/UNKNOWN.txt) |
 | VIRTUASYS PARIS (PAR01FR) | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
@@ -52,4 +50,4 @@
 | YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-08-22 22:25 UTC*
+*最後更新：2026-08-23 04:26 UTC*
