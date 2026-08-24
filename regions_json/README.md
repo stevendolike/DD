@@ -77,4 +77,4 @@
 | ZA | 8 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json/ZA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-08-24 10:42 UTC*
+*最後更新：2026-08-24 16:42 UTC*

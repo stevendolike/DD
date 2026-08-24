@@ -28,4 +28,4 @@
 | XNNET LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KR/XNNET%20LIMITED.txt) |
 
 ---
-*最後更新：2026-08-24 10:42 UTC*
+*最後更新：2026-08-24 16:42 UTC*
