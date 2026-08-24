@@ -16,13 +16,13 @@
 | Level 6, 9-13 Young Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Level%206%2C%209-13%20Young%20Street.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Linode.txt) |
 | Macquarie Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Macquarie%20Telecom.txt) |
-| OVH SYD DC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/OVH%20SYD%20DC.txt) |
+| OVH SYD DC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/OVH%20SYD%20DC.txt) |
 | OVH SYD2 DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/OVH%20SYD2%20DC.txt) |
-| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Corporation.txt) |
+| Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Oracle%20Public%20Cloud.txt) |
 | The Constant Company, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/Vultr%20Holdings%2C%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/oracle.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

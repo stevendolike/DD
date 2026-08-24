@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/_all.txt)
 
@@ -10,6 +10,7 @@
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HOSTKEY%20B.V.txt) |
 | HUIZE LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HUIZE%20LTD.txt) |
+| IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/IONOS%20SE.txt) |
 | JaJoJoo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20Madrid%20Region.txt) |
 | The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/The%20Constant%20Company%2C%20LLC.txt) |
@@ -17,4 +18,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

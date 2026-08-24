@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | BACK WAVES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/BACK%20WAVES%20LIMITED.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Cloudflare%20London%2C%20LLC.txt) |
-| Datacamp Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Datacamp%20Limited.txt) |
+| Datacamp Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Datacamp%20Limited.txt) |
 | Hostsymbol Pte. Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Hostsymbol%20Pte.%20Ltd.txt) |
 | Leaseweb Japan K.K | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Leaseweb%20Japan%20K.K.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Linode.txt) |
@@ -22,4 +22,4 @@
 | xTom Japan Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

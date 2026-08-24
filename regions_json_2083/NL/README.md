@@ -11,8 +11,9 @@
 | Amsterdam, Netherlands | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Amsterdam%2C%20Netherlands.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baykov%20Ilya%20Sergeevich.txt) |
-| DigitalOcean, LLC | 182 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 181 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/DigitalOcean%2C%20LLC.txt) |
 | HOSTOFF infrastructure and hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/HZ%20Hosting%20Ltd.txt) |
 | Hosting Big Data B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Big%20Data%20B.V.txt) |
 | Iron Hosting Centre Ltd., London, UK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK.txt) |
 | JSC TIMEWEB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/JSC%20TIMEWEB.txt) |
@@ -23,4 +24,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

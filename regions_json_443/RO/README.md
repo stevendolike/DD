@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 20 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt)
 
@@ -18,8 +18,7 @@
 | NexonHost SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/NexonHost%20SRL.txt) |
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
-| ZERGRUSH SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ZERGRUSH%20SRL.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

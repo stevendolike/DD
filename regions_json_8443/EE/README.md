@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 48 條** · [返回主頁](../../README.md)
+**共 47 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/_all.txt)
 
@@ -10,10 +10,11 @@
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | AS INFONET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/AS%20INFONET.txt) |
 | Aktsiaselts WaveCom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Aktsiaselts%20WaveCom.txt) |
-| Brainoza OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Brainoza%20OU.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Cloudflare%20London%2C%20LLC.txt) |
-| Cogent Communications, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Cogent%20Communications%2C%20LLC.txt) |
+| Cogent Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Cogent%20Communications%2C%20LLC.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EE-Network.txt) |
+| ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/ExpressHost%20LTD.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HZ%20Hosting%20Ltd.txt) |
 | HostSlim OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HostSlim%20OU.txt) |
 | IPv6 network for hosting services | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/IPv6%20network%20for%20hosting%20services.txt) |
@@ -26,4 +27,4 @@
 | TAKEHOST.BIZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/TAKEHOST.BIZ.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

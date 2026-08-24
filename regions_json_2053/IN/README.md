@@ -1,6 +1,6 @@
 # IN （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 2 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/BEAFORT%20LIMITED.txt) |
 | DigitalOcean, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/DigitalOcean%2C%20LLC.txt) |
-| Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

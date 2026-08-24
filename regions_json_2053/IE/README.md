@@ -6,8 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Amazon Data Services Ireland Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
+| Amazon Data Services Ireland Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IE/Amazon.com%2C%20Inc.txt) |
+| RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IE/RackNerd%20LLC.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*

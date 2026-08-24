@@ -1,14 +1,13 @@
 # LT
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 20 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Baxet%20Group%20Inc.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Melbikomas%20UAB.txt) |
 | Oneprovider.com - Vilnius Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 | PROGRESYVUS SPRENDIMAI UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/PROGRESYVUS%20SPRENDIMAI%20UAB.txt) |
 | Pirma alokacija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Pirma%20alokacija.txt) |
@@ -19,4 +18,4 @@
 | UAB Interneto vizija | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-08-23 22:25 UTC*
+*最後更新：2026-08-24 04:34 UTC*
