@@ -14,4 +14,4 @@
 | OVH BE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/OVH%20BE.txt) |
 
 ---
-*最後更新：2026-08-25 04:29 UTC*
+*最後更新：2026-08-25 10:39 UTC*
