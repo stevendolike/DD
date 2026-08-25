@@ -1,13 +1,12 @@
 # DE （純 IP）
 
-**共 173 條** · [返回主頁](../../README.md)
+**共 172 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Amsterdam, Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Amsterdam%2C%20Netherlands.txt) |
-| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Cloudflare%20London%2C%20LLC.txt) |
 | DigitalOcean, LLC | 154 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/DigitalOcean%2C%20LLC.txt) |
 | Ethernet Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Ethernet%20Servers.txt) |
 | Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Fornex%20Hosting%20S.L.txt) |
@@ -22,4 +21,4 @@
 | u1host ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/u1host%20ltd.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

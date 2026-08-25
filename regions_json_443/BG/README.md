@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 35 條** · [返回主頁](../../README.md)
+**共 33 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt)
 
@@ -15,11 +15,10 @@
 | Friendhosting LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/GREEN%20FLOID%20LLC.txt) |
 | ITLDC EU2.SOF Datacenter Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
-| Lir.bg EOOD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
+| Lir.bg EOOD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/NetGrid%20Host%20LTD.txt) |
 | ROLANDAS USCILA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ROLANDAS%20USCILA.txt) |
 | Redcluster LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Redcluster%20LTD.txt) |
-| SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/SEBEK%20sp.%20z%20o.o.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

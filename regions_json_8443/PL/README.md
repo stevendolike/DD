@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 68 條** · [返回主頁](../../README.md)
+**共 67 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt)
 
@@ -14,7 +14,7 @@
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baykov%20Ilya%20Sergeevich.txt) |
 | EDIS Infrastructure in Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
-| ExpressHost LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/ExpressHost%20LTD.txt) |
+| ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/ExpressHost%20LTD.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GREEN%20FLOID%20LLC.txt) |
@@ -41,4 +41,4 @@
 | Vladislav Novitskii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Vladislav%20Novitskii.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

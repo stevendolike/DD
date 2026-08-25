@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 284 條** · [返回主頁](../../README.md)
+**共 281 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/_all.txt)
 
@@ -21,7 +21,7 @@
 | CYBERCON, INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/CYBERCON%2C%20INC.txt) |
 | Charter Communications Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Charter%20Communications%20Inc.txt) |
 | Cloud Web Manage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Cloud%20Web%20Manage.txt) |
-| Cloudflare London, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Cloudflare%20London%2C%20LLC.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Cluster%20Logic%20Inc.txt) |
 | Cogent Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Cogent%20Communications%2C%20LLC.txt) |
 | ColoCrossing | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/ColoCrossing.txt) |
@@ -54,7 +54,7 @@
 | LeaseWeb USA, Inc. Los Angeles | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/LeaseWeb%20USA%2C%20Inc.%20Los%20Angeles.txt) |
 | Leaseweb USA, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Leaseweb%20USA%2C%20Inc.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Linode.txt) |
-| MULTACOM CORPORATION | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/MULTACOM%20CORPORATION.txt) |
+| MULTACOM CORPORATION | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/MULTACOM%20CORPORATION.txt) |
 | NTT DATA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/NTT%20DATA.txt) |
 | NetCrafters OU | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/NetCrafters%20OU.txt) |
 | NetLab Global | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/NetLab%20Global.txt) |
@@ -64,7 +64,6 @@
 | OVH US LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/OVH%20US%20LLC.txt) |
 | Oracle Corporation | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Oracle%20Corporation.txt) |
 | PEG TECH INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/PEG%20TECH%20INC.txt) |
-| PSB HOSTING LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/PSB%20HOSTING%20LTD.txt) |
 | Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Podaon%20SIA.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Private%20Customer.txt) |
 | RAMNODE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/RAMNODE.txt) |
@@ -76,7 +75,7 @@
 | Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Subnet%20Digital%20LLC.txt) |
 | TNAHOSTING | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/TNAHOSTING.txt) |
 | TURING GROUP LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/TURING%20GROUP%20LIMITED.txt) |
-| The Constant Company, LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/The%20Constant%20Company%2C%20LLC.txt) |
 | Tzulo-DJC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Tzulo-DJC.txt) |
 | United States. Utah | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/United%20States.%20Utah.txt) |
 | Verizon Business | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Verizon%20Business.txt) |
@@ -89,7 +88,7 @@
 | YottaSrc Hosting and Cloud Service | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | ZOUTER SLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/ZOUTER%20SLC.txt) |
 | Zenlayer Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Zenlayer%20Inc.txt) |
-| Zont LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Zont%20LLC.txt) |
+| Zont LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/Zont%20LLC.txt) |
 | as56971 network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/as56971%20network.txt) |
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/netcup%20GmbH.txt) |
 | sally wang | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/sally%20wang.txt) |
@@ -97,4 +96,4 @@
 | xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/xTom.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

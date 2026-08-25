@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 104 條** · [返回主頁](../../README.md)
+**共 105 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 1Cent Host | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/1Cent%20Host.txt) |
 | 3K33 sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3K33%20sp.%20z%20o.o.txt) |
-| Additional IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Additional%20IPv6.txt) |
 | Artnet Sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Artnet%20Sp.%20z%20o.o.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BG-NETWORK.txt) |
 | BREEZLE LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BREEZLE%20LLC.txt) |
@@ -27,6 +26,7 @@
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Hurricane%20Electric%20LLC.txt) |
 | INTEZIO Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/INTEZIO%20Network.txt) |
+| IQ REGIQDC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IQ%20REGIQDC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IROKO%20Networks%20Corporation.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IT%20Hostline%20Ltd.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -34,7 +34,7 @@
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
 | Local NCC Ltd | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NetGrid%20Host%20LTD.txt) |
-| Newserverlife LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Newserverlife%20LLC.txt) |
+| Newserverlife LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Podaon%20SIA.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Private%20Customer.txt) |
@@ -48,4 +48,4 @@
 | play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

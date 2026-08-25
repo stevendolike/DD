@@ -1,6 +1,6 @@
 # CH
 
-**共 69 條** · [返回主頁](../../README.md)
+**共 63 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/_all_443.txt)
 
@@ -23,8 +23,7 @@
 | Oracle Public Cloud | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Oracle%20Public%20Cloud.txt) |
 | PRIVATE LAYER INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/PRIVATE%20LAYER%20INC.txt) |
 | RouterHosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/RouterHosting%20LLC.txt) |
-| Switzerland infrastructure | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/Switzerland%20infrastructure.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

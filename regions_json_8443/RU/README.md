@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 77 條** · [返回主頁](../../README.md)
+**共 76 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/_all.txt)
 
@@ -26,11 +26,10 @@
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/MT%20FINANCE%20LLC.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/NetCrafters%20OU.txt) |
 | Network for COMCOR-B2B-Clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Network%20for%20COMCOR-B2B-Clients.txt) |
-| OOO VPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/OOO%20VPS.txt) |
 | Okay-Telecom Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Okay-Telecom%20Ltd.txt) |
 | PSERVERS Enterprise Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/PSERVERS%20Enterprise%20Network.txt) |
 | Reg.Ru Hosting | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Reg.Ru%20Hosting.txt) |
-| Rocketcloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Rocketcloud.ru.txt) |
+| RocketCloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/RocketCloud.ru.txt) |
 | Russia, Moscow | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Russia%2C%20Moscow.txt) |
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/SIA%20VEESP.txt) |
 | Selectel Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Selectel%20Network.txt) |
@@ -48,4 +47,4 @@
 | e-Style ISP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/e-Style%20ISP%20LLC.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

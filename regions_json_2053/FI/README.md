@@ -1,12 +1,12 @@
 # FI （純 IP）
 
-**共 92 條** · [返回主頁](../../README.md)
+**共 99 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/BG-NETWORK.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Baykov%20Ilya%20Sergeevich.txt) |
@@ -17,10 +17,10 @@
 | FlokiNET | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/FlokiNET.txt) |
 | H2NEXUS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/H2NEXUS%20LTD.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/HOSTKEY%20B.V.txt) |
-| Hetzner Online GmbH | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Hetzner%20Online%20GmbH.txt) |
 | I-SERVERS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/I-SERVERS%20LTD.txt) |
 | Individual Entrepreneur Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/NetCrafters%20OU.txt) |
+| NetCrafters OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/NetCrafters%20OU.txt) |
 | New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/New%20Hosting%20Technologies%20LLC.txt) |
 | PSERVERS Enterprise Network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/PSERVERS%20Enterprise%20Network.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/QWINS%20Hosting.txt) |
@@ -36,4 +36,4 @@
 | u1host Finland | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 81 條** · [返回主頁](../README.md)
+**共 80 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -16,7 +16,7 @@
 | FR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
 | GB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
-| HK | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
+| HK | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | IL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/IL.txt) |
 | JP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
@@ -30,4 +30,4 @@
 | US | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

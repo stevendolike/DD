@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 27 條** · [返回主頁](../../README.md)
+**共 26 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | Hosting technology LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Hosting%20technology%20LTD.txt) |
-| Hosting-VDS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/Hosting-VDS.txt) |
 | JSC IOT | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20IOT.txt) |
 | JSC TIMEWEB | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
 | LLC BAXET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20BAXET.txt) |
@@ -26,4 +25,4 @@
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

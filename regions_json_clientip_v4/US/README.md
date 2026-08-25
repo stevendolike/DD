@@ -6,19 +6,17 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 1GSERVERS, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/1GSERVERS%2C%20LLC.txt) |
 | 2E TELEKOMUNIKASYON LTD STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/3NT%20SOLUTIONS%20LLP.txt) |
 | 5G NETWORK OPERATIONS PTY LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/5G%20NETWORK%20OPERATIONS%20PTY%20LTD.txt) |
-| 6 COLLYER QUAY | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/6%20COLLYER%20QUAY.txt) |
 | Alibaba Cloud - US | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Alibaba%20Cloud%20-%20US.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Alibaba%20Cloud%20LLC.txt) |
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Aliyun%20Computing%20Co.LTD.txt) |
 | Amazon Technologies Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Amazon%20Technologies%20Inc.txt) |
 | Arbor Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Arbor%20Cloud.txt) |
 | Aryaka Networks, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Aryaka%20Networks%2C%20Inc.txt) |
-| Axedale | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Axedale.txt) |
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/BG-NETWORK.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Baxet%20Group%20Inc.txt) |
@@ -39,11 +37,10 @@
 | DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/DMIT%20Cloud%20Services.txt) |
 | Danny Dahl | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Danny%20Dahl.txt) |
 | DigitalOcean, LLC | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/DigitalOcean%2C%20LLC.txt) |
-| EASY LINK LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/EASY%20LINK%20LLC.txt) |
+| EASY LINK LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/EASY%20LINK%20LLC.txt) |
 | EXTRAVM LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/EXTRAVM%20LLC.txt) |
 | Ethernet Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Ethernet%20Servers.txt) |
 | Exabytes Network (Singapore) Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Exabytes%20Network%20%28Singapore%29%20Pte%20Ltd.txt) |
-| F5 XC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/F5%20XC.txt) |
 | Fiberpower LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Fiberpower%20LLC.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBALTELEHOST Corp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/GLOBALTELEHOST%20Corp.txt) |
@@ -52,7 +49,7 @@
 | HLL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/HLL%20LLC.txt) |
 | HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Hetzner%20Online%20GmbH.txt) |
-| HostPapa | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/HostPapa.txt) |
+| HostPapa | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/HostPapa.txt) |
 | Hostwinds Seattle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Hostwinds%20Seattle.txt) |
 | Huize Holdings LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Huize%20Holdings%20LLC.txt) |
 | IB Compute Systems Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/IB%20Compute%20Systems%20Inc.txt) |
@@ -86,14 +83,14 @@
 | Private Customer | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Private%20Customer.txt) |
 | REGXA LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/REGXA%20LLC.txt) |
 | RackNerd LLC | 59 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/RackNerd%20LLC.txt) |
-| Red Team LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Red%20Team%20LTD.txt) |
+| Red Team LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Red%20Team%20LTD.txt) |
 | RedShield Security Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/RedShield%20Security%20Ltd.txt) |
 | RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/RouterHosting%20LLC.txt) |
 | Subnet Digital LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Subnet%20Digital%20LLC.txt) |
 | TAIPEI101 NETWORK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/TAIPEI101%20NETWORK%20LLC.txt) |
 | TURING GROUP LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/TURING%20GROUP%20LIMITED.txt) |
-| Tencent cloud computing (Beijing) Co., Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Tencent%20cloud%20computing%20%28Beijing%29%20Co.%2C%20Ltd.txt) |
-| UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/UNKNOWN.txt) |
+| Tencent cloud computing (Beijing) Co., Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/Tencent%20cloud%20computing%20%28Beijing%29%20Co.%2C%20Ltd.txt) |
+| UNKNOWN | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/UNKNOWN.txt) |
 | UberGlobal UBRCBRCCA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/UberGlobal%20UBRCBRCCA.txt) |
 | UberGlobal UBRCBRVL5 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/UberGlobal%20UBRCBRVL5.txt) |
 | United States. Utah | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/United%20States.%20Utah.txt) |
@@ -109,9 +106,9 @@
 | ZMTO Technologies OÜ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/ZMTO%20Technologies%20O%C3%9C.txt) |
 | ZONA COMMUNICATIONS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/ZONA%20COMMUNICATIONS.txt) |
 | _ WWW.RARECLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/_%20WWW.RARECLOUD.IO%20_.txt) |
-| as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/as56971%20network.txt) |
+| as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/as56971%20network.txt) |
 | sally wang | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/sally%20wang.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/US/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

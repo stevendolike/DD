@@ -1,6 +1,6 @@
 # TR
 
-**共 75 條** · [返回主頁](../../README.md)
+**共 74 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all_443.txt)
 
@@ -31,9 +31,9 @@
 | TradeZone LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/TradeZone%20LLC.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI.txt) |
 | VOYAR VERIMERKEZI TEKNOLOJILERI LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/VOYAR%20VERIMERKEZI%20TEKNOLOJILERI%20LTD.%20STI.txt) |
-| White Label Services, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/White%20Label%20Services%2C%20LLC.txt) |
 | WorkTitans B.V | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/WorkTitans%20B.V.txt) |
 | hostigger_datacenter_TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

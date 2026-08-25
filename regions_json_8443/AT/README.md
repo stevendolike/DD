@@ -11,8 +11,8 @@
 | Alwyzon, a trading name of Hohl IT e.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | Evolus IT Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
 | IPAX VIRTUAL line server | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/IPAX%20VIRTUAL%20line%20server.txt) |
-| InterLIR-Marketplace | 43 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/InterLIR-Marketplace.txt) |
+| NETAXIS GROUP LTD | 43 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/NETAXIS%20GROUP%20LTD.txt) |
 | powered by ANX | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

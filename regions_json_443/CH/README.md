@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 116 條** · [返回主頁](../../README.md)
+**共 109 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -16,7 +16,7 @@
 | Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Green Floid LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Green%20Floid%20LLC.txt) |
+| Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HOSTKEY%20B.V.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HostHatch.txt) |
 | Infomaniak Network SA | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Infomaniak%20Network%20SA.txt) |
@@ -33,9 +33,8 @@
 | Prinode AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Prinode%20AB.txt) |
 | RouterHosting LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
-| Switzerland infrastructure | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Switzerland%20infrastructure.txt) |
 | WebPros International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/WebPros%20International%20GmbH.txt) |
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

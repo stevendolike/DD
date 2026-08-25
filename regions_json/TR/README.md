@@ -1,6 +1,6 @@
 # TR
 
-**共 116 條** · [返回主頁](../../README.md)
+**共 113 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | --------- Domain, Cloud and Dedicated Hosting Provider -------- | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/---------%20Domain%2C%20Cloud%20and%20Dedicated%20Hosting%20Provider%20--------.txt) |
 | 2E TELEKOMUNIKASYON LTD STI | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 2E Telekomunikasyon LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
-| 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/365.partners%20INC.txt) |
+| 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/3NT%20SOLUTIONS%20LLP.txt) |
 | Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Baxet%20Group%20Inc.txt) |
 | DorukCloud network block | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/DorukCloud%20network%20block.txt) |
@@ -33,11 +33,11 @@
 | TradeZone LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TradeZone%20LLC.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI.txt) |
 | VOYAR VERIMERKEZI TEKNOLOJILERI LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/VOYAR%20VERIMERKEZI%20TEKNOLOJILERI%20LTD.%20STI.txt) |
-| White Label Services, LLC | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
 | WorkTitans B.V | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/WorkTitans%20B.V.txt) |
 | YottaSrc Hosting and Cloud Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
+| YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | hostigger_datacenter_TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

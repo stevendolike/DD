@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Anton%20Levin.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Baykov%20Ilya%20Sergeevich.txt) |
-| CGI GLOBAL LIMITED | 151 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 152 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Cloud%20Software%20-%20FZCO.txt) |
 | Customer subnet in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Customer%20subnet%20in%20Latvia.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -23,9 +23,8 @@
 | SIA VEESP | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Subnet%20Digital%20LLC.txt) |
-| Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Versija%20SIA.txt) |
 | as56971 network | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

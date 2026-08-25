@@ -10,9 +10,10 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc.txt) |
 | CGI GLOBAL LIMITED | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
-| Contabo Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Contabo%20Inc.txt) |
+| Contabo Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Contabo%20Inc.txt) |
 | DMIT Cloud Services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
 | DigitalOcean, LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DigitalOcean%2C%20LLC.txt) |
+| EASY LINK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/EASY%20LINK%20LLC.txt) |
 | EXTRAVM LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/EXTRAVM%20LLC.txt) |
 | Exabytes Network (Singapore) Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Exabytes%20Network%20%28Singapore%29%20Pte%20Ltd.txt) |
 | Fiberpower LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Fiberpower%20LLC.txt) |
@@ -45,4 +46,4 @@
 | as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

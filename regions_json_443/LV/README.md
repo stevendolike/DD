@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 256 條** · [返回主頁](../../README.md)
+**共 255 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt)
 
@@ -10,7 +10,7 @@
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Anton%20Levin.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baykov%20Ilya%20Sergeevich.txt) |
-| CGI GLOBAL LIMITED | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Cloud%20Software%20-%20FZCO.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Friendhosting%20LTD.txt) |
@@ -22,12 +22,11 @@
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SEBEK%20sp.%20z%20o.o.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SERV.HOST%20GROUP%20LTD.txt) |
 | SIA Serverum | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20Serverum.txt) |
-| SIA VEESP | 98 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 95 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Subnet%20Digital%20LLC.txt) |
-| Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Veesp%20datacenter%20clients.txt) |
 | Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Versija%20SIA.txt) |
-| as56971 network | 84 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
+| as56971 network | 86 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

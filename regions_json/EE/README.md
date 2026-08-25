@@ -1,6 +1,6 @@
 # EE
 
-**共 134 條** · [返回主頁](../../README.md)
+**共 133 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt)
 
@@ -15,7 +15,6 @@
 | Brainoza OU | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Cloudflare%20London%2C%20LLC.txt) |
 | Cogent Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Cogent%20Communications%2C%20LLC.txt) |
-| EDIS IPv6 Infrastructure in Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EE-Network.txt) |
 | ESTOXY OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ESTOXY%20OU.txt) |
 | ExpressHost LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ExpressHost%20LTD.txt) |
@@ -35,4 +34,4 @@
 | servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

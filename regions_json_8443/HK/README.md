@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 55 條** · [返回主頁](../../README.md)
+**共 49 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
@@ -26,14 +26,12 @@
 | Hongkong Wen Jing Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | Hytron Network Services Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hytron%20Network%20Services%20Limited.txt) |
 | MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
-| NET6-AS202662 | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/NET6-AS202662.txt) |
+| NET6-AS202662 | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/NET6-AS202662.txt) |
 | NetPilot Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/NetPilot%20Limited.txt) |
-| PCCW IMS Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/PCCW%20IMS%20Limited.txt) |
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/RIPE%20NCC.txt) |
-| Skyvoro Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Skyvoro%20Inc.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Subnet%20Digital%20LLC.txt) |
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc.txt) |
 | ZOUTER HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ZOUTER%20HK.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 58 條** · [返回主頁](../../README.md)
+**共 56 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -16,7 +16,7 @@
 | ByteVirt LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ByteVirt%20LLC.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Contabo%20Asia%20Private%20Limited.txt) |
-| DMIT Cloud Service - Tokyo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
+| DMIT Cloud Service - Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
 | DODO K.K | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DODO%20K.K.txt) |
 | EDIS IPv6 Infrastructure In Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/EDIS%20IPv6%20Infrastructure%20In%20Japan.txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Evoxt.com.txt) |
@@ -35,7 +35,7 @@
 | The Constant Company, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company%2C%20LLC.txt) |
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/VMISS%20Inc.txt) |
 | Vultr Holdings, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings%2C%20LLC.txt) |
-| xTom Japan Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
+| xTom Japan Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

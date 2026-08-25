@@ -1,6 +1,6 @@
 # HK
 
-**共 52 條** · [返回主頁](../../README.md)
+**共 51 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/_all_443.txt)
 
@@ -27,11 +27,10 @@
 | LeaseWeb Asia Pacific - Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/LeaseWeb%20Asia%20Pacific%20-%20Hong%20Kong.txt) |
 | NextStage Innovations LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/NextStage%20Innovations%20LLC.txt) |
 | PCCW Global (HK) Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/PCCW%20Global%20%28HK%29%20Limited.txt) |
-| Skyvoro Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Skyvoro%20Inc.txt) |
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/SonderCloud%20Limited.txt) |
 | Subnet Digital LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Subnet%20Digital%20LLC.txt) |
 | Vapeline Technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Vapeline%20Technology.txt) |
 | hongkong netbroadband | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/hongkong%20netbroadband.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

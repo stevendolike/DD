@@ -1,12 +1,12 @@
 # RU （純 IP）
 
-**共 263 條** · [返回主頁](../../README.md)
+**共 267 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP Ltd | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/AEZA%20GROUP%20Ltd.txt) |
+| AEZA GROUP Ltd | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/AEZA%20GROUP%20Ltd.txt) |
 | AT&T Enterprises, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/AT%26T%20Enterprises%2C%20LLC.txt) |
 | AdminVPS OOO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/AdminVPS%20OOO.txt) |
 | Argotel ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Argotel%20ltd.txt) |
@@ -23,7 +23,7 @@
 | EDIS IPv6 Infrastructure in Russia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/EDIS%20IPv6%20Infrastructure%20in%20Russia.txt) |
 | EdgeCenter LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLAVTEL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/GLAVTEL%20LLC.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Helou LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Helou%20LLC.txt) |
@@ -64,10 +64,11 @@
 | Optima Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Optima%20Communications%2C%20LLC.txt) |
 | PHAETON PLUS d.o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PHAETON%20PLUS%20d.o.o.txt) |
 | PROCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PROCLOUD%20LLC.txt) |
-| PSERVERS Enterprise Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PSERVERS%20Enterprise%20Network.txt) |
+| PSERVERS Enterprise Network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PSERVERS%20Enterprise%20Network.txt) |
 | Petersburg Internet Network ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Petersburg%20Internet%20Network%20ltd.txt) |
 | Ray-Svyaz Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Ray-Svyaz%20Ltd.txt) |
-| Rocketcloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Rocketcloud.ru.txt) |
+| RocketCloud.ru | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/RocketCloud.ru.txt) |
+| RocketCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/RocketCloud.txt) |
 | Russia, Moscow Region, Jeleznodorojnyy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Russia%2C%20Moscow%20Region%2C%20Jeleznodorojnyy.txt) |
 | Russia, Moscow | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Russia%2C%20Moscow.txt) |
 | SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SERV.HOST%20GROUP%20LTD.txt) |
@@ -95,4 +96,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

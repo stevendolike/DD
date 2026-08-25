@@ -1,13 +1,13 @@
 # GB （純 IP）
 
-**共 650 條** · [返回主頁](../../README.md)
+**共 639 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/365%20Group%20LLC.txt) |
-| AEZA GROUP LLC | 209 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 204 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services UK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Amazon%20Data%20Services%20UK.txt) |
 | BAGE CLOUD LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/BAGE%20CLOUD%20LLC.txt) |
@@ -19,18 +19,18 @@
 | Catixs Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Catixs%20Ltd.txt) |
 | Clouvider Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Clouvider%20Limited.txt) |
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Contabo%20GmbH.txt) |
+| DC5_aci_shared | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DC5_aci_shared.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%20London.txt) |
-| DigitalOcean, LLC | 302 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 299 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%2C%20LLC.txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Evoxt.com.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Fabric_zone.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTHost | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GTHost.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Google%20LLC.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/HZ%20Hosting%20Ltd.txt) |
 | HostUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/HostUS.txt) |
 | IONOS SE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/IONOS%20SE.txt) |
-| Iomart Group Plc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Iomart%20Group%20Plc.txt) |
 | Iomart Managed Services Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Iomart%20Managed%20Services%20Limited.txt) |
-| LifeinCloud LTD, | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/LifeinCloud%20LTD%2C.txt) |
 | Linode, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode%2C%20LLC.txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode.txt) |
 | Monkey Tree Hosting Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Monkey%20Tree%20Hosting%20Limited.txt) |
@@ -49,9 +49,9 @@
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Vultr%20Holdings%2C%20LLC.txt) |
 | YUNYOO LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/YUNYOO%20LTD.txt) |
-| Zenlayer Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
+| Zenlayer Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Zenlayer%20Inc.txt) |
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/berrybyte.txt) |
 | xTom GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*

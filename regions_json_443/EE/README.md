@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 74 條** · [返回主頁](../../README.md)
+**共 73 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt)
 
@@ -12,7 +12,6 @@
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
 | Brainoza OU | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
-| EDIS IPv6 Infrastructure in Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | ESTOXY OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/ESTOXY%20OU.txt) |
 | ExpressHost LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/ExpressHost%20LTD.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HZ%20Hosting%20Ltd.txt) |
@@ -27,4 +26,4 @@
 | servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/servinga.com%20-%20Estonia.txt) |
 
 ---
-*最後更新：2026-08-24 16:42 UTC*
+*最後更新：2026-08-25 04:29 UTC*
