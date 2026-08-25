@@ -16,4 +16,4 @@
 | STARVERSE POLOCLOUD 2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/STARVERSE%20POLOCLOUD%202.txt) |
 
 ---
-*最後更新：2026-08-25 16:41 UTC*
+*最後更新：2026-08-25 22:30 UTC*
