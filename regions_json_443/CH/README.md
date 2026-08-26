@@ -40,4 +40,4 @@
 | evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/evoxt.com.txt) |
 
 ---
-*最後更新：2026-08-26 10:40 UTC*
+*最後更新：2026-08-26 16:50 UTC*
