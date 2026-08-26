@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 15 條** · [返回主頁](../../README.md)
+**共 14 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/_all.txt)
 
@@ -14,7 +14,7 @@
 | Superonline Iletisim Hizmetleri A.S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Superonline%20Iletisim%20Hizmetleri%20A.S.txt) |
 | Tellcom Adana Fiber Dynamic | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Tellcom%20Adana%20Fiber%20Dynamic.txt) |
 | TradeZone LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/TradeZone%20LLC.txt) |
-| White Label Services, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/White%20Label%20Services%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-25 22:30 UTC*
+*最後更新：2026-08-26 04:29 UTC*

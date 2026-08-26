@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/RU/_all.txt)
 
@@ -8,6 +8,7 @@
 |------|--------|---------|
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | JSC TIMEWEB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/RU/JSC%20TIMEWEB.txt) |
+| Yandex.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/RU/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-08-25 22:30 UTC*
+*最後更新：2026-08-26 04:29 UTC*

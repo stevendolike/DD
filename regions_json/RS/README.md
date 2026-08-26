@@ -1,6 +1,6 @@
 # RS
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all_443.txt)
 
@@ -8,10 +8,9 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/3NT%20SOLUTIONS%20LLP.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
-| Digital City FZE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/Digital%20City%20FZE.txt) |
 | EDIS IPv6 Infrastructure in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/EDIS%20IPv6%20Infrastructure%20in%20Serbia.txt) |
 | Majordomo in Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/Majordomo%20in%20Serbia.txt) |
 | eServer s.r.o | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/eServer%20s.r.o.txt) |
 
 ---
-*最後更新：2026-08-25 22:30 UTC*
+*最後更新：2026-08-26 04:29 UTC*

@@ -6,11 +6,11 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/Baxet%20Group%20Inc.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Oneprovider.com - Vilnius Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/Oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
-| PROGRESYVUS SPRENDIMAI UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/PROGRESYVUS%20SPRENDIMAI%20UAB.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/SERV.HOST%20GROUP%20LTD.txt) |
 | UAB Cherry Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/UAB%20Cherry%20Servers.txt) |
 
 ---
-*最後更新：2026-08-25 22:30 UTC*
+*最後更新：2026-08-26 04:29 UTC*

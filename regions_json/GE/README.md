@@ -1,6 +1,6 @@
 # GE
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/_all_443.txt)
 
@@ -8,8 +8,8 @@
 |------|--------|---------|
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/HZ%20Hosting%20Ltd.txt) |
 | Proservice LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/Proservice%20LLC.txt) |
-| SILKNET BROADBAND | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/SILKNET%20BROADBAND.txt) |
+| SILKNET BROADBAND | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/SILKNET%20BROADBAND.txt) |
 | WORLDBUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/WORLDBUS.txt) |
 
 ---
-*最後更新：2026-08-25 22:30 UTC*
+*最後更新：2026-08-26 04:29 UTC*

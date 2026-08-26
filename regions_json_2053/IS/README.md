@@ -1,13 +1,12 @@
 # IS （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IS/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1984 ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IS/1984%20ehf.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IS/HOSTKEY%20B.V.txt) |
 
 ---
-*最後更新：2026-08-25 22:30 UTC*
+*最後更新：2026-08-26 04:29 UTC*
