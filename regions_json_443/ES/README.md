@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 96 條** · [返回主頁](../../README.md)
+**共 95 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt)
 
@@ -15,7 +15,7 @@
 | GTHost | 61 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HOSTKEY%20B.V.txt) |
-| HUIZE LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
+| HUIZE LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IONOS%20SE.txt) |
 | IT Hostline Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Kamatera%20Inc.txt) |
@@ -30,4 +30,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

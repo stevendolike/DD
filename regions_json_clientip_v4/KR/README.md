@@ -1,6 +1,6 @@
 # KR
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all_443.txt)
 
@@ -10,7 +10,6 @@
 | 6 COLLYER QUAY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/6%20COLLYER%20QUAY.txt) |
 | AWS Asia Pacific (Seoul) Region | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/AWS%20Asia%20Pacific%20%28Seoul%29%20Region.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Alibaba%20Cloud%20LLC.txt) |
-| KCInfra Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/KCInfra%20Inc.txt) |
 | KOR_VULTR_CUST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/KOR_VULTR_CUST.txt) |
 | Korea Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Korea%20Telecom.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Microsoft%20Corporation.txt) |
@@ -24,4 +23,4 @@
 | XNNET LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/XNNET%20LIMITED.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

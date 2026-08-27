@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 188 條** · [返回主頁](../../README.md)
+**共 189 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt)
 
@@ -14,7 +14,7 @@
 | DigitalOcean, LLC | 155 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean%2C%20LLC.txt) |
 | Fornex Hosting S.L | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Fornex%20Hosting%20S.L.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/HOSTKEY%20B.V.txt) |
-| Hetzner Online GmbH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Hetzner%20Online%20GmbH.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/QWINS%20Hosting.txt) |
 | Senko Digital LLC - DE Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
 | Stephan Rakowski, trading as CSN-Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Stephan%20Rakowski%2C%20trading%20as%20CSN-Solutions%20GmbH.txt) |
@@ -24,4 +24,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

@@ -1,12 +1,12 @@
 # SE （純 IP）
 
-**共 64 條** · [返回主頁](../../README.md)
+**共 49 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Baykov%20Ilya%20Sergeevich.txt) |
@@ -18,13 +18,11 @@
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/NetCrafters%20OU.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Oracle%20Corporation.txt) |
-| Prinode AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Prinode%20AB.txt) |
+| Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Prinode%20AB.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Private%20Customer.txt) |
 | Reverse-Proxy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Reverse-Proxy.txt) |
-| SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SA.txt) |
 | SIA VEESP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SIA%20VEESP.txt) |
 | Vultr Sweden | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
-| play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

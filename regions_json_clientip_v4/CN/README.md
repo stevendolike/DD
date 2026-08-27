@@ -10,4 +10,4 @@
 | China Mobile Communications Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/China%20Mobile%20Communications%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

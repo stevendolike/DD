@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/_all.txt)
 
@@ -12,7 +12,7 @@
 | JSC TIMEWEB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/JSC%20TIMEWEB.txt) |
 | LLP Internet Company First Page | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
 | Megahost Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Megahost%20Kazakhstan%20TOO.txt) |
-| Modern Server Solutions LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Modern%20Server%20Solutions%20LLP.txt) |
+| Modern Server Solutions LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/NTL%20Kazakhstan%20TOO.txt) |
 | ONEHOST LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/ONEHOST%20LLP.txt) |
 | PS Internet Company LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/PS%20Internet%20Company%20LLP.txt) |
@@ -22,4 +22,4 @@
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

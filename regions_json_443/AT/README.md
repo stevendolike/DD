@@ -1,6 +1,6 @@
 # AT （純 IP）
 
-**共 70 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/_all.txt)
 
@@ -16,9 +16,8 @@
 | Hosteroid - Vienna | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Hosteroid%20-%20Vienna.txt) |
 | IPAX GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/IPAX%20GmbH.txt) |
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/M247%20LTD%20Vienna%20Infrastructure.txt) |
-| NETAXIS GROUP LTD | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/NETAXIS%20GROUP%20LTD.txt) |
 | netcup GmbH | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/netcup%20GmbH.txt) |
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

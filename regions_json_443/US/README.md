@@ -1,19 +1,18 @@
 # US （純 IP）
 
-**共 1,036 條** · [返回主頁](../../README.md)
+**共 1,030 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 2E TELEKOMUNIKASYON LTD STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 365 Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/365%20Group.txt) |
 | 3HCLOUD LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/3NT%20SOLUTIONS%20LLP.txt) |
 | 5001 BEACH ROAD # 04-01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/5001%20BEACH%20ROAD%20%23%2004-01.txt) |
 | 5G NETWORK OPERATIONS PTY LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/5G%20NETWORK%20OPERATIONS%20PTY%20LTD.txt) |
-| 6 COLLYER QUAY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/6%20COLLYER%20QUAY.txt) |
 | ACEVILLE PTE.LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/ACEVILLE%20PTE.LTD.txt) |
 | AT&T Enterprises, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/AT%26T%20Enterprises%2C%20LLC.txt) |
 | AkileCloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/AkileCloud%20LLC.txt) |
@@ -26,6 +25,7 @@
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Anton%20Levin.txt) |
 | Arbor Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Arbor%20Cloud.txt) |
 | Aryaka Networks, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Aryaka%20Networks%2C%20Inc.txt) |
+| Axedale | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Axedale.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/BG-NETWORK.txt) |
 | BGP Announcement | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/BGP%20Announcement.txt) |
@@ -46,11 +46,11 @@
 | Cogent Communications, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Cogent%20Communications%2C%20LLC.txt) |
 | Comcast Cable Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Comcast%20Cable%20Communications%2C%20LLC.txt) |
 | Contabo Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Contabo%20Inc.txt) |
-| CoreNET Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/CoreNET%20Inc.txt) |
+| CoreNET Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/CoreNET%20Inc.txt) |
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Costel%20Savulescu.txt) |
 | Cox Communications Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Cox%20Communications%20Inc.txt) |
 | DEDIK SERVICES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/DEDIK%20SERVICES%20LIMITED.txt) |
-| DMIT Cloud Services | 221 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/DMIT%20Cloud%20Services.txt) |
+| DMIT Cloud Services | 217 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/DMIT%20Cloud%20Services.txt) |
 | Danny Dahl | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Danny%20Dahl.txt) |
 | DigitalOcean, LLC | 165 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/DigitalOcean%2C%20LLC.txt) |
 | DigitalOne AG Colocation and Dedicated Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/DigitalOne%20AG%20Colocation%20and%20Dedicated%20Servers.txt) |
@@ -90,18 +90,18 @@
 | Linode, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Linode%2C%20LLC.txt) |
 | Linode | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Linode.txt) |
 | M247 Europe SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/M247%20Europe%20SRL.txt) |
-| MULTACOM CORPORATION | 84 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/MULTACOM%20CORPORATION.txt) |
+| MULTACOM CORPORATION | 80 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/MULTACOM%20CORPORATION.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Microsoft%20Corporation.txt) |
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Microsoft%20Limited.txt) |
 | Misaka Network, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Misaka%20Network%2C%20Inc.txt) |
-| NTT America, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/NTT%20America%2C%20Inc.txt) |
+| NTT America, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/NTT%20America%2C%20Inc.txt) |
 | NetCrafters OU | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/NetCrafters%20OU.txt) |
 | NetLab Global | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/NetLab%20Global.txt) |
 | NetLab | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/NetLab.txt) |
 | OVH US LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/OVH%20US%20LLC.txt) |
 | Optimum Online | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Optimum%20Online.txt) |
-| Oracle Corporation | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Oracle%20Corporation.txt) |
+| Oracle Corporation | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Oracle%20Public%20Cloud.txt) |
 | PSINet, Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/PSINet%2C%20Inc.txt) |
 | Private Customer | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Private%20Customer.txt) |
@@ -109,7 +109,7 @@
 | RARE MOOD AGENCY SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RAVNIX LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/RAVNIX%20LLC.txt) |
 | REGXA LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/REGXA%20LLC.txt) |
-| RackNerd LLC | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/RackNerd%20LLC.txt) |
+| RackNerd LLC | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/RackNerd%20LLC.txt) |
 | RedShield Security Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/RedShield%20Security%20Ltd.txt) |
 | RouterHosting LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/RouterHosting%20LLC.txt) |
 | SIMPLE CLOUD SOLUTION LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/SIMPLE%20CLOUD%20SOLUTION%20LLC.txt) |
@@ -132,7 +132,7 @@
 | Unify Media Ltd | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Unify%20Media%20Ltd.txt) |
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/VMISS%20Inc.txt) |
 | Verizon Business | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Verizon%20Business.txt) |
-| Vultr Holdings, LLC | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Vultr%20Holdings%2C%20LLC.txt) |
+| Vultr Holdings, LLC | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/Vultr%20Holdings%2C%20LLC.txt) |
 | XNNET LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/XNNET%20LIMITED.txt) |
 | YottaSrc Hosting and Cloud Service | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | ZMTO Technologies OÜ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/ZMTO%20Technologies%20O%C3%9C.txt) |
@@ -145,4 +145,4 @@
 | xTom | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/xTom.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

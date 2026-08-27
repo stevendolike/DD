@@ -1,12 +1,12 @@
 # GB （純 IP）
 
-**共 109 條** · [返回主頁](../../README.md)
+**共 108 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20GROUP%20LLC.txt) |
 | Contabo GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
 | DigitalOcean, LLC | 73 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean%2C%20LLC.txt) |
 | Iomart Managed Services Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Iomart%20Managed%20Services%20Limited.txt) |
@@ -19,4 +19,4 @@
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

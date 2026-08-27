@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 126 條** · [返回主頁](../../README.md)
+**共 125 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/_all.txt)
 
@@ -15,9 +15,9 @@
 | Private Customer | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Private%20Customer.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SEBEK%20sp.%20z%20o.o.txt) |
 | SIA VEESP | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
-| Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
+| Sia Nano IT | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Subnet%20Digital%20LLC.txt) |
 | as56971 network | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

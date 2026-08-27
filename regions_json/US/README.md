@@ -1,20 +1,19 @@
 # US
 
-**共 2,119 條** · [返回主頁](../../README.md)
+**共 2,108 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 1GSERVERS, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/1GSERVERS%2C%20LLC.txt) |
 | 2E TELEKOMUNIKASYON LTD STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 365 Group | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/365%20Group.txt) |
-| 3HCLOUD LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/3NT%20SOLUTIONS%20LLP.txt) |
 | 5001 BEACH ROAD # 04-01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/5001%20BEACH%20ROAD%20%23%2004-01.txt) |
 | 5G NETWORK OPERATIONS PTY LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/5G%20NETWORK%20OPERATIONS%20PTY%20LTD.txt) |
-| 6 COLLYER QUAY | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/6%20COLLYER%20QUAY.txt) |
 | ACEVILLE PTE.LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/ACEVILLE%20PTE.LTD.txt) |
 | AT&T Enterprises, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/AT%26T%20Enterprises%2C%20LLC.txt) |
 | Advin Services LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Advin%20Services%20LLC.txt) |
@@ -28,6 +27,7 @@
 | Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Anton%20Levin.txt) |
 | Arbor Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Arbor%20Cloud.txt) |
 | Aryaka Networks, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Aryaka%20Networks%2C%20Inc.txt) |
+| Axedale | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Axedale.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/BG-NETWORK.txt) |
 | BGP Announcement | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/BGP%20Announcement.txt) |
@@ -50,17 +50,17 @@
 | Cluster Logic Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Cluster%20Logic%20Inc.txt) |
 | Cogent Communications, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Cogent%20Communications%2C%20LLC.txt) |
 | ColoCrossing | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/ColoCrossing.txt) |
-| Comcast Cable Communications, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Comcast%20Cable%20Communications%2C%20LLC.txt) |
+| Comcast Cable Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Comcast%20Cable%20Communications%2C%20LLC.txt) |
 | Contabo Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Contabo%20Inc.txt) |
-| CoreNET Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/CoreNET%20Inc.txt) |
+| CoreNET Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/CoreNET%20Inc.txt) |
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Costel%20Savulescu.txt) |
 | Cox Communications Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Cox%20Communications%20Inc.txt) |
 | DEDIK SERVICES LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/DEDIK%20SERVICES%20LIMITED.txt) |
-| DMIT Cloud Services | 238 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/DMIT%20Cloud%20Services.txt) |
+| DMIT Cloud Services | 234 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/DMIT%20Cloud%20Services.txt) |
 | Danny Dahl | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Danny%20Dahl.txt) |
 | DigitalOcean, LLC | 272 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/DigitalOcean%2C%20LLC.txt) |
 | DigitalOne AG Colocation and Dedicated Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/DigitalOne%20AG%20Colocation%20and%20Dedicated%20Servers.txt) |
-| EASY LINK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/EASY%20LINK%20LLC.txt) |
+| EASY LINK LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/EASY%20LINK%20LLC.txt) |
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/EGIHosting.txt) |
 | EXTRAVM LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/EXTRAVM%20LLC.txt) |
 | Ethernet Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Ethernet%20Servers.txt) |
@@ -72,7 +72,6 @@
 | FranTech Solutions | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/FranTech%20Solutions.txt) |
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GLOBALTELEHOST Corp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GLOBALTELEHOST%20Corp.txt) |
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GREEN%20FLOID%20LLC.txt) |
 | GTELCOM LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GTELCOM%20LLC.txt) |
 | GoDaddy.com, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/GoDaddy.com%2C%20LLC.txt) |
@@ -85,7 +84,7 @@
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/HZ%20Hosting%20Ltd.txt) |
 | Hetzner Online GmbH | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Hetzner%20Online%20GmbH.txt) |
 | HostHatch Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/HostHatch%20Inc.txt) |
-| HostPapa | 67 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/HostPapa.txt) |
+| HostPapa | 68 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/HostPapa.txt) |
 | Hostodo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Hostodo.txt) |
 | Hostsymbol Pte. Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Hostsymbol%20Pte.%20Ltd.txt) |
 | Hostwinds Seattle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Hostwinds%20Seattle.txt) |
@@ -95,14 +94,13 @@
 | INXY LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/INXY%20LTD.txt) |
 | IONOS Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/IONOS%20Inc.txt) |
 | IPXO LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/IPXO%20LLC.txt) |
-| IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/IROKO%20Networks%20Corporation.txt) |
 | IT7 Networks Inc | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/IT7%20Networks%20Inc.txt) |
 | ITGLOBAL.COM NL B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Impact Host LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Impact%20Host%20LLC.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | InterLIR LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/InterLIR%20LLC.txt) |
 | Internet Utilities NA LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Internet%20Utilities%20NA%20LLC.txt) |
-| Interserver, Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Interserver%2C%20Inc.txt) |
+| Interserver, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Interserver%2C%20Inc.txt) |
 | JoneSolutions Internet Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/JoneSolutions%20Internet%20Services.txt) |
 | KURUN CLOUD INC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/KURUN%20CLOUD%20INC.txt) |
 | Layer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Layer.txt) |
@@ -111,13 +109,13 @@
 | Linode, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Linode%2C%20LLC.txt) |
 | Linode | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Linode.txt) |
 | M247 Europe SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/M247%20Europe%20SRL.txt) |
-| MULTACOM CORPORATION | 105 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/MULTACOM%20CORPORATION.txt) |
+| MULTACOM CORPORATION | 101 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/MULTACOM%20CORPORATION.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Microsoft%20Corporation.txt) |
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Microsoft%20Limited.txt) |
 | Misaka Network, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Misaka%20Network%2C%20Inc.txt) |
-| NEBULA GLOBAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/NEBULA%20GLOBAL%20LIMITED.txt) |
-| NTT America, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/NTT%20America%2C%20Inc.txt) |
+| NTT America, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/NTT%20America%2C%20Inc.txt) |
+| NTT DATA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/NTT%20DATA.txt) |
 | NetCrafters OU | 42 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/NetCrafters%20OU.txt) |
 | NetLab Global | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/NetLab%20Global.txt) |
 | NetLab | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/NetLab.txt) |
@@ -125,7 +123,7 @@
 | OVH (NWK) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/OVH%20%28NWK%29.txt) |
 | OVH US LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/OVH%20US%20LLC.txt) |
 | Optimum Online | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Optimum%20Online.txt) |
-| Oracle Corporation | 46 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Oracle%20Corporation.txt) |
+| Oracle Corporation | 47 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Oracle%20Public%20Cloud.txt) |
 | PEG TECH INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/PEG%20TECH%20INC.txt) |
 | PSINet, Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/PSINet%2C%20Inc.txt) |
@@ -135,8 +133,8 @@
 | RARE MOOD AGENCY SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RAVNIX LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/RAVNIX%20LLC.txt) |
 | REGXA LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/REGXA%20LLC.txt) |
-| RackNerd LLC | 63 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/RackNerd%20LLC.txt) |
-| Red Team LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Red%20Team%20LTD.txt) |
+| RackNerd LLC | 64 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/RackNerd%20LLC.txt) |
+| Red Team LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Red%20Team%20LTD.txt) |
 | RedShield Security Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/RedShield%20Security%20Ltd.txt) |
 | RouterHosting LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/RouterHosting%20LLC.txt) |
 | SIMPLE CLOUD SOLUTION LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/SIMPLE%20CLOUD%20SOLUTION%20LLC.txt) |
@@ -163,11 +161,12 @@
 | UnReal Servers, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/UnReal%20Servers%2C%20LLC.txt) |
 | Unify Media Ltd | 536 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Unify%20Media%20Ltd.txt) |
 | United States. Utah | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/United%20States.%20Utah.txt) |
+| VDSKA-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/VDSKA-NET.txt) |
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/VMISS%20Inc.txt) |
 | Verizon Business | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Verizon%20Business.txt) |
 | VertexLink Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/VertexLink%20Inc.txt) |
 | Virtual Machine Solutions, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Virtual%20Machine%20Solutions%2C%20LLC.txt) |
-| Vultr Holdings, LLC | 46 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Vultr%20Holdings%2C%20LLC.txt) |
+| Vultr Holdings, LLC | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/Vultr%20Holdings%2C%20LLC.txt) |
 | WebNX, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/WebNX%2C%20Inc.txt) |
 | White Label Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/White%20Label%20Services%2C%20LLC.txt) |
 | WholeSale Internet, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/WholeSale%20Internet%2C%20Inc.txt) |
@@ -188,4 +187,4 @@
 | xTom | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/US/xTom.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

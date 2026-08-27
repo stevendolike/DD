@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 308 條** · [返回主頁](../../README.md)
+**共 307 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/BEAFORT%20LIMITED.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
@@ -60,4 +60,4 @@
 | as56971 network | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

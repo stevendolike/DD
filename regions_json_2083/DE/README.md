@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 199 條** · [返回主頁](../../README.md)
+**共 197 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/_all.txt)
 
@@ -10,8 +10,7 @@
 | Amsterdam, Netherlands | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Amsterdam%2C%20Netherlands.txt) |
 | Anexia Cloud Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Anexia%20Cloud%20Solutions%20GmbH.txt) |
 | Artem Lomakin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Artem%20Lomakin.txt) |
-| Bisquit.host - high quality hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Bisquit.host%20-%20high%20quality%20hosting.txt) |
-| Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Cloudflare%20London%2C%20LLC.txt) |
 | DATALIX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DATALIX.txt) |
 | DigitalOcean, LLC | 157 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DigitalOcean%2C%20LLC.txt) |
 | Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Fornex%20Hosting%20S.L.txt) |
@@ -35,4 +34,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*

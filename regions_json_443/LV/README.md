@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 266 條** · [返回主頁](../../README.md)
+**共 263 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt)
 
@@ -22,11 +22,11 @@
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Private%20Customer.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SERV.HOST%20GROUP%20LTD.txt) |
 | SIA Serverum | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20Serverum.txt) |
-| SIA VEESP | 98 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 95 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Subnet%20Digital%20LLC.txt) |
 | Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Versija%20SIA.txt) |
 | as56971 network | 84 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-27 03:00 UTC*
+*最後更新：2026-08-27 14:51 UTC*
