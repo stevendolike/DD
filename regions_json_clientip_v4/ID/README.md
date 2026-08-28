@@ -10,4 +10,4 @@
 | Alibaba Cloud - ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ID/Alibaba%20Cloud%20-%20ID.txt) |
 
 ---
-*最後更新：2026-08-27 20:15 UTC*
+*最後更新：2026-08-28 00:48 UTC*
