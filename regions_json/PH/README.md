@@ -6,7 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| R&R Managed Telecom Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/R%26R%20Managed%20Telecom%20Services.txt) |
+| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/LIGHT%20NODE%20LIMITED.txt) |
+| R&R Managed Telecom Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/R%26R%20Managed%20Telecom%20Services.txt) |
 
 ---
-*最後更新：2026-08-28 06:00 UTC*
+*最後更新：2026-08-28 15:46 UTC*

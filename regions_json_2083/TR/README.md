@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Netlen Internet Hizmetleri Ltd. Sti | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Tellcom Adana Fiber Dynamic | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/Tellcom%20Adana%20Fiber%20Dynamic.txt) |
-| YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
+| White Label Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/White%20Label%20Services%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-28 06:00 UTC*
+*最後更新：2026-08-28 15:46 UTC*
