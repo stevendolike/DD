@@ -22,4 +22,4 @@
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-28 00:48 UTC*
+*最後更新：2026-08-28 06:00 UTC*
