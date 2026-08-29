@@ -25,4 +25,4 @@
 | TAKEHOST.BIZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/TAKEHOST.BIZ.txt) |
 
 ---
-*最後更新：2026-08-29 00:28 UTC*
+*最後更新：2026-08-29 03:34 UTC*
