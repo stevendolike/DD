@@ -20,4 +20,4 @@
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Microsoft%20Corporation.txt) |
 
 ---
-*最後更新：2026-08-29 14:59 UTC*
+*最後更新：2026-08-29 19:18 UTC*
