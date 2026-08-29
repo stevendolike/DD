@@ -1,6 +1,6 @@
 # Port 2096 純 IP（純 IP）
 
-**共 515 條** · [返回主頁](../README.md)
+**共 514 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/_all.txt)
 
@@ -26,7 +26,7 @@
 | RU | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/RU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/RU/_all.txt) |
 | SE | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/SE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/SE/_all.txt) |
 | SG | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/SG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/SG/_all.txt) |
-| US | 44 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt) |
+| US | 43 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt) |
 
 ---
-*最後更新：2026-08-29 03:34 UTC*
+*最後更新：2026-08-29 10:34 UTC*

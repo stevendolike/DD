@@ -1,6 +1,6 @@
 # CZ
 
-**共 124 條** · [返回主頁](../../README.md)
+**共 123 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
@@ -11,7 +11,6 @@
 | Cloud Services CZ1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Cloud%20Services%20CZ1.txt) |
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Datacamp%20Limited.txt) |
 | EDIS IPv6 Infrastructure in Czechia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/EDIS%20IPv6%20Infrastructure%20in%20Czechia.txt) |
-| FDCservers.net | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/FDCservers.net.txt) |
 | Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/GREEN%20FLOID%20LLC.txt) |
 | HOST-TELECOM.COM s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/HOST-TELECOM.COM%20s.r.o.txt) |
@@ -27,4 +26,4 @@
 | Zoner webhosting and serverhosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Zoner%20webhosting%20and%20serverhosting%20services.txt) |
 
 ---
-*最後更新：2026-08-29 03:34 UTC*
+*最後更新：2026-08-29 10:34 UTC*
