@@ -8,13 +8,12 @@
 |------|--------|---------|
 | Akenai Products - IT Network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Akenai%20Products%20-%20IT%20Network.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Baxet%20Group%20Inc.txt) |
-| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/G-Core%20Labs%20S.A.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/HOSTKEY%20B.V.txt) |
-| IT Hostline Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/IT%20Hostline%20Ltd.txt) |
+| IT Hostline Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Kamatera%20Inc.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/Microsoft%20Corporation.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Srl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/OVH%20Srl.txt) |
 
 ---
-*最後更新：2026-08-29 23:57 UTC*
+*最後更新：2026-08-30 09:34 UTC*

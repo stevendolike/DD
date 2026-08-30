@@ -11,16 +11,16 @@
 | AEZA GROUP LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/AEZA%20GROUP%20Ltd.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
-| Amsterdam, Netherlands | 42 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Amsterdam%2C%20Netherlands.txt) |
+| Amsterdam, Netherlands | 43 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Amsterdam%2C%20Netherlands.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Anton%20Levin.txt) |
 | BL Networks | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/BL%20Networks.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | Brainoza OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Brainoza%20OU.txt) |
-| CGI GLOBAL LIMITED | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CGI%20GLOBAL%20LIMITED.txt) |
 | CLODO CLOUD SERVICE CO. L.L.C | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CLODO%20CLOUD%20SERVICE%20CO.%20L.L.C.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Cloudflare%20London%2C%20LLC.txt) |
-| Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Cloudflare%2C%20Inc.txt) |
+| Cogent Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Cogent%20Communications%2C%20LLC.txt) |
 | DataWeb Global Group B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/DataWeb%20Global%20Group%20B.V.txt) |
 | Digital City FZE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Digital%20City%20FZE.txt) |
 | Digital Hosting Provider LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Digital%20Hosting%20Provider%20LLC.txt) |
@@ -37,12 +37,13 @@
 | Host Sailor Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Host%20Sailor%20Ltd.txt) |
 | Host9x Web Solutions Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Host9x%20Web%20Solutions%20Limited.txt) |
 | IHC network in Amsterdam, NL, EU (Iron Hosting Centre Ltd., London, UK) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/IHC%20network%20in%20Amsterdam%2C%20NL%2C%20EU%20%28Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%29.txt) |
+| IT-DELUX ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/IT-DELUX%20ltd.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/IT7%20Networks%20Inc.txt) |
 | ITGLOBAL.COM NL B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Individual Entrepreneur Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | InterLIR LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/InterLIR%20LLC.txt) |
 | It Hosting Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/It%20Hosting%20Group.txt) |
-| JSC TIMEWEB | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/JSC%20TIMEWEB.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Kamatera%20Inc.txt) |
 | LeaseWeb Netherlands B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/LeaseWeb%20Netherlands%20B.V.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Linode.txt) |
@@ -62,13 +63,13 @@
 | SERVERS TECH FZCO | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/SERVERS%20TECH%20FZCO.txt) |
 | SIA VEESP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/SIA%20VEESP.txt) |
 | Scaleway - Amsterdam, Netherlands | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Scaleway%20-%20Amsterdam%2C%20Netherlands.txt) |
-| Senko Digital LLC - NL Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Senko%20Digital%20LLC%20-%20NL%20Network.txt) |
 | SkyCore Technologies L.L.C-FZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/SkyCore%20Technologies%20L.L.C-FZ.txt) |
 | SmartHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/SmartHost%20LLC.txt) |
 | Snel.com B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Snel.com%20B.V.txt) |
-| Snowd Security OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Snowd%20Security%20OU.txt) |
 | SpectraIP B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/SpectraIP%20B.V.txt) |
 | TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/TA%20Consulting%20%26%20Services%20UG.txt) |
+| Taymaz Gostaran Naghshe Almas Co. ( Ltd ) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Taymaz%20Gostaran%20Naghshe%20Almas%20Co.%20%28%20Ltd%20%29.txt) |
 | TechTies Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/TechTies%20Inc.txt) |
 | The Infrastructure Group B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/The%20Infrastructure%20Group%20B.V.txt) |
 | Threatoff | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Threatoff.txt) |
@@ -78,10 +79,10 @@
 | VIVI23 CO., LTD. - VPSAI hosting pool | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/VIVI23%20CO.%2C%20LTD.%20-%20VPSAI%20hosting%20pool.txt) |
 | VPS1 network in Dronten, NL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/VPS1%20network%20in%20Dronten%2C%20NL.txt) |
 | WEBHOST LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/WEBHOST%20LLC.txt) |
-| as56971 network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/as56971%20network.txt) |
+| as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/as56971%20network.txt) |
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/servinga%20GmbH.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-29 23:57 UTC*
+*最後更新：2026-08-30 09:34 UTC*

@@ -6,13 +6,12 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Cloudflare%2C%20Inc.txt) |
+| 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/3nt%20solutions%20LLP.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/IROKO%20Networks%20Corporation.txt) |
 | ITGLOBAL COM DMCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/ITGLOBAL%20COM%20DMCC.txt) |
-| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Microsoft%20Corporation.txt) |
 | Oneprovider.com - Dubai Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oneprovider.com%20-%20Dubai%20Infrastructure.txt) |
-| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oracle%20Svenska%20AB.txt) |
+| Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oracle%20Svenska%20AB.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Private%20Customer.txt) |
 
 ---
-*最後更新：2026-08-29 23:57 UTC*
+*最後更新：2026-08-30 09:34 UTC*
