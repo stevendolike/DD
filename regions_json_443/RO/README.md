@@ -19,4 +19,4 @@
 | TIPZOR MEDIA SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/TIPZOR%20MEDIA%20SRL.txt) |
 
 ---
-*最後更新：2026-08-30 14:46 UTC*
+*最後更新：2026-08-30 19:12 UTC*
