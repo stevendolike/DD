@@ -25,9 +25,9 @@
 | LLC VEKTOR AITI TEKHNOLOGII | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20VEKTOR%20AITI%20TEKHNOLOGII.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/LLC%20Vpsville.txt) |
 | MT FINANCE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/MT%20FINANCE%20LLC.txt) |
+| NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/NetCrafters%20OU.txt) |
 | Network for COMCOR-B2B-Clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Network%20for%20COMCOR-B2B-Clients.txt) |
 | Okay-Telecom Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Okay-Telecom%20Ltd.txt) |
-| PSERVERS Enterprise Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/PSERVERS%20Enterprise%20Network.txt) |
 | Reg.Ru Hosting | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Reg.Ru%20Hosting.txt) |
 | RocketCloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/RocketCloud.ru.txt) |
 | Russia, Moscow | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Russia%2C%20Moscow.txt) |
@@ -44,4 +44,4 @@
 | Yandex.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

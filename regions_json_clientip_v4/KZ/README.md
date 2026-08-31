@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/3NT%20SOLUTIONS%20LLP.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Anton%20Levin.txt) |
-| BEAFORT LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/BEAFORT%20LIMITED.txt) |
+| BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/BEAFORT%20LIMITED.txt) |
 | Beget LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Beget%20LLC.txt) |
 | Big Data Host LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Big%20Data%20Host%20LLC.txt) |
 | Cloud Services Kazakhstan LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
@@ -26,10 +26,10 @@
 | Modern Server Solutions LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/NTL%20Kazakhstan%20TOO.txt) |
 | ONEHOST LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/ONEHOST%20LLP.txt) |
-| PS Internet Company LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/PS%20Internet%20Company%20LLP.txt) |
+| PS Internet Company LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Quasar%20LLC.txt) |
 | Servercore Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Servercore%20Network.txt) |
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

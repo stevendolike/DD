@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/AEZA%20GROUP%20LLC.txt) |
 | HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/HOSTKEY%20B.V.txt) |
-| Hetzner Online GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/Hetzner%20Online%20GmbH.txt) |
 | IT-Garage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/IT-Garage.txt) |
 | MALLATIUS HOLDINGS ET INVESTISSEMENTS SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/MALLATIUS%20HOLDINGS%20ET%20INVESTISSEMENTS%20SARL.txt) |
 | TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/TA%20Consulting%20%26%20Services%20UG.txt) |
@@ -17,4 +17,4 @@
 | play2go.cloud - Cheap and reliable hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

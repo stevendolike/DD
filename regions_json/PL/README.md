@@ -1,6 +1,6 @@
 # PL
 
-**共 198 條** · [返回主頁](../../README.md)
+**共 195 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
@@ -9,6 +9,7 @@
 | 1Cent Host | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/1Cent%20Host.txt) |
 | 3HCLoud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3HCLoud%20LLC.txt) |
 | 3K33 sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3K33%20sp.%20z%20o.o.txt) |
+| Additional IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Additional%20IPv6.txt) |
 | Artnet Sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Artnet%20Sp.%20z%20o.o.txt) |
 | Aruba S.p.A. - Cloud Services PL1 | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Aruba%20S.p.A.%20-%20Cloud%20Services%20PL1.txt) |
 | BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
@@ -32,7 +33,7 @@
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | Hurricane Electric LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Hurricane%20Electric%20LLC.txt) |
 | INTEZIO Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/INTEZIO%20Network.txt) |
-| IQ REGIQDC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IQ%20REGIQDC.txt) |
+| IQ REGIQDC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IQ%20REGIQDC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IROKO%20Networks%20Corporation.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IT%20Hostline%20Ltd.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -53,7 +54,7 @@
 | Raul Ghita trading as 'Ghita Telekom' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SEBEK%20sp.%20z%20o.o.txt) |
 | Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Snowd%20Security%20OU.txt) |
-| South Park Networks LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/South%20Park%20Networks%20LLC.txt) |
+| South Park Networks LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | VPSPay - vpspay.cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/VPSPay%20-%20vpspay.cloud.txt) |
 | Vladislav Novitskii | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Vladislav%20Novitskii.txt) |
@@ -62,4 +63,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

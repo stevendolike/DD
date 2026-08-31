@@ -1,6 +1,6 @@
 # SE
 
-**共 253 條** · [返回主頁](../../README.md)
+**共 246 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 93 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 88 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
 | ALEXHOST S.R.L | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20S.R.L.txt) |
 | Amazon Data Services Ireland Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Sweden.txt) |
@@ -17,7 +17,6 @@
 | Baykov Ilya Sergeevich | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/BlueVPS%20OU.txt) |
 | CacheFly | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/CacheFly.txt) |
-| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Cloudflare%20London%2C%20LLC.txt) |
 | DFDB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/DFDB%20LLC.txt) |
 | EDIS GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/EDIS%20GmbH.txt) |
 | FORTIS Hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/FORTIS%20Hosting%20services.txt) |
@@ -32,7 +31,7 @@
 | Internetport Sweden AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Internetport%20Sweden%20AB.txt) |
 | Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/MVPS%20LTD.txt) |
-| Materialism s.r.l | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
+| Materialism s.r.l | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Microsoft%20Corporation.txt) |
 | NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/NetCrafters%20OU.txt) |
@@ -60,4 +59,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

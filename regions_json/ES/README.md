@@ -1,6 +1,6 @@
 # ES
 
-**共 117 條** · [返回主頁](../../README.md)
+**共 116 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/BlueVPS%20OU.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Cloudflare%20London%2C%20LLC.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GTHost | 61 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/HOSTKEY%20B.V.txt) |
@@ -35,4 +35,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

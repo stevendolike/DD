@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 597 條** · [返回主頁](../../README.md)
+**共 593 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt)
 
@@ -20,10 +20,10 @@
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Contabo%20GmbH.txt) |
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Costel%20Savulescu.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%20London.txt) |
-| DigitalOcean, LLC | 293 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 288 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%2C%20LLC.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Evoxt.com.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Fabric_zone.txt) |
-| GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GTHost.txt) |
+| GTHost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GTHost.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Google%20LLC.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/HZ%20Hosting%20Ltd.txt) |
 | HostUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/HostUS.txt) |
@@ -53,4 +53,4 @@
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

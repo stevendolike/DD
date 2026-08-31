@@ -1,6 +1,6 @@
 # IN
 
-**共 28 條** · [返回主頁](../../README.md)
+**共 29 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/_all_443.txt)
 
@@ -13,8 +13,9 @@
 | MANNDESHI GURU NET PRIVATE LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Microsoft%20Corporation.txt) |
+| P.D.R Solutions FZC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/P.D.R%20Solutions%20FZC.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

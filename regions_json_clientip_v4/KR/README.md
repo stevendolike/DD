@@ -1,6 +1,6 @@
 # KR
 
-**共 35 條** · [返回主頁](../../README.md)
+**共 36 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/_all_443.txt)
 
@@ -18,8 +18,8 @@
 | Oracle Public Cloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Oracle%20Public%20Cloud.txt) |
 | Prinode AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Prinode%20AB.txt) |
 | SK Broadband Co Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/SK%20Broadband%20Co%20Ltd.txt) |
-| The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/The%20Constant%20Company%2C%20LLC.txt) |
 | XNNET LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/XNNET%20LIMITED.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

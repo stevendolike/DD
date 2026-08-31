@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 116 條** · [返回主頁](../../README.md)
+**共 114 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -11,7 +11,7 @@
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/ALEXHOST%20SRL.txt) |
 | Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Baxet%20Group%20Inc.txt) |
 | BuyVM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/BuyVM.txt) |
-| Datasource AG | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Datasource%20AG.txt) |
+| Datasource AG | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Datasource%20AG.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting%2C%20Geronimo%20Ramirez.txt) |
 | Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
@@ -31,9 +31,9 @@
 | PRIVATE LAYER INC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/PRIVATE%20LAYER%20INC.txt) |
 | Prinode AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Prinode%20AB.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Private%20Customer.txt) |
-| RouterHosting LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | WebPros International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/WebPros%20International%20GmbH.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

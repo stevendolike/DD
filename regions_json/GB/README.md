@@ -1,13 +1,13 @@
 # GB
 
-**共 1,384 條** · [返回主頁](../../README.md)
+**共 1,376 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/365%20Group%20LLC.txt) |
-| AEZA GROUP LLC | 289 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 286 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services UK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
@@ -21,10 +21,10 @@
 | Contabo GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Contabo%20GmbH.txt) |
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Costel%20Savulescu.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%20London.txt) |
-| DigitalOcean, LLC | 654 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 649 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%2C%20LLC.txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Evoxt.com.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Fabric_zone.txt) |
-| GTHost | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GTHost.txt) |
+| GTHost | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GTHost.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Google%20LLC.txt) |
 | Greencloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Greencloud%20LLC.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HZ%20Hosting%20Ltd.txt) |
@@ -42,7 +42,7 @@
 | NetWarm LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/NetWarm%20LTD.txt) |
 | None specified | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/None%20specified.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
-| OVH Ltd | 68 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/OVH%20Ltd.txt) |
+| OVH Ltd | 67 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/OVH%20Ltd.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Oracle%20Svenska%20AB.txt) |
@@ -62,4 +62,4 @@
 | berrybyte | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/berrybyte.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

@@ -1,6 +1,6 @@
 # FR
 
-**共 551 條** · [返回主頁](../../README.md)
+**共 553 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all_443.txt)
 
@@ -11,12 +11,12 @@
 | AEZA GROUP LLC | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
 | Blockchain Games N.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Blockchain%20Games%20N.V.txt) |
-| CGI GLOBAL LIMITED | 121 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 122 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CloudBackbone.txt) |
-| Contabo GmbH | 102 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 104 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
 | EE IPHOSTER OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EE%20IPHOSTER%20OU.txt) |
 | EGIHosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EGIHosting.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FASTWARP%20LLP.txt) |
@@ -60,11 +60,10 @@
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/The%20Constant%20Company%2C%20LLC.txt) |
 | UNKNOWN | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/UNKNOWN.txt) |
 | VIRTUASYS PARIS (PAR01FR) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
-| Virtuo Holdings Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Virtuo%20Holdings%20Inc.txt) |
 | Vultr Holdings, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
-| as56971 network | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
+| as56971 network | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

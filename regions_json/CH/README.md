@@ -1,6 +1,6 @@
 # CH
 
-**共 154 條** · [返回主頁](../../README.md)
+**共 152 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -12,7 +12,7 @@
 | Baxet Group Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Baxet%20Group%20Inc.txt) |
 | BrainStorm Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BrainStorm%20Network%2C%20Inc.txt) |
 | BuyVM | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BuyVM.txt) |
-| Datasource AG | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
+| Datasource AG | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting%2C%20Geronimo%20Ramirez.txt) |
 | FranTech Solutions | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/FranTech%20Solutions.txt) |
 | Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
@@ -33,10 +33,10 @@
 | PRIVATE LAYER INC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/PRIVATE%20LAYER%20INC.txt) |
 | Prinode AB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Prinode%20AB.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Private%20Customer.txt) |
-| RouterHosting LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | WebPros International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/WebPros%20International%20GmbH.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

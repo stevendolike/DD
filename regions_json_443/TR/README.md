@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 2E Telekomunikasyon LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
+| 2E Telekomunikasyon LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/365.partners%20INC.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Baxet%20Group%20Inc.txt) |
 | DorukCloud network block | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/DorukCloud%20network%20block.txt) |
@@ -20,7 +20,6 @@
 | Netlen Internet Hizmetleri Ltd. Sti | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Plant Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Plant%20Holding%20GmbH.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Private%20Customer.txt) |
-| TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/TALIDO%20Bilisim%20Teknolojileri%20Sanayi%20ve%20Ticaret%20Anonim%20Sirketi.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI.txt) |
 | VOYAR VERIMERKEZI TEKNOLOJILERI LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/VOYAR%20VERIMERKEZI%20TEKNOLOJILERI%20LTD.%20STI.txt) |
 | White Label Services, LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services%2C%20LLC.txt) |
@@ -29,4 +28,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

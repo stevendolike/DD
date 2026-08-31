@@ -1,6 +1,6 @@
 # EE
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/_all_443.txt)
 
@@ -20,7 +20,7 @@
 | QWINS-Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/QWINS-Hosting.txt) |
 | RJ Network OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/RJ%20Network%20OU.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/SERV.HOST%20GROUP%20LTD.txt) |
-| TAKEHOST.BIZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/TAKEHOST.BIZ.txt) |
+| TAKEHOST.BIZ | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/TAKEHOST.BIZ.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

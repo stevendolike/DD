@@ -1,6 +1,6 @@
 # RU （純 IP）
 
-**共 264 條** · [返回主頁](../../README.md)
+**共 260 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/_all.txt)
 
@@ -20,10 +20,11 @@
 | DATACHEAP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/DATACHEAP%20LLC.txt) |
 | Data Storage Center JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Data%20Storage%20Center%20JSC.txt) |
 | Delta Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Delta%20Ltd.txt) |
+| Dynamic distribution IP's for broadband services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Dynamic%20distribution%20IP%27s%20for%20broadband%20services.txt) |
 | EDIS IPv6 Infrastructure in Russia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/EDIS%20IPv6%20Infrastructure%20in%20Russia.txt) |
 | EdgeCenter LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLAVTEL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/GLAVTEL%20LLC.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Global Communications LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Global%20Communications%20LLC.txt) |
@@ -45,9 +46,9 @@
 | JSC TIMEWEB | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/KVIKTEL%20LLC.txt) |
 | Kontel LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Kontel%20LLC.txt) |
-| LLC BAXET | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20BAXET.txt) |
+| LLC BAXET | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20BAXET.txt) |
 | LLC Digital Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20Digital%20Network.txt) |
-| LLC IT BASIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20IT%20BASIS.txt) |
+| LLC IT BASIS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20IT%20BASIS.txt) |
 | LLC SETEL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20SETEL.txt) |
 | LLC Smart Ape | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20Smart%20Ape.txt) |
 | LLC Vpsville | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/LLC%20Vpsville.txt) |
@@ -63,7 +64,7 @@
 | OnTelecom LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/OnTelecom%20LLC.txt) |
 | Optima Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Optima%20Communications%2C%20LLC.txt) |
 | PROCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PROCLOUD%20LLC.txt) |
-| PSERVERS Enterprise Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PSERVERS%20Enterprise%20Network.txt) |
+| PSERVERS Enterprise Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/PSERVERS%20Enterprise%20Network.txt) |
 | Petersburg Internet Network ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Petersburg%20Internet%20Network%20ltd.txt) |
 | RapidSeedbox Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/RapidSeedbox%20Ltd.txt) |
 | Ray-Svyaz Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Ray-Svyaz%20Ltd.txt) |
@@ -74,13 +75,13 @@
 | SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SERV.HOST%20GROUP%20LTD.txt) |
 | SIA Serverum | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SIA%20Serverum.txt) |
 | SPRINTHOST.RU LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SPRINTHOST.RU%20LLC.txt) |
-| Selectel Network | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Selectel%20Network.txt) |
+| Selectel Network | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Selectel%20Network.txt) |
 | SpaceWeb IPv6 Spb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/SpaceWeb%20IPv6%20Spb.txt) |
 | St.Petersburg | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/St.Petersburg.txt) |
 | TIME-HOST-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/TIME-HOST-NET.txt) |
 | Time-Host Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Time-Host%20Ltd.txt) |
-| TimeWeb Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/TimeWeb%20Ltd.txt) |
-| Timeweb.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Timeweb.Cloud%20LLC.txt) |
+| TimeWeb Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/TimeWeb%20Ltd.txt) |
+| Timeweb.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Timeweb.Cloud%20LLC.txt) |
 | UFO Hosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/UFO%20Hosting%20LLC.txt) |
 | Ugreshskaya st, 2c147 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Ugreshskaya%20st%2C%202c147.txt) |
 | VDSINA VDS Hosting ipv6 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/VDSINA%20VDS%20Hosting%20ipv6.txt) |
@@ -89,11 +90,10 @@
 | Webhost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Webhost%20LLC.txt) |
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Yandex.Cloud%20LLC.txt) |
 | ZTV CORP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/ZTV%20CORP%20LLC.txt) |
-| kursknet.ru broadband users | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/kursknet.ru%20broadband%20users.txt) |
 | nuxtcloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/nuxtcloud.txt) |
 | s80.spb-dc's objects | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/s80.spb-dc%27s%20objects.txt) |
 | subnet 5.128.144-151 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/subnet%205.128.144-151%20ethernet%20pool.txt) |
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

@@ -1,6 +1,6 @@
 # RU
 
-**共 218 條** · [返回主頁](../../README.md)
+**共 219 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all_443.txt)
 
@@ -18,6 +18,7 @@
 | DATACHEAP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/DATACHEAP%20LLC.txt) |
 | Data Storage Center JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Data%20Storage%20Center%20JSC.txt) |
 | Delta Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Delta%20Ltd.txt) |
+| Dynamic distribution IP's for broadband services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Dynamic%20distribution%20IP%27s%20for%20broadband%20services.txt) |
 | EdgeCenter LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
@@ -36,14 +37,14 @@
 | JSC TIMEWEB | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/KVIKTEL%20LLC.txt) |
 | LLC BAXET | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/LLC%20BAXET.txt) |
-| LLC IT BASIS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/LLC%20IT%20BASIS.txt) |
+| LLC IT BASIS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/LLC%20IT%20BASIS.txt) |
 | LLC SETEL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/LLC%20SETEL.txt) |
 | LLC VEKTOR AITI TEKHNOLOGII | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/LLC%20VEKTOR%20AITI%20TEKHNOLOGII.txt) |
 | LLC Vpsville | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/LLC%20Vpsville.txt) |
 | Leningradsky Prospect,72, building 3 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Leningradsky%20Prospect%2C72%2C%20building%203.txt) |
 | MT FINANCE LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/MT%20FINANCE%20LLC.txt) |
 | Moscow Local Telephone Network (OAO MGTS) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Moscow%20Local%20Telephone%20Network%20%28OAO%20MGTS%29.txt) |
-| NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/NetCrafters%20OU.txt) |
+| NetCrafters OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/NetCrafters%20OU.txt) |
 | Network for COMCOR-B2B-Clients | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Network%20for%20COMCOR-B2B-Clients.txt) |
 | OJSC Rostelecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/OJSC%20Rostelecom.txt) |
 | Okay-Telecom Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Okay-Telecom%20Ltd.txt) |
@@ -60,23 +61,22 @@
 | Russia, Moscow | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Russia%2C%20Moscow.txt) |
 | SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/SERV.HOST%20GROUP%20LTD.txt) |
 | SIA VEESP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/SIA%20VEESP.txt) |
-| Selectel Network | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Selectel%20Network.txt) |
+| Selectel Network | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Selectel%20Network.txt) |
 | Stolica Telecom Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Stolica%20Telecom%20Ltd.txt) |
 | TIME-HOST-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/TIME-HOST-NET.txt) |
 | TIMEWEB-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/TIMEWEB-NET.txt) |
 | Timeweb, LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Timeweb%2C%20LLP.txt) |
-| Timeweb.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Timeweb.Cloud%20LLC.txt) |
+| Timeweb.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Timeweb.Cloud%20LLC.txt) |
 | UFO Hosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/UFO%20Hosting%20LLC.txt) |
 | Ugreshskaya st, 2c147 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Ugreshskaya%20st%2C%202c147.txt) |
 | VDSINA VDS Hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/VDSINA%20VDS%20Hosting.txt) |
 | VDSka hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/VDSka%20hosting.txt) |
 | VPS in Eserver | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/VPS%20in%20Eserver.txt) |
 | Yandex.Cloud LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Yandex.Cloud%20LLC.txt) |
-| kursknet.ru broadband users | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/kursknet.ru%20broadband%20users.txt) |
 | s80.spb-dc's objects | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/s80.spb-dc%27s%20objects.txt) |
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 | subnet 5.128.144-151 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/subnet%205.128.144-151%20ethernet%20pool.txt) |
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

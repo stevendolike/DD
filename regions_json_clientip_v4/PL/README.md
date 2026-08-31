@@ -1,6 +1,6 @@
 # PL
 
-**共 95 條** · [返回主頁](../../README.md)
+**共 96 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all_443.txt)
 
@@ -22,8 +22,9 @@
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/GREEN%20FLOID%20LLC.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Google%20LLC.txt) |
 | HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/HOSTKEY%20B.V.txt) |
+| HOSTOFF infrastructure and hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | INTEZIO Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/INTEZIO%20Network.txt) |
-| IQ REGIQDC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/IQ%20REGIQDC.txt) |
+| IQ REGIQDC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/IQ%20REGIQDC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/IROKO%20Networks%20Corporation.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/IT%20Hostline%20Ltd.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -47,4 +48,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

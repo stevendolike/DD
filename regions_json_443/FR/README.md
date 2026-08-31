@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 294 條** · [返回主頁](../../README.md)
+**共 295 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -13,7 +13,7 @@
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CloudBackbone.txt) |
-| Contabo GmbH | 57 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 58 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FASTWARP%20LLP.txt) |
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FEELB%20SARL.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FIRST%20SERVER%20LIMITED.txt) |
@@ -56,4 +56,4 @@
 | as56971 network | 31 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

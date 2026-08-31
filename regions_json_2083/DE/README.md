@@ -24,7 +24,7 @@
 | NEKOBYTE INTERNATIONAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/NEKOBYTE%20INTERNATIONAL%20LIMITED.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Private%20Customer.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/QWINS%20Hosting.txt) |
-| SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/SEBEK%20sp.%20z%20o.o.txt) |
+| Sebek Sp z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Sebek%20Sp%20z%20o.o.txt) |
 | Senko Digital LLC - DE Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
 | SpaceCore.pro Hosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/SpaceCore.pro%20Hosting.txt) |
 | WAIcore Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/WAIcore%20Ltd.txt) |
@@ -34,4 +34,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

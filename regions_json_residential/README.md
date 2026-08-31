@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 70 條** · [返回主頁](../README.md)
+**共 68 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -20,15 +20,14 @@
 | IL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/IL.txt) |
 | JP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
-| NL | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
+| NL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | NO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NO.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RO.txt) |
 | RU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RU.txt) |
-| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | TW | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
 | US | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

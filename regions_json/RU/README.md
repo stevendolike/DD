@@ -1,6 +1,6 @@
 # RU
 
-**共 365 條** · [返回主頁](../../README.md)
+**共 362 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt)
 
@@ -20,10 +20,11 @@
 | DATACHEAP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/DATACHEAP%20LLC.txt) |
 | Data Storage Center JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Data%20Storage%20Center%20JSC.txt) |
 | Delta Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Delta%20Ltd.txt) |
+| Dynamic distribution IP's for broadband services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Dynamic%20distribution%20IP%27s%20for%20broadband%20services.txt) |
 | EDIS IPv6 Infrastructure in Russia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EDIS%20IPv6%20Infrastructure%20in%20Russia.txt) |
 | EdgeCenter LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLAVTEL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLAVTEL%20LLC.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Global Communications LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Global%20Communications%20LLC.txt) |
@@ -45,9 +46,9 @@
 | JSC TIMEWEB | 52 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/KVIKTEL%20LLC.txt) |
 | Kontel LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Kontel%20LLC.txt) |
-| LLC BAXET | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20BAXET.txt) |
+| LLC BAXET | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20BAXET.txt) |
 | LLC Digital Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Digital%20Network.txt) |
-| LLC IT BASIS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20IT%20BASIS.txt) |
+| LLC IT BASIS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20IT%20BASIS.txt) |
 | LLC SETEL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20SETEL.txt) |
 | LLC Smart Ape | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Smart%20Ape.txt) |
 | LLC VEKTOR AITI TEKHNOLOGII | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20VEKTOR%20AITI%20TEKHNOLOGII.txt) |
@@ -56,7 +57,7 @@
 | MAcomnet TelCo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/MAcomnet%20TelCo.txt) |
 | MT FINANCE LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/MT%20FINANCE%20LLC.txt) |
 | Moscow Local Telephone Network (OAO MGTS) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Moscow%20Local%20Telephone%20Network%20%28OAO%20MGTS%29.txt) |
-| NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/NetCrafters%20OU.txt) |
+| NetCrafters OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/NetCrafters%20OU.txt) |
 | Network for COMCOR-B2B-Clients | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Network%20for%20COMCOR-B2B-Clients.txt) |
 | New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/New%20Hosting%20Technologies%20LLC.txt) |
 | OJSC Rostelecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/OJSC%20Rostelecom.txt) |
@@ -78,16 +79,16 @@
 | SIA Serverum | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SIA%20Serverum.txt) |
 | SIA VEESP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SIA%20VEESP.txt) |
 | SPRINTHOST.RU LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SPRINTHOST.RU%20LLC.txt) |
-| Selectel Network | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Selectel%20Network.txt) |
+| Selectel Network | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Selectel%20Network.txt) |
 | SpaceWeb IPv6 Spb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SpaceWeb%20IPv6%20Spb.txt) |
 | St.Petersburg | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/St.Petersburg.txt) |
 | Stolica Telecom Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Stolica%20Telecom%20Ltd.txt) |
 | TIME-HOST-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/TIME-HOST-NET.txt) |
 | TIMEWEB-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/TIMEWEB-NET.txt) |
 | Time-Host Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Time-Host%20Ltd.txt) |
-| TimeWeb Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/TimeWeb%20Ltd.txt) |
+| TimeWeb Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/TimeWeb%20Ltd.txt) |
 | Timeweb, LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Timeweb%2C%20LLP.txt) |
-| Timeweb.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Timeweb.Cloud%20LLC.txt) |
+| Timeweb.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Timeweb.Cloud%20LLC.txt) |
 | UFO Hosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/UFO%20Hosting%20LLC.txt) |
 | Ugreshskaya st, 2c147 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Ugreshskaya%20st%2C%202c147.txt) |
 | VDSINA VDS Hosting ipv6 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/VDSINA%20VDS%20Hosting%20ipv6.txt) |
@@ -98,7 +99,6 @@
 | Webhost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Webhost%20LLC.txt) |
 | Yandex.Cloud LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Yandex.Cloud%20LLC.txt) |
 | ZTV CORP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/ZTV%20CORP%20LLC.txt) |
-| kursknet.ru broadband users | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/kursknet.ru%20broadband%20users.txt) |
 | nuxtcloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/nuxtcloud.txt) |
 | s80.spb-dc's objects | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/s80.spb-dc%27s%20objects.txt) |
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
@@ -106,4 +106,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*

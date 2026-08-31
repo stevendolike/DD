@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 47 條** · [返回主頁](../../README.md)
+**共 46 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
@@ -18,15 +18,16 @@
 | DEBEE Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/DEBEE%20Network.txt) |
 | DMIT Cloud Service - Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Evoxt.com.txt) |
-| Globaldata Investments Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Globaldata%20Investments%20Inc.txt) |
+| Globaldata Investments Inc | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Globaldata%20Investments%20Inc.txt) |
+| HUIZE TELECOM LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/HUIZE%20TELECOM%20LIMITED.txt) |
 | HYTRON NETWORK HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/HYTRON%20NETWORK%20HK.txt) |
 | Hytron Network Services Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hytron%20Network%20Services%20Limited.txt) |
 | MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
 | NET6-AS202662 | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/NET6-AS202662.txt) |
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/RIPE%20NCC.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Subnet%20Digital%20LLC.txt) |
-| VH Global Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VH%20Global%20Limited.txt) |
+| VH Global Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VH%20Global%20Limited.txt) |
 | ZOUTER HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ZOUTER%20HK.txt) |
 
 ---
-*最後更新：2026-08-31 00:17 UTC*
+*最後更新：2026-08-31 10:15 UTC*
