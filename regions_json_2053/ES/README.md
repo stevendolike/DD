@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/_all.txt)
 
@@ -12,6 +12,7 @@
 | JaJoJoo Madrid Region | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/JaJoJoo%20Madrid%20Region.txt) |
 | Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/Linode%2C%20LLC.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
+| OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/OVH%20Hispano.txt) |
 
 ---
-*最後更新：2026-09-01 01:06 UTC*
+*最後更新：2026-09-01 09:00 UTC*
