@@ -73,4 +73,4 @@
 | VN | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/VN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/VN/_all.txt) |
 
 ---
-*最後更新：2026-09-01 09:00 UTC*
+*最後更新：2026-09-01 14:41 UTC*
