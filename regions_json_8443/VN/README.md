@@ -9,4 +9,4 @@
 | MOZ TECHNOLOGY JOINT STOCK COMPANY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/VN/MOZ%20TECHNOLOGY%20JOINT%20STOCK%20COMPANY.txt) |
 
 ---
-*最後更新：2026-09-02 19:17 UTC*
+*最後更新：2026-09-02 23:54 UTC*

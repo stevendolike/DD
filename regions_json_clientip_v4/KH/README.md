@@ -9,4 +9,4 @@
 | Cogent Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KH/Cogent%20Communications%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-09-02 19:17 UTC*
+*最後更新：2026-09-02 23:54 UTC*
