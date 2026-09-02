@@ -1,12 +1,12 @@
 # DK （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DK/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Webdock.io ApS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DK/Webdock.io%20ApS.txt) |
+| Webdock.io ApS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DK/Webdock.io%20ApS.txt) |
 
 ---
-*最後更新：2026-09-01 23:52 UTC*
+*最後更新：2026-09-02 08:13 UTC*

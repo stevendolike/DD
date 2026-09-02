@@ -1,13 +1,13 @@
 # SK （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SK/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Digital City FZE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SK/Digital%20City%20FZE.txt) |
+| Digital City FZE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SK/Digital%20City%20FZE.txt) |
 | PE Denis Podolskii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SK/PE%20Denis%20Podolskii.txt) |
 
 ---
-*最後更新：2026-09-01 23:52 UTC*
+*最後更新：2026-09-02 08:13 UTC*

@@ -1,12 +1,12 @@
 # CZ （純 IP）
 
-**共 76 條** · [返回主頁](../../README.md)
+**共 79 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Baxet%20Group%20Inc.txt) |
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Datacamp%20Limited.txt) |
 | EDIS IPv6 Infrastructure in Czechia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/EDIS%20IPv6%20Infrastructure%20in%20Czechia.txt) |
 | Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Friendhosting%20LTD.txt) |
@@ -20,4 +20,4 @@
 | SmartApe OU | 49 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
 
 ---
-*最後更新：2026-09-01 23:52 UTC*
+*最後更新：2026-09-02 08:13 UTC*

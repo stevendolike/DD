@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/_all.txt)
 
@@ -15,7 +15,8 @@
 | ITLDC EU2.SOF Datacenter Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
 | Lir.bg EOOD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Lir.bg%20EOOD.txt) |
 | Redcluster LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Redcluster%20LTD.txt) |
+| SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/SEBEK%20sp.%20z%20o.o.txt) |
 | Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-09-01 23:52 UTC*
+*最後更新：2026-09-02 08:13 UTC*
