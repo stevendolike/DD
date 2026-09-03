@@ -1,6 +1,6 @@
 # CH
 
-**共 150 條** · [返回主頁](../../README.md)
+**共 155 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -23,8 +23,7 @@
 | Infomaniak Network SA | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Infomaniak%20Network%20SA.txt) |
 | Internet Utilities Europe and Asia Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
 | Iway AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Iway%20AG.txt) |
-| M247 Europe - Zurich Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20Europe%20-%20Zurich%20Infrastructure.txt) |
-| M247 LTD Zurich Infrastructure | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
+| M247 LTD Zurich Infrastructure | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
 | M247 LTD Zurich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich.txt) |
 | Misaka Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Misaka%20Network%2C%20Inc.txt) |
 | OVH CH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/OVH%20CH.txt) |
@@ -35,8 +34,9 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Private%20Customer.txt) |
 | RouterHosting LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/RouterHosting%20LLC.txt) |
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
+| Switzerland infrastructure | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Switzerland%20infrastructure.txt) |
 | WebPros International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/WebPros%20International%20GmbH.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

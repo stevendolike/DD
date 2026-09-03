@@ -1,12 +1,12 @@
 # GB （純 IP）
 
-**共 197 條** · [返回主頁](../../README.md)
+**共 195 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 68 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 66 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/AEZA%20GROUP%20LLC.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
 | CLOUVIDER Virtual Machines | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/CLOUVIDER%20Virtual%20Machines.txt) |
 | Clouvider Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Clouvider%20Limited.txt) |
@@ -27,4 +27,4 @@
 | YUNYOO LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/YUNYOO%20LTD.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

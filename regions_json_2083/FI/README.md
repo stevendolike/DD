@@ -1,12 +1,12 @@
 # FI （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/AEZA%20GROUP%20LLC.txt) |
 | FlokiNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/FlokiNET.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/Hetzner%20Online%20GmbH.txt) |
@@ -15,4 +15,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

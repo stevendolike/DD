@@ -1,6 +1,6 @@
 # BG
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all_443.txt)
 
@@ -14,16 +14,16 @@
 | Deployish Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Deployish%20Limited.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| Friendhosting LTD | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/G-Core%20Labs%20Customer%20assignment.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/GREEN%20FLOID%20LLC.txt) |
 | ITLDC EU2.SOF Datacenter Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
 | Julian Achter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Julian%20Achter.txt) |
-| Lir.bg EOOD | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Lir.bg%20EOOD.txt) |
+| Lir.bg EOOD | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Lir.bg%20EOOD.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/NetGrid%20Host%20LTD.txt) |
 | Redcluster LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Redcluster%20LTD.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/SEBEK%20sp.%20z%20o.o.txt) |
 | Virterion LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

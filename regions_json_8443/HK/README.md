@@ -1,16 +1,17 @@
 # HK （純 IP）
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 45 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | A Pensonal Global Research Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/A%20Pensonal%20Global%20Research%20Network.txt) |
+| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ACEVILLE%20PTE.LTD.txt) |
 | AKILE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/AKILE%20LTD.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
-| ALICE NETWORKS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ALICE%20NETWORKS%20LTD.txt) |
+| ALICE NETWORKS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ALICE%20NETWORKS%20LTD.txt) |
 | Akari Networks (Hong Kong) | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Akari%20Networks%20%28Hong%20Kong%29.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Cloud%20Software%20-%20FZCO.txt) |
@@ -29,4 +30,4 @@
 | ZOUTER HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/ZOUTER%20HK.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

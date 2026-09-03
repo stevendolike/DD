@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 99 條** · [返回主頁](../../README.md)
+**共 98 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/_all.txt)
 
@@ -8,11 +8,11 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/AEZA%20GROUP%20LLC.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Baxet%20Group%20Inc.txt) |
+| BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/BitWeb%20LLC.txt) |
 | Blockchain Games N.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Blockchain%20Games%20N.V.txt) |
 | CGI GLOBAL LIMITED | 55 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CloudBackbone.txt) |
 | Contabo GmbH | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Contabo%20GmbH.txt) |
-| EE IPHOSTER OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/EE%20IPHOSTER%20OU.txt) |
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/EGIHosting.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/HOSTKEY%20B.V.txt) |
@@ -27,4 +27,4 @@
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Subnet%20Digital%20LLC.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

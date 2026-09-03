@@ -1,12 +1,12 @@
 # LV （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/LV/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| SIA VEESP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/LV/SIA%20VEESP.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

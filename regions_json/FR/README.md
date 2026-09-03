@@ -1,6 +1,6 @@
 # FR
 
-**共 548 條** · [返回主頁](../../README.md)
+**共 543 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all_443.txt)
 
@@ -8,16 +8,16 @@
 |------|--------|---------|
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baykov%20Ilya%20Sergeevich.txt) |
+| BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/BitWeb%20LLC.txt) |
 | Block for xDSL_FTTx customers pools | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
 | Blockchain Games N.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Blockchain%20Games%20N.V.txt) |
 | CGI GLOBAL LIMITED | 119 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CloudBackbone.txt) |
-| Contabo GmbH | 101 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
-| EE IPHOSTER OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EE%20IPHOSTER%20OU.txt) |
+| Contabo GmbH | 102 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EGIHosting.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FASTWARP%20LLP.txt) |
 | FEELB SARL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FEELB%20SARL.txt) |
@@ -54,7 +54,6 @@
 | Scaleway | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Scaleway.txt) |
 | Seigohost LLC | 86 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Seigohost%20LLC.txt) |
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Subnet%20Digital%20LLC.txt) |
-| TakeHost.Biz | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/TakeHost.Biz.txt) |
 | Techcrea Solutions SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Techcrea%20Solutions%20SAS.txt) |
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/The%20Constant%20Company%2C%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/UNKNOWN.txt) |
@@ -66,4 +65,4 @@
 | as56971 network | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

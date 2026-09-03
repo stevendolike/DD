@@ -1,19 +1,18 @@
 # LV （純 IP）
 
-**共 242 條** · [返回主頁](../../README.md)
+**共 239 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Cloud%20Software%20-%20FZCO.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
-| Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GREEN FLOID LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/GREEN%20FLOID%20LLC.txt) |
 | HostVDS.com Cloud Provider | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | Individual Entrepreneur Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Melbikomas%20UAB.txt) |
@@ -28,4 +27,4 @@
 | as56971 network | 79 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

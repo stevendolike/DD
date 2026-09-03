@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 154 條** · [返回主頁](../../README.md)
+**共 150 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 56 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 60 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baxet%20Group%20Inc.txt) |
@@ -16,9 +16,9 @@
 | CacheFly | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/CacheFly.txt) |
 | DFDB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/DFDB%20LLC.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Deployish%20Limited.txt) |
-| FORTIS Hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/FORTIS%20Hosting%20services.txt) |
+| FORTIS Hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/FORTIS%20Hosting%20services.txt) |
 | GCS Service Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GCS%20Service%20Network.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/HZ%20Hosting%20Ltd.txt) |
 | Hostup AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hostup%20AB.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/IROKO%20Networks%20Corporation.txt) |
@@ -27,19 +27,17 @@
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/MVPS%20LTD.txt) |
 | Materialism s.r.l | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Materialism%20s.r.l.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Melbikomas%20UAB.txt) |
-| NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/NetCrafters%20OU.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
+| NODE HOST LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/NODE%20HOST%20LIMITED.txt) |
+| NetCrafters OU | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/NetCrafters%20OU.txt) |
 | Prinode AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Prinode%20AB.txt) |
 | Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Private%20Customer.txt) |
 | Privex Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Privex%20Inc.txt) |
-| Privex Sweden General Customers | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Privex%20Sweden%20General%20Customers.txt) |
+| Privex Sweden General Customers | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Privex%20Sweden%20General%20Customers.txt) |
 | Reverse-Proxy | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Reverse-Proxy.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SEBEK%20sp.%20z%20o.o.txt) |
-| SIA VEESP | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
-| STO lab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/STO%20lab.txt) |
-| Switzerland infrastructure | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Switzerland%20infrastructure.txt) |
-| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/The%20Constant%20Company%2C%20LLC.txt) |
+| SIA VEESP | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
+| The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/UpCloud%20Cloud%20Servers.txt) |
 | Vultr Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/ggyy-nl.txt) |
@@ -47,4 +45,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

@@ -7,6 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 6 COLLYER QUAY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/6%20COLLYER%20QUAY.txt) |
+| AWS Asia Pacific (Seoul) Region | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/AWS%20Asia%20Pacific%20%28Seoul%29%20Region.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Alibaba%20Cloud%20LLC.txt) |
 | KCInfra Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/KCInfra%20Inc.txt) |
 | KOR_VULTR_CUST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/KOR_VULTR_CUST.txt) |
@@ -19,7 +20,7 @@
 | Prinode AB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/Prinode%20AB.txt) |
 | SK Broadband Co Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/SK%20Broadband%20Co%20Ltd.txt) |
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/The%20Constant%20Company%2C%20LLC.txt) |
-| XNNET LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/XNNET%20LIMITED.txt) |
+| XNNET LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KR/XNNET%20LIMITED.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

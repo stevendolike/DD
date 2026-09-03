@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 163 條** · [返回主頁](../../README.md)
+**共 159 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/_all.txt)
 
@@ -39,24 +39,21 @@
 | ISIF Network (Hong Kong) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ISIF%20Network%20%28Hong%20Kong%29.txt) |
 | LANDUPS LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/LANDUPS%20LIMITED.txt) |
 | LEASEWEB HONG KONG LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/LEASEWEB%20HONG%20KONG%20LIMITED.txt) |
-| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
+| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
 | NO.41, Xing Long Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/NO.41%2C%20Xing%20Long%20Street.txt) |
 | NetLab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/NetLab.txt) |
 | NetPilot Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/NetPilot%20Limited.txt) |
-| PCCW Global (HK) Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/PCCW%20Global%20%28HK%29%20Limited.txt) |
 | Private Customer | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Private%20Customer.txt) |
 | RM301K,3_F,HONGKONG TRADE CENTRE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/RM301K%2C3_F%2CHONGKONG%20TRADE%20CENTRE.txt) |
 | STYLISH BY A&L SRL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/STYLISH%20BY%20A%26L%20SRL.txt) |
 | Skywolf Cloud HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Skywolf%20Cloud%20HK.txt) |
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/SonderCloud%20Limited.txt) |
-| VAPELINE TECHNOLOGY(HK).,LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VAPELINE%20TECHNOLOGY%28HK%29.%2CLIMITED.txt) |
 | VH Global Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VH%20Global%20Limited.txt) |
 | VMISS Inc | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/VMISS%20Inc.txt) |
-| Vapeline Technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Vapeline%20Technology.txt) |
 | XING XUN TECH LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/XING%20XUN%20TECH%20LIMITED.txt) |
 | ZEN-HK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ZEN-HK.txt) |
 | ZOUTER HK | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ZOUTER%20HK.txt) |
 | as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

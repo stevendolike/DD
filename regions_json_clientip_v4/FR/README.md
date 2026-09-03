@@ -1,6 +1,6 @@
 # FR
 
-**共 318 條** · [返回主頁](../../README.md)
+**共 316 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/_all_443.txt)
 
@@ -11,10 +11,10 @@
 | AEZA GROUP LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/BEAFORT%20LIMITED.txt) |
 | Baykov Ilya Sergeevich | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Baykov%20Ilya%20Sergeevich.txt) |
+| BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/BitWeb%20LLC.txt) |
 | CGI GLOBAL LIMITED | 119 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | CloudBackbone | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/CloudBackbone.txt) |
 | Contabo GmbH | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Contabo%20GmbH.txt) |
-| EE IPHOSTER OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/EE%20IPHOSTER%20OU.txt) |
 | EGIHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/EGIHosting.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/FASTWARP%20LLP.txt) |
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/Free%20SAS.txt) |
@@ -49,4 +49,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

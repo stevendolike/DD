@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 422 條** · [返回主頁](../../README.md)
+**共 415 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/_all.txt)
 
@@ -20,17 +20,16 @@
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Alibaba%20Cloud%20LLC.txt) |
 | Amazon Data Services Singapore | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Amazon%20Data%20Services%20Singapore.txt) |
-| Amazon.com, Inc | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Amazon.com%2C%20Inc.txt) |
+| Amazon.com, Inc | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Amazon.com%2C%20Inc.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/BAGE%20CLOUD%20LLC.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Baxet%20Group%20Inc.txt) |
 | BrainStorm Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/BrainStorm%20Network%2C%20Inc.txt) |
 | ByteVirt LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/ByteVirt%20LLC.txt) |
 | CloudWebManage Platform | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/CloudWebManage%20Platform.txt) |
-| Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Cloudflare%20London%2C%20LLC.txt) |
-| Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Cloudflare%2C%20Inc.txt) |
+| Cloudflare London, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Contabo%20Asia%20Private%20Limited.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DATAWAVE%20GLOBAL%20LLC.txt) |
-| DigitalOcean, LLC | 217 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 214 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean%2C%20LLC.txt) |
 | FDCservers.net | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/FDCservers.net.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/GREEN%20FLOID%20LLC.txt) |
@@ -38,7 +37,6 @@
 | Huawei-Cloud-SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Huawei-Cloud-SG.txt) |
 | LEASEWEB SINGAPORE PTE. LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD.txt) |
 | Linode | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Linode.txt) |
-| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Microsoft%20Corporation.txt) |
 | OVH SINGAPOR DC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/OVH%20SINGAPOR%20DC.txt) |
 | OVH Singapore PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/OVH%20Singapore%20PTE.%20LTD.txt) |
 | Oracle Corporation | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Corporation.txt) |
@@ -49,7 +47,6 @@
 | SG.GS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SG.GS.txt) |
 | SPEEDYPAGE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SPEEDYPAGE%20LTD.txt) |
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/SPEEDYPAGE-LTD.txt) |
-| Shock Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Shock%20Hosting%20LLC.txt) |
 | Singapore SG Datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Singapore%20SG%20Datacenter.txt) |
 | The Constant Company, LLC | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/The%20Constant%20Company%2C%20LLC.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/UCUL-SG.txt) |
@@ -60,4 +57,4 @@
 | xTom Pty Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

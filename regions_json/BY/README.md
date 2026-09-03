@@ -1,6 +1,6 @@
 # BY
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/_all_443.txt)
 
@@ -8,10 +8,11 @@
 |------|--------|---------|
 | Abonent MGTS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Abonent%20MGTS.txt) |
 | Besthost.by network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Besthost.by%20network.txt) |
+| H2.NEXUS Minsk Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/H2.NEXUS%20Minsk%20Network.txt) |
 | LLC Raccoon technology | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/LLC%20Raccoon%20technology.txt) |
 | Reliable Software, Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Reliable%20Software%2C%20Ltd.txt) |
 | SPRINTHOST LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/SPRINTHOST%20LLP.txt) |
 | Yedinyye Resheniya LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Yedinyye%20Resheniya%20LLC.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

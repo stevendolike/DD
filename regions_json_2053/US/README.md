@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 633 條** · [返回主頁](../../README.md)
+**共 629 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -9,7 +9,6 @@
 | 3HCLOUD LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/3HCLOUD%20LLC.txt) |
 | ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/ACEVILLE%20PTE.LTD.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Anton%20Levin.txt) |
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Baxet%20Group%20Inc.txt) |
 | CGI GLOBAL LIMITED | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Web Manage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloud%20Web%20Manage.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
@@ -32,13 +31,13 @@
 | LeaseWeb USA, Inc. Los Angeles | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/LeaseWeb%20USA%2C%20Inc.%20Los%20Angeles.txt) |
 | Leaseweb USA, Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Leaseweb%20USA%2C%20Inc.txt) |
 | MULTACOM CORPORATION | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/MULTACOM%20CORPORATION.txt) |
-| NetCrafters OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
+| NetCrafters OU | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
 | NetLab | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetLab.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Oracle%20Corporation.txt) |
 | Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Podaon%20SIA.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Private%20Customer.txt) |
-| RackNerd LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RackNerd%20LLC.txt) |
-| RouterHosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RouterHosting%20LLC.txt) |
+| RackNerd LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RackNerd%20LLC.txt) |
+| RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RouterHosting%20LLC.txt) |
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/SPEEDYPAGE-LTD.txt) |
 | Snaju Development | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Snaju%20Development.txt) |
 | Subnet Digital LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
@@ -51,4 +50,4 @@
 | as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

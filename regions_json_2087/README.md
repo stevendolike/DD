@@ -1,17 +1,17 @@
 # Port 2087 純 IP（純 IP）
 
-**共 558 條** · [返回主頁](../README.md)
+**共 555 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/_all.txt)
 
 | 國家 | 條目數 | 檔案 |
 |------|--------|------|
-| BG | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/BG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/BG/_all.txt) |
+| BG | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/BG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/BG/_all.txt) |
 | CA | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CA/_all.txt) |
 | CH | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CH/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CH/_all.txt) |
 | CY | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CY/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CY/_all.txt) |
 | CZ | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CZ/_all.txt) |
-| DE | 185 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/DE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt) |
+| DE | 184 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/DE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt) |
 | EE | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/EE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/EE/_all.txt) |
 | FI | 16 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/FI/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/_all.txt) |
 | FR | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/FR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FR/_all.txt) |
@@ -21,7 +21,7 @@
 | KR | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/KR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/KR/_all.txt) |
 | LV | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/LV/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/LV/_all.txt) |
 | MY | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/MY/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/MY/_all.txt) |
-| NL | 197 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/NL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/_all.txt) |
+| NL | 196 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/NL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/_all.txt) |
 | PL | 6 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/PL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/_all.txt) |
 | RO | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/RO/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RO/_all.txt) |
 | RU | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/RU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RU/_all.txt) |
@@ -31,4 +31,4 @@
 | US | 42 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

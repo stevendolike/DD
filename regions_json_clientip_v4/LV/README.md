@@ -1,13 +1,12 @@
 # LV
 
-**共 275 條** · [返回主頁](../../README.md)
+**共 273 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 147 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Cloud%20Software%20-%20FZCO.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -19,7 +18,7 @@
 | Mistic Internet Security Pty Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
 | Private Customer | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Private%20Customer.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/SERV.HOST%20GROUP%20LTD.txt) |
-| SIA VEESP | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Subnet%20Digital%20LLC.txt) |
 | Veesp datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Veesp%20datacenter%20clients.txt) |
@@ -27,4 +26,4 @@
 | as56971 network | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

@@ -24,9 +24,9 @@
 | Plant Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Plant%20Holding%20GmbH.txt) |
 | TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/TALIDO%20Bilisim%20Teknolojileri%20Sanayi%20ve%20Ticaret%20Anonim%20Sirketi.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI.txt) |
-| White Label Services, LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services%2C%20LLC.txt) |
-| WorkTitans B.V | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/WorkTitans%20B.V.txt) |
+| White Label Services, LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services%2C%20LLC.txt) |
+| WorkTitans B.V | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/WorkTitans%20B.V.txt) |
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

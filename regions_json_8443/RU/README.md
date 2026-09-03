@@ -10,7 +10,6 @@
 | AEZA GROUP Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/AEZA%20GROUP%20Ltd.txt) |
 | AdminVPS OOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/AdminVPS%20OOO.txt) |
 | Beget LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Beget%20LLC.txt) |
-| BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/BitWeb%20LLC.txt) |
 | Cloud Technologies LLC trading as Cloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Cloud%20Technologies%20LLC%20trading%20as%20Cloud.ru.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | Global Communications LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Global%20Communications%20LLC.txt) |
@@ -29,6 +28,7 @@
 | Network for COMCOR-B2B-Clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Network%20for%20COMCOR-B2B-Clients.txt) |
 | Okay-Telecom Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Okay-Telecom%20Ltd.txt) |
 | Reg.Ru Hosting | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Reg.Ru%20Hosting.txt) |
+| RocketCloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/RocketCloud.ru.txt) |
 | Russia, Moscow | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Russia%2C%20Moscow.txt) |
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/SIA%20VEESP.txt) |
 | Selectel Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Selectel%20Network.txt) |
@@ -43,4 +43,4 @@
 | Yandex.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RU/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

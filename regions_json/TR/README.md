@@ -1,6 +1,6 @@
 # TR
 
-**共 88 條** · [返回主頁](../../README.md)
+**共 87 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -31,13 +31,13 @@
 | Superonline Iletisim Hizmetleri A.S | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Superonline%20Iletisim%20Hizmetleri%20A.S.txt) |
 | TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TALIDO%20Bilisim%20Teknolojileri%20Sanayi%20ve%20Ticaret%20Anonim%20Sirketi.txt) |
 | Tellcom Adana Fiber Dynamic | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Tellcom%20Adana%20Fiber%20Dynamic.txt) |
-| TradeZone LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TradeZone%20LLC.txt) |
+| TradeZone LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TradeZone%20LLC.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI.txt) |
-| White Label Services, LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
-| WorkTitans B.V | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/WorkTitans%20B.V.txt) |
+| White Label Services, LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
+| WorkTitans B.V | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/WorkTitans%20B.V.txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | hostigger_datacenter_TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*

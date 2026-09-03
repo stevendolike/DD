@@ -11,4 +11,4 @@
 | Uninet S. A. de C.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MX/Uninet%20S.%20A.%20de%20C.V.txt) |
 
 ---
-*最後更新：2026-09-02 23:54 UTC*
+*最後更新：2026-09-03 08:22 UTC*
