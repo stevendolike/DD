@@ -10,4 +10,4 @@
 | TPG Internet Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AU/TPG%20Internet%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-03 08:22 UTC*
+*最後更新：2026-09-03 14:19 UTC*
