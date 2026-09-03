@@ -15,4 +15,4 @@
 | Yedinyye Resheniya LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/Yedinyye%20Resheniya%20LLC.txt) |
 
 ---
-*最後更新：2026-09-03 19:12 UTC*
+*最後更新：2026-09-03 23:51 UTC*
