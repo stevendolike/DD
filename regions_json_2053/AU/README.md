@@ -9,4 +9,4 @@
 | Akamai Connected Cloud _ Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AU/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 
 ---
-*最後更新：2026-09-04 08:18 UTC*
+*最後更新：2026-09-04 14:09 UTC*
