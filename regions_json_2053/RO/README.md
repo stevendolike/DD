@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/Friendhosting%20LTD.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/Baxet%20Group%20Inc.txt) |
 | _ WWW.RARECLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/_%20WWW.RARECLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-09-03 23:51 UTC*
+*最後更新：2026-09-04 08:18 UTC*

@@ -1,23 +1,28 @@
 # KZ （純 IP）
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 33 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/3HCLOUD%20LLC.txt) |
+| AdminVPS OOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/AdminVPS%20OOO.txt) |
+| Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Anton%20Levin.txt) |
+| BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/BEAFORT%20LIMITED.txt) |
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Beget%20LLC.txt) |
-| Cloud Services Kazakhstan LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
+| Cloud Services Kazakhstan LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
+| GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | HostLab LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/HostLab%20LLC.txt) |
 | Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Hoster.KZ.txt) |
 | Hosting Pro (Hosting Pro) LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Hosting%20Pro%20%28Hosting%20Pro%29%20LLP.txt) |
-| LLP Internet Company First Page | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
-| Megahost Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Megahost%20Kazakhstan%20TOO.txt) |
+| LLP Internet Company First Page | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
+| Megahost Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Megahost%20Kazakhstan%20TOO.txt) |
+| Modern Server Solutions LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| PS Internet Company LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/PS%20Internet%20Company%20LLP.txt) |
+| PS Internet Company LLP | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Servercore%20Network.txt) |
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-09-03 23:51 UTC*
+*最後更新：2026-09-04 08:18 UTC*

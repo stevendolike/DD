@@ -1,12 +1,13 @@
 # PT
 
-**共 1 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/Baxet%20Group%20Inc.txt) |
+| Euronodes Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/Euronodes%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-03 23:51 UTC*
+*最後更新：2026-09-04 08:18 UTC*

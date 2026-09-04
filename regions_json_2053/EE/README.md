@@ -1,16 +1,16 @@
 # EE （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Brainoza OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/Brainoza%20OU.txt) |
-| EE IPHOSTER OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/EE%20IPHOSTER%20OU.txt) |
+| EE IPHOSTER OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/EE%20IPHOSTER%20OU.txt) |
 | IPv6 network for hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/IROKO%20Networks%20Corporation.txt) |
 | Network for hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/EE/Network%20for%20hosting%20services.txt) |
 
 ---
-*最後更新：2026-09-03 23:51 UTC*
+*最後更新：2026-09-04 08:18 UTC*

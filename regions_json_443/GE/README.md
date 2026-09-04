@@ -1,12 +1,13 @@
 # GE （純 IP）
 
-**共 1 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GE/HZ%20Hosting%20Ltd.txt) |
+| HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GE/HZ%20Hosting%20Ltd.txt) |
+| WORLDBUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GE/WORLDBUS.txt) |
 
 ---
-*最後更新：2026-09-03 23:51 UTC*
+*最後更新：2026-09-04 08:18 UTC*

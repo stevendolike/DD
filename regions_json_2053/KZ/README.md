@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 15 條** · [返回主頁](../../README.md)
+**共 23 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/_all.txt)
 
@@ -9,16 +9,20 @@
 | 3HCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/3HCLOUD%20LLC.txt) |
 | Beget LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Beget%20LLC.txt) |
 | Cloud Services Kazakhstan LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Cloudflare%20London%2C%20LLC.txt) |
+| HostLab LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/HostLab%20LLC.txt) |
 | Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Hoster.KZ.txt) |
 | JSC TIMEWEB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/JSC%20TIMEWEB.txt) |
 | LLP Internet Company First Page | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
 | Megahost Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Megahost%20Kazakhstan%20TOO.txt) |
+| Modern Server Solutions LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| ONEHOST LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/ONEHOST%20LLP.txt) |
+| ONEHOST LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/ONEHOST%20LLP.txt) |
 | PS Internet Company LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Quasar LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Quasar%20LLC.txt) |
 | Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Servercore%20Network.txt) |
+| Webstudio Onelab LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Webstudio%20Onelab%20LLP.txt) |
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-09-03 23:51 UTC*
+*最後更新：2026-09-04 08:18 UTC*

@@ -1,12 +1,13 @@
 # CL （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 2 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CL/The%20Constant%20Company%2C%20LLC.txt) |
+| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CL/Oracle%20Corporation.txt) |
+| The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CL/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-09-03 23:51 UTC*
+*最後更新：2026-09-04 08:18 UTC*
