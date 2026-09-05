@@ -9,4 +9,4 @@
 | Netlen Internet Hizmetleri Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 
 ---
-*最後更新：2026-09-05 07:55 UTC*
+*最後更新：2026-09-05 13:21 UTC*
