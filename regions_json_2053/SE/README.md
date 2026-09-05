@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 29 條** · [返回主頁](../../README.md)
+**共 27 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/AEZA%20GROUP%20LLC.txt) |
 | ALEXHOST S.R.L | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/ALEXHOST%20S.R.L.txt) |
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Baxet%20Group%20Inc.txt) |
 | DFDB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/DFDB%20LLC.txt) |
 | EDIS KVM Infrastructure in Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/EDIS%20KVM%20Infrastructure%20in%20Sweden.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/NetCrafters%20OU.txt) |
@@ -17,8 +16,7 @@
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Pronet%20LLC.txt) |
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/SIA%20VEESP.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/The%20Constant%20Company%2C%20LLC.txt) |
-| The subnet 2a0c_5700_3133_1705___64 in this range is used for TOR-Exit services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/The%20subnet%202a0c_5700_3133_1705___64%20in%20this%20range%20is%20used%20for%20TOR-Exit%20services.txt) |
 | Vultr Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-09-04 23:49 UTC*
+*最後更新：2026-09-05 07:55 UTC*

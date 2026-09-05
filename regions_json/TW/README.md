@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ACCK LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ACCK%20LLC.txt) |
+| ACCK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ACCK%20LLC.txt) |
 | Akari Networks (Taipei) | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Akari%20Networks%20%28Taipei%29.txt) |
-| ByteVirt LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ByteVirt%20LLC.txt) |
+| ByteVirt LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ByteVirt%20LLC.txt) |
 | Chunghwa Telecom Data Communication Business Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
 | Data Communication Business Group, | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Data%20Communication%20Business%20Group%2C.txt) |
 | Imcloud Technology Co., Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Imcloud%20Technology%20Co.%2C%20Ltd.txt) |
@@ -21,4 +21,4 @@
 | STARVERSE POLOCLOUD 2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/STARVERSE%20POLOCLOUD%202.txt) |
 
 ---
-*最後更新：2026-09-04 23:49 UTC*
+*最後更新：2026-09-05 07:55 UTC*

@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 553 條** · [返回主頁](../../README.md)
+**共 551 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/_all.txt)
 
@@ -16,8 +16,7 @@
 | ACEVILLE PTE.LTD | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/ACEVILLE%20PTE.LTD.txt) |
 | ADROITSSD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/ADROITSSD.txt) |
 | AKILE LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/AKILE%20LTD.txt) |
-| ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/ALLIANCE%20INTELLIGENT%20TECHNOLOGIES%20PTE.%20LTD.txt) |
-| Akamai Connected Cloud _ Linode | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
+| Akamai Connected Cloud _ Linode | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Akari Networks (Singapore) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Akari%20Networks%20%28Singapore%29.txt) |
 | AkileCloud SG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/AkileCloud%20SG.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
@@ -35,9 +34,9 @@
 | Contabo Asia Private Limited | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Contabo%20Asia%20Private%20Limited.txt) |
 | DATAWAVE GLOBAL LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DATAWAVE%20GLOBAL%20LLC.txt) |
 | Digital Ocean, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Digital%20Ocean%2C%20Inc.txt) |
-| DigitalOcean, LLC | 249 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 248 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/DigitalOcean%2C%20LLC.txt) |
 | FDCservers.net | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/FDCservers.net.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/GREEN%20FLOID%20LLC.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Google%20LLC.txt) |
 | HONG KONG COMMUNICATIONS INTERNATIONAL CO.,LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/HONG%20KONG%20COMMUNICATIONS%20INTERNATIONAL%20CO.%2CLIMITED.txt) |
@@ -46,10 +45,10 @@
 | ISIF Network (Singapore) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/ISIF%20Network%20%28Singapore%29.txt) |
 | LEASEWEB SINGAPORE PTE. LTD | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD.txt) |
 | Linode | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Linode.txt) |
-| Microsoft Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Microsoft%20Corporation.txt) |
+| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Microsoft%20Corporation.txt) |
 | OVH SINGAPOR DC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/OVH%20SINGAPOR%20DC.txt) |
 | OVH Singapore PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/OVH%20Singapore%20PTE.%20LTD.txt) |
-| Oracle Corporation | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Oracle%20Public%20Cloud.txt) |
 | PI-SINGAPORE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/PI-SINGAPORE.txt) |
 | PRIVATE CUSTOMER | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/PRIVATE%20CUSTOMER.txt) |
@@ -61,12 +60,12 @@
 | The Constant Company, LLC | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/The%20Constant%20Company%2C%20LLC.txt) |
 | UCUL-SG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/UCUL-SG.txt) |
 | UpCloud Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/UpCloud%20Ltd.txt) |
-| VAYNE NETWORK PTE. LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/VAYNE%20NETWORK%20PTE.%20LTD.txt) |
+| VAYNE NETWORK PTE. LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/VAYNE%20NETWORK%20PTE.%20LTD.txt) |
 | Viewqwest Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Viewqwest%20Pte%20Ltd.txt) |
-| Vultr Holdings, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Vultr%20Holdings%2C%20LLC.txt) |
+| Vultr Holdings, LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Vultr%20Holdings%2C%20LLC.txt) |
 | WEBHORIZON | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/WEBHORIZON.txt) |
 | Zenlayer (Singapore) PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/Zenlayer%20%28Singapore%29%20PTE.%20LTD.txt) |
 | xTom Pty Ltd | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-04 23:49 UTC*
+*最後更新：2026-09-05 07:55 UTC*
