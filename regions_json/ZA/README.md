@@ -6,8 +6,10 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| The Constant Company, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/The%20Constant%20Company%2C%20LLC.txt) |
-| xneelo-tscolo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/xneelo-tscolo.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/Cloudflare%20London%2C%20LLC.txt) |
+| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/LIGHT%20NODE%20LIMITED.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/The%20Constant%20Company%2C%20LLC.txt) |
+| xneelo-tscolo | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ZA/xneelo-tscolo.txt) |
 
 ---
-*最後更新：2026-09-05 23:38 UTC*
+*最後更新：2026-09-06 08:12 UTC*

@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Giti Secure Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IR/Giti%20Secure%20Cloud.txt) |
+| Enteghal Dade Arya Sarv Co (Ltd.) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IR/Enteghal%20Dade%20Arya%20Sarv%20Co%20%28Ltd.%29.txt) |
 
 ---
-*最後更新：2026-09-05 23:38 UTC*
+*最後更新：2026-09-06 08:12 UTC*

@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AIRNET llc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/AIRNET%20llc.txt) |
-| SERVERCORE CIS FE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/SERVERCORE%20CIS%20FE%20LLC.txt) |
+| AIRNET llc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/AIRNET%20llc.txt) |
+| SERVERCORE CIS FE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/SERVERCORE%20CIS%20FE%20LLC.txt) |
 | SERVERCORE UZ Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UZ/SERVERCORE%20UZ%20Network.txt) |
 
 ---
-*最後更新：2026-09-05 23:38 UTC*
+*最後更新：2026-09-06 08:12 UTC*

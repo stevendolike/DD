@@ -1,14 +1,14 @@
 # SK
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SK/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Digital City FZE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SK/Digital%20City%20FZE.txt) |
+| Digital City FZE | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SK/Digital%20City%20FZE.txt) |
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SK/M247%20LTD%20Vienna%20Infrastructure.txt) |
 | PE Denis Podolskii | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SK/PE%20Denis%20Podolskii.txt) |
 
 ---
-*最後更新：2026-09-05 23:38 UTC*
+*最後更新：2026-09-06 08:12 UTC*

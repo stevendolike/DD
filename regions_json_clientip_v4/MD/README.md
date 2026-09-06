@@ -1,6 +1,6 @@
 # MD
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | ALEXHOST SRL | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/ALEXHOST%20SRL.txt) |
 | MivoCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/MivoCloud.txt) |
-| S.C. INFOTECH-GRUP S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
+| S.C. INFOTECH-GRUP S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
 
 ---
-*最後更新：2026-09-05 23:38 UTC*
+*最後更新：2026-09-06 08:12 UTC*

@@ -1,24 +1,23 @@
 # LT （純 IP）
 
-**共 26 條** · [返回主頁](../../README.md)
+**共 27 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Melbikomas%20UAB.txt) |
-| Oneprovider.com - Vilnius Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 | Pirma alokacija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Pirma%20alokacija.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Private%20Customer.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/SERV.HOST%20GROUP%20LTD.txt) |
 | SOLID Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/SOLID%20Lithuania.txt) |
 | UAB Bacloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Bacloud.txt) |
-| UAB Cherry Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
+| UAB Interneto vizija | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
+| oneprovider.com - Vilnius Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-09-05 23:38 UTC*
+*最後更新：2026-09-06 08:12 UTC*

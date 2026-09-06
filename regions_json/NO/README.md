@@ -9,8 +9,7 @@
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/EDIS%20IPv6%20Infrastructure%20in%20Norway.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Gigahost AS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Gigahost%20AS.txt) |
-| H4F.NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/H4F.NET.txt) |
+| Gigahost AS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Gigahost%20AS.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/IROKO%20Networks%20Corporation.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Prinode%20AB.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/SERV.HOST%20GROUP%20LTD.txt) |
@@ -19,4 +18,4 @@
 | WebHorizon Norway | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-09-05 23:38 UTC*
+*最後更新：2026-09-06 08:12 UTC*
