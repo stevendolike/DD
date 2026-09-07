@@ -9,4 +9,4 @@
 | Enteghal Dade Arya Sarv Co (Ltd.) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IR/Enteghal%20Dade%20Arya%20Sarv%20Co%20%28Ltd.%29.txt) |
 
 ---
-*最後更新：2026-09-07 08:44 UTC*
+*最後更新：2026-09-07 15:42 UTC*

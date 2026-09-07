@@ -30,4 +30,4 @@
 | Vultr Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-09-07 08:44 UTC*
+*最後更新：2026-09-07 15:42 UTC*
