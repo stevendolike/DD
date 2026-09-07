@@ -1,12 +1,11 @@
 # HK （純 IP）
 
-**共 14 條** · [返回主頁](../../README.md)
+**共 13 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/ACEVILLE%20PTE.LTD.txt) |
 | ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/Cloud%20Software%20-%20FZCO.txt) |
 | Cloudie Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/Cloudie%20Limited.txt) |
@@ -19,4 +18,4 @@
 | VH Global Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/VH%20Global%20Limited.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 379 條** · [返回主頁](../../README.md)
+**共 381 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -8,8 +8,9 @@
 |------|--------|---------|
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services France | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Amazon%20Data%20Services%20France.txt) |
+| Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | BEAFORT LIMITED | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
@@ -27,7 +28,7 @@
 | HOSTKEY B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HZ%20Hosting%20Ltd.txt) |
 | Host Europe GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Host%20Europe%20GmbH.txt) |
-| IPv6 Block allocated to VPS offers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/IPv6%20Block%20allocated%20to%20VPS%20offers.txt) |
+| IPv6 Block allocated to VPS offers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/IPv6%20Block%20allocated%20to%20VPS%20offers.txt) |
 | IT Hostline Ltd | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/IT%20Hostline%20Ltd.txt) |
 | Inter Connects Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Inter%20Connects%20Inc.txt) |
 | Jogcorp SAS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Jogcorp%20SAS.txt) |
@@ -42,7 +43,7 @@
 | NET 155 117 6 0 24 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/NET%20155%20117%206%200%2024.txt) |
 | Neterra Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Neterra%20Ltd.txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20Hispano.txt) |
-| OVH SAS | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20SAS.txt) |
+| OVH SAS | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20SAS.txt) |
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Svenska%20AB.txt) |
@@ -57,14 +58,14 @@
 | SEVIN Jacques | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/SEVIN%20Jacques.txt) |
 | Scaleway | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Scaleway.txt) |
 | Seigohost LLC | 87 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Seigohost%20LLC.txt) |
-| Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Subnet%20Digital%20LLC.txt) |
+| Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Subnet%20Digital%20LLC.txt) |
 | Techcrea Solutions SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Techcrea%20Solutions%20SAS.txt) |
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/The%20Constant%20Company%2C%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/UNKNOWN.txt) |
 | VIRTUASYS PARIS (PAR01FR) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | Vultr Holdings, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| as56971 network | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
+| as56971 network | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

@@ -1,6 +1,6 @@
 # TR
 
-**共 132 條** · [返回主頁](../../README.md)
+**共 123 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -26,11 +26,9 @@
 | LIGHT NODE LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/LIGHT%20NODE%20LIMITED.txt) |
 | Markahost Telekomunikasyon Ve Ticaret Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Markahost%20Telekomunikasyon%20Ve%20Ticaret%20Limited%20Sirketi.txt) |
 | NETLEN INTERNET HIZMETLERI LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/NETLEN%20INTERNET%20HIZMETLERI%20LIMITED%20SIRKETI.txt) |
-| NETVIA BILISIM YAZILIM DANISMANLIK TICARET LIMITED SIRKETI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/NETVIA%20BILISIM%20YAZILIM%20DANISMANLIK%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Netvia Bilisim Yazilim Danismanlik Tic. Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netvia%20Bilisim%20Yazilim%20Danismanlik%20Tic.%20Ltd.%20Sti.txt) |
-| Plant Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Plant%20Holding%20GmbH.txt) |
-| Private Customer | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Private%20Customer.txt) |
+| Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Private%20Customer.txt) |
 | RCS Technologies FZE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/RCS%20Technologies%20FZE%20LLC.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Serverbike LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Serverbike%20LTD.txt) |
@@ -40,11 +38,10 @@
 | TradeZone LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TradeZone%20LLC.txt) |
 | ULTAHOST HOSTING VE VERI MERKEZI LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/ULTAHOST%20HOSTING%20VE%20VERI%20MERKEZI%20LTD.%20STI.txt) |
 | VOYAR VERIMERKEZI TEKNOLOJILERI LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/VOYAR%20VERIMERKEZI%20TEKNOLOJILERI%20LTD.%20STI.txt) |
-| White Label Services, LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
 | WorkTitans B.V | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/WorkTitans%20B.V.txt) |
-| YottaSrc Hosting and Cloud Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

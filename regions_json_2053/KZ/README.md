@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 20 條** · [返回主頁](../../README.md)
+**共 19 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/_all.txt)
 
@@ -20,7 +20,6 @@
 | Quasar LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Quasar%20LLC.txt) |
 | Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Servercore%20Network.txt) |
 | Webstudio Onelab LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/Webstudio%20Onelab%20LLP.txt) |
-| lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

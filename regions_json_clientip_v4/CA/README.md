@@ -1,6 +1,6 @@
 # CA
 
-**共 49 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | Amazon Data Services Canada | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Amazon%20Data%20Services%20Canada.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/CENTRILOGICCANADA.txt) |
 | Cloud Web Manage | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cloud%20Web%20Manage.txt) |
-| Cluster Logic Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cluster%20Logic%20Inc.txt) |
+| Cluster Logic Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cluster%20Logic%20Inc.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
 | DigitalOcean, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/DigitalOcean%2C%20LLC.txt) |
 | GLOBALTELEHOST Corp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/GLOBALTELEHOST%20Corp.txt) |
@@ -25,4 +25,4 @@
 | YottaSrc Hosting and Cloud Services | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

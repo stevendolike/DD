@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 28 條** · [返回主頁](../../README.md)
+**共 26 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/_all.txt)
 
@@ -13,7 +13,6 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | IPv4Center.com Partition - Order #4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/IPv4Center.com%20Partition%20-%20Order%20%234.txt) |
 | Komuta Savunma Yuksek Teknoloji Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Komuta%20Savunma%20Yuksek%20Teknoloji%20Limited%20Sirketi.txt) |
-| NETVIA BILISIM YAZILIM DANISMANLIK TICARET LIMITED SIRKETI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/NETVIA%20BILISIM%20YAZILIM%20DANISMANLIK%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Private%20Customer.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/RCS%20Technologies%20FZE%20LLC.txt) |
@@ -23,4 +22,4 @@
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

@@ -1,6 +1,6 @@
 # KZ
 
-**共 74 條** · [返回主頁](../../README.md)
+**共 71 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all_443.txt)
 
@@ -23,7 +23,7 @@
 | JSC Severen-Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/JSC%20Severen-Telecom.txt) |
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/JSC%20TIMEWEB.txt) |
 | Megahost Kazakhstan TOO | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Megahost%20Kazakhstan%20TOO.txt) |
-| Modern Server Solutions LLP | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Modern%20Server%20Solutions%20LLP.txt) |
+| Modern Server Solutions LLP | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/NTL%20Kazakhstan%20TOO.txt) |
 | ONEHOST LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/ONEHOST%20LLP.txt) |
 | PS Internet Company LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/PS%20Internet%20Company%20LLP.txt) |
@@ -31,7 +31,6 @@
 | SC Kazakhtelecom, Direction of Information Systems | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/SC%20Kazakhtelecom%2C%20Direction%20of%20Information%20Systems.txt) |
 | Servercore Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Servercore%20Network.txt) |
 | Webstudio Onelab LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Webstudio%20Onelab%20LLP.txt) |
-| lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

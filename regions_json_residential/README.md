@@ -1,13 +1,13 @@
 # 家庭寬帶（全部 Port）
 
-**共 99 條** · [返回主頁](../README.md)
+**共 93 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
 | AU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/AU.txt) |
-| CA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CN.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
@@ -17,17 +17,17 @@
 | FR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
 | GB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
-| HK | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
+| HK | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | IL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/IL.txt) |
 | JP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
-| KR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
+| KR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | NO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NO.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RO.txt) |
 | RS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RS.txt) |
 | RU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RU.txt) |
 | TW | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
-| US | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

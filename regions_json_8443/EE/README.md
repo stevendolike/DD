@@ -14,7 +14,7 @@
 | EDIS IPv6 Infrastructure in Estonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | EE IPHOSTER OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EE%20IPHOSTER%20OU.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EE-Network.txt) |
-| ESTOXY OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/ESTOXY%20OU.txt) |
+| ESTOXY OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/ESTOXY%20OU.txt) |
 | ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/ExpressHost%20LTD.txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HexCore%20cloud%20s.r.o.txt) |
@@ -26,7 +26,8 @@
 | QWINS-Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/QWINS-Hosting.txt) |
 | RAKAR INVESTMENTS HOLDING B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/SERV.HOST%20GROUP%20LTD.txt) |
+| TAKEHOST.BIZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/TAKEHOST.BIZ.txt) |
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

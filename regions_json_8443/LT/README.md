@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/_all.txt)
 
@@ -11,9 +11,10 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | PROGRESYVUS SPRENDIMAI UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/PROGRESYVUS%20SPRENDIMAI%20UAB.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/Private%20Customer.txt) |
+| SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/SERV.HOST%20GROUP%20LTD.txt) |
 | SolusVM priskirti adresai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/SolusVM%20priskirti%20adresai.txt) |
 | UAB Baltnetos komunikacijos | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Baltnetos%20komunikacijos.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20ESNET.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

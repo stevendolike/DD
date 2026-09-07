@@ -1,6 +1,6 @@
 # RO
 
-**共 46 條** · [返回主頁](../../README.md)
+**共 43 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all_443.txt)
 
@@ -15,12 +15,12 @@
 | Eclipse ADSL Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Eclipse%20ADSL%20Customer.txt) |
 | FlokiNET ehf | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/FlokiNET%20ehf.txt) |
 | Friendhosting LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Friendhosting%20LTD.txt) |
-| GREEN FLOID LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/GREEN%20FLOID%20LLC.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/IROKO%20Networks%20Corporation.txt) |
 | M247 Europe SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/M247%20Europe%20SRL.txt) |
 | NetGrid Host LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/NetGrid%20Host%20LTD.txt) |
 | Phillips Computing Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Phillips%20Computing%20Services.txt) |
-| RARE MOOD AGENCY SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
+| RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/SA.txt) |
 | TIPZOR MEDIA SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/TIPZOR%20MEDIA%20SRL.txt) |
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Urban%20Network%20Solutions%20SRL.txt) |
@@ -31,4 +31,4 @@
 | servinga GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*

@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 27 條** · [返回主頁](../../README.md)
+**共 28 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt)
 
@@ -16,8 +16,8 @@
 | SOLID Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/SOLID%20Lithuania.txt) |
 | UAB Bacloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Bacloud.txt) |
 | UAB ESNET | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
+| UAB Interneto vizija | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
 | oneprovider.com - Vilnius Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-09-06 23:37 UTC*
+*最後更新：2026-09-07 08:44 UTC*
