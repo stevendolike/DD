@@ -12,17 +12,18 @@
 | DO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/DO.txt) |
 | ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/ES.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/FR.txt) |
-| GB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/GB.txt) |
+| GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/GB.txt) |
 | HK | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/HK.txt) |
 | IL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/IL.txt) |
-| JP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/JP.txt) |
+| JP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/JP.txt) |
 | KR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/KR.txt) |
-| NL | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/NL.txt) |
+| NL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/NL.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RO.txt) |
-| RS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RS.txt) |
 | RU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RU.txt) |
+| SI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/SI.txt) |
+| TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TH.txt) |
 | TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
 | US | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*

@@ -1,6 +1,6 @@
 # RS
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all_443.txt)
 
@@ -11,8 +11,7 @@
 | Digital City FZE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/Digital%20City%20FZE.txt) |
 | EDIS IPv6 Infrastructure in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/EDIS%20IPv6%20Infrastructure%20in%20Serbia.txt) |
 | Majordomo in Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/Majordomo%20in%20Serbia.txt) |
-| TELEKOM SRBIJA, ADSL users | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/TELEKOM%20SRBIJA%2C%20ADSL%20users.txt) |
 | eServer s.r.o | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/eServer%20s.r.o.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*

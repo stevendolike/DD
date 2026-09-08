@@ -1,6 +1,6 @@
 # RS
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/_all_443.txt)
 
@@ -10,8 +10,7 @@
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Digital City FZE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/Digital%20City%20FZE.txt) |
 | Majordomo in Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/Majordomo%20in%20Serbia.txt) |
-| TELEKOM SRBIJA, ADSL users | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/TELEKOM%20SRBIJA%2C%20ADSL%20users.txt) |
 | eServer s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RS/eServer%20s.r.o.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*

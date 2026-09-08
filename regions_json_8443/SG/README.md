@@ -1,12 +1,13 @@
 # SG （純 IP）
 
-**共 73 條** · [返回主頁](../../README.md)
+**共 74 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 28 Kallang Place # 05-08 Singapore 339518 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/28%20Kallang%20Place%20%23%2005-08%20Singapore%20339518.txt) |
+| 500 Oracle Parkway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/500%20Oracle%20Parkway.txt) |
 | ACEVILLE PTE.LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/ACEVILLE%20PTE.LTD.txt) |
 | AKILE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/AKILE%20LTD.txt) |
 | Akamai Connected Cloud _ Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
@@ -37,4 +38,4 @@
 | xTom Pty Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*

@@ -1,16 +1,15 @@
 # MD （純 IP）
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ''IT FRUIT'' S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/%27%27IT%20FRUIT%27%27%20S.R.L.txt) |
-| ALEXHOST SRL | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/ALEXHOST%20SRL.txt) |
+| ''IT FRUIT'' S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/%27%27IT%20FRUIT%27%27%20S.R.L.txt) |
+| ALEXHOST SRL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/ALEXHOST%20SRL.txt) |
 | MivoCloud SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/MivoCloud%20SRL.txt) |
-| MivoCloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/MivoCloud.txt) |
-| S.C. INFOTECH-GRUP S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
+| MivoCloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/MivoCloud.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*

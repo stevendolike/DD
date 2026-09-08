@@ -1,17 +1,15 @@
 # BY （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Abonent MGTS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Abonent%20MGTS.txt) |
-| H2.NEXUS Minsk Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/H2.NEXUS%20Minsk%20Network.txt) |
 | LLC Supportby | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/LLC%20Supportby.txt) |
 | Reliable Software, Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Reliable%20Software%2C%20Ltd.txt) |
-| SPRINTHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/SPRINTHOST%20LLP.txt) |
-| Yedinyye Resheniya LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Yedinyye%20Resheniya%20LLC.txt) |
+| SPRINTHOST LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/SPRINTHOST%20LLP.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*

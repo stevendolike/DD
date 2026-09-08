@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 207 條** · [返回主頁](../../README.md)
+**共 206 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/_all.txt)
 
@@ -14,12 +14,10 @@
 | DigitalOcean, LLC | 181 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/DigitalOcean%2C%20LLC.txt) |
 | HOSTOFF infrastructure and hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | Hosting Big Data B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Big%20Data%20B.V.txt) |
-| JSC TIMEWEB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/JSC%20TIMEWEB.txt) |
-| LeaseWeb Netherlands B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/LeaseWeb%20Netherlands%20B.V.txt) |
+| LeaseWeb Netherlands B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/LeaseWeb%20Netherlands%20B.V.txt) |
 | Pfcloud UG (haftungsbeschrankt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Pfcloud%20UG%20%28haftungsbeschrankt%29.txt) |
 | Senko Digital LLC - NL Network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Senko%20Digital%20LLC%20-%20NL%20Network.txt) |
 | Timeweb, LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Timeweb%2C%20LLP.txt) |
-| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*

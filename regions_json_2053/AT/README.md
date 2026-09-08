@@ -7,9 +7,9 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/AEZA%20GROUP%20LLC.txt) |
-| Alwyzon, a trading name of Hohl IT e.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
+| Alwyzon, a trading name of Hohl IT e.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | OVHcloud - Austria | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/OVHcloud%20-%20Austria.txt) |
-| netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/netcup%20GmbH.txt) |
+| netcup GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-09-08 00:04 UTC*
+*最後更新：2026-09-08 08:25 UTC*
