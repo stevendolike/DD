@@ -11,4 +11,4 @@
 | SERVERCORE UZ Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UZ/SERVERCORE%20UZ%20Network.txt) |
 
 ---
-*最後更新：2026-09-08 08:25 UTC*
+*最後更新：2026-09-08 14:20 UTC*
