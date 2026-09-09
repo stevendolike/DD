@@ -31,4 +31,4 @@
 | SC Kazakhtelecom, Direction of Information Systems | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/SC%20Kazakhtelecom%2C%20Direction%20of%20Information%20Systems.txt) |
 
 ---
-*最後更新：2026-09-09 14:21 UTC*
+*最後更新：2026-09-09 19:10 UTC*

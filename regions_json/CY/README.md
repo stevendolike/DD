@@ -11,4 +11,4 @@
 | EDIS IPv6 Infrastructure in Cyprus | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/EDIS%20IPv6%20Infrastructure%20in%20Cyprus.txt) |
 
 ---
-*最後更新：2026-09-09 14:21 UTC*
+*最後更新：2026-09-09 19:10 UTC*

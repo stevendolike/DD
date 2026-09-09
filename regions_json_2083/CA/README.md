@@ -9,4 +9,4 @@
 | Leaseweb Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/CA/Leaseweb%20Canada%20Inc.txt) |
 
 ---
-*最後更新：2026-09-09 14:21 UTC*
+*最後更新：2026-09-09 19:10 UTC*
