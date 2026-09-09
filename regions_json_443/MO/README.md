@@ -9,4 +9,4 @@
 | AkileCloud MO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MO/AkileCloud%20MO.txt) |
 
 ---
-*最後更新：2026-09-09 19:10 UTC*
+*最後更新：2026-09-09 23:55 UTC*
