@@ -1,6 +1,6 @@
 # IE
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/_all_443.txt)
 
@@ -12,9 +12,8 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/Baxet%20Group%20Inc.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/HostPapa.txt) |
-| M247 Europe - Dublin Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/M247%20Europe%20-%20Dublin%20Infrastructure.txt) |
 | RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/RackNerd%20LLC.txt) |
 | VPS ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IE/VPS%20ACE.txt) |
 
 ---
-*最後更新：2026-09-08 23:56 UTC*
+*最後更新：2026-09-09 08:27 UTC*

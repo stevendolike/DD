@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 77 條** · [返回主頁](../../README.md)
+**共 75 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -10,14 +10,14 @@
 | Amazon Data Services Canada | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Amazon%20Data%20Services%20Canada.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Baxet%20Group%20Inc.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/CENTRILOGICCANADA.txt) |
-| Cluster Logic Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Cluster%20Logic%20Inc.txt) |
+| Cluster Logic Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Cluster%20Logic%20Inc.txt) |
 | DigitalOcean, LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
 | GLOBALTELEHOST Corp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/GLOBALTELEHOST%20Corp.txt) |
 | HostPapa | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/IT7%20Networks%20Inc.txt) |
 | ITGLOBAL.COM NL B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Linode.txt) |
-| OVH Hosting, Inc | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting%2C%20Inc.txt) |
+| OVH Hosting, Inc | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Oracle%20Corporation.txt) |
 | Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Rica%20Web%20Services.txt) |
 | Rogers Communications Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Rogers%20Communications%20Canada%20Inc.txt) |
@@ -27,4 +27,4 @@
 | YottaSrc Hosting and Cloud Services | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-09-08 23:56 UTC*
+*最後更新：2026-09-09 08:27 UTC*

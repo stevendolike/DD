@@ -1,6 +1,6 @@
 # IN
 
-**共 57 條** · [返回主頁](../../README.md)
+**共 53 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all_443.txt)
 
@@ -11,16 +11,16 @@
 | BEAFORT LIMITED | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/BEAFORT%20LIMITED.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Contabo%20Asia%20Private%20Limited.txt) |
-| DigitalOcean, LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/DigitalOcean%2C%20LLC.txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Linode.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Microsoft%20Corporation.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Oracle%20Corporation.txt) |
 | P.D.R Solutions FZC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/P.D.R%20Solutions%20FZC.txt) |
-| The Constant Company, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/The%20Constant%20Company%2C%20LLC.txt) |
-| UNKNOWN | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/UNKNOWN.txt) |
+| The Constant Company, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/The%20Constant%20Company%2C%20LLC.txt) |
+| UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/UNKNOWN.txt) |
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-09-08 23:56 UTC*
+*最後更新：2026-09-09 08:27 UTC*

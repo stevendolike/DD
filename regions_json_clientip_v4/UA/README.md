@@ -12,4 +12,4 @@
 | TOV 'Dream Line Holding' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/TOV%20%27Dream%20Line%20Holding%27.txt) |
 
 ---
-*最後更新：2026-09-08 23:56 UTC*
+*最後更新：2026-09-09 08:27 UTC*
