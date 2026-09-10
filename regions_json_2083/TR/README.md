@@ -9,4 +9,4 @@
 | Tellcom Adana Fiber Dynamic | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/Tellcom%20Adana%20Fiber%20Dynamic.txt) |
 
 ---
-*最後更新：2026-09-10 14:13 UTC*
+*最後更新：2026-09-10 23:51 UTC*
