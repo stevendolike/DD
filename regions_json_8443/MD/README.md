@@ -1,15 +1,14 @@
 # MD （純 IP）
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MD/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ALEXHOST SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MD/ALEXHOST%20SRL.txt) |
 | OvO Systems Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MD/OvO%20Systems%20Ltd.txt) |
 | S.C. INFOTECH-GRUP S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
 | Trabia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/MD/Trabia.txt) |
 
 ---
-*最後更新：2026-09-09 23:55 UTC*
+*最後更新：2026-09-10 08:29 UTC*

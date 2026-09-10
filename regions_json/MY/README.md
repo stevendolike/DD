@@ -1,6 +1,6 @@
 # MY
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 16 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all_443.txt)
 
@@ -12,7 +12,6 @@
 | Evoxt.com | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Oracle%20Corporation.txt) |
 | TT DOTCOM SDN BHD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/TT%20DOTCOM%20SDN%20BHD.txt) |
-| Terabix Technologies Sdn. Bhd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Terabix%20Technologies%20Sdn.%20Bhd.txt) |
 
 ---
-*最後更新：2026-09-09 23:55 UTC*
+*最後更新：2026-09-10 08:29 UTC*

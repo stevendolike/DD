@@ -1,13 +1,12 @@
 # NZ （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NZ/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Two Degrees Mobile Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NZ/Two%20Degrees%20Mobile%20Limited.txt) |
 | Voyager Internet Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NZ/Voyager%20Internet%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-09 23:55 UTC*
+*最後更新：2026-09-10 08:29 UTC*

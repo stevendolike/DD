@@ -13,4 +13,4 @@
 | Magyar Telekom customers using dynamic IP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/Magyar%20Telekom%20customers%20using%20dynamic%20IP.txt) |
 
 ---
-*最後更新：2026-09-09 23:55 UTC*
+*最後更新：2026-09-10 08:29 UTC*

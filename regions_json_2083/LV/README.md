@@ -1,15 +1,14 @@
 # LV （純 IP）
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/LV/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/LV/GREEN%20FLOID%20LLC.txt) |
-| HostVDS.com Cloud Service Provider | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | SIA VEESP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/LV/SIA%20VEESP.txt) |
-| as56971 network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/LV/as56971%20network.txt) |
+| as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-09 23:55 UTC*
+*最後更新：2026-09-10 08:29 UTC*

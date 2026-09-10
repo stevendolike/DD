@@ -7,8 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/BEAFORT%20LIMITED.txt) |
-| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/G-Core%20Labs%20S.A.txt) |
-| Proitlab LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/Proitlab%20LLC.txt) |
+| Proitlab LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AM/Proitlab%20LLC.txt) |
 
 ---
-*最後更新：2026-09-09 23:55 UTC*
+*最後更新：2026-09-10 08:29 UTC*
