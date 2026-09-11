@@ -1,12 +1,11 @@
 # JP （純 IP）
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 20 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| BACK WAVES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/BACK%20WAVES%20LIMITED.txt) |
 | BITSFLOWCLOUD LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/BITSFLOWCLOUD%20LTD.txt) |
 | ByteVirt LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/ByteVirt%20LLC.txt) |
 | EDIS IPv6 Infrastructure In Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/EDIS%20IPv6%20Infrastructure%20In%20Japan.txt) |
@@ -23,4 +22,4 @@
 | xTom Japan Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

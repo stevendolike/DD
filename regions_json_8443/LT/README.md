@@ -1,6 +1,6 @@
 # LT （純 IP）
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 13 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/_all.txt)
 
@@ -13,8 +13,9 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/Private%20Customer.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/SERV.HOST%20GROUP%20LTD.txt) |
 | SolusVM priskirti adresai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/SolusVM%20priskirti%20adresai.txt) |
+| UAB Baltnetos komunikacijos | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Baltnetos%20komunikacijos.txt) |
 | UAB ESNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

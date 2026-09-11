@@ -1,12 +1,12 @@
 # GB
 
-**共 1,304 條** · [返回主頁](../../README.md)
+**共 1,282 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 411 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 392 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services UK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
@@ -38,7 +38,6 @@
 | IT Hostline Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/IT%20Hostline%20Ltd.txt) |
 | Iomart Group Plc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Iomart%20Group%20Plc.txt) |
 | Iomart Managed Services Limited | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Iomart%20Managed%20Services%20Limited.txt) |
-| Kirino LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Kirino%20LLC.txt) |
 | Leaseweb UK Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Leaseweb%20UK%20Limited.txt) |
 | Linode, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode%2C%20LLC.txt) |
 | Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode.txt) |
@@ -57,9 +56,9 @@
 | PebbleHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/PebbleHost.txt) |
 | Perfecto Mobile UK LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Perfecto%20Mobile%20UK%20LTD.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Prinode%20AB.txt) |
-| Private Customer | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Private%20Customer.txt) |
+| Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Private%20Customer.txt) |
 | RouterHosting LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/RouterHosting%20LLC.txt) |
-| SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/SA.txt) |
+| SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/SA.txt) |
 | STYLISH BY A&L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/STYLISH%20BY%20A%26L%20SRL.txt) |
 | Shaposhnikov Maxim | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Shaposhnikov%20Maxim.txt) |
 | The Constant Company, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/The%20Constant%20Company%2C%20LLC.txt) |
@@ -74,4 +73,4 @@
 | xTom GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

@@ -7,20 +7,20 @@
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
 | CA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/CA.txt) |
-| CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/CH.txt) |
-| DE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/DE.txt) |
+| DE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/DE.txt) |
 | ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/ES.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/FR.txt) |
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/GB.txt) |
 | HK | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/HK.txt) |
-| JP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/JP.txt) |
+| JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/JP.txt) |
 | KR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/KR.txt) |
 | NL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/NL.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RO.txt) |
 | RU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RU.txt) |
+| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TH.txt) |
 | TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
 | US | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Baxet%20Group%20Inc.txt) |
 | Belcloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Belcloud%20LTD.txt) |
-| Deployish Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Deployish%20Limited.txt) |
+| Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Deployish%20Limited.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | Friendhosting LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Friendhosting%20LTD.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/G-Core%20Labs%20Customer%20assignment.txt) |
@@ -20,4 +20,4 @@
 | Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

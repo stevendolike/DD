@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 196 條** · [返回主頁](../../README.md)
+**共 195 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/_all.txt)
 
@@ -12,11 +12,11 @@
 | FDCservers.net | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/FDCservers.net.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | HostHatch Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/HostHatch%20Inc.txt) |
-| JSC TIMEWEB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/JSC%20TIMEWEB.txt) |
 | MagicHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/MagicHosting.txt) |
 | SERVERS TECH FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/SERVERS%20TECH%20FZCO.txt) |
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/SIA%20VEESP.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

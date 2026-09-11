@@ -1,6 +1,6 @@
 # SE
 
-**共 272 條** · [返回主頁](../../README.md)
+**共 269 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -25,14 +25,14 @@
 | Glesys AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Glesys%20AB.txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/HZ%20Hosting%20Ltd.txt) |
 | Hexabyte AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hexabyte%20AB.txt) |
-| Hollander & Jacobsen UG (haftungsbeschraenkt) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
+| Hollander & Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
 | Hostup AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hostup%20AB.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/IROKO%20Networks%20Corporation.txt) |
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ISPIRIA%20Networks%20Ltd.txt) |
 | Internetport Sweden AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Internetport%20Sweden%20AB.txt) |
 | Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/MVPS%20LTD.txt) |
-| Materialism s.r.l | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
+| Materialism s.r.l | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Melbikomas%20UAB.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Oracle%20Corporation.txt) |
@@ -44,7 +44,7 @@
 | Reverse-Proxy | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Reverse-Proxy.txt) |
 | SA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SEBEK%20sp.%20z%20o.o.txt) |
-| SIA VEESP | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
+| SIA VEESP | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
 | SweHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SweHosting.txt) |
 | Sweden infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Sweden%20infrastructure.txt) |
 | Switzerland infrastructure | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Switzerland%20infrastructure.txt) |
@@ -57,4 +57,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

@@ -1,6 +1,6 @@
 # BG
 
-**共 79 條** · [返回主頁](../../README.md)
+**共 78 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all_443.txt)
 
@@ -12,7 +12,7 @@
 | Cifrova Kabelna Korporacia EOOD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Cifrova%20Kabelna%20Korporacia%20EOOD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | DA International Group Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd.txt) |
-| Deployish Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Deployish%20Limited.txt) |
+| Deployish Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Deployish%20Limited.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | Friendhosting LTD | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Friendhosting%20LTD.txt) |
@@ -28,4 +28,4 @@
 | Virterion LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

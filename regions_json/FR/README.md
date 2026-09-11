@@ -1,6 +1,6 @@
 # FR
 
-**共 658 條** · [返回主頁](../../README.md)
+**共 654 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all_443.txt)
 
@@ -16,16 +16,15 @@
 | Baykov Ilya Sergeevich | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
 | Blockchain Games N.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Blockchain%20Games%20N.V.txt) |
-| CGI GLOBAL LIMITED | 118 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 116 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Cloud%20Software%20-%20FZCO.txt) |
 | CloudBackbone | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CloudBackbone.txt) |
-| Contabo GmbH | 118 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 121 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
 | Dyjix SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Dyjix%20SAS.txt) |
 | EE IPHOSTER OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EE%20IPHOSTER%20OU.txt) |
 | EGIHosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EGIHosting.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Evoxt.com.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FASTWARP%20LLP.txt) |
-| FEELB SARL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FEELB%20SARL.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FIRST%20SERVER%20LIMITED.txt) |
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Free%20SAS.txt) |
 | GANDI-HOSTING DC0 DATACENTER PA2 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/GANDI-HOSTING%20DC0%20DATACENTER%20PA2.txt) |
@@ -34,11 +33,10 @@
 | HOSTKEY B.V | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HZ%20Hosting%20Ltd.txt) |
 | Host Europe GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Host%20Europe%20GmbH.txt) |
-| IPXO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPXO.txt) |
+| IPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPXO.txt) |
 | IPv4 Miridia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPv4%20Miridia.txt) |
-| IPv6 Block allocated to VPS offers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPv6%20Block%20allocated%20to%20VPS%20offers.txt) |
+| IPv6 Block allocated to VPS offers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPv6%20Block%20allocated%20to%20VPS%20offers.txt) |
 | IT Hostline Ltd | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IT%20Hostline%20Ltd.txt) |
-| Inter Connects Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Inter%20Connects%20Inc.txt) |
 | Jogcorp SAS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Jogcorp%20SAS.txt) |
 | Keramat Dahr Mahdi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Keramat%20Dahr%20Mahdi.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/LIGHT%20NODE%20LIMITED.txt) |
@@ -48,8 +46,9 @@
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Microsoft%20Corporation.txt) |
 | MivoCloud SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/MivoCloud%20SRL.txt) |
 | Mo's Operations GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Mo%27s%20Operations%20GmbH.txt) |
+| NET 141 11 32 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NET%20141%2011%2032%200%2024.txt) |
 | NET 145 223 68 0 22 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NET%20145%20223%2068%200%2022.txt) |
-| NET 155 117 6 0 24 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NET%20155%20117%206%200%2024.txt) |
+| NET 155 117 6 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NET%20155%20117%206%200%2024.txt) |
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/NetCrafters%20OU.txt) |
 | Neterra Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Neterra%20Ltd.txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/OVH%20Hispano.txt) |
@@ -58,7 +57,6 @@
 | Oracle Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Svenska%20AB.txt) |
 | Orange S.A | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Orange%20S.A.txt) |
-| POP GRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/POP%20GRE.txt) |
 | Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Private%20Customer.txt) |
 | RACKNERD-FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/RACKNERD-FR.txt) |
 | RBX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/RBX.txt) |
@@ -76,7 +74,7 @@
 | Vultr Holdings, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Service | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
-| as56971 network | 50 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
+| as56971 network | 49 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

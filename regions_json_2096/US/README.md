@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 44 條** · [返回主頁](../../README.md)
+**共 45 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt)
 
@@ -18,8 +18,8 @@
 | Leaseweb USA, Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Leaseweb%20USA%2C%20Inc.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Oracle%20Corporation.txt) |
 | RackNerd LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/RackNerd%20LLC.txt) |
-| Red Team LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Red%20Team%20LTD.txt) |
+| Red Team LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Red%20Team%20LTD.txt) |
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

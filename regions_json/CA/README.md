@@ -1,6 +1,6 @@
 # CA
 
-**共 106 條** · [返回主頁](../../README.md)
+**共 102 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -31,7 +31,7 @@
 | Shaw Communications | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
-| YottaSrc Hosting and Cloud Services | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
+| YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

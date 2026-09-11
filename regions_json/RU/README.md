@@ -1,13 +1,13 @@
 # RU
 
-**共 438 條** · [返回主頁](../../README.md)
+**共 429 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AEZA%20GROUP%20LLC.txt) |
-| AEZA GROUP Ltd | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AEZA%20GROUP%20Ltd.txt) |
+| AEZA GROUP Ltd | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AEZA%20GROUP%20Ltd.txt) |
 | AdminVPS OOO | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AdminVPS%20OOO.txt) |
 | Argotel ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Argotel%20ltd.txt) |
 | Beget LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Beget%20LLC.txt) |
@@ -18,22 +18,21 @@
 | DATACHEAP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/DATACHEAP%20LLC.txt) |
 | Data Storage Center JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Data%20Storage%20Center%20JSC.txt) |
 | Def-Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Def-Group%20LLC.txt) |
-| Delta Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Delta%20Ltd.txt) |
+| Delta Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Delta%20Ltd.txt) |
 | EDIS IPv6 Infrastructure in Russia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EDIS%20IPv6%20Infrastructure%20in%20Russia.txt) |
 | EdgeCenter LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLAVTEL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLAVTEL%20LLC.txt) |
-| GLOBAL INTERNET SOLUTIONS LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
+| GLOBAL INTERNET SOLUTIONS LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Global Communications LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Global%20Communications%20LLC.txt) |
-| Gorcom dynamic broadband customers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Gorcom%20dynamic%20broadband%20customers.txt) |
 | Helou LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Helou%20LLC.txt) |
 | Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Hosting%20Ltd.txt) |
 | Hosting technology LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Hosting%20technology%20LTD.txt) |
 | Hosting-VDS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Hosting-VDS.txt) |
 | Hostland ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Hostland%20ltd.txt) |
 | IP Vladislav Ereemev | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/IP%20Vladislav%20Ereemev.txt) |
-| IT-Garage | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/IT-Garage.txt) |
+| IT-Garage | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/IT-Garage.txt) |
 | Ildar Gilmutdinov PE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Ildar%20Gilmutdinov%20PE.txt) |
 | Internet Hosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Internet%20Hosting%20LLC.txt) |
 | JSC Datacenter | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20Datacenter.txt) |
@@ -45,7 +44,7 @@
 | JSC TIMEWEB | 83 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/KVIKTEL%20LLC.txt) |
 | Kontel LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Kontel%20LLC.txt) |
-| LLC BAXET | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20BAXET.txt) |
+| LLC BAXET | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20BAXET.txt) |
 | LLC Digital Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Digital%20Network.txt) |
 | LLC IT BASIS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20IT%20BASIS.txt) |
 | LLC SETEL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20SETEL.txt) |
@@ -56,8 +55,6 @@
 | MAcomnet TelCo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/MAcomnet%20TelCo.txt) |
 | MT FINANCE LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/MT%20FINANCE%20LLC.txt) |
 | Miran Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Miran%20Ltd.txt) |
-| Moscow Server Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Moscow%20Server%20Network.txt) |
-| Net By Net Holding LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Net%20By%20Net%20Holding%20LLC.txt) |
 | NetCrafters OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/NetCrafters%20OU.txt) |
 | NetOne Rus JSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/NetOne%20Rus%20JSC.txt) |
 | Network for COMCOR-B2B-Clients | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Network%20for%20COMCOR-B2B-Clients.txt) |
@@ -68,16 +65,17 @@
 | Okay-Telecom Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Okay-Telecom%20Ltd.txt) |
 | OnTelecom LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/OnTelecom%20LLC.txt) |
 | Optima Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Optima%20Communications%2C%20LLC.txt) |
-| PROCLOUD LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/PROCLOUD%20LLC.txt) |
+| PROCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/PROCLOUD%20LLC.txt) |
 | PSERVERS Enterprise Network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/PSERVERS%20Enterprise%20Network.txt) |
 | Packet Loss LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Packet%20Loss%20LTD.txt) |
 | Petersburg Internet Network ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Petersburg%20Internet%20Network%20ltd.txt) |
 | RapidSeedbox Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/RapidSeedbox%20Ltd.txt) |
+| Ray-Svyaz Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Ray-Svyaz%20Ltd.txt) |
 | Reg.Ru Hosting | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Reg.Ru%20Hosting.txt) |
 | RocketCloud.ru | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/RocketCloud.ru.txt) |
 | RocketCloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/RocketCloud.txt) |
 | Russia, Moscow Region, Jeleznodorojnyy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Russia%2C%20Moscow%20Region%2C%20Jeleznodorojnyy.txt) |
-| Russia, Moscow | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Russia%2C%20Moscow.txt) |
+| Russia, Moscow | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Russia%2C%20Moscow.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SERV.HOST%20GROUP%20LTD.txt) |
 | SIA Serverum | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SIA%20Serverum.txt) |
 | SIA VEESP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SIA%20VEESP.txt) |
@@ -107,7 +105,7 @@
 | nuxtcloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/nuxtcloud.txt) |
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 | subnet 5.128.144-151 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/subnet%205.128.144-151%20ethernet%20pool.txt) |
-| www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
+| www.fornex.com, Fornex Hosting S.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

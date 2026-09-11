@@ -1,12 +1,12 @@
 # GB （純 IP）
 
-**共 232 條** · [返回主頁](../../README.md)
+**共 227 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 93 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 89 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Baxet%20Group%20Inc.txt) |
@@ -24,11 +24,11 @@
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Ltd | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/OVH%20Ltd.txt) |
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/RouterHosting%20LLC.txt) |
-| SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/SA.txt) |
+| SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/SA.txt) |
 | Shaposhnikov Maxim | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Shaposhnikov%20Maxim.txt) |
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/The%20Constant%20Company%2C%20LLC.txt) |
 | Virgin Media Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Virgin%20Media%20Limited.txt) |
 | Vodafone Broadband | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Vodafone%20Broadband.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*

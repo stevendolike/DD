@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 27 條** · [返回主頁](../../README.md)
+**共 26 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/_all.txt)
 
@@ -10,7 +10,6 @@
 | AdminVPS OOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/AdminVPS%20OOO.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Anton%20Levin.txt) |
 | Beget LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Beget%20LLC.txt) |
-| Cloud Services Kazakhstan LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | HostLab LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/HostLab%20LLC.txt) |
 | Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Hoster.KZ.txt) |
@@ -22,4 +21,4 @@
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-09-10 23:51 UTC*
+*最後更新：2026-09-11 08:24 UTC*
