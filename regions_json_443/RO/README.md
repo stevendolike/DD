@@ -26,4 +26,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-09-11 14:13 UTC*
+*最後更新：2026-09-11 19:03 UTC*
