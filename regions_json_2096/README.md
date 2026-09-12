@@ -25,8 +25,7 @@
 | RU | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/RU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/RU/_all.txt) |
 | SE | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/SE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/SE/_all.txt) |
 | SG | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/SG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/SG/_all.txt) |
-| TR | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/TR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/TR/_all.txt) |
 | US | 43 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt) |
 
 ---
-*最後更新：2026-09-12 21:39 UTC*
+*最後更新：2026-09-12 23:51 UTC*

@@ -8,21 +8,18 @@
 |------|--------|------|
 | AE | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/AE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/AE/_all.txt) |
 | AM | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/AM/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/AM/_all.txt) |
-| AT | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/AT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/AT/_all.txt) |
 | BG | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/BG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/BG/_all.txt) |
 | CA | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CA/_all.txt) |
 | CH | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CH/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CH/_all.txt) |
 | CY | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CY/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CY/_all.txt) |
 | CZ | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/CZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CZ/_all.txt) |
 | DE | 206 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/DE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt) |
-| DK | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/DK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DK/_all.txt) |
 | EE | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/EE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/EE/_all.txt) |
 | FI | 18 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/FI/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FI/_all.txt) |
 | FR | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/FR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/FR/_all.txt) |
 | GB | 76 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/GB/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GB/_all.txt) |
 | GE | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/GE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/GE/_all.txt) |
 | HK | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/HK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/HK/_all.txt) |
-| IL | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/IL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/IL/_all.txt) |
 | IN | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/IN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/IN/_all.txt) |
 | JP | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/JP/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/JP/_all.txt) |
 | KR | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/KR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/KR/_all.txt) |
@@ -39,4 +36,4 @@
 | US | 48 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt) |
 
 ---
-*最後更新：2026-09-12 21:39 UTC*
+*最後更新：2026-09-12 23:51 UTC*

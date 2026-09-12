@@ -45,4 +45,4 @@
 | xTom Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/xTom%20Limited.txt) |
 
 ---
-*最後更新：2026-09-12 21:39 UTC*
+*最後更新：2026-09-12 23:51 UTC*

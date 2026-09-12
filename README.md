@@ -40,7 +40,7 @@
 | 🔒 Port 2087 純 IP | 613 | [國家列表](regions_json_2087/README.md) |
 | 🔒 Port 2096 純 IP | 524 | [國家列表](regions_json_2096/README.md) |
 | 🔒 Port 8443 純 IP | 4,081 | [國家列表](regions_json_8443/README.md) |
-| ⭐ 優選 ASN | 314 | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt) · [443 目錄](regions_json_preferred_asn_443/README.md) |
+| ⭐ 優選 ASN | 299 | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt) · [443 目錄](regions_json_preferred_asn_443/README.md) |
 | 🏠 家庭寬帶 | 96 | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt) · [443 目錄](regions_json_residential_443/README.md) |
 | 🌐 ClientIP 為 IPv4 | 5,492 | [國家列表](regions_json_clientip_v4/README.md) |
 
@@ -53,4 +53,4 @@ Fork 之後 repo 內置 [Upstream Sync](.github/workflows/upstream-sync.yml)：�
 如果 GitHub 因 workflow 變更暫停自動更新，手動 Run 一次即可。
 
 ---
-*最後更新：2026-09-12 21:39 UTC*
+*最後更新：2026-09-12 23:51 UTC*
