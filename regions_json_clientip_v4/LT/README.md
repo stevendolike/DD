@@ -16,4 +16,4 @@
 | oneprovider.com - Vilnius Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/oneprovider.com%20-%20Vilnius%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-09-12 18:14 UTC*
+*最後更新：2026-09-12 19:58 UTC*

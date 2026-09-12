@@ -82,4 +82,4 @@
 | subnet 5.128.144-151 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/subnet%205.128.144-151%20ethernet%20pool.txt) |
 
 ---
-*最後更新：2026-09-12 18:14 UTC*
+*最後更新：2026-09-12 19:58 UTC*

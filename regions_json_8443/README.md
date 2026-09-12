@@ -11,6 +11,7 @@
 | AM | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/AM/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AM/_all.txt) |
 | AT | 64 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/AT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/_all.txt) |
 | AU | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/AU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AU/_all.txt) |
+| BE | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/BE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BE/_all.txt) |
 | BG | 19 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/BG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/_all.txt) |
 | BR | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/BR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BR/_all.txt) |
 | BY | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/BY/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BY/_all.txt) |
@@ -27,7 +28,9 @@
 | FI | 366 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/FI/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FI/_all.txt) |
 | FR | 171 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/FR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/_all.txt) |
 | GB | 221 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/GB/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt) |
+| GE | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/GE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GE/_all.txt) |
 | HK | 41 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/HK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt) |
+| HR | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/HR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HR/_all.txt) |
 | HU | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/HU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/_all.txt) |
 | ID | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/ID/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ID/_all.txt) |
 | IE | 9 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/IE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IE/_all.txt) |
@@ -62,6 +65,8 @@
 | UA | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/UA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/_all.txt) |
 | US | 533 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/_all.txt) |
 | UZ | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/UZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UZ/_all.txt) |
+| VN | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/VN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/VN/_all.txt) |
+| ZA | 0 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/ZA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ZA/_all.txt) |
 
 ---
-*最後更新：2026-09-12 18:14 UTC*
+*最後更新：2026-09-12 19:58 UTC*

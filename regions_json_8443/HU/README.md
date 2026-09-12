@@ -10,4 +10,4 @@
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/G-Core%20Labs%20S.A.txt) |
 
 ---
-*最後更新：2026-09-12 18:14 UTC*
+*最後更新：2026-09-12 19:58 UTC*

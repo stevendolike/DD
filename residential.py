@@ -87,6 +87,25 @@ RESIDENTIAL_KEYWORDS = [
     "TELSTRA", "OPTUS", "TPG INTERNET",
     # 新加坡 / 香港
     "SINGTEL", "STARHUB", "VIEWQWEST", "NETVIGATOR",
+    # ── 全球其他主要 ISP / 電訊商（掃描數據 + ASN 反查確認）──
+    "UNINET", "TELMEX",       # 墨西哥最大 ISP（Telmex 集團）
+    "KAZTELECOM",             # 哈薩克國營電訊
+    "MGTS",                   # 莫斯科市電話網（家寬）
+    "COMCOR",                 # 俄羅斯 JSC Comcor
+    "NOVOTELEKOM",            # 俄羅斯 NTK Novotelecom
+    "MACOMNET",               # 俄羅斯 JSC Macomnet
+    "ONTELECOM",              # 俄羅斯 OnTelecom
+    "INTERNET-PRO",           # 俄羅斯 Internet-Pro
+    "LEALTA",                 # 俄羅斯 LEALTA
+    "TELESET",                # 俄羅斯 Teleset+
+    "CITYTELECOM",            # 俄羅斯 Citytelecom
+    "STOLICA",                # 俄羅斯 Stolica Telecom
+    "GLAVTEL", "KONTEL", "ARGOTEL",   # 俄羅斯小型 ISP
+    "CIZGI",                  # 土耳其 CIZGI Telekom
+    "DELTA TELECOM",          # 阿塞拜疆
+    "INTERNETPORT",           # 瑞典 Internetport
+    "INFONET",                # 愛沙尼亞 AS INFONET
+    "CONSUMER INTERNET",      # 通用：消費者互聯網池（= 家寬）
 ]
 
 # 機房 / 數據中心字眼：命中即排除（唔係家寬）
