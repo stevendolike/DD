@@ -64,4 +64,4 @@
 | UZ | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_8443/UZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UZ/_all.txt) |
 
 ---
-*最後更新：2026-09-12 13:29 UTC*
+*最後更新：2026-09-12 18:14 UTC*

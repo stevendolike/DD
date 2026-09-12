@@ -13,4 +13,4 @@
 | VPS ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/VPS%20ACE.txt) |
 
 ---
-*最後更新：2026-09-12 13:29 UTC*
+*最後更新：2026-09-12 18:14 UTC*
