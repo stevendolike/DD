@@ -25,4 +25,4 @@
 | US | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
 
 ---
-*最後更新：2026-09-12 19:58 UTC*
+*最後更新：2026-09-12 21:39 UTC*

@@ -10,8 +10,66 @@ update_readme.py — 生成主 README.md、各目錄 README.md 及國家 README.
 """
 import os
 import json
+import sys
 from datetime import datetime, timezone
 from urllib.parse import quote
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from asns import PREFERRED_ASN, ASN_INFO
+from residential import is_residential
+
+SYSTEM_FILES = ("_all.txt", "_all_443.txt")
+
+
+def build_asn_include_md():
+    """優選 ASN「納入清單」：ASN + 分類 + 說明（跟 asns.py）"""
+    order = ["骨幹", "CN2 GIA 機房", "香港直連", "中國雲廠", "台灣"]
+    groups = {}
+    for asn in sorted(PREFERRED_ASN):
+        cat, desc = ASN_INFO.get(asn, ("其他", ""))
+        groups.setdefault(cat, []).append((asn, desc))
+    lines = ["## 📋 納入清單", "",
+             f"共 **{len(PREFERRED_ASN)}** 粒 ASN（改 `asns.py` 調整）", ""]
+    for cat in order + [k for k in groups if k not in order]:
+        items = groups.get(cat) or []
+        if not items:
+            continue
+        lines += [f"**{cat}**", "", "| ASN | 說明 |", "|-----|------|"]
+        for asn, desc in items:
+            lines.append(f"| [AS{asn}](https://bgp.tools/as/{asn}) | {desc} |")
+        lines.append("")
+    return "\n".join(lines) + "\n"
+
+
+def build_residential_include_md():
+    """家庭寬帶「納入清單」：掃 regions_json 反推命中嘅 ISP 組織"""
+    hits = {}
+    base = "regions_json"
+    if os.path.isdir(base):
+        for cc in sorted(os.listdir(base)):
+            cd = os.path.join(base, cc)
+            if not os.path.isdir(cd):
+                continue
+            for fn in sorted(os.listdir(cd)):
+                if not fn.endswith(".txt") or fn in SYSTEM_FILES:
+                    continue
+                org = fn[:-4]
+                if not is_residential(org):
+                    continue
+                n = 0
+                with open(os.path.join(cd, fn), encoding="utf-8", errors="replace") as fh:
+                    for line in fh:
+                        if line.strip() and not line.startswith("#"):
+                            n += 1
+                hits[org] = (cc, n)
+    if not hits:
+        return ""
+    lines = ["## 📋 納入清單（命中嘅 ISP 組織）", "",
+             f"共 **{len(hits)}** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）", "",
+             "| ISP 組織 | 國家 | 條目數 |", "|---------|------|--------|"]
+    for org, (cc, n) in sorted(hits.items()):
+        lines.append(f"| {org} | {cc} | {n} |")
+    return "\n".join(lines) + "\n"
 
 REPO   = os.environ.get("GITHUB_REPOSITORY", "stevendolike/DD")
 BRANCH = "main"
@@ -94,8 +152,9 @@ def write_country_readmes(base_dir, is_ip_only=False, has_443=True):
     print(f"{base_dir} country READMEs updated")
 
 
-def write_category_readme(base_dir, title, is_ip_only=False, has_443=True, is_flat=False):
-    """目錄層 README：國家列表（國家 | 條目數 | 檔案連結）
+def write_category_readme(base_dir, title, is_ip_only=False, has_443=True,
+                          is_flat=False, extra_md=""):
+    """目錄層 README：國家列表（國家 | 條目數 | 檔案連結）+ 可選「納入清單」
 
     is_flat=True：國家檔直接喺目錄（優選 ASN / 家庭寬帶）
     is_flat=False：國家係子目錄（regions_json / port / clientip_v4）
@@ -146,7 +205,7 @@ def write_category_readme(base_dir, title, is_ip_only=False, has_443=True, is_fl
 
 {header}{table}
 
----
+{extra_md}---
 *最後更新：{updated}*
 """
     with open(f"{base_dir}/README.md", "w", encoding="utf-8", newline="\n") as f:
@@ -233,9 +292,9 @@ write_category_readme("regions_json", "全部 Port", is_ip_only=False, has_443=T
 for port, base_dir in get_port_dirs():
     write_category_readme(base_dir, f"Port {port} 純 IP", is_ip_only=True, has_443=False, is_flat=False)
 write_category_readme("regions_json_clientip_v4", "ClientIP 為 IPv4", is_ip_only=False, has_443=True, is_flat=False)
-write_category_readme("regions_json_preferred_asn", "優選 ASN（全部 Port）", is_ip_only=False, has_443=False, is_flat=True)
+write_category_readme("regions_json_preferred_asn", "優選 ASN（全部 Port）", is_ip_only=False, has_443=False, is_flat=True, extra_md=build_asn_include_md())
 write_category_readme("regions_json_preferred_asn_443", "優選 ASN 443 純 IP", is_ip_only=True, has_443=False, is_flat=True)
-write_category_readme("regions_json_residential", "家庭寬帶（全部 Port）", is_ip_only=False, has_443=False, is_flat=True)
+write_category_readme("regions_json_residential", "家庭寬帶（全部 Port）", is_ip_only=False, has_443=False, is_flat=True, extra_md=build_residential_include_md())
 write_category_readme("regions_json_residential_443", "家庭寬帶 443 純 IP", is_ip_only=True, has_443=False, is_flat=True)
 
 # ── 國家 README（組織列表）──
