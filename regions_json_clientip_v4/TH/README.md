@@ -6,10 +6,10 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
+| 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/6%20COLLYER%20QUAY.txt) |
 | Dynamic IP assignment for broadband service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/Dynamic%20IP%20assignment%20for%20broadband%20service.txt) |
 | ReadyIDC Co., Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/ReadyIDC%20Co.%2C%20Ltd.txt) |
 | ZCOM THAI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TH/ZCOM%20THAI.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

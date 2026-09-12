@@ -1,13 +1,12 @@
 # AZ
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AZ/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AZ/G-Core%20Labs%20S.A.txt) |
-| Leased IPv4 Blocks | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AZ/Leased%20IPv4%20Blocks.txt) |
+| Leased IPv4 Blocks | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AZ/Leased%20IPv4%20Blocks.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

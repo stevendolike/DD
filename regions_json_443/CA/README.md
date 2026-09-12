@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 69 條** · [返回主頁](../../README.md)
+**共 73 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -8,10 +8,10 @@
 |------|--------|---------|
 | Amanah Tech Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Amanah%20Tech%20Inc.txt) |
 | Amazon Data Services Canada | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Amazon%20Data%20Services%20Canada.txt) |
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Baxet%20Group%20Inc.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/CENTRILOGICCANADA.txt) |
-| Cluster Logic Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Cluster%20Logic%20Inc.txt) |
-| DigitalOcean, LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
+| Cluster Logic Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Cluster%20Logic%20Inc.txt) |
+| DigitalOcean, LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
 | GLOBALTELEHOST Corp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/GLOBALTELEHOST%20Corp.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HZ%20Hosting%20Ltd.txt) |
 | HostPapa | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
@@ -20,13 +20,13 @@
 | Leaseweb Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Leaseweb%20Canada%20Inc.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Linode.txt) |
 | OVH Hosting, Inc | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting%2C%20Inc.txt) |
-| Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Oracle%20Corporation.txt) |
+| Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Oracle%20Corporation.txt) |
 | Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Rica%20Web%20Services.txt) |
 | Rogers Communications Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Rogers%20Communications%20Canada%20Inc.txt) |
-| Shaw Communications | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Shaw%20Communications.txt) |
+| Shaw Communications | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Shaw%20Communications.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

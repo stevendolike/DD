@@ -1,14 +1,13 @@
 # BE （純 IP）
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BE/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Belgium | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BE/EDIS%20IPv6%20Infrastructure%20in%20Belgium.txt) |
-| OVH BE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BE/OVH%20BE.txt) |
+| OVH BE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BE/OVH%20BE.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

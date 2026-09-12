@@ -13,8 +13,8 @@
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Oracle%20Corporation.txt) |
 | SUPERLOOP (AUSTRALIA) PTY LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/SUPERLOOP%20%28AUSTRALIA%29%20PTY%20LTD.txt) |
 | TPG Internet Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/TPG%20Internet%20Pty%20Ltd.txt) |
+| The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Vultr%20Holdings%2C%20LLC.txt) |
-| oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/oracle.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

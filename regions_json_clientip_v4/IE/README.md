@@ -7,14 +7,13 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Amazon Data Services Ireland Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Amazon%20Data%20Services%20Ireland%20Limited.txt) |
-| Amazon.com, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Amazon.com%2C%20Inc.txt) |
-| Angelnet Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Angelnet%20Limited.txt) |
+| Amazon.com, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Amazon.com%2C%20Inc.txt) |
+| Angelnet Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Angelnet%20Limited.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/Baxet%20Group%20Inc.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/HostPapa.txt) |
 | RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/RackNerd%20LLC.txt) |
-| VPS ACE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/VPS%20ACE.txt) |
+| VPS ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IE/VPS%20ACE.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

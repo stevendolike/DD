@@ -1,17 +1,17 @@
 # IS （純 IP）
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1984 ehf | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/1984%20ehf.txt) |
-| FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/FlokiNET%20ehf.txt) |
+| 1984 ehf | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/1984%20ehf.txt) |
+| FlokiNET ehf | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/FlokiNET%20ehf.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/HOSTKEY%20B.V.txt) |
 | IPv6 Iceland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/IPv6%20Iceland.txt) |
 | The 1984 cloud net 2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/The%201984%20cloud%20net%202.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

@@ -1,6 +1,6 @@
 # CZ （純 IP）
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/_all.txt)
 
@@ -9,7 +9,7 @@
 | Cloud Services CZ1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/Cloud%20Services%20CZ1.txt) |
 | INTERNET CZ, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/INTERNET%20CZ%2C%20a.s.txt) |
 | Reliable Communications s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/Reliable%20Communications%20s.r.o.txt) |
-| SmartApe OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CZ/SmartApe%20OU.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

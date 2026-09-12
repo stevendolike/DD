@@ -1,15 +1,13 @@
 # JP
 
-**共 73 條** · [返回主頁](../../README.md)
+**共 75 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 139.162.0.0_16 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/139.162.0.0_16.txt) |
-| 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
-| 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/365%20Group%20LLC.txt) |
-| 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/6%20COLLYER%20QUAY.txt) |
 | Akari Networks (Tokyo) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Akari%20Networks%20%28Tokyo%29.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Amazon Data Services Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Amazon%20Data%20Services%20Japan.txt) |
@@ -27,26 +25,24 @@
 | Kirino LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Kirino%20LLC.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Linode.txt) |
 | NTT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/NTT.txt) |
-| Nearoute Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Nearoute%20Limited.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
-| Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Corporation | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Corporation.txt) |
+| Oracle Public Cloud | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Oracle%20Public%20Cloud.txt) |
 | Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Private%20Customer.txt) |
 | SAKURA Internet Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/SAKURA%20Internet%20Inc.txt) |
 | SAKURA LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/SAKURA%20LTD.txt) |
 | Scloud Pte Ltd t_a Scloud Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Scloud%20Pte%20Ltd%20t_a%20Scloud%20Pte%20Ltd.txt) |
 | Securebit AG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Securebit%20AG.txt) |
-| Server Hosting Service (NTTPCCommunications,Inc.) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Server%20Hosting%20Service%20%28NTTPCCommunications%2CInc.%29.txt) |
 | Skyquantum Telecom ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Skyquantum%20Telecom%20ltd.txt) |
 | TYO_VULTR_CUST | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/TYO_VULTR_CUST.txt) |
 | Telkom SA Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Telkom%20SA%20Ltd.txt) |
 | The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/The%20Constant%20Company%2C%20LLC.txt) |
-| Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Vultr%20Holdings%2C%20LLC.txt) |
+| VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/VMISS%20Inc.txt) |
+| Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/Vultr%20Holdings%2C%20LLC.txt) |
 | WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/WISDOM%20CLOUD%20INTERNET%20TECHNOLOGY%20PTE.%20LTD.txt) |
-| ZOUTER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/ZOUTER%20LIMITED.txt) |
+| imported inetnum object for OCPL-1 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/imported%20inetnum%20object%20for%20OCPL-1.txt) |
 | oneprovider.com - Tokyo Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/oneprovider.com%20-%20Tokyo%20Infrastructure.txt) |
 | xTom Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/xTom%20Limited.txt) |
-| xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/JP/xTom.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

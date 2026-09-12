@@ -6,8 +6,8 @@
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
-| CA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/CA.txt) |
-| DE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/DE.txt) |
+| CA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/CA.txt) |
+| DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/DE.txt) |
 | ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/ES.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/FR.txt) |
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/GB.txt) |
@@ -17,10 +17,9 @@
 | NL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/NL.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RO.txt) |
 | RU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/RU.txt) |
-| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TH.txt) |
 | TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
-| US | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
+| US | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

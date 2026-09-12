@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 60 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt)
 
@@ -10,7 +10,7 @@
 | 3HCLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/3HCLOUD%20LLC.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Baxet%20Group%20Inc.txt) |
 | CGI GLOBAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/CGI%20GLOBAL%20LIMITED.txt) |
-| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cloudflare%20London%2C%20LLC.txt) |
 | DigitalOcean, LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/DigitalOcean%2C%20LLC.txt) |
 | HOSTKEY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/HOSTKEY.txt) |
 | Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hetzner%20Online%20GmbH.txt) |
@@ -26,8 +26,8 @@
 | Snaju Development | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Snaju%20Development.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Vultr%20Holdings%2C%20LLC.txt) |
 | White Label Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/White%20Label%20Services%2C%20LLC.txt) |
-| as56971 network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/as56971%20network.txt) |
+| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/as56971%20network.txt) |
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

@@ -1,12 +1,12 @@
 # NL （純 IP）
 
-**共 210 條** · [返回主頁](../../README.md)
+**共 209 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/AEZA%20GROUP%20Ltd.txt) |
 | Amsterdam, Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Amsterdam%2C%20Netherlands.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baxet%20Group%20Inc.txt) |
@@ -18,9 +18,8 @@
 | LeaseWeb Netherlands B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/LeaseWeb%20Netherlands%20B.V.txt) |
 | Pfcloud UG (haftungsbeschrankt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Pfcloud%20UG%20%28haftungsbeschrankt%29.txt) |
 | Senko Digital LLC - NL Network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Senko%20Digital%20LLC%20-%20NL%20Network.txt) |
-| Timeweb, LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Timeweb%2C%20LLP.txt) |
-| UpCloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/UpCloud%20Ltd.txt) |
+| Timeweb, LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Timeweb%2C%20LLP.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

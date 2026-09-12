@@ -1,12 +1,12 @@
 # PH （純 IP）
 
-**共 1 條** · [返回主頁](../../README.md)
+**共 2 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/LIGHT%20NODE%20LIMITED.txt) |
+| R&R Managed Telecom Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/R%26R%20Managed%20Telecom%20Services.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

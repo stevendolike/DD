@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 54 條** · [返回主頁](../../README.md)
+**共 53 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
@@ -12,7 +12,6 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU Url_ https___www.bluevps.com_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/BlueVPS%20OU%20Url_%20https___www.bluevps.com_.txt) |
-| Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Deployish%20Limited.txt) |
 | Glesys AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Glesys%20AB.txt) |
 | Hostup AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hostup%20AB.txt) |
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/ISPIRIA%20Networks%20Ltd.txt) |
@@ -21,9 +20,10 @@
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Prinode%20AB.txt) |
 | Private Customer | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Private%20Customer.txt) |
 | Privex Sweden General Customers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Privex%20Sweden%20General%20Customers.txt) |
+| Reverse-Proxy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Reverse-Proxy.txt) |
 | SA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SA.txt) |
 | SIA VEESP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/SIA%20VEESP.txt) |
-| Vultr Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
+| Vultr Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 51 條** · [返回主頁](../../README.md)
+**共 43 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/_all.txt)
 
@@ -16,9 +16,9 @@
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EE-Network.txt) |
 | ESTOXY OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/ESTOXY%20OU.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HZ%20Hosting%20Ltd.txt) |
-| HexCore cloud s.r.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HexCore%20cloud%20s.r.o.txt) |
+| HexCore cloud s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HexCore%20cloud%20s.r.o.txt) |
 | HostSlim OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HostSlim%20OU.txt) |
-| IPv6 network for hosting services | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| IPv6 network for hosting services | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/IROKO%20Networks%20Corporation.txt) |
 | Network for hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Network%20for%20hosting%20services.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/QWINS%20Hosting.txt) |
@@ -28,4 +28,4 @@
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

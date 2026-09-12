@@ -7,8 +7,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | FOP Reznichenko Sergey Mykolayovich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/FOP%20Reznichenko%20Sergey%20Mykolayovich.txt) |
-| GMHOST datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/GMHOST%20datacenter.txt) |
+| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/G-Core%20Labs%20S.A.txt) |
 | TOV 'Dream Line Holding' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/UA/TOV%20%27Dream%20Line%20Holding%27.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

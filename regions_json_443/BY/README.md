@@ -1,6 +1,6 @@
 # BY （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/_all.txt)
 
@@ -9,8 +9,8 @@
 | Abonent MGTS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Abonent%20MGTS.txt) |
 | LLC Supportby | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/LLC%20Supportby.txt) |
 | Reliable Software, Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Reliable%20Software%2C%20Ltd.txt) |
-| SPRINTHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/SPRINTHOST%20LLP.txt) |
+| SPRINTHOST LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/SPRINTHOST%20LLP.txt) |
 | Yedinyye Resheniya LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Yedinyye%20Resheniya%20LLC.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 2E Telecommunications Ltd. Co | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/2E%20Telecommunications%20Ltd.%20Co.txt) |
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Baxet%20Group%20Inc.txt) |
+| 2E Telekomunikasyon LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
 | Belcloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Belcloud%20LTD.txt) |
 | Cifrova Kabelna Korporacia EOOD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Cifrova%20Kabelna%20Korporacia%20EOOD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
@@ -23,4 +23,4 @@
 | Virterion LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*

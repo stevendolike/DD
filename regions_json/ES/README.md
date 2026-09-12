@@ -1,24 +1,26 @@
 # ES
 
-**共 172 條** · [返回主頁](../../README.md)
+**共 169 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ARSYS INTERNET S.L.U | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/ARSYS%20INTERNET%20S.L.U.txt) |
+| ARSYS INTERNET S.L.U | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/ARSYS%20INTERNET%20S.L.U.txt) |
+| AXARNET COMUNICACIONES, S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/AXARNET%20COMUNICACIONES%2C%20S.L.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/BlueVPS%20OU.txt) |
 | CLOUDI NEXTGEN SL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/CLOUDI%20NEXTGEN%20SL.txt) |
-| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Cloudflare%20London%2C%20LLC.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GINERNET | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GINERNET.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GREEN%20FLOID%20LLC.txt) |
-| GTHost | 83 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GTHost.txt) |
+| GTHost | 84 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/GTHost.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Google%20LLC.txt) |
-| HOSTKEY B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/HOSTKEY%20B.V.txt) |
-| HUIZE LTD | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/HUIZE%20LTD.txt) |
-| IONOS SE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/IONOS%20SE.txt) |
+| HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/HOSTKEY%20B.V.txt) |
+| HUIZE LTD | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/HUIZE%20LTD.txt) |
+| IONOS SE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/IONOS%20SE.txt) |
 | IT Hostline Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/IT%20Hostline%20Ltd.txt) |
 | JaJoJoo LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/JaJoJoo%20Madrid%20Region.txt) |
@@ -30,7 +32,7 @@
 | Orange Spain Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Orange%20Spain%20Network.txt) |
 | Raiola Networks IPv4 static | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Raiola%20Networks%20IPv4%20static.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Snowd%20Security%20OU.txt) |
-| The Constant Company, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/The%20Constant%20Company%2C%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/UpCloud%20Cloud%20Servers.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Vultr%20Holdings%2C%20LLC.txt) |
@@ -41,4 +43,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-11 23:59 UTC*
+*最後更新：2026-09-12 08:13 UTC*
