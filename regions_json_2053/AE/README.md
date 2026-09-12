@@ -12,4 +12,4 @@
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AE/Private%20Customer.txt) |
 
 ---
-*最後更新：2026-09-12 08:13 UTC*
+*最後更新：2026-09-12 13:29 UTC*
