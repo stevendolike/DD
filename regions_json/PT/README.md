@@ -10,4 +10,4 @@
 | Euronodes Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/Euronodes%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-13 18:40 UTC*
+*最後更新：2026-09-13 23:57 UTC*
