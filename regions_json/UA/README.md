@@ -1,6 +1,6 @@
 # UA
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/_all_443.txt)
 
@@ -8,11 +8,11 @@
 |------|--------|---------|
 | FOP Reznichenko Sergey Mykolayovich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/FOP%20Reznichenko%20Sergey%20Mykolayovich.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/G-Core%20Labs%20S.A.txt) |
+| GMHOST datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/GMHOST%20datacenter.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/GREEN%20FLOID%20LLC.txt) |
-| Hostiko | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/Hostiko.txt) |
 | Hosting Ukraine LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/Hosting%20Ukraine%20LTD.txt) |
-| South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/South%20Park%20Networks%20LLC.txt) |
+| South Park Networks LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/South%20Park%20Networks%20LLC.txt) |
 | TOV 'Dream Line Holding' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/TOV%20%27Dream%20Line%20Holding%27.txt) |
 
 ---
-*最後更新：2026-09-12 23:51 UTC*
+*最後更新：2026-09-13 08:37 UTC*

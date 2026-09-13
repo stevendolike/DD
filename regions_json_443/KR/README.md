@@ -1,16 +1,16 @@
 # KR （純 IP）
 
-**共 61 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
-| ACEVILLE PTE.LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/ACEVILLE%20PTE.LTD.txt) |
+| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/ACEVILLE%20PTE.LTD.txt) |
 | AWS Asia Pacific (Seoul) Region | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/AWS%20Asia%20Pacific%20%28Seoul%29%20Region.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/Alibaba%20Cloud%20LLC.txt) |
-| Amazon.com, Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/Amazon.com%2C%20Inc.txt) |
+| Amazon.com, Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/Amazon.com%2C%20Inc.txt) |
 | Cloudflare London, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/Cloudflare%20London%2C%20LLC.txt) |
 | Hongkong Wen Jing Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | KOR_VULTR_CUST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/KOR_VULTR_CUST.txt) |
@@ -24,4 +24,4 @@
 | XNNET LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/XNNET%20LIMITED.txt) |
 
 ---
-*最後更新：2026-09-12 23:51 UTC*
+*最後更新：2026-09-13 08:37 UTC*

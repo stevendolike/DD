@@ -1,14 +1,15 @@
 # UA （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| GMHOST datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/GMHOST%20datacenter.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/GREEN%20FLOID%20LLC.txt) |
-| Hostiko | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/Hostiko.txt) |
 | Hosting Ukraine LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/Hosting%20Ukraine%20LTD.txt) |
+| South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/UA/South%20Park%20Networks%20LLC.txt) |
 
 ---
-*最後更新：2026-09-12 23:51 UTC*
+*最後更新：2026-09-13 08:37 UTC*

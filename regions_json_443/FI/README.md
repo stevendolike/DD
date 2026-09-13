@@ -1,6 +1,6 @@
 # FI （純 IP）
 
-**共 880 條** · [返回主頁](../../README.md)
+**共 873 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/_all.txt)
 
@@ -27,22 +27,22 @@
 | EstNOC-Global | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/EstNOC-Global.txt) |
 | FI-landvps | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FI-landvps.txt) |
 | FIRST SERVER LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 69 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 67 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FlokiNET%20ehf.txt) |
 | FlokiNET | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/FlokiNET.txt) |
 | GCS Service Network | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/GCS%20Service%20Network.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | H2.NEXUS Minsk Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/H2.NEXUS%20Minsk%20Network.txt) |
-| H2NEXUS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/H2NEXUS%20LTD.txt) |
+| H2NEXUS LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/H2NEXUS%20LTD.txt) |
 | HOS-1176748 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOS-1176748.txt) |
 | HOS-193257 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOS-193257.txt) |
 | HOS-2570067 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOS-2570067.txt) |
 | HOS-2796816 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOS-2796816.txt) |
 | HOS-799619 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOS-799619.txt) |
 | HOSTKEY B.V | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/HOSTKEY%20B.V.txt) |
-| Hetzner Online GmbH | 173 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Hetzner%20Online%20GmbH.txt) |
-| I-SERVERS LTD | 55 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/I-SERVERS%20LTD.txt) |
-| IT-Garage | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IT-Garage.txt) |
+| Hetzner Online GmbH | 172 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Hetzner%20Online%20GmbH.txt) |
+| I-SERVERS LTD | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/I-SERVERS%20LTD.txt) |
+| IT-Garage | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/IT-Garage.txt) |
 | Individual Entrepreneur Anton Levin | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Iranian Research Organization for Science & Technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Iranian%20Research%20Organization%20for%20Science%20%26%20Technology.txt) |
 | Julian Achter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Julian%20Achter.txt) |
@@ -61,14 +61,14 @@
 | RapidSeedbox Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/RapidSeedbox%20Ltd.txt) |
 | Reliable Communications s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Reliable%20Communications%20s.r.o.txt) |
 | SEBEK sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/SEBEK%20sp.%20z%20o.o.txt) |
-| SERV.HOST GROUP LTD | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/SERV.HOST%20GROUP%20LTD.txt) |
+| SERV.HOST GROUP LTD | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/SERV.HOST%20GROUP%20LTD.txt) |
 | Senko Digital LLC - FI Network | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
-| Snowd Security OU | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Snowd%20Security%20OU.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/UNKNOWN.txt) |
 | UpCloud Cloud Servers | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/UpCloud%20Cloud%20Servers.txt) |
 | VPSPay - vpspay.cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/VPSPay%20-%20vpspay.cloud.txt) |
 | Vault Dweller OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Vault%20Dweller%20OU.txt) |
-| WAIcore Ltd | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WAIcore%20Ltd.txt) |
+| WAIcore Ltd | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/WAIcore%20Ltd.txt) |
 | Web1 Oy | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Web1%20Oy.txt) |
 | Xorek.Cloud Helsinki | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/Xorek.Cloud%20Helsinki.txt) |
 | ZTV CORP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/ZTV%20CORP%20LLC.txt) |
@@ -79,4 +79,4 @@
 | u1host Finland | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-09-12 23:51 UTC*
+*最後更新：2026-09-13 08:37 UTC*

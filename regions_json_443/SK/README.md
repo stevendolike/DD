@@ -1,13 +1,12 @@
 # SK （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SK/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SK/M247%20LTD%20Vienna%20Infrastructure.txt) |
-| WebSupport s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SK/WebSupport%20s.r.o.txt) |
 
 ---
-*最後更新：2026-09-12 23:51 UTC*
+*最後更新：2026-09-13 08:37 UTC*

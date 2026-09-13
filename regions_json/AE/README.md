@@ -1,6 +1,6 @@
 # AE
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 21 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/_all_443.txt)
 
@@ -11,7 +11,6 @@
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/BlueVPS%20OU.txt) |
 | Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Cloudflare%2C%20Inc.txt) |
 | EDIS INFRASTRUCTURE IN UAE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/EDIS%20INFRASTRUCTURE%20IN%20UAE.txt) |
-| G-Core Labs Customer assignment | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/G-Core%20Labs%20Customer%20assignment.txt) |
 | ITGLOBAL COM DMCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/ITGLOBAL%20COM%20DMCC.txt) |
 | M247 Ltd Dubai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/M247%20Ltd%20Dubai.txt) |
 | Melbikomas UAB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Melbikomas%20UAB.txt) |
@@ -23,4 +22,4 @@
 | RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-09-12 23:51 UTC*
+*最後更新：2026-09-13 08:37 UTC*

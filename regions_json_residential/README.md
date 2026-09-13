@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 96 條** · [返回主頁](../README.md)
+**共 97 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | AU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/AU.txt) |
 | BY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/BY.txt) |
-| CA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CN.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
 | DE | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
@@ -24,12 +24,12 @@
 | NO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NO.txt) |
 | PL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/PL.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RO.txt) |
-| RU | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RU.txt) |
+| RU | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RU.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | TW | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
-| US | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
@@ -38,7 +38,7 @@
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 5 |
+| AT&T Enterprises, LLC | US | 6 |
 | Abonent MGTS | BY | 1 |
 | Argotel ltd | RU | 1 |
 | BBIX IPv6 Network | JP | 1 |
@@ -48,6 +48,7 @@
 | Chinatelecom IPv6 address for fixed broadband | CN | 1 |
 | Chunghwa Telecom Data Communication Business Group | TW | 2 |
 | Cogeco Cable Canada Inc | CA | 1 |
+| Cogeco Connexion Inc | CA | 1 |
 | Comcast Cable Communications, LLC | US | 3 |
 | Cox Communications Inc | US | 1 |
 | Deutsche Telekom AG | DE | 2 |
@@ -57,7 +58,6 @@
 | Fiberpower LLC | US | 1 |
 | Free SAS | FR | 1 |
 | GLAVTEL LLC | RU | 1 |
-| Gorcom dynamic broadband customers | RU | 1 |
 | Hong Kong Broadband Network Ltd | HK | 1 |
 | Hong Kong Telecommunications (HKT) Limited Business Internet | HK | 3 |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 6 |
@@ -94,4 +94,4 @@
 | Ziggo Consumers | NL | 4 |
 | interlir citytelecom 07 12 2025 | PL | 1 |
 ---
-*最後更新：2026-09-12 23:51 UTC*
+*最後更新：2026-09-13 08:37 UTC*
