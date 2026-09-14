@@ -1,18 +1,17 @@
 # ES （純 IP）
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 22 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ARSYS INTERNET S.L.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
+| ARSYS INTERNET S.L.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/Cloudflare%20London%2C%20LLC.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GINERNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/GINERNET.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HOSTKEY%20B.V.txt) |
-| HUIZE LTD | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HUIZE%20LTD.txt) |
+| HUIZE LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HUIZE%20LTD.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/IONOS%20SE.txt) |
 | JaJoJoo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/JaJoJoo%20Madrid%20Region.txt) |
@@ -22,4 +21,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-09-13 23:57 UTC*
+*最後更新：2026-09-14 09:22 UTC*

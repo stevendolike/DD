@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 48 條** · [返回主頁](../../README.md)
+**共 47 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt)
 
@@ -12,7 +12,7 @@
 | CGI GLOBAL LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Cloud%20Software%20-%20FZCO.txt) |
 | DMIT Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DMIT%20Cloud%20Services.txt) |
-| DigitalOcean, LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/DigitalOcean%2C%20LLC.txt) |
 | HIVELOCITY, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HIVELOCITY%2C%20Inc.txt) |
 | HOSTKEY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HOSTKEY.txt) |
 | HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HostPapa.txt) |
@@ -28,4 +28,4 @@
 | tzulo, inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/tzulo%2C%20inc.txt) |
 
 ---
-*最後更新：2026-09-13 23:57 UTC*
+*最後更新：2026-09-14 09:22 UTC*

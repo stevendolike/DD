@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Akari Networks (Taipei) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TW/Akari%20Networks%20%28Taipei%29.txt) |
 | ByteVirt LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TW/ByteVirt%20LLC.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TW/Private%20Customer.txt) |
+| Imcloud Technology Co., Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TW/Imcloud%20Technology%20Co.%2C%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-13 23:57 UTC*
+*最後更新：2026-09-14 09:22 UTC*

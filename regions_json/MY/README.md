@@ -6,12 +6,11 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Alibaba Cloud - MY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20-%20MY.txt) |
+| Alibaba Cloud - MY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20-%20MY.txt) |
 | Alibaba Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20LLC.txt) |
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Amazon.com%2C%20Inc.txt) |
-| Evoxt.com | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
+| Evoxt.com | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Oracle%20Corporation.txt) |
-| TT DOTCOM SDN BHD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/TT%20DOTCOM%20SDN%20BHD.txt) |
 
 ---
-*最後更新：2026-09-13 23:57 UTC*
+*最後更新：2026-09-14 09:22 UTC*
