@@ -185,4 +185,4 @@
 | www.fornex.com, Fornex Hosting S.L | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-14 16:16 UTC*
+*最後更新：2026-09-14 20:13 UTC*
