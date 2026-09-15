@@ -40,4 +40,4 @@
 | Zenlayer (Singapore) PTE. LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Zenlayer%20%28Singapore%29%20PTE.%20LTD.txt) |
 
 ---
-*最後更新：2026-09-14 20:13 UTC*
+*最後更新：2026-09-15 00:23 UTC*
