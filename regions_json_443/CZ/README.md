@@ -1,6 +1,6 @@
 # CZ （純 IP）
 
-**共 88 條** · [返回主頁](../../README.md)
+**共 86 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/_all.txt)
 
@@ -18,8 +18,8 @@
 | Reliable Communications s.r.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Reliable%20Communications%20s.r.o.txt) |
 | Retzor, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Retzor%2C%20Inc.txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Retzor-com.txt) |
-| SmartApe OU | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 51 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
 | vpsFree.cz, z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/vpsFree.cz%2C%20z.s.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

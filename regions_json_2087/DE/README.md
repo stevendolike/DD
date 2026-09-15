@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 207 條** · [返回主頁](../../README.md)
+**共 206 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt)
 
@@ -11,11 +11,11 @@
 | Additional IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Additional%20IPv6.txt) |
 | Advin Services LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Advin%20Services%20LLC.txt) |
 | Amsterdam, Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Amsterdam%2C%20Netherlands.txt) |
-| DigitalOcean, LLC | 155 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean%2C%20LLC.txt) |
-| Fornex Hosting S.L | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Fornex%20Hosting%20S.L.txt) |
+| DigitalOcean, LLC | 156 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean%2C%20LLC.txt) |
+| Fornex Hosting S.L | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Fornex%20Hosting%20S.L.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/G-Core%20Labs%20S.A.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/HOSTKEY%20B.V.txt) |
-| Hetzner Online GmbH | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Hetzner%20Online%20GmbH.txt) |
 | NET 143 14 59 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/NET%20143%2014%2059%200%2024.txt) |
 | OVH GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/OVH%20GmbH.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/QWINS%20Hosting.txt) |
@@ -31,4 +31,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

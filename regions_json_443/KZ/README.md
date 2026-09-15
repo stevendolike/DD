@@ -1,12 +1,12 @@
 # KZ （純 IP）
 
-**共 76 條** · [返回主頁](../../README.md)
+**共 75 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3HCLOUD LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3HCLOUD%20LLC.txt) |
+| 3HCLOUD LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3HCLOUD%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/3NT%20SOLUTIONS%20LLP.txt) |
 | AdminVPS OOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/AdminVPS%20OOO.txt) |
 | Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Anton%20Levin.txt) |
@@ -29,4 +29,4 @@
 | SC Kazakhtelecom, Direction of Information Systems | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/SC%20Kazakhtelecom%2C%20Direction%20of%20Information%20Systems.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

@@ -1,6 +1,6 @@
 # SE
 
-**共 250 條** · [返回主頁](../../README.md)
+**共 257 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 95 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 92 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
 | ALEXHOST S.R.L | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20S.R.L.txt) |
 | Amazon Data Services Ireland Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Sweden.txt) |
@@ -34,6 +34,7 @@
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/MVPS%20LTD.txt) |
 | Materialism s.r.l | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Melbikomas%20UAB.txt) |
+| New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/New%20Hosting%20Technologies%20LLC.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Oracle%20Svenska%20AB.txt) |
@@ -45,17 +46,18 @@
 | SA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SEBEK%20sp.%20z%20o.o.txt) |
 | SIA VEESP | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
+| Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Sia%20Nano%20IT.txt) |
 | SweHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SweHosting.txt) |
 | Sweden infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Sweden%20infrastructure.txt) |
 | Switzerland infrastructure | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Switzerland%20infrastructure.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20Constant%20Company%2C%20LLC.txt) |
 | The subnet 2a0c_5700_3133_1705___64 in this range is used for TOR-Exit services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20subnet%202a0c_5700_3133_1705___64%20in%20this%20range%20is%20used%20for%20TOR-Exit%20services.txt) |
 | UpCloud Cloud Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UpCloud%20Cloud%20Servers.txt) |
-| Vultr Sweden | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Vultr%20Sweden.txt) |
+| Vultr Sweden | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Vultr%20Sweden.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ggyy-nl.txt) |
 | oneprovider.com - Stockholm Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/oneprovider.com%20-%20Stockholm%20Infrastructure.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/oracle.txt) |
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

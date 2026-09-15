@@ -6,17 +6,16 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
 | Blockchain Games N.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Blockchain%20Games%20N.V.txt) |
-| CGI GLOBAL LIMITED | 49 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 47 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Cloud%20Software%20-%20FZCO.txt) |
 | CloudBackbone | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CloudBackbone.txt) |
-| Contabo GmbH | 42 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Contabo%20GmbH.txt) |
-| EE IPHOSTER OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/EE%20IPHOSTER%20OU.txt) |
+| Contabo GmbH | 43 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/EGIHosting.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/HOSTKEY%20B.V.txt) |
 | Host Europe GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Host%20Europe%20GmbH.txt) |
@@ -37,4 +36,4 @@
 | as56971 network | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

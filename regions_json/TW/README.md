@@ -1,6 +1,6 @@
 # TW
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 41 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all_443.txt)
 
@@ -18,8 +18,8 @@
 | Lazco Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Lazco%20Corporation.txt) |
 | NCSE NETWORK, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/NCSE%20NETWORK%2C%20LLC.txt) |
 | NTT America, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/NTT%20America%2C%20Inc.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Private%20Customer.txt) |
+| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Private%20Customer.txt) |
 | STARVERSE POLOCLOUD 2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/STARVERSE%20POLOCLOUD%202.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

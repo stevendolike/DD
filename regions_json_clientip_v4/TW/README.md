@@ -1,6 +1,6 @@
 # TW
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/_all_443.txt)
 
@@ -12,7 +12,7 @@
 | Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Infrastructure.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/LIGHT%20NODE%20LIMITED.txt) |
 | NTT America, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/NTT%20America%2C%20Inc.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Private%20Customer.txt) |
+| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Private%20Customer.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

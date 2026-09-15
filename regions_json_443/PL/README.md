@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 163 條** · [返回主頁](../../README.md)
+**共 162 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -37,7 +37,7 @@
 | Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Intezio%20Networks%20Warsaw.txt) |
 | Korbank S. A | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Korbank%20S.%20A.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
-| Local NCC Ltd | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
+| Local NCC Ltd | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Melbikomas%20UAB.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NetGrid%20Host%20LTD.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Netia%20SA.txt) |
@@ -61,4 +61,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

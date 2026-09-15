@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 102 條** · [返回主頁](../README.md)
+**共 99 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -8,38 +8,38 @@
 |------|--------|---------|
 | AU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/AU.txt) |
 | BY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/BY.txt) |
-| CA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CN.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
 | DE | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | ES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/ES.txt) |
-| FR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
+| FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
 | GB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
-| JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
-| KR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
+| JP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
+| KR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | NO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NO.txt) |
 | PL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/PL.txt) |
 | RO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RO.txt) |
-| RU | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RU.txt) |
+| RU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RU.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | TW | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
-| US | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **56** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **54** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
-| AT&T Enterprises, LLC | US | 6 |
+| AT&T Enterprises, LLC | US | 7 |
 | Abonent MGTS | BY | 1 |
 | Argotel ltd | RU | 1 |
 | BBIX IPv6 Network | JP | 1 |
@@ -49,6 +49,7 @@
 | Chinatelecom IPv6 address for fixed broadband | CN | 1 |
 | Chunghwa Telecom Data Communication Business Group | TW | 2 |
 | Cogeco Cable Canada Inc | CA | 1 |
+| Cogeco Connexion Inc | CA | 1 |
 | Comcast Cable Communications, LLC | US | 3 |
 | Cox Communications Inc | US | 1 |
 | Deutsche Telekom AG | DE | 2 |
@@ -58,7 +59,6 @@
 | Fiberpower LLC | US | 1 |
 | Free SAS | FR | 1 |
 | GLAVTEL LLC | RU | 1 |
-| Gorcom dynamic broadband customers | RU | 1 |
 | Hong Kong Broadband Network Ltd | HK | 1 |
 | Hong Kong Telecommunications (HKT) Limited Business Internet | HK | 3 |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 5 |
@@ -66,18 +66,16 @@
 | Kontel LLC | RU | 1 |
 | M-net Telekommunikations GmbH | DE | 1 |
 | MoeDove Broadband - United States | US | 1 |
-| NTT | JP | 1 |
 | NTT America, Inc | US | 4 |
 | NTT DATA | US | 1 |
 | Network for COMCOR-B2B-Clients | RU | 2 |
-| OJSC Rostelecom | RU | 1 |
 | OnTelecom LLC | RU | 1 |
 | Optimum Online | US | 1 |
-| Orange S.A | FR | 3 |
+| Orange S.A | FR | 2 |
 | Orange Spain Network | ES | 1 |
 | Rogers Communications Canada Inc | CA | 1 |
 | SILKNET BROADBAND | GE | 3 |
-| SK Broadband Co Ltd | KR | 4 |
+| SK Broadband Co Ltd | KR | 3 |
 | Shaw Communications | CA | 5 |
 | So-net Service | JP | 1 |
 | Stolica Telecom Ltd | RU | 2 |
@@ -95,4 +93,4 @@
 | Ziggo Consumers | NL | 4 |
 | interlir citytelecom 07 12 2025 | PL | 1 |
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

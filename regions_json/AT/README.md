@@ -1,12 +1,12 @@
 # AT
 
-**共 108 條** · [返回主頁](../../README.md)
+**共 106 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/AEZA%20GROUP%20LLC.txt) |
 | Alpenhost e.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Alpenhost%20e.U.txt) |
 | Alwyzon, a trading name of Hohl IT e.U | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Baxet%20Group%20Inc.txt) |
@@ -20,8 +20,8 @@
 | M247 LTD Vienna Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/M247%20LTD%20Vienna%20Infrastructure.txt) |
 | NETAXIS GROUP LTD | 52 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/NETAXIS%20GROUP%20LTD.txt) |
 | OVHcloud - Austria | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/OVHcloud%20-%20Austria.txt) |
-| netcup GmbH | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/netcup%20GmbH.txt) |
+| netcup GmbH | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/netcup%20GmbH.txt) |
 | powered by ANX | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

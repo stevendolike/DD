@@ -1,6 +1,6 @@
 # DK
 
-**共 55 條** · [返回主頁](../../README.md)
+**共 56 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Imad Nabil Daher trading as ID Performance | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance.txt) |
 | One.com A_S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/One.com%20A_S.txt) |
-| Webdock.io ApS | 50 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/Webdock.io%20ApS.txt) |
+| Webdock.io ApS | 51 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/DK/Webdock.io%20ApS.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

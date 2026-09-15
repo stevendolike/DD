@@ -14,13 +14,13 @@
 | BuyVM | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/BuyVM.txt) |
 | CLIENTID7393 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/CLIENTID7393.txt) |
 | Cloudflare, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Cloudflare%2C%20Inc.txt) |
-| Datasource AG | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
+| Datasource AG | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Datasource%20AG.txt) |
 | EDIS Infrastructure in Switzerland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/EDIS%20Infrastructure%20in%20Switzerland.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting%2C%20Geronimo%20Ramirez.txt) |
 | FranTech Solutions | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/FranTech%20Solutions.txt) |
 | Friendhosting LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Green Floid LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HOSTKEY%20B.V.txt) |
@@ -47,4 +47,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

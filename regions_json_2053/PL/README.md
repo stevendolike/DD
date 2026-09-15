@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 3HCLoud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/3HCLoud%20LLC.txt) |
 | Aruba S.p.A. - Cloud Services PL1 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Aruba%20S.p.A.%20-%20Cloud%20Services%20PL1.txt) |
-| BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
+| BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Baxet%20Group%20Inc.txt) |
 | EDIS Infrastructure in Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/FASTWARP%20LLP.txt) |
@@ -22,10 +22,10 @@
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Podaon%20SIA.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/QWINS%20Hosting.txt) |
-| Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Snowd%20Security%20OU.txt) |
 | South Park Networks LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Warsaw%2C%20Poland.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

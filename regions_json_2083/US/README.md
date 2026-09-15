@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 59 條** · [返回主頁](../../README.md)
+**共 58 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt)
 
@@ -21,7 +21,6 @@
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Linode.txt) |
 | NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/NetCrafters%20OU.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Oracle%20Corporation.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Private%20Customer.txt) |
 | RCN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/RCN.txt) |
 | Snaju Development | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Snaju%20Development.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Vultr%20Holdings%2C%20LLC.txt) |
@@ -30,4 +29,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

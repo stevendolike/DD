@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 158 條** · [返回主頁](../../README.md)
+**共 153 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -14,9 +14,7 @@
 | CNServer LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/CNServer%20LLC.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloud%20Software%20-%20FZCO.txt) |
 | Cloud Web Manage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloud%20Web%20Manage.txt) |
-| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%20London%2C%20LLC.txt) |
-| Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%2C%20Inc.txt) |
-| Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cluster%20Logic%20Inc.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Cloudflare%20London%2C%20LLC.txt) |
 | Comcast Cable Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Comcast%20Cable%20Communications%2C%20LLC.txt) |
 | Contabo Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Contabo%20Inc.txt) |
 | DMIT Cloud Services | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/DMIT%20Cloud%20Services.txt) |
@@ -42,12 +40,11 @@
 | NTT America, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NTT%20America%2C%20Inc.txt) |
 | Namecheap, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Namecheap%2C%20Inc.txt) |
 | NetCrafters OU | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetCrafters%20OU.txt) |
-| NetLab | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetLab.txt) |
+| NetLab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/NetLab.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Oracle%20Corporation.txt) |
-| Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Podaon%20SIA.txt) |
 | Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Private%20Customer.txt) |
 | RackNerd LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RackNerd%20LLC.txt) |
-| RouterHosting LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RouterHosting%20LLC.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/SERV.HOST%20GROUP%20LTD.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/The%20Constant%20Company%2C%20LLC.txt) |
@@ -57,7 +54,7 @@
 | VertexLink Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/VertexLink%20Inc.txt) |
 | White Label Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/White%20Label%20Services%2C%20LLC.txt) |
 | Zenlayer Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Zenlayer%20Inc.txt) |
-| as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
+| as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

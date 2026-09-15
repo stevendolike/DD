@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 46 條** · [返回主頁](../../README.md)
+**共 49 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/_all.txt)
 
@@ -11,6 +11,7 @@
 | Aktsiaselts WaveCom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Aktsiaselts%20WaveCom.txt) |
 | Brainoza OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Brainoza%20OU.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
+| EE IPHOSTER OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EE%20IPHOSTER%20OU.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/EE-Network.txt) |
 | ESTOXY OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/ESTOXY%20OU.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/HZ%20Hosting%20Ltd.txt) |
@@ -26,4 +27,4 @@
 | xTom OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

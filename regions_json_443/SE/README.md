@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 169 條** · [返回主頁](../../README.md)
+**共 166 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 66 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 63 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Baxet%20Group%20Inc.txt) |
@@ -37,16 +37,17 @@
 | SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SEBEK%20sp.%20z%20o.o.txt) |
 | SIA VEESP | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
+| Sia Nano IT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Sia%20Nano%20IT.txt) |
 | SweHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SweHosting.txt) |
 | Sweden infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Sweden%20infrastructure.txt) |
 | Switzerland infrastructure | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Switzerland%20infrastructure.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/UpCloud%20Cloud%20Servers.txt) |
-| Vultr Sweden | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
+| Vultr Sweden | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/ggyy-nl.txt) |
 | oneprovider.com - Stockholm Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oneprovider.com%20-%20Stockholm%20Infrastructure.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oracle.txt) |
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 159 條** · [返回主頁](../../README.md)
+**共 156 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
@@ -9,12 +9,12 @@
 | Alaxona Internet Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Alaxona%20Internet%20Inc.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Anton%20Levin.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Baxet%20Group%20Inc.txt) |
-| CGI GLOBAL LIMITED | 58 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 57 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Friendhosting%20LTD.txt) |
-| GREEN FLOID LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/GREEN%20FLOID%20LLC.txt) |
 | HostVDS.com Cloud Provider | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/HostVDS.com%20Cloud%20Provider.txt) |
-| HostVDS.com Cloud Service Provider | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
+| HostVDS.com Cloud Service Provider | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Mistic Internet Security Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Mistic%20Internet%20Security%20Pty%20Ltd.txt) |
 | Private Customer | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Private%20Customer.txt) |
@@ -27,4 +27,4 @@
 | veesp.com clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/veesp.com%20clients.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

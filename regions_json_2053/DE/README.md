@@ -80,13 +80,12 @@
 | dataforest GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/dataforest%20GmbH.txt) |
 | lease for Timeweb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/lease%20for%20Timeweb.txt) |
 | netcup GmbH | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/netcup%20GmbH.txt) |
-| nuxtcloud | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/nuxtcloud.txt) |
+| nuxtcloud | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/nuxtcloud.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/oracle.txt) |
 | play2go.cloud - Cheap and reliable hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | u1host ltd | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/u1host%20ltd.txt) |
 | webtropia dedicated Server by http___www.webtropia.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/webtropia%20dedicated%20Server%20by%20http___www.webtropia.com.txt) |
 | www.fornex.com, Fornex Hosting S.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
-| xTom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/xTom.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

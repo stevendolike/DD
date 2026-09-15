@@ -1,6 +1,6 @@
 # IT （純 IP）
 
-**共 33 條** · [返回主頁](../../README.md)
+**共 32 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/_all.txt)
 
@@ -15,7 +15,7 @@
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/BlueVPS%20OU.txt) |
 | EDIS Infrastructure in Italy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/EDIS%20Infrastructure%20in%20Italy.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/G-Core%20Labs%20S.A.txt) |
-| GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/GREEN%20FLOID%20LLC.txt) |
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/GTHost.txt) |
 | IT Hostline Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Kamatera%20Inc.txt) |
@@ -24,4 +24,4 @@
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/_all.txt)
 
@@ -10,8 +10,6 @@
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/3NT%20SOLUTIONS%20LLP.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Baxet%20Group%20Inc.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/G-Core%20Labs%20S.A.txt) |
-| Komuta Savunma Yuksek Teknoloji Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Komuta%20Savunma%20Yuksek%20Teknoloji%20Limited%20Sirketi.txt) |
-| MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/MUV%20Bilisim%20ve%20Telekomunikasyon%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Private%20Customer.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/RCS%20Technologies%20FZE%20LLC.txt) |
@@ -21,4 +19,4 @@
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

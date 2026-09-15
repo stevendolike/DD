@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 70 條** · [返回主頁](../../README.md)
+**共 67 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -21,18 +21,17 @@
 | DODO K.K | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DODO%20K.K.txt) |
 | EDIS IPv6 Infrastructure In Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/EDIS%20IPv6%20Infrastructure%20In%20Japan.txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Evoxt.com.txt) |
-| Hongkong Wen Jing Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | Hostsymbol Pte. Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Hostsymbol%20Pte.%20Ltd.txt) |
 | Kirino LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Kirino%20LLC.txt) |
 | Leaseweb Japan K.K | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Leaseweb%20Japan%20K.K.txt) |
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
 | PI-TOKYO-KARVL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/PI-TOKYO-KARVL.txt) |
-| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Private%20Customer.txt) |
+| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Private%20Customer.txt) |
 | SAKURA LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/SAKURA%20LTD.txt) |
 | STYLISH BY A&L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/STYLISH%20BY%20A%26L%20SRL.txt) |
 | Securebit AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Securebit%20AG.txt) |
-| ShouyuResearchNetwork-LUX | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ShouyuResearchNetwork-LUX.txt) |
+| ShouyuResearchNetwork-LUX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ShouyuResearchNetwork-LUX.txt) |
 | Starry Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Starry%20Network%20Limited.txt) |
 | Starry Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Starry%20Network.txt) |
 | The Constant Company, LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company%2C%20LLC.txt) |
@@ -40,4 +39,4 @@
 | xTom Japan Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

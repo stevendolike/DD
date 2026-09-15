@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 201 條** · [返回主頁](../../README.md)
+**共 200 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/_all.txt)
 
@@ -18,7 +18,7 @@
 | Senko Digital LLC - NL Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Senko%20Digital%20LLC%20-%20NL%20Network.txt) |
 | Timeweb, LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Timeweb%2C%20LLP.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Vultr%20Holdings%2C%20LLC.txt) |
-| as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/as56971%20network.txt) |
+| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/as56971%20network.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

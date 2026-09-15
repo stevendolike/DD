@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 52 條** · [返回主頁](../../README.md)
+**共 53 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/_all.txt)
 
@@ -16,6 +16,7 @@
 | Hollander & Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
 | Hostup AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Hostup%20AB.txt) |
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/ISPIRIA%20Networks%20Ltd.txt) |
+| New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/New%20Hosting%20Technologies%20LLC.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Oracle%20Corporation.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Prinode%20AB.txt) |
@@ -27,4 +28,4 @@
 | Vultr Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

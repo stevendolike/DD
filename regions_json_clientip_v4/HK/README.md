@@ -6,10 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 6 COLLYER QUAY | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/6%20COLLYER%20QUAY.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/ACE.txt) |
 | AKILE LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/AKILE%20LTD.txt) |
-| ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALIBABA CLOUD - HK | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Alibaba%20Cloud%20LLC.txt) |
 | Aliyun Computing Co.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Aliyun%20Computing%20Co.LTD.txt) |
@@ -33,4 +32,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

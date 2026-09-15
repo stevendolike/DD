@@ -1,6 +1,6 @@
 # EE
 
-**共 46 條** · [返回主頁](../../README.md)
+**共 54 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/_all_443.txt)
 
@@ -12,6 +12,7 @@
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/BlueVPS%20OU.txt) |
 | Brainoza OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/Brainoza%20OU.txt) |
+| EE IPHOSTER OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/EE%20IPHOSTER%20OU.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/EE-Network.txt) |
 | ExpressHost LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/ExpressHost%20LTD.txt) |
 | HostSlim OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/HostSlim%20OU.txt) |
@@ -22,4 +23,4 @@
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/EE/SERV.HOST%20GROUP%20LTD.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

@@ -1,6 +1,6 @@
 # SG
 
-**共 93 條** · [返回主頁](../../README.md)
+**共 90 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 16 COLLYER QUAY # 18-29 INCOME AT RAFFLES | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/16%20COLLYER%20QUAY%20%23%2018-29%20INCOME%20AT%20RAFFLES.txt) |
 | 16 COLLYER QUAY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/16%20COLLYER%20QUAY.txt) |
-| 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/3NT%20SOLUTIONS%20LLP.txt) |
+| 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/3NT%20SOLUTIONS%20LLP.txt) |
 | 500 Oracle Parkway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/500%20Oracle%20Parkway.txt) |
 | 6 COLLYER QUAY | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/6%20COLLYER%20QUAY.txt) |
 | Alibaba Cloud LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Alibaba%20Cloud%20LLC.txt) |
@@ -17,6 +17,7 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Baxet%20Group%20Inc.txt) |
 | CloudWebManage Platform | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/CloudWebManage%20Platform.txt) |
 | Cloudflare, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Cloudflare%2C%20Inc.txt) |
+| Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Contabo%20Asia%20Private%20Limited.txt) |
 | Contabo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Contabo%20GmbH.txt) |
 | Digital Ocean, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Digital%20Ocean%2C%20Inc.txt) |
 | DigitalOcean, LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/DigitalOcean%2C%20LLC.txt) |
@@ -32,12 +33,11 @@
 | PRIVATE CUSTOMER | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/PRIVATE%20CUSTOMER.txt) |
 | SAKURA COMMUNICATIONS PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/SAKURA%20COMMUNICATIONS%20PTE.%20LTD.txt) |
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/SPEEDYPAGE-LTD.txt) |
-| SPTEL PTE. LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/SPTEL%20PTE.%20LTD.txt) |
 | UAB Cherry Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/UAB%20Cherry%20Servers.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/UCUL-SG.txt) |
 | Viewqwest Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Viewqwest%20Pte%20Ltd.txt) |
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Vultr%20Holdings%2C%20LLC.txt) |
-| Zenlayer (Singapore) PTE. LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Zenlayer%20%28Singapore%29%20PTE.%20LTD.txt) |
+| Zenlayer (Singapore) PTE. LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Zenlayer%20%28Singapore%29%20PTE.%20LTD.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

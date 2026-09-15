@@ -1,6 +1,6 @@
 # EE
 
-**共 156 條** · [返回主頁](../../README.md)
+**共 163 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt)
 
@@ -12,15 +12,16 @@
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
 | Brainoza OU | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
-| EDIS IPv6 Infrastructure in Estonia | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
+| EDIS IPv6 Infrastructure in Estonia | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
+| EE IPHOSTER OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EE%20IPHOSTER%20OU.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EE-Network.txt) |
 | ESTOXY OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ESTOXY%20OU.txt) |
 | ExpressHost LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ExpressHost%20LTD.txt) |
-| HZ Hosting Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HZ%20Hosting%20Ltd.txt) |
+| HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HexCore%20cloud%20s.r.o.txt) |
 | Host-World OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Host-World%20OU.txt) |
 | HostSlim OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HostSlim%20OU.txt) |
-| IPv6 network for hosting services | 55 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| IPv6 network for hosting services | 54 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IROKO%20Networks%20Corporation.txt) |
 | Network for hosting services | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Network%20for%20hosting%20services.txt) |
 | QWINS Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/QWINS%20Hosting.txt) |
@@ -33,4 +34,4 @@
 | xTom OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/xTom%20OU.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

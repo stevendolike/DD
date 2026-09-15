@@ -1,17 +1,16 @@
 # PL （純 IP）
 
-**共 92 條** · [返回主頁](../../README.md)
+**共 89 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/1Cent%20Host.txt) |
+| 1Cent Host | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/1Cent%20Host.txt) |
 | 3K33 sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/3K33%20sp.%20z%20o.o.txt) |
 | Additional IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Additional%20IPv6.txt) |
 | Artnet Sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Artnet%20Sp.%20z%20o.o.txt) |
 | Aruba S.p.A. - Cloud Services PL1 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Aruba%20S.p.A.%20-%20Cloud%20Services%20PL1.txt) |
-| BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/BARTOSZ%20WASZAK%20trading%20as%20HOSTEAM%20S.C.%20TOMASZ%20GROSZEWSKI%20BARTOSZ%20WASZAK%20LUKASZ%20GROSZEWSKI.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Baykov%20Ilya%20Sergeevich.txt) |
 | Datagio Systems Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Datagio%20Systems%20Ltd.txt) |
@@ -36,7 +35,6 @@
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/QWINS%20Hosting.txt) |
 | QuadSpark IT Solutions Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/QuadSpark%20IT%20Solutions%20Private%20Limited.txt) |
 | Raul Ghita trading as 'Ghita Telekom' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27.txt) |
-| Rawi Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Rawi%20Network.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/SEBEK%20sp.%20z%20o.o.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Snowd%20Security%20OU.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/The%20Constant%20Company%2C%20LLC.txt) |
@@ -44,4 +42,4 @@
 | nodehost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/nodehost.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*

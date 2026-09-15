@@ -10,7 +10,7 @@
 | AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/AEZA%20GROUP%20LLC.txt) |
 | Amazon Data Services UK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Amazon%20Data%20Services%20UK.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
-| BAGE CLOUD LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BAGE%20CLOUD%20LLC.txt) |
+| BAGE CLOUD LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BG-NETWORK.txt) |
 | BT-R101-TEST | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/BT-R101-TEST.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Baxet%20Group%20Inc.txt) |
@@ -18,7 +18,8 @@
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Costel%20Savulescu.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Deployish%20Limited.txt) |
 | DigitalOcean London | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/DigitalOcean%20London.txt) |
-| DigitalOcean, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/DigitalOcean%2C%20LLC.txt) |
+| FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/FASTWARP%20LLP.txt) |
 | Fabric_zone | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Fabric_zone.txt) |
 | GTHost | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Google%20LLC.txt) |
@@ -39,15 +40,13 @@
 | Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Oracle%20Svenska%20AB.txt) |
 | Perfecto Mobile UK LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Perfecto%20Mobile%20UK%20LTD.txt) |
-| Private Customer | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Private%20Customer.txt) |
-| SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/SA.txt) |
+| Private Customer | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Private%20Customer.txt) |
 | Shaposhnikov Maxim | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Shaposhnikov%20Maxim.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/UNKNOWN.txt) |
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Urban%20Network%20Solutions%20SRL.txt) |
 | VeloxServ Communications Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/VeloxServ%20Communications%20Ltd.txt) |
 | Virgin Media Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Virgin%20Media%20Limited.txt) |
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Vultr%20Holdings%2C%20LLC.txt) |
-| Zenlayer Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Zenlayer%20Inc.txt) |
 
 ---
-*最後更新：2026-09-15 00:23 UTC*
+*最後更新：2026-09-15 09:03 UTC*
