@@ -10,4 +10,4 @@
 | S.C. INFOTECH-GRUP S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
 
 ---
-*最後更新：2026-09-16 14:45 UTC*
+*最後更新：2026-09-16 19:27 UTC*

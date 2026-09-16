@@ -15,4 +15,4 @@
 | SmartApe OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/SmartApe%20OU.txt) |
 
 ---
-*最後更新：2026-09-16 14:45 UTC*
+*最後更新：2026-09-16 19:27 UTC*
