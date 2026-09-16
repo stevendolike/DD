@@ -1,6 +1,6 @@
 # KR （純 IP）
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 14 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/_all.txt)
 
@@ -8,10 +8,10 @@
 |------|--------|---------|
 | 6 COLLYER QUAY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/6%20COLLYER%20QUAY.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
-| Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Cloudflare%20London%2C%20LLC.txt) |
-| Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Corporation.txt) |
+| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Cloudflare%20London%2C%20LLC.txt) |
+| Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/Oracle%20Public%20Cloud.txt) |
-| The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KR/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*

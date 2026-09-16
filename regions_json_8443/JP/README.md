@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 67 條** · [返回主頁](../../README.md)
+**共 119 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -12,7 +12,7 @@
 | Amazon.com, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Amazon.com%2C%20Inc.txt) |
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/BAGE%20CLOUD%20LLC.txt) |
 | BITSFLOWCLOUD LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/BITSFLOWCLOUD%20LTD.txt) |
-| ByteVirt LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ByteVirt%20LLC.txt) |
+| ByteVirt LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ByteVirt%20LLC.txt) |
 | Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | Cornseed Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Cornseed%20Limited.txt) |
@@ -21,11 +21,12 @@
 | DODO K.K | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DODO%20K.K.txt) |
 | EDIS IPv6 Infrastructure In Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/EDIS%20IPv6%20Infrastructure%20In%20Japan.txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Evoxt.com.txt) |
-| Hostsymbol Pte. Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Hostsymbol%20Pte.%20Ltd.txt) |
+| Hostsymbol Pte. Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Hostsymbol%20Pte.%20Ltd.txt) |
 | Kirino LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Kirino%20LLC.txt) |
 | Leaseweb Japan K.K | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Leaseweb%20Japan%20K.K.txt) |
-| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
-| Oracle Public Cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
+| Oracle Corporation | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
+| Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
+| PANSTAR CLOUD LIMITED - Tokyo JPP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/PANSTAR%20CLOUD%20LIMITED%20-%20Tokyo%20JPP.txt) |
 | PI-TOKYO-KARVL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/PI-TOKYO-KARVL.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Private%20Customer.txt) |
 | SAKURA LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/SAKURA%20LTD.txt) |
@@ -34,9 +35,10 @@
 | ShouyuResearchNetwork-LUX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ShouyuResearchNetwork-LUX.txt) |
 | Starry Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Starry%20Network%20Limited.txt) |
 | Starry Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Starry%20Network.txt) |
-| The Constant Company, LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings%2C%20LLC.txt) |
+| ZOUTER TOKYO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ZOUTER%20TOKYO.txt) |
 | xTom Japan Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/xTom%20Japan%20Corporation.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*

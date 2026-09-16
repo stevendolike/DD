@@ -1,6 +1,6 @@
 # SE
 
-**共 257 條** · [返回主頁](../../README.md)
+**共 251 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/_all_443.txt)
 
@@ -8,20 +8,20 @@
 |------|--------|---------|
 | 1Cent Host | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/1Cent%20Host.txt) |
 | A100 ROW Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/A100%20ROW%20Inc.txt) |
-| AEZA GROUP LLC | 92 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
-| ALEXHOST S.R.L | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20S.R.L.txt) |
+| AEZA GROUP LLC | 94 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/AEZA%20GROUP%20LLC.txt) |
+| ALEXHOST S.R.L | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ALEXHOST%20S.R.L.txt) |
 | Amazon Data Services Ireland Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amazon Data Services Sweden | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU Url_ https___www.bluevps.com_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/BlueVPS%20OU%20Url_%20https___www.bluevps.com_.txt) |
 | CacheFly | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/CacheFly.txt) |
 | DFDB LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/DFDB%20LLC.txt) |
 | Deployish Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Deployish%20Limited.txt) |
 | FORTIS Hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/FORTIS%20Hosting%20services.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Glesys AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Glesys%20AB.txt) |
+| Glesys AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Glesys%20AB.txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/HZ%20Hosting%20Ltd.txt) |
 | Hexabyte AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hexabyte%20AB.txt) |
 | Hollander & Jacobsen UG (haftungsbeschraenkt) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
@@ -30,9 +30,9 @@
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/IROKO%20Networks%20Corporation.txt) |
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ISPIRIA%20Networks%20Ltd.txt) |
 | Internetport Sweden AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Internetport%20Sweden%20AB.txt) |
-| Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Linode.txt) |
+| Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/MVPS%20LTD.txt) |
-| Materialism s.r.l | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
+| Materialism s.r.l | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Materialism%20s.r.l.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Melbikomas%20UAB.txt) |
 | New Hosting Technologies LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/New%20Hosting%20Technologies%20LLC.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
@@ -43,21 +43,19 @@
 | Privex Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Privex%20Inc.txt) |
 | Privex Sweden General Customers | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Privex%20Sweden%20General%20Customers.txt) |
 | Reverse-Proxy | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Reverse-Proxy.txt) |
-| SA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SA.txt) |
+| SA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SEBEK%20sp.%20z%20o.o.txt) |
-| SIA VEESP | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
+| SIA VEESP | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SIA%20VEESP.txt) |
 | Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Sia%20Nano%20IT.txt) |
 | SweHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/SweHosting.txt) |
 | Sweden infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Sweden%20infrastructure.txt) |
 | Switzerland infrastructure | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Switzerland%20infrastructure.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20Constant%20Company%2C%20LLC.txt) |
 | The subnet 2a0c_5700_3133_1705___64 in this range is used for TOR-Exit services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/The%20subnet%202a0c_5700_3133_1705___64%20in%20this%20range%20is%20used%20for%20TOR-Exit%20services.txt) |
-| UpCloud Cloud Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UpCloud%20Cloud%20Servers.txt) |
+| UpCloud Cloud Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/UpCloud%20Cloud%20Servers.txt) |
 | Vultr Sweden | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/Vultr%20Sweden.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/ggyy-nl.txt) |
 | oneprovider.com - Stockholm Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/oneprovider.com%20-%20Stockholm%20Infrastructure.txt) |
-| oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/oracle.txt) |
-| www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*

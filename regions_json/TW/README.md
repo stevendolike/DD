@@ -1,6 +1,6 @@
 # TW
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all_443.txt)
 
@@ -8,10 +8,9 @@
 |------|--------|---------|
 | ACCK LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ACCK%20LLC.txt) |
 | Akari Networks (Taipei) | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Akari%20Networks%20%28Taipei%29.txt) |
-| ByteVirt LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ByteVirt%20LLC.txt) |
+| ByteVirt LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ByteVirt%20LLC.txt) |
 | Chunghwa Telecom Data Communication Business Group | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/DATAWAVE%20GLOBAL%20LLC.txt) |
-| Data Communication Business Group, | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Data%20Communication%20Business%20Group%2C.txt) |
 | Imcloud Technology Co., Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Imcloud%20Technology%20Co.%2C%20Ltd.txt) |
 | Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Infrastructure.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/LIGHT%20NODE%20LIMITED.txt) |
@@ -22,4 +21,4 @@
 | STARVERSE POLOCLOUD 2 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/STARVERSE%20POLOCLOUD%202.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*

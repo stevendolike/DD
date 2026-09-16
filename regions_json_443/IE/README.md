@@ -1,6 +1,6 @@
 # IE （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/_all.txt)
 
@@ -10,8 +10,7 @@
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/Amazon.com%2C%20Inc.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/Cloudflare%20London%2C%20LLC.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/HostPapa.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*

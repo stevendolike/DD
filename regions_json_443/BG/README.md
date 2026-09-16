@@ -15,11 +15,12 @@
 | FIRST SERVER, SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | Friendhosting LTD | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/GREEN%20FLOID%20LLC.txt) |
-| Lir.bg EOOD | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
+| ITLDC EU2.SOF Datacenter Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
+| Lir.bg EOOD | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
 | MAXKO d.o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/MAXKO%20d.o.o.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/NetGrid%20Host%20LTD.txt) |
 | Redcluster LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Redcluster%20LTD.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/SEBEK%20sp.%20z%20o.o.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*

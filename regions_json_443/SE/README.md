@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 166 條** · [返回主頁](../../README.md)
+**共 158 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
@@ -18,15 +18,16 @@
 | Deployish Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Deployish%20Limited.txt) |
 | FORTIS Hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/FORTIS%20Hosting%20services.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| Glesys AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Glesys%20AB.txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/HZ%20Hosting%20Ltd.txt) |
 | Hexabyte AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hexabyte%20AB.txt) |
 | Hollander & Jacobsen UG (haftungsbeschraenkt) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hollander%20%26%20Jacobsen%20UG%20%28haftungsbeschraenkt%29.txt) |
 | Hostup AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Hostup%20AB.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/IROKO%20Networks%20Corporation.txt) |
 | Internetport Sweden AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Internetport%20Sweden%20AB.txt) |
-| Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Linode.txt) |
+| Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/MVPS%20LTD.txt) |
-| Materialism s.r.l | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Materialism%20s.r.l.txt) |
+| Materialism s.r.l | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Materialism%20s.r.l.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Melbikomas%20UAB.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Prinode AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Prinode%20AB.txt) |
@@ -36,7 +37,7 @@
 | Reverse-Proxy | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Reverse-Proxy.txt) |
 | SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SA.txt) |
 | SEBEK sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SEBEK%20sp.%20z%20o.o.txt) |
-| SIA VEESP | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
+| SIA VEESP | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SIA%20VEESP.txt) |
 | Sia Nano IT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Sia%20Nano%20IT.txt) |
 | SweHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/SweHosting.txt) |
 | Sweden infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Sweden%20infrastructure.txt) |
@@ -46,8 +47,6 @@
 | Vultr Sweden | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/ggyy-nl.txt) |
 | oneprovider.com - Stockholm Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oneprovider.com%20-%20Stockholm%20Infrastructure.txt) |
-| oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oracle.txt) |
-| www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*

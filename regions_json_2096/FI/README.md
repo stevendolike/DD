@@ -1,12 +1,13 @@
 # FI （純 IP）
 
-**共 16 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/AEZA%20GROUP%20LLC.txt) |
+| EDIS IPv6 Infrastructure in Finland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/EDIS%20IPv6%20Infrastructure%20in%20Finland.txt) |
 | FlokiNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/FlokiNET.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/Hetzner%20Online%20GmbH.txt) |
@@ -16,4 +17,4 @@
 | Xorek.Cloud Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/Xorek.Cloud%20Helsinki.txt) |
 
 ---
-*最後更新：2026-09-16 00:02 UTC*
+*最後更新：2026-09-16 08:55 UTC*
