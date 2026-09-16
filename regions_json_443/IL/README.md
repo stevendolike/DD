@@ -13,4 +13,4 @@
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 
 ---
-*最後更新：2026-09-15 19:36 UTC*
+*最後更新：2026-09-16 00:02 UTC*

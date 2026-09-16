@@ -9,4 +9,4 @@
 | FIRST SERVER LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/BG/FIRST%20SERVER%20LIMITED.txt) |
 
 ---
-*最後更新：2026-09-15 19:36 UTC*
+*最後更新：2026-09-16 00:02 UTC*
