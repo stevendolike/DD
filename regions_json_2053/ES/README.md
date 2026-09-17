@@ -14,4 +14,4 @@
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/OVH%20Hispano.txt) |
 
 ---
-*最後更新：2026-09-16 19:27 UTC*
+*最後更新：2026-09-17 00:12 UTC*
