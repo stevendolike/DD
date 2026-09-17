@@ -11,4 +11,4 @@
 | Voyager Internet Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/Voyager%20Internet%20Ltd.txt) |
 
 ---
-*最後更新：2026-09-17 00:12 UTC*
+*最後更新：2026-09-17 09:00 UTC*

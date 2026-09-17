@@ -17,9 +17,9 @@
 | Iron Hosting Centre Ltd., London, UK (mchost) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%20%28mchost%29.txt) |
 | Reliable Communications s.r.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Reliable%20Communications%20s.r.o.txt) |
 | Retzor, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Retzor%2C%20Inc.txt) |
-| Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Retzor-com.txt) |
-| SmartApe OU | 54 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
+| Retzor-com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/Retzor-com.txt) |
+| SmartApe OU | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/SmartApe%20OU.txt) |
 | vpsFree.cz, z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/vpsFree.cz%2C%20z.s.txt) |
 
 ---
-*最後更新：2026-09-17 00:12 UTC*
+*最後更新：2026-09-17 09:00 UTC*
