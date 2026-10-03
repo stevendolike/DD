@@ -8,6 +8,7 @@
 
 ## 📋 目錄
 
+- [🌐 網站（GitHub Pages）](#-網站github-pages)
 - [📂 文件結構](#-文件結構)
 - [📁 分類總覽](#-分類總覽)
 
@@ -24,6 +25,7 @@
 | `residential.py` | **家庭寬帶 ISP 關鍵字**（想調整改呢個） |
 | `reclassify_asn.py` | 工具：數據源失效時用 RIPEstat 重建優選 ASN |
 | `classify_residential.py` | 工具：重新生成家庭寬帶分類 |
+| `gen_pages.py` | 生成 GitHub Pages 網站（Actions 自動跑） |
 | `reformat.py` | 工具：一次性重整全庫格式（檔名/排序/LF） |
 | `worker_proxy.js` | Cloudflare Worker：all.json 代理（GitHub Actions 唯一數據源） |
 
@@ -46,6 +48,21 @@
 
 ---
 
+## 🌐 網站（GitHub Pages）
+
+本 repo 內置靜態網站（`docs/` 目錄，由 `gen_pages.py` 自動生成，隨 Actions 每 6 小時同步）：
+
+**網址：** https://stevendolike.github.io/DD/
+
+- 📱 響應式：320px 手機 → 桌面自動縮放（`clamp()` 流體排版 + `flex-wrap`）
+- 🌙 深色主題 · 劉海屏安全區（`env(safe-area-inset-*)` + `viewport-fit=cover`）
+- 🔍 搜尋 IP／國家、一鍵複製清單、每個分類嘅 raw 連結
+- 🗂️ 12 個分類：優選 ASN、家庭寬帶、全部 Port、各 port 純 IP、ClientIP v4
+
+**啟用方法（只做一次）**：Settings → Pages → Source 揀 **Deploy from a branch** → Branch 揀 **main** + 目錄揀 **/docs** → Save。Fork 嘅話一樣做法，網址自動變你嘅 `stevendolike.github.io/DD/`。
+
+---
+
 ## 🍴 Fork 後自動同步
 
 Fork 之後 repo 內置 [Upstream Sync](.github/workflows/upstream-sync.yml)：每日 00:00 自動同步上游改動（或者 Actions → Upstream Sync → Run workflow 手動同步）。
@@ -53,4 +70,4 @@ Fork 之後 repo 內置 [Upstream Sync](.github/workflows/upstream-sync.yml)：�
 如果 GitHub 因 workflow 變更暫停自動更新，手動 Run 一次即可。
 
 ---
-*最後更新：2026-09-17 09:00 UTC*
+*最後更新：2026-10-03 15:59 UTC*

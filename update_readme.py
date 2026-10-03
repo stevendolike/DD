@@ -214,6 +214,8 @@ def write_category_readme(base_dir, title, is_ip_only=False, has_443=True,
 
 
 def write_main_readme():
+    owner, name = (REPO.split("/") + ["DD"])[:2]
+    site_url = f"https://{owner}.github.io/{name}/"
     total_all = dir_total("regions_json")
     total_asn = dir_total("regions_json_preferred_asn")
     total_res = dir_total("regions_json_residential")
@@ -237,6 +239,7 @@ def write_main_readme():
 
 ## 📋 目錄
 
+- [🌐 網站（GitHub Pages）](#-網站github-pages)
 - [📂 文件結構](#-文件結構)
 - [📁 分類總覽](#-分類總覽)
 
@@ -253,6 +256,7 @@ def write_main_readme():
 | `residential.py` | **家庭寬帶 ISP 關鍵字**（想調整改呢個） |
 | `reclassify_asn.py` | 工具：數據源失效時用 RIPEstat 重建優選 ASN |
 | `classify_residential.py` | 工具：重新生成家庭寬帶分類 |
+| `gen_pages.py` | 生成 GitHub Pages 網站（Actions 自動跑） |
 | `reformat.py` | 工具：一次性重整全庫格式（檔名/排序/LF） |
 | `worker_proxy.js` | Cloudflare Worker：all.json 代理（GitHub Actions 唯一數據源） |
 
@@ -267,6 +271,21 @@ def write_main_readme():
 | ⭐ 優選 ASN | {total_asn:,} | [列表](regions_json_preferred_asn/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_preferred_asn/_all.txt) · [443 目錄](regions_json_preferred_asn_443/README.md) |
 | 🏠 家庭寬帶 | {total_res:,} | [列表](regions_json_residential/README.md) · [整合全部（ip:port#國家）]({BASE_RAW}/regions_json_residential/_all.txt) · [443 目錄](regions_json_residential_443/README.md) |
 | 🌐 ClientIP 為 IPv4 | {total_v4:,} | [國家列表](regions_json_clientip_v4/README.md) |
+
+---
+
+## 🌐 網站（GitHub Pages）
+
+本 repo 內置靜態網站（`docs/` 目錄，由 `gen_pages.py` 自動生成，隨 Actions 每 6 小時同步）：
+
+**網址：** {site_url}
+
+- 📱 響應式：320px 手機 → 桌面自動縮放（`clamp()` 流體排版 + `flex-wrap`）
+- 🌙 深色主題 · 劉海屏安全區（`env(safe-area-inset-*)` + `viewport-fit=cover`）
+- 🔍 搜尋 IP／國家、一鍵複製清單、每個分類嘅 raw 連結
+- 🗂️ 12 個分類：優選 ASN、家庭寬帶、全部 Port、各 port 純 IP、ClientIP v4
+
+**啟用方法（只做一次）**：Settings → Pages → Source 揀 **Deploy from a branch** → Branch 揀 **main** + 目錄揀 **/docs** → Save。Fork 嘅話一樣做法，網址自動變你嘅 `{owner}.github.io/{name}/`。
 
 ---
 

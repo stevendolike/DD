@@ -51,6 +51,11 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python3 update_readme.py
 
+      - name: Generate GitHub Pages site
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 gen_pages.py
+
       - name: Commit results
         run: |
           git config user.name "github-actions"
@@ -60,6 +65,7 @@ jobs:
             [ -d "$dir" ] && git add "$dir"
           done
           git add README.md stats.json
+          [ -d docs ] && git add docs
           TOTAL=$(python3 -c "import json; d=json.load(open('stats.json')); print(sum(sum(v.values()) if isinstance(list(v.values())[0], int) else sum(sum(x.values()) for x in v.values()) for v in d.values() if v))")
           git diff --staged --quiet || git commit -m "Auto update $(date '+%Y-%m-%d %H:%M HKT') · ${TOTAL} entries"
           git push

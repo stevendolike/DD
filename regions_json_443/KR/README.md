@@ -22,4 +22,4 @@
 | The Constant Company, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-09-17 09:00 UTC*
+*最後更新：2026-10-03 15:59 UTC*
