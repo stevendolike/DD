@@ -51,9 +51,13 @@ const MINIMAL_HEADERS = {
 //    實測 2026-10：allorigins/jina/codetabs 等都試過得，但同一日亦會死。
 //    只用嚟「搏一搏」，唔應該視為可靠路徑。
 const PROXY_BUILDERS = [
+  // rjj.cc.cd 三節點（用法：/<完整URL>）— 實測 2026-10 全部 200 + 完整 JSON
+  (u) => "https://yx1.rjj.cc.cd/" + u,
+  (u) => "https://yx2.rjj.cc.cd/" + u,
+  (u) => "https://yx3.rjj.cc.cd/" + u,
+  // 後備公共中轉（唔穩定）
   (u) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
   (u) => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(u),
-  (u) => "https://r.jina.ai/" + u,
 ];
 
 addEventListener("fetch", (event) => {
