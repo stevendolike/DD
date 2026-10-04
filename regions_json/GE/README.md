@@ -11,4 +11,4 @@
 | SILKNET BROADBAND | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/SILKNET%20BROADBAND.txt) |
 
 ---
-*最後更新：2026-10-03 15:59 UTC*
+*最後更新：2026-10-04 02:10 UTC*
