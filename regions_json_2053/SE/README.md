@@ -1,15 +1,14 @@
 # SE （純 IP）
 
-**共 16 條** · [返回主頁](../../README.md)
+**共 13 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/AEZA%20GROUP%20LLC.txt) |
-| ALEXHOST S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/ALEXHOST%20S.R.L.txt) |
+| AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/AEZA%20GROUP%20LLC.txt) |
+| ALEXHOST S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/ALEXHOST%20S.R.L.txt) |
 | DFDB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/DFDB%20LLC.txt) |
-| Materialism s.r.l | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Materialism%20s.r.l.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Oracle%20Corporation.txt) |
 | Sia Nano IT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Sia%20Nano%20IT.txt) |
@@ -17,4 +16,4 @@
 | Vultr Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SE/Vultr%20Sweden.txt) |
 
 ---
-*最後更新：2026-10-04 02:31 UTC*
+*最後更新：2026-10-04 04:53 UTC*

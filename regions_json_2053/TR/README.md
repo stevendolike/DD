@@ -1,13 +1,11 @@
 # TR （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 2E TELEKOMUNIKASYON LTD STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
-| Inferno Network IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Inferno%20Network%20IPv6.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/Private%20Customer.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/RCS%20Technologies%20FZE%20LLC.txt) |
@@ -17,4 +15,4 @@
 | White Label Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/TR/White%20Label%20Services%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-04 02:31 UTC*
+*最後更新：2026-10-04 04:53 UTC*

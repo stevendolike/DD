@@ -1,13 +1,13 @@
 # HK
 
-**共 187 條** · [返回主頁](../../README.md)
+**共 190 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/365.partners%20INC.txt) |
-| 6 COLLYER QUAY | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/6%20COLLYER%20QUAY.txt) |
 | A Pensonal Global Research Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/A%20Pensonal%20Global%20Research%20Network.txt) |
 | ACCK LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ACCK%20LLC.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ACE.txt) |
@@ -24,45 +24,43 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/BlueVPS%20OU.txt) |
 | Cloud Software - FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloud%20Software%20-%20FZCO.txt) |
-| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloudflare%20London%2C%20LLC.txt) |
-| Cloudie Limited | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloudie%20Limited.txt) |
+| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudie Limited | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Cloudie%20Limited.txt) |
 | DATAGEAR LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/DATAGEAR%20LLP.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/DATAWAVE%20GLOBAL%20LLC.txt) |
 | DEBEE Network | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/DEBEE%20Network.txt) |
 | DMIT Cloud Service - Los Angeles | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
-| Evoxt.com | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Evoxt.com.txt) |
+| Evoxt.com | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Evoxt.com.txt) |
 | HERO LINE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HERO%20LINE%20LIMITED.txt) |
 | HGC Global Communications Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HGC%20Global%20Communications%20Limited.txt) |
-| HK DINGDIAN NETWORK LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HK%20DINGDIAN%20NETWORK%20LIMITED.txt) |
-| HYTRON NETWORK HK | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HYTRON%20NETWORK%20HK.txt) |
+| HYTRON NETWORK HK | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HYTRON%20NETWORK%20HK.txt) |
 | Hong Kong Broadband Network Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hong%20Kong%20Broadband%20Network%20Ltd.txt) |
 | Hong Kong Telecommunications (HKT) Limited Business Internet | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Business%20Internet.txt) |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
-| Hong Kong isp services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hong%20Kong%20isp%20services.txt) |
 | Hongkong Wen Jing Network Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
-| Hytron Network Services Limited - HK | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hytron%20Network%20Services%20Limited%20-%20HK.txt) |
+| Hytron Network Services Limited - HK | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hytron%20Network%20Services%20Limited%20-%20HK.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/IROKO%20Networks%20Corporation.txt) |
+| ISIF Network (Hong Kong) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ISIF%20Network%20%28Hong%20Kong%29.txt) |
 | LANDUPS LIMITED | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/LANDUPS%20LIMITED.txt) |
 | LEASEWEB HONG KONG LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/LEASEWEB%20HONG%20KONG%20LIMITED.txt) |
 | LeaseWeb Asia Pacific - Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/LeaseWeb%20Asia%20Pacific%20-%20Hong%20Kong.txt) |
-| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
-| NetPilot Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/NetPilot%20Limited.txt) |
+| MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 42 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
 | Netrouting Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Netrouting%20Hong%20Kong.txt) |
 | NextStage Innovations LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/NextStage%20Innovations%20LLC.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Private%20Customer.txt) |
 | RIPE NCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RIPE%20NCC.txt) |
 | RM301K,3_F,HONGKONG TRADE CENTRE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RM301K%2C3_F%2CHONGKONG%20TRADE%20CENTRE.txt) |
-| STYLISH BY A&L SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/STYLISH%20BY%20A%26L%20SRL.txt) |
+| STYLISH BY A&L SRL | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/STYLISH%20BY%20A%26L%20SRL.txt) |
 | Skywolf Cloud HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Skywolf%20Cloud%20HK.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Subnet%20Digital%20LLC.txt) |
 | TENGSHENG TECH LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/TENGSHENG%20TECH%20LIMITED.txt) |
 | VH Global Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/VH%20Global%20Limited.txt) |
-| VMISS Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/VMISS%20Inc.txt) |
+| VMISS Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/VMISS%20Inc.txt) |
 | XING XUN TECH LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/XING%20XUN%20TECH%20LIMITED.txt) |
-| ZOUTER HK | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ZOUTER%20HK.txt) |
-| as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/as56971%20network.txt) |
+| ZOUTER HK | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/ZOUTER%20HK.txt) |
+| as56971 network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/as56971%20network.txt) |
 | vape | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/vape.txt) |
 | xTom Hong Kong Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/xTom%20Hong%20Kong%20Limited.txt) |
 
 ---
-*最後更新：2026-10-04 02:31 UTC*
+*最後更新：2026-10-04 04:53 UTC*
