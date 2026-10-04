@@ -32,13 +32,23 @@ jobs:
           PROXY_TOKEN: ${{ secrets.PROXY_TOKEN }}
           PROXY_URL: ${{ vars.PROXY_URL }}
         run: |
-          dl() { curl -skL -m 60 -A "Mozilla/5.0" -H "X-Auth-Token: $PROXY_TOKEN" -o all_new.json "$PROXY_URL" && [ -s all_new.json ] && head -c 20 all_new.json | grep -q '"'; }
-          if dl; then
-            echo "✓ Cloudflare Worker"
-          else
-            echo "⚠️ Worker 失敗，用 cache（如有）"
+          dl() { curl -skL -m 60 -A "Mozilla/5.0" -H "X-Auth-Token: $PROXY_TOKEN" -o "$1" "$PROXY_URL" && [ -s "$1" ] && head -c 20 "$1" | grep -q '"'; }
+          # 試 2 次（Worker 有 3 層 upstream 策略，可能第一次 timeout）
+          for i in 1 2; do
+            if dl all_new.json; then
+              echo "✓ Cloudflare Worker（第 $i 次）"
+              break
+            fi
+            echo "⚠️ Worker 第 $i 次失敗"
+            sleep 5
+          done
+          # fallback：用 repo 內現有 all.json（checkout 已攞到），令 job 唔會因下載失敗而全紅
+          if [ ! -s all_new.json ] || ! head -c 20 all_new.json | grep -q '"'; then
+            echo "⚠️ Worker 攞唔到，改用 repo 內現有 all.json（數據唔會更新，但 job 唔會 fail）"
+            cp all.json all_new.json
           fi
-          head -c 100 all_new.json; echo
+          echo "all_new.json: $(wc -c < all_new.json) bytes"
+          head -c 120 all_new.json; echo
 
       - name: Validate and replace
         run: python3 validate.py
