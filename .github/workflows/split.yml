@@ -28,36 +28,61 @@ jobs:
           key: alljson-cache-v1
 
       - name: Download all.json
+        timeout-minutes: 25
         env:
           PROXY_TOKEN: ${{ secrets.PROXY_TOKEN }}
           PROXY_URL: ${{ vars.PROXY_URL }}
         run: |
           UP="https://zip.cm.edu.kg/all.json"
+          # 清走任何殘留舊檔（cache restore / 上次 artifact），確保 ok() 只反映今次下載
+          rm -f all_new.json
           # 有效數據 = 有 data 陣列、冇 error 欄位、有實際內容
           ok() { [ -s "$1" ] && grep -q '"data"' "$1" && ! grep -q '"error"' "$1" && [ "$(wc -c < "$1")" -gt 100000 ]; }
-          FOUND=""
 
-          # ① Cloudflare Worker（有 token 保護，正常路徑）
-          if [ -n "$PROXY_URL" ] && curl -skL -m 90 -A "Mozilla/5.0" \
-               -H "X-Auth-Token: $PROXY_TOKEN" -o all_new.json "$PROXY_URL" && ok all_new.json; then
-            echo "✓ Cloudflare Worker"
-            FOUND=1
-          else
-            echo "⚠️ Cloudflare Worker 失敗，試後備節點"
-            # ② 三個後備節點（用法：/<完整上游 URL>）
-            for P in yx1 yx2 yx3; do
-              if curl -skL -m 90 -A "Mozilla/5.0" -o all_new.json "https://$P.rjj.cc.cd/$UP" && ok all_new.json; then
-                echo "✓ 後備節點 $P.rjj.cc.cd"
-                FOUND=1
-                break
+          # 帶重試 + 遞增 backoff 嘅下載（上游間歇性故障時救得返）
+          fetch() {  # $1=url  $2=output  其餘參數原樣傳俾 curl
+            url="$1"; out="$2"; shift 2
+            n=1
+            while [ "$n" -le 3 ]; do
+              if curl -skL -m 90 -A "Mozilla/5.0" "$@" -o "$out" "$url" && ok "$out"; then
+                return 0
               fi
-              echo "⚠️ $P.rjj.cc.cd 失敗"
+              if [ "$n" -lt 3 ]; then
+                echo "  ↻ 第 $n/3 次失敗，$((n * 10))s 後重試"
+                sleep $((n * 10))
+              fi
+              n=$((n + 1))
             done
+            return 1
+          }
+
+          # 一輪：① Cloudflare Worker → ② 三個後備節點（每個源都帶 3 次重試）
+          try_all() {
+            if [ -n "$PROXY_URL" ]; then
+              if fetch "$PROXY_URL" all_new.json -H "X-Auth-Token: $PROXY_TOKEN"; then
+                echo "✓ Cloudflare Worker"; return 0
+              fi
+              echo "⚠️ Cloudflare Worker 失敗（已重試 3 次）"
+            fi
+            for P in yx1 yx2 yx3; do
+              if fetch "https://$P.rjj.cc.cd/$UP" all_new.json; then
+                echo "✓ 後備節點 $P.rjj.cc.cd"; return 0
+              fi
+              echo "⚠️ $P.rjj.cc.cd 失敗（已重試 3 次）"
+            done
+            return 1
+          }
+
+          # 首輪 → 失敗就等 60 秒做最後一輪（應付間歇性故障）
+          if ! try_all; then
+            echo "⏳ 首輪全敗 — 等 60 秒後做最後一輪"
+            sleep 60
+            try_all
           fi
 
           # ③ 全敗 → 中止（唔會改動現有 all.json，避免污染數據）
-          if [ -z "$FOUND" ]; then
-            echo "❌ 所有數據源都攞唔到有效數據 — 中止 job（現有 all.json 保持不變）"
+          if ! ok all_new.json; then
+            echo "❌ 所有數據源（含重試）都攞唔到有效數據 — 中止 job（現有 all.json 保持不變）"
             [ -s all_new.json ] && head -c 300 all_new.json; echo
             exit 1
           fi
