@@ -1,6 +1,6 @@
 # NO （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/_all.txt)
 
@@ -9,7 +9,6 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/Baxet%20Group%20Inc.txt) |
 | IROKO Networks Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/IROKO%20Networks%20Corporation.txt) |
 | Telia Norge AS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/Telia%20Norge%20AS.txt) |
-| WebHorizon Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-10-03 15:59 UTC*
+*最後更新：2026-10-04 02:31 UTC*

@@ -1,6 +1,6 @@
 # IT （純 IP）
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/_all.txt)
 
@@ -12,8 +12,7 @@
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/HOSTKEY%20B.V.txt) |
 | ITALYVPS.COM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/ITALYVPS.COM.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/Kamatera%20Inc.txt) |
-| Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/Linode.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
+| Lowhosting services of Davide Gennari | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IT/Lowhosting%20services%20of%20Davide%20Gennari.txt) |
 
 ---
-*最後更新：2026-10-03 15:59 UTC*
+*最後更新：2026-10-04 02:31 UTC*

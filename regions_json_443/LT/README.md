@@ -1,21 +1,17 @@
 # LT （純 IP）
 
-**共 16 條** · [返回主頁](../../README.md)
+**共 15 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Baxet%20Group%20Inc.txt) |
-| EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Baxet%20Group%20Inc.txt) |
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Melbikomas%20UAB.txt) |
+| Pirma alokacija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Pirma%20alokacija.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Private%20Customer.txt) |
-| SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/SERV.HOST%20GROUP%20LTD.txt) |
-| SOLID Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/SOLID%20Lithuania.txt) |
 | UAB Cherry Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20ESNET.txt) |
-| UAB Interneto vizija | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-10-03 15:59 UTC*
+*最後更新：2026-10-04 02:31 UTC*

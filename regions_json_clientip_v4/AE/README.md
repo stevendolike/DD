@@ -6,6 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/3nt%20solutions%20LLP.txt) |
+| Arbor Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Arbor%20Cloud.txt) |
 | Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Cloudflare%2C%20Inc.txt) |
 | EDIS INFRASTRUCTURE IN UAE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/EDIS%20INFRASTRUCTURE%20IN%20UAE.txt) |
 | G-Core Labs Customer assignment | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/G-Core%20Labs%20Customer%20assignment.txt) |
@@ -13,8 +15,6 @@
 | M247 Ltd Dubai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/M247%20Ltd%20Dubai.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Microsoft%20Corporation.txt) |
 | Oneprovider.com - Dubai Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oneprovider.com%20-%20Dubai%20Infrastructure.txt) |
-| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Oracle%20Svenska%20AB.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AE/Private%20Customer.txt) |
 
 ---
-*最後更新：2026-10-03 15:59 UTC*
+*最後更新：2026-10-04 02:31 UTC*

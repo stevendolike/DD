@@ -6,11 +6,10 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/Datacamp%20Limited.txt) |
 | EDIS Infrastructure in Denmark | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/EDIS%20Infrastructure%20in%20Denmark.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Imad Nabil Daher trading as ID Performance | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/Imad%20Nabil%20Daher%20trading%20as%20ID%20Performance.txt) |
-| Webdock.io ApS | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/Webdock.io%20ApS.txt) |
+| One.com A_S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/One.com%20A_S.txt) |
+| Webdock.io ApS | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/Webdock.io%20ApS.txt) |
 
 ---
-*最後更新：2026-10-03 15:59 UTC*
+*最後更新：2026-10-04 02:31 UTC*
