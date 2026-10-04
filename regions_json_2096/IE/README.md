@@ -9,4 +9,4 @@
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/IE/HostPapa.txt) |
 
 ---
-*最後更新：2026-10-04 10:18 UTC*
+*最後更新：2026-10-04 15:15 UTC*
