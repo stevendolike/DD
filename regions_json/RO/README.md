@@ -1,6 +1,6 @@
 # RO
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_all_443.txt)
 
@@ -23,10 +23,10 @@
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RCS%20Technologies%20FZE%20LLC.txt) |
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Urban%20Network%20Solutions%20SRL.txt) |
-| ZetServers RO | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/ZetServers%20RO.txt) |
+| ZetServers RO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/ZetServers%20RO.txt) |
 | _ WWW.RAREACLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_%20WWW.RAREACLOUD.IO%20_.txt) |
 | _ WWW.RARECLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/_%20WWW.RARECLOUD.IO%20_.txt) |
 | servinga GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-05 00:33 UTC*
+*最後更新：2026-10-05 10:58 UTC*

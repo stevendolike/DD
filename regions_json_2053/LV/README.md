@@ -1,12 +1,12 @@
 # LV （純 IP）
 
-**共 93 條** · [返回主頁](../../README.md)
+**共 92 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| CGI GLOBAL LIMITED | 41 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/GREEN%20FLOID%20LLC.txt) |
 | HostVDS.com Cloud Provider | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/HostVDS.com%20Cloud%20Provider.txt) |
@@ -20,4 +20,4 @@
 | as56971 network | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-05 00:33 UTC*
+*最後更新：2026-10-05 10:58 UTC*

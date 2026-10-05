@@ -1,13 +1,13 @@
 # IN
 
-**共 35 條** · [返回主頁](../../README.md)
+**共 34 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Akamai Connected Cloud _ Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
-| Amazon.com, Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Amazon.com%2C%20Inc.txt) |
+| Amazon.com, Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Amazon.com%2C%20Inc.txt) |
 | BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/BEAFORT%20LIMITED.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Contabo%20Asia%20Private%20Limited.txt) |
@@ -22,4 +22,4 @@
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-10-05 00:33 UTC*
+*最後更新：2026-10-05 10:58 UTC*

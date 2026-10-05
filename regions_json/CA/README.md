@@ -1,6 +1,6 @@
 # CA
 
-**共 84 條** · [返回主頁](../../README.md)
+**共 83 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -14,7 +14,7 @@
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cluster%20Logic%20Inc.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
 | Cogeco Connexion Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Connexion%20Inc.txt) |
-| DigitalOcean, LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
 | Graeme Tee | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
 | ITGLOBAL.COM NL B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Leaseweb Canada Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Leaseweb%20Canada%20Inc.txt) |
@@ -28,4 +28,4 @@
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-05 00:33 UTC*
+*最後更新：2026-10-05 10:58 UTC*
