@@ -10,4 +10,4 @@
 | White Label Services, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/White%20Label%20Services%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-05 10:58 UTC*
+*最後更新：2026-10-05 19:10 UTC*
