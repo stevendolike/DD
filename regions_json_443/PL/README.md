@@ -57,4 +57,4 @@
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 
 ---
-*最後更新：2026-10-04 19:21 UTC*
+*最後更新：2026-10-05 00:33 UTC*
