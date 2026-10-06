@@ -1,12 +1,14 @@
 # CN
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| Aliyun Computing Co., LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Aliyun%20Computing%20Co.%2C%20LTD.txt) |
 | Aliyun Computing Co.LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Aliyun%20Computing%20Co.LTD.txt) |
+| Tencent Cloud Computing (Beijing) Co., Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Tencent%20Cloud%20Computing%20%28Beijing%29%20Co.%2C%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-06 02:07 UTC*
+*最後更新：2026-10-06 10:53 UTC*

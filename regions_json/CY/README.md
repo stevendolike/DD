@@ -8,7 +8,8 @@
 |------|--------|---------|
 | CLOUDLAYER8 LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/CLOUDLAYER8%20LIMITED.txt) |
 | Cyprus Telecommunications Authority | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/Cyprus%20Telecommunications%20Authority.txt) |
-| EDIS IPv6 Infrastructure in Cyprus | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/EDIS%20IPv6%20Infrastructure%20in%20Cyprus.txt) |
+| EDIS IPv6 Infrastructure in Cyprus | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/EDIS%20IPv6%20Infrastructure%20in%20Cyprus.txt) |
+| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CY/MVPS%20LTD.txt) |
 
 ---
-*最後更新：2026-10-06 02:07 UTC*
+*最後更新：2026-10-06 10:53 UTC*

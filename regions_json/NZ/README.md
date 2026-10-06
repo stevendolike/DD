@@ -1,13 +1,12 @@
 # NZ
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| RedShield Security Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/RedShield%20Security%20Ltd.txt) |
-| Two Degrees Mobile Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/Two%20Degrees%20Mobile%20Limited.txt) |
+| Voyager Internet Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NZ/Voyager%20Internet%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-06 02:07 UTC*
+*最後更新：2026-10-06 10:53 UTC*
