@@ -22,4 +22,4 @@
 | Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Servercore%20Network.txt) |
 
 ---
-*最後更新：2026-10-05 22:25 UTC*
+*最後更新：2026-10-06 02:07 UTC*

@@ -10,4 +10,4 @@
 | jiajia chen | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AR/jiajia%20chen.txt) |
 
 ---
-*最後更新：2026-10-05 22:25 UTC*
+*最後更新：2026-10-06 02:07 UTC*
