@@ -9,4 +9,4 @@
 | Tajik Academician Research and Educational Network Association | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TJ/Tajik%20Academician%20Research%20and%20Educational%20Network%20Association.txt) |
 
 ---
-*最後更新：2026-10-07 17:22 UTC*
+*最後更新：2026-10-07 21:07 UTC*
