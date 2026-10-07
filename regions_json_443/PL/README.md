@@ -1,13 +1,13 @@
 # PL （純 IP）
 
-**共 133 條** · [返回主頁](../../README.md)
+**共 132 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/1Cent%20Host.txt) |
-| 3K33 sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3K33%20sp.%20z%20o.o.txt) |
+| 3K33 sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3K33%20sp.%20z%20o.o.txt) |
 | Albanian Hosting SH.P.K. t_a AlbHost SH.P.K | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Albanian%20Hosting%20SH.P.K.%20t_a%20AlbHost%20SH.P.K.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Anton%20Levin.txt) |
 | Artnet Sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Artnet%20Sp.%20z%20o.o.txt) |
@@ -19,7 +19,7 @@
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Cloudflare%20London%2C%20LLC.txt) |
 | EternityCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/EternityCloud.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Evoxt.com.txt) |
-| ExpressHost LTD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
+| ExpressHost LTD | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/FASTWARP%20LLP.txt) |
 | FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/FORTIS.txt) |
 | Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Friendhosting%20LTD.txt) |
@@ -27,7 +27,7 @@
 | GREEN FLOID LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GREEN%20FLOID%20LLC.txt) |
 | H2.NEXUS Warsaw Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/H2.NEXUS%20Warsaw%20Network.txt) |
 | HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V.txt) |
-| HOSTOFF infrastructure and hosting services | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HOSTOFF infrastructure and hosting services | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HZ%20Hosting%20Ltd.txt) |
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/IROKO%20Networks%20Corporation.txt) |
@@ -58,4 +58,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

@@ -1,17 +1,18 @@
 # HK （純 IP）
 
-**共 144 條** · [返回主頁](../../README.md)
+**共 143 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| 16 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/16%20COLLYER%20QUAY.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/365.partners%20INC.txt) |
-| 6 COLLYER QUAY | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/6%20COLLYER%20QUAY.txt) |
+| 6 COLLYER QUAY | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/6%20COLLYER%20QUAY.txt) |
 | A Pensonal Global Research Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/A%20Pensonal%20Global%20Research%20Network.txt) |
 | ACCK LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ACCK%20LLC.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ACE.txt) |
-| AKILE LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/AKILE%20LTD.txt) |
+| AKILE LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/AKILE%20LTD.txt) |
 | ALIBABA CLOUD - HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALIBABA%20CLOUD%20-%20HK.txt) |
 | ALICE NETWORKS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/ALICE%20NETWORKS%20LTD.txt) |
 | AkileCloud Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/AkileCloud%20Network.txt) |
@@ -23,7 +24,6 @@
 | BINARY NETWORKS SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/BINARY%20NETWORKS%20SOLUTIONS%20LLC.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Baxet%20Group%20Inc.txt) |
 | Cloudie Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Cloudie%20Limited.txt) |
-| DATAGEAR LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DATAGEAR%20LLP.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DATAWAVE%20GLOBAL%20LLC.txt) |
 | DEBEE Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DEBEE%20Network.txt) |
 | DMIT Cloud Service - Los Angeles | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/DMIT%20Cloud%20Service%20-%20Los%20Angeles.txt) |
@@ -33,6 +33,7 @@
 | HYTRON NETWORK HK | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/HYTRON%20NETWORK%20HK.txt) |
 | Hong Kong Broadband Network Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hong%20Kong%20Broadband%20Network%20Ltd.txt) |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
+| Huawei-Cloud-HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Huawei-Cloud-HK.txt) |
 | Hytron Network Services Limited - HK | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/Hytron%20Network%20Services%20Limited%20-%20HK.txt) |
 | LANDUPS LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/LANDUPS%20LIMITED.txt) |
 | LEASEWEB HONG KONG LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/LEASEWEB%20HONG%20KONG%20LIMITED.txt) |
@@ -52,4 +53,4 @@
 | xTom Hong Kong Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/xTom%20Hong%20Kong%20Limited.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

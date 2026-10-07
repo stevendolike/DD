@@ -1,13 +1,13 @@
 # CZ
 
-**共 96 條** · [返回主頁](../../README.md)
+**共 95 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/3nt%20solutions%20LLP.txt) |
-| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Baxet%20Group%20Inc.txt) |
 | Cloud Services CZ1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Cloud%20Services%20CZ1.txt) |
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Datacamp%20Limited.txt) |
 | EDIS IPv6 Infrastructure in Czechia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/EDIS%20IPv6%20Infrastructure%20in%20Czechia.txt) |
@@ -26,4 +26,4 @@
 | vpsFree.cz, z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz%2C%20z.s.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

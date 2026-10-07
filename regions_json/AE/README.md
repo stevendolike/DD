@@ -8,6 +8,7 @@
 |------|--------|---------|
 | 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/3nt%20solutions%20LLP.txt) |
 | Arbor Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Arbor%20Cloud.txt) |
+| Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Cloudflare%2C%20Inc.txt) |
 | Emirates Integrated Telecommunications Company PJSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Emirates%20Integrated%20Telecommunications%20Company%20PJSC.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/G-Core%20Labs%20Customer%20assignment.txt) |
 | ITGLOBAL COM DMCC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/ITGLOBAL%20COM%20DMCC.txt) |
@@ -16,8 +17,7 @@
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Microsoft%20Corporation.txt) |
 | Oneprovider.com - Dubai Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Oneprovider.com%20-%20Dubai%20Infrastructure.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Oracle%20Corporation.txt) |
-| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Oracle%20Svenska%20AB.txt) |
 | RouterHosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

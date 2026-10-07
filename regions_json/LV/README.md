@@ -9,12 +9,12 @@
 | Alaxona Internet Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Alaxona%20Internet%20Inc.txt) |
 | Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Anton%20Levin.txt) |
 | Baxet Group Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Baxet%20Group%20Inc.txt) |
-| CGI GLOBAL LIMITED | 115 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 116 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Cloud%20Software%20-%20FZCO.txt) |
 | EDIS IPv6 Infrastructure in Latvia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/EDIS%20IPv6%20Infrastructure%20in%20Latvia.txt) |
 | Friendhosting LTD | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GREEN FLOID LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/GREEN%20FLOID%20LLC.txt) |
 | HostVDS.com Cloud Provider | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -28,8 +28,8 @@
 | Subnet Digital LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Subnet%20Digital%20LLC.txt) |
 | VEESP datacenter clients | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/VEESP%20datacenter%20clients.txt) |
 | Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Versija%20SIA.txt) |
-| as56971 network | 116 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
+| as56971 network | 114 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/as56971%20network.txt) |
 | veesp.com clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/veesp.com%20clients.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

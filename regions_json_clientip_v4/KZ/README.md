@@ -1,6 +1,6 @@
 # KZ
 
-**共 44 條** · [返回主頁](../../README.md)
+**共 46 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/_all_443.txt)
 
@@ -17,6 +17,7 @@
 | GOhost.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/GOhost.KZ.txt) |
 | HostLab LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/HostLab%20LLC.txt) |
 | Hoster.KZ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Hoster.KZ.txt) |
+| ITGLOBAL.COM KZ LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/ITGLOBAL.COM%20KZ%20LLP.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | JSC Datacenter | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/JSC%20Datacenter.txt) |
 | JSC Severen-Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/JSC%20Severen-Telecom.txt) |
@@ -26,6 +27,7 @@
 | ONEHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/ONEHOST%20LLP.txt) |
 | PS Internet Company LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Webstudio Onelab LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/Webstudio%20Onelab%20LLP.txt) |
+| lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/KZ/lease%20for%20Timeweb.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

@@ -1,6 +1,6 @@
 # TR
 
-**共 55 條** · [返回主頁](../../README.md)
+**共 53 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -20,9 +20,9 @@
 | IPv4Center.com Partition - Order #4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/IPv4Center.com%20Partition%20-%20Order%20%234.txt) |
 | IPv4Center.com Partition - Order #5 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/IPv4Center.com%20Partition%20-%20Order%20%235.txt) |
 | Inferno Network IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Inferno%20Network%20IPv6.txt) |
-| LIGHT NODE LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/LIGHT%20NODE%20LIMITED.txt) |
+| LIGHT NODE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/LIGHT%20NODE%20LIMITED.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
-| Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Private%20Customer.txt) |
+| Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Private%20Customer.txt) |
 | RCS Technologies FZE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/RCS%20Technologies%20FZE%20LLC.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | Superonline Iletisim Hizmetleri A.S | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Superonline%20Iletisim%20Hizmetleri%20A.S.txt) |
@@ -32,4 +32,4 @@
 | hostigger_datacenter_TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

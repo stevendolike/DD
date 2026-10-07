@@ -8,10 +8,10 @@
 |------|--------|---------|
 | 1Cent Host | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/1Cent%20Host.txt) |
 | 3HCLoud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3HCLoud%20LLC.txt) |
-| 3K33 sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3K33%20sp.%20z%20o.o.txt) |
+| 3K33 sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3K33%20sp.%20z%20o.o.txt) |
 | Albanian Hosting SH.P.K. t_a AlbHost SH.P.K | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Albanian%20Hosting%20SH.P.K.%20t_a%20AlbHost%20SH.P.K.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Anton%20Levin.txt) |
-| Artnet Sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Artnet%20Sp.%20z%20o.o.txt) |
+| Artnet Sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Artnet%20Sp.%20z%20o.o.txt) |
 | Aruba S.p.A. - Cloud Services PL1 | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Aruba%20S.p.A.%20-%20Cloud%20Services%20PL1.txt) |
 | BREEZLE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BREEZLE%20LLC.txt) |
 | Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baxet%20Group%20Inc.txt) |
@@ -24,7 +24,7 @@
 | EDIS Infrastructure in Poland | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/EDIS%20Infrastructure%20in%20Poland.txt) |
 | EternityCloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/EternityCloud.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Evoxt.com.txt) |
-| ExpressHost LTD | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/ExpressHost%20LTD.txt) |
+| ExpressHost LTD | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/ExpressHost%20LTD.txt) |
 | FASTWARP LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/FASTWARP%20LLP.txt) |
 | FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/FORTIS.txt) |
 | Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Friendhosting%20LTD.txt) |
@@ -32,7 +32,7 @@
 | GREEN FLOID LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GREEN%20FLOID%20LLC.txt) |
 | H2.NEXUS Warsaw Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
 | HOSTKEY B.V | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTKEY%20B.V.txt) |
-| HOSTOFF infrastructure and hosting services | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HOSTOFF infrastructure and hosting services | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HZ%20Hosting%20Ltd.txt) |
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IROKO%20Networks%20Corporation.txt) |
@@ -64,7 +64,7 @@
 | South Park Networks LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/UpCloud%20Cloud%20Servers.txt) |
-| VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/VPSPay%20-%20vpspay.cloud.txt) |
+| VPSPay - vpspay.cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/VPSPay%20-%20vpspay.cloud.txt) |
 | Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Warsaw%2C%20Poland.txt) |
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/freakhosting.com.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/interlir%20citytelecom%2007%2012%202025.txt) |
@@ -72,4 +72,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

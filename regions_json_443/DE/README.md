@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 1,795 條** · [返回主頁](../../README.md)
+**共 1,788 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/_all.txt)
 
@@ -12,8 +12,8 @@
 | 3NT SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/3NT%20SOLUTIONS%20LLP.txt) |
 | 5001 BEACH ROAD # 04-01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/5001%20BEACH%20ROAD%20%23%2004-01.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/6%20COLLYER%20QUAY.txt) |
-| A100 ROW GmbH | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/A100%20ROW%20GmbH.txt) |
-| AEZA GROUP LLC | 53 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/AEZA%20GROUP%20LLC.txt) |
+| A100 ROW GmbH | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/A100%20ROW%20GmbH.txt) |
+| AEZA GROUP LLC | 55 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/AEZA%20GROUP%20LLC.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ASDhere Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/ASDhere%20Ltd.txt) |
 | ASTRA-NETWORKS-LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/ASTRA-NETWORKS-LTD.txt) |
@@ -23,7 +23,7 @@
 | Akile LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Akile%20LTD.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Alibaba%20Cloud%20LLC.txt) |
-| AlphaVPS LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/AlphaVPS%20LLC.txt) |
+| AlphaVPS LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/AlphaVPS%20LLC.txt) |
 | Amazon Data Services Ireland Ltd | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Amsterdam, Netherlands | 47 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Amsterdam%2C%20Netherlands.txt) |
 | Andris Jakovlevs | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Andris%20Jakovlevs.txt) |
@@ -32,7 +32,7 @@
 | Awas.ovh - Germany, Frankfurt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Awas.ovh%20-%20Germany%2C%20Frankfurt.txt) |
 | BAGE CLOUD LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/BAGE%20CLOUD%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/BG-NETWORK.txt) |
-| Baxet Group Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Baykov%20Ilya%20Sergeevich.txt) |
 | BitCommand LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/BitCommand%20LLC.txt) |
 | CHSL ONE LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/CHSL%20ONE%20LTD.txt) |
@@ -43,22 +43,22 @@
 | Colt DC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Colt%20DC.txt) |
 | ComputeBox Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/ComputeBox%20Hosting.txt) |
 | Cosmorack Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Cosmorack%20Ltd.txt) |
-| DA International Group Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DA%20International%20Group%20Ltd.txt) |
+| DA International Group Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DA%20International%20Group%20Ltd.txt) |
 | DATALIX | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DATALIX.txt) |
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Datacamp%20Limited.txt) |
 | DePowered | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DePowered.txt) |
 | Deployish Limited | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Deployish%20Limited.txt) |
-| Digital Hosting Provider LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Digital%20Hosting%20Provider%20LLC.txt) |
+| Digital Hosting Provider LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Digital%20Hosting%20Provider%20LLC.txt) |
 | DigitalOcean, LLC | 438 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/DigitalOcean%2C%20LLC.txt) |
 | EXACT DIGITAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/EXACT%20DIGITAL%20LLC.txt) |
 | Eduard Ilin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Eduard%20Ilin.txt) |
 | Eonix Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Eonix%20Corporation.txt) |
 | F3 Netze e.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/F3%20Netze%20e.V.txt) |
-| FIRST SERVER LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/FIRST%20SERVER%20LIMITED.txt) |
+| FIRST SERVER LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | FastVPS Eesti OÜ | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/FastVPS%20Eesti%20O%C3%9C.txt) |
 | ForestsNet _ DE Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/ForestsNet%20_%20DE%20Network.txt) |
-| Fornex Hosting S.L | 70 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Fornex%20Hosting%20S.L.txt) |
+| Fornex Hosting S.L | 63 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Fornex%20Hosting%20S.L.txt) |
 | Frankfurt, Germany | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Frankfurt%2C%20Germany.txt) |
 | Friendhosting LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Friendhosting%20LTD.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/G-Core%20Labs%20S.A.txt) |
@@ -82,7 +82,7 @@
 | HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/HZ%20Hosting%20Ltd.txt) |
 | Hanauer Landstraße 302 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Hanauer%20Landstra%C3%9Fe%20302.txt) |
-| Hetzner Online GmbH | 197 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 196 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Hetzner%20Online%20GmbH.txt) |
 | Hosting.de GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Hosting.de%20GmbH.txt) |
 | Hostinux Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Hostinux%20Limited.txt) |
 | Huize Holdings LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Huize%20Holdings%20LLC.txt) |
@@ -117,12 +117,12 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Melbikomas%20UAB.txt) |
 | Misaka Network, Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Misaka%20Network%2C%20Inc.txt) |
 | NETAXIS GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/NETAXIS%20GROUP%20LTD.txt) |
+| NUXOA GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/NUXOA%20GmbH.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/NetCrafters%20OU.txt) |
-| NolimitCloud s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/NolimitCloud%20s.r.o.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OUIHEBERG SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/OUIHEBERG%20SARL.txt) |
 | OVH GmbH | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/OVH%20GmbH.txt) |
-| Oracle Corporation | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Oracle%20Corporation.txt) |
+| Oracle Corporation | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Oracle%20Corporation.txt) |
 | Oracle Network Information Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Oracle%20Network%20Information%20Services.txt) |
 | Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Oracle%20Svenska%20AB.txt) |
@@ -142,7 +142,7 @@
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/SERVA%20ONE%20LTD.txt) |
 | SERVITRO LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/SERVITRO%20LTD.txt) |
 | STYLISH BY A&L SRL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/STYLISH%20BY%20A%26L%20SRL.txt) |
-| Senko Digital LLC - DE Network | 41 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
+| Senko Digital LLC - DE Network | 40 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
 | Servitro | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Servitro.txt) |
 | Snowd Security OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Snowd%20Security%20OU.txt) |
 | SpaceCore.pro Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/SpaceCore.pro%20Hosting.txt) |
@@ -150,7 +150,7 @@
 | THOMAS FAMILY INVESTMENTS LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/THOMAS%20FAMILY%20INVESTMENTS%20LIMITED.txt) |
 | TK Rustelekom LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/TK%20Rustelekom%20LLC.txt) |
 | Tele Columbus AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Tele%20Columbus%20AG.txt) |
-| The Constant Company, LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/The%20Constant%20Company%2C%20LLC.txt) |
 | Threatoff | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Threatoff.txt) |
 | Timeweb, LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Timeweb%2C%20LLP.txt) |
 | UltaHost Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/UltaHost%20Inc.txt) |
@@ -159,7 +159,7 @@
 | VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/VPSPay%20-%20vpspay.cloud.txt) |
 | Virtuozzo International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Virtuozzo%20International%20GmbH.txt) |
 | Vultr Holdings, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Vultr%20Holdings%2C%20LLC.txt) |
-| WAIcore Ltd | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/WAIcore%20Ltd.txt) |
+| WAIcore Ltd | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/WAIcore%20Ltd.txt) |
 | WEYRO LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/WEYRO%20LTD.txt) |
 | WIIT AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/WIIT%20AG.txt) |
 | Westendstrabe 28, 60325 Frankfurt am Main | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Westendstrabe%2028%2C%2060325%20Frankfurt%20am%20Main.txt) |
@@ -168,6 +168,7 @@
 | YUNYOO LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/YUNYOO%20LTD.txt) |
 | YottaSrc Hosting and Cloud Service | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
 | YottaSrc Hosting and Cloud Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
+| ZENLA-1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/ZENLA-1.txt) |
 | Zenlayer Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Zenlayer%20Inc.txt) |
 | Zhejiang Aiyun Network Technology Co Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/Zhejiang%20Aiyun%20Network%20Technology%20Co%20Ltd.txt) |
 | ahbr company limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/ahbr%20company%20limited.txt) |
@@ -175,17 +176,17 @@
 | dataforest GmbH | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/dataforest%20GmbH.txt) |
 | dogado GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/dogado%20GmbH.txt) |
 | firstcolo GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/firstcolo%20GmbH.txt) |
-| freakhosting.com | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/freakhosting.com.txt) |
+| freakhosting.com | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/freakhosting.com.txt) |
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/lease%20for%20Timeweb.txt) |
-| netcup GmbH | 90 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/netcup%20GmbH.txt) |
+| netcup GmbH | 91 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/netcup%20GmbH.txt) |
 | nuxt.cloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/nuxt.cloud.txt) |
-| nuxtcloud | 102 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/nuxtcloud.txt) |
+| nuxtcloud | 101 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/nuxtcloud.txt) |
 | play2go.cloud - Cheap and reliable hosting | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/servinga%20GmbH.txt) |
-| u1host ltd | 72 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/u1host%20ltd.txt) |
+| u1host ltd | 71 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/u1host%20ltd.txt) |
 | www.fornex.com, Fornex Hosting S.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 | xTom GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/xTom%20GmbH.txt) |
 | xTom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/xTom.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

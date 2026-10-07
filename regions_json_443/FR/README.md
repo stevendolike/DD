@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 219 條** · [返回主頁](../../README.md)
+**共 213 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -8,12 +8,12 @@
 |------|--------|---------|
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/BEAFORT%20LIMITED.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | Block for xDSL_FTTx customers pools | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Block%20for%20xDSL_FTTx%20customers%20pools.txt) |
-| CGI GLOBAL LIMITED | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
-| Contabo GmbH | 61 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
+| CGI GLOBAL LIMITED | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| Contabo GmbH | 62 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | Dyjix SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Dyjix%20SAS.txt) |
 | EE IPHOSTER OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/EE%20IPHOSTER%20OU.txt) |
 | FASTWARP LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FASTWARP%20LLP.txt) |
@@ -24,7 +24,7 @@
 | HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HZ%20Hosting%20Ltd.txt) |
 | Host Europe GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Host%20Europe%20GmbH.txt) |
-| IT Hostline Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/IT%20Hostline%20Ltd.txt) |
+| IT Hostline Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/IT%20Hostline%20Ltd.txt) |
 | Jogcorp SAS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Jogcorp%20SAS.txt) |
 | Kaopucloud-datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Kaopucloud-datacenter.txt) |
 | Keramat Dahr Mahdi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Keramat%20Dahr%20Mahdi.txt) |
@@ -35,7 +35,7 @@
 | NET 145 223 68 0 22 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/NET%20145%20223%2068%200%2022.txt) |
 | OVH CH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20CH.txt) |
 | OVH Hispano | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20Hispano.txt) |
-| OVH SAS | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20SAS.txt) |
+| OVH SAS | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/OVH%20SAS.txt) |
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Svenska%20AB.txt) |
@@ -52,7 +52,7 @@
 | VIRTUASYS PARIS (PAR01FR) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | Vultr Holdings, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| as56971 network | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
+| as56971 network | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*

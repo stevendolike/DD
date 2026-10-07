@@ -1,12 +1,12 @@
 # LT
 
-**共 25 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Baxet%20Group%20Inc.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Melbikomas%20UAB.txt) |
 | PROGRESYVUS SPRENDIMAI UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/PROGRESYVUS%20SPRENDIMAI%20UAB.txt) |
@@ -18,4 +18,4 @@
 | UAB Interneto vizija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-10-07 01:16 UTC*
+*最後更新：2026-10-07 10:41 UTC*
