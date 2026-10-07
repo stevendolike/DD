@@ -9,4 +9,4 @@
 | Broadband Network Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SI/Broadband%20Network%20Services.txt) |
 
 ---
-*最後更新：2026-10-07 10:41 UTC*
+*最後更新：2026-10-07 17:22 UTC*

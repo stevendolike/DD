@@ -11,4 +11,4 @@
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/Google%20LLC.txt) |
 
 ---
-*最後更新：2026-10-07 10:41 UTC*
+*最後更新：2026-10-07 17:22 UTC*
