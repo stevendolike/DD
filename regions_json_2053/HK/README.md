@@ -16,4 +16,4 @@
 | Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/Subnet%20Digital%20LLC.txt) |
 
 ---
-*最後更新：2026-10-08 17:19 UTC*
+*最後更新：2026-10-08 21:11 UTC*

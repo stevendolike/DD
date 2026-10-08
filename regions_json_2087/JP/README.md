@@ -11,4 +11,4 @@
 | HostHatch Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/JP/HostHatch%20Tokyo.txt) |
 
 ---
-*最後更新：2026-10-08 17:19 UTC*
+*最後更新：2026-10-08 21:11 UTC*
