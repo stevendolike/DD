@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Broadband Network Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SI/Broadband%20Network%20Services.txt) |
+| MMITECH d.o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SI/MMITECH%20d.o.o.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*

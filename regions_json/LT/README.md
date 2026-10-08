@@ -7,15 +7,15 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Baxet%20Group%20Inc.txt) |
+| EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Melbikomas UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Melbikomas%20UAB.txt) |
-| PROGRESYVUS SPRENDIMAI UAB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/PROGRESYVUS%20SPRENDIMAI%20UAB.txt) |
 | Pirma alokacija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Pirma%20alokacija.txt) |
-| Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Private%20Customer.txt) |
+| Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Private%20Customer.txt) |
 | SolusVM priskirti adresai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/SolusVM%20priskirti%20adresai.txt) |
 | UAB Cherry Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*

@@ -6,8 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ACEVILLE PTE.LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CN/ACEVILLE%20PTE.LTD.txt) |
-| Aliyun Computing Co., LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CN/Aliyun%20Computing%20Co.%2C%20LTD.txt) |
+| ACEVILLE PTE.LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CN/ACEVILLE%20PTE.LTD.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*

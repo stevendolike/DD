@@ -1,16 +1,15 @@
 # PL （純 IP）
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/HOSTKEY%20B.V.txt) |
-| Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/Melbikomas%20UAB.txt) |
 | OVH Sp. z o. o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*

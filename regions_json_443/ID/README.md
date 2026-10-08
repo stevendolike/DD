@@ -1,6 +1,6 @@
 # ID （純 IP）
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ID/_all.txt)
 
@@ -8,8 +8,8 @@
 |------|--------|---------|
 | Alibaba Cloud - ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ID/Alibaba%20Cloud%20-%20ID.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ID/Linode.txt) |
-| PT Deneva | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ID/PT%20Deneva.txt) |
+| PT Deneva | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ID/PT%20Deneva.txt) |
 | PT. Media Antar Nusa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ID/PT.%20Media%20Antar%20Nusa.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*

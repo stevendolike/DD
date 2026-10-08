@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| Abonent MGTS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Abonent%20MGTS.txt) |
 | Reliable Software, Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Reliable%20Software%2C%20Ltd.txt) |
 | SPRINTHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/SPRINTHOST%20LLP.txt) |
-| Yedinyye Resheniya LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/Yedinyye%20Resheniya%20LLC.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*

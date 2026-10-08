@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 198 條** · [返回主頁](../../README.md)
+**共 199 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/_all.txt)
 
@@ -13,10 +13,10 @@
 | ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/ExpressHost%20LTD.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/HOSTKEY%20B.V.txt) |
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/JSC%20TIMEWEB.txt) |
-| MagicHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/MagicHosting.txt) |
+| MagicHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/MagicHosting.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Oracle%20Svenska%20AB.txt) |
 | Timeweb, LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Timeweb%2C%20LLP.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*

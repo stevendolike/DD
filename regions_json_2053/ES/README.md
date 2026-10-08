@@ -8,9 +8,9 @@
 |------|--------|---------|
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | HUIZE LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/HUIZE%20LTD.txt) |
-| JaJoJoo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/JaJoJoo%20LLC.txt) |
 | JaJoJoo Madrid Region | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/JaJoJoo%20Madrid%20Region.txt) |
 | Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/Linode%2C%20LLC.txt) |
+| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 
 ---
-*最後更新：2026-10-08 01:37 UTC*
+*最後更新：2026-10-08 11:01 UTC*
