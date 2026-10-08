@@ -30,4 +30,4 @@
 | servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
 
 ---
-*最後更新：2026-10-07 21:07 UTC*
+*最後更新：2026-10-08 01:37 UTC*

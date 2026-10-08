@@ -11,4 +11,4 @@
 | Tencent Cloud Computing (Beijing) Co., Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CN/Tencent%20Cloud%20Computing%20%28Beijing%29%20Co.%2C%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-07 21:07 UTC*
+*最後更新：2026-10-08 01:37 UTC*
