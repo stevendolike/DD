@@ -9,4 +9,4 @@
 | Digital City FZE | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SK/Digital%20City%20FZE.txt) |
 
 ---
-*最後更新：2026-10-08 11:01 UTC*
+*最後更新：2026-10-08 17:19 UTC*

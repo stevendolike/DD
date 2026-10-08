@@ -9,4 +9,4 @@
 | Green VPS Company Limitedx | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/VN/Green%20VPS%20Company%20Limitedx.txt) |
 
 ---
-*最後更新：2026-10-08 11:01 UTC*
+*最後更新：2026-10-08 17:19 UTC*
