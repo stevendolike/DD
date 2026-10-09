@@ -1,6 +1,6 @@
 # FI
 
-**共 339 條** · [返回主頁](../../README.md)
+**共 340 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/_all_443.txt)
 
@@ -8,26 +8,27 @@
 |------|--------|---------|
 | 1Cent Host | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 43 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 44 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/AEZA%20GROUP%20LLC.txt) |
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Ace Data Centers II, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Ace%20Data%20Centers%20II%2C%20LLC.txt) |
 | Anton Levin | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Anton%20Levin.txt) |
 | BEAFORT LIMITED | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/BEAFORT%20LIMITED.txt) |
 | BG-NETWORK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/BG-NETWORK.txt) |
-| Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Baykov%20Ilya%20Sergeevich.txt) |
 | CHSL Helsinki | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/CHSL%20Helsinki.txt) |
 | Creanova | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Creanova.txt) |
 | EDIS Infrastructure in Finland | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/EDIS%20Infrastructure%20in%20Finland.txt) |
 | EstNOC-Global | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/EstNOC-Global.txt) |
+| FI-Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/FI-Network.txt) |
 | FIRST SERVER LIMITED | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/FlokiNET%20ehf.txt) |
 | GCS Service Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/GCS%20Service%20Network.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | H2.NEXUS Minsk Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/H2.NEXUS%20Minsk%20Network.txt) |
 | HOSTKEY B.V | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/HOSTKEY%20B.V.txt) |
-| Hetzner Online GmbH | 48 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 47 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Hetzner%20Online%20GmbH.txt) |
 | IT-Garage | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/IT-Garage.txt) |
 | Individual Entrepreneur Anton Levin | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Iranian Research Organization for Science & Technology | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Iranian%20Research%20Organization%20for%20Science%20%26%20Technology.txt) |
@@ -46,7 +47,7 @@
 | Securebit AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Securebit%20AG.txt) |
 | Senko Digital LLC - FI Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Senko%20Digital%20LLC%20-%20FI%20Network.txt) |
 | Snowd Security OU | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Snowd%20Security%20OU.txt) |
-| UNKNOWN | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/UNKNOWN.txt) |
+| UNKNOWN | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/UNKNOWN.txt) |
 | VPSPay - vpspay.cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/VPSPay%20-%20vpspay.cloud.txt) |
 | Vault Dweller OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/Vault%20Dweller%20OU.txt) |
 | WAIcore Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/WAIcore%20Ltd.txt) |
@@ -57,4 +58,4 @@
 | u1host Finland | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

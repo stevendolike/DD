@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 98 條** · [返回主頁](../../README.md)
+**共 97 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -24,8 +24,8 @@
 | PI-TOKYO-KARVL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/PI-TOKYO-KARVL.txt) |
 | Private Customer | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Private%20Customer.txt) |
 | Server Hosting Service (NTTPCCommunications,Inc.) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Server%20Hosting%20Service%20%28NTTPCCommunications%2CInc.%29.txt) |
-| The Constant Company, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

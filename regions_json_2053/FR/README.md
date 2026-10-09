@@ -1,12 +1,12 @@
 # FR （純 IP）
 
-**共 71 條** · [返回主頁](../../README.md)
+**共 69 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/AEZA%20GROUP%20LLC.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Baxet%20Group%20Inc.txt) |
 | Blockchain Games N.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Blockchain%20Games%20N.V.txt) |
 | CGI GLOBAL LIMITED | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CGI%20GLOBAL%20LIMITED.txt) |
@@ -17,7 +17,6 @@
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/EGIHosting.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/HOSTKEY%20B.V.txt) |
-| IPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/IPXO.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Linode.txt) |
 | Mo's Operations GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Mo%27s%20Operations%20GmbH.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/NetCrafters%20OU.txt) |
@@ -30,4 +29,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

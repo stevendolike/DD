@@ -11,4 +11,4 @@
 | EDIS IPv6 Infrastructure in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/EDIS%20IPv6%20Infrastructure%20in%20Serbia.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

@@ -10,4 +10,4 @@
 | Host.AL Shpk | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AL/Host.AL%20Shpk.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

@@ -1,16 +1,17 @@
 # BE
 
-**共 7 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Baxet%20Group%20Inc.txt) |
+| Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Datacamp%20Limited.txt) |
 | EDIS IPv6 Infrastructure in Belgium | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/EDIS%20IPv6%20Infrastructure%20in%20Belgium.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Google%20LLC.txt) |
 | OVH BE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/OVH%20BE.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

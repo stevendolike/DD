@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 216 條** · [返回主頁](../../README.md)
+**共 213 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/BEAFORT%20LIMITED.txt) |
 | Baykov Ilya Sergeevich | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
@@ -20,14 +20,14 @@
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Free%20SAS.txt) |
 | GANDI-HOSTING DC0 DATACENTER PA2 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GANDI-HOSTING%20DC0%20DATACENTER%20PA2.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HOSTKEY%20B.V.txt) |
+| HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HZ%20Hosting%20Ltd.txt) |
 | Host Europe GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Host%20Europe%20GmbH.txt) |
 | IT Hostline Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/IT%20Hostline%20Ltd.txt) |
 | Inter Connects Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Inter%20Connects%20Inc.txt) |
 | Jogcorp SAS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Jogcorp%20SAS.txt) |
-| Kaopucloud-datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Kaopucloud-datacenter.txt) |
 | Keramat Dahr Mahdi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Keramat%20Dahr%20Mahdi.txt) |
+| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/LIGHT%20NODE%20LIMITED.txt) |
 | Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Linode.txt) |
 | MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/MVPS%20LTD.txt) |
 | Mo's Operations GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Mo%27s%20Operations%20GmbH.txt) |
@@ -51,7 +51,7 @@
 | VIRTUASYS PARIS (PAR01FR) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | Vultr Holdings, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| as56971 network | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
+| as56971 network | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

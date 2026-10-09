@@ -1,6 +1,6 @@
 # RU
 
-**共 300 條** · [返回主頁](../../README.md)
+**共 281 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt)
 
@@ -10,7 +10,7 @@
 | AdminVPS OOO | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AdminVPS%20OOO.txt) |
 | Argotel ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Argotel%20ltd.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Baxet%20Group%20Inc.txt) |
-| Beget LLC | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Beget%20LLC.txt) |
+| Beget LLC | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Beget%20LLC.txt) |
 | BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/BitWeb%20LLC.txt) |
 | CLOUDRIX | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/CLOUDRIX.txt) |
 | Cloud Hosting Solutions, Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Cloud%20Hosting%20Solutions%2C%20Limited.txt) |
@@ -22,7 +22,7 @@
 | EdgeCenter LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EdgeCenter%20LLC.txt) |
 | Erik Omarov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Erik%20Omarov.txt) |
 | FIRST SERVER LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | Gorcom dynamic broadband customers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Gorcom%20dynamic%20broadband%20customers.txt) |
 | Helou LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Helou%20LLC.txt) |
@@ -38,8 +38,8 @@
 | JSC Mediasoft ekspert | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20Mediasoft%20ekspert.txt) |
 | JSC Selectel | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20Selectel.txt) |
 | JSC Svyazinform | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20Svyazinform.txt) |
-| JSC TIMEWEB | 69 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
-| JSC Teleport Telecom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20Teleport%20Telecom.txt) |
+| JSC TIMEWEB | 65 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
+| JSC Teleport Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20Teleport%20Telecom.txt) |
 | KVIKTEL LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/KVIKTEL%20LLC.txt) |
 | LLC BAXET | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20BAXET.txt) |
 | LLC Digital Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Digital%20Network.txt) |
@@ -77,10 +77,10 @@
 | VISP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/VISP%20LLC.txt) |
 | Virtualine Technologies | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Virtualine%20Technologies.txt) |
 | Webhost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Webhost%20LLC.txt) |
-| Yandex.Cloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Yandex.Cloud%20LLC.txt) |
+| Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Yandex.Cloud%20LLC.txt) |
 | ZTV CORP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/ZTV%20CORP%20LLC.txt) |
 | subnet 37.193.120-127 ethernet pool | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/subnet%2037.193.120-127%20ethernet%20pool.txt) |
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

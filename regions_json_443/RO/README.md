@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 28 條** · [返回主頁](../../README.md)
+**共 29 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt)
 
@@ -21,8 +21,8 @@
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/SA.txt) |
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/Urban%20Network%20Solutions%20SRL.txt) |
-| ZetServers RO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ZetServers%20RO.txt) |
+| ZetServers RO | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ZetServers%20RO.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

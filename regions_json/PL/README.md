@@ -1,6 +1,6 @@
 # PL
 
-**共 215 條** · [返回主頁](../../README.md)
+**共 207 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
@@ -24,12 +24,12 @@
 | ExpressHost LTD | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/ExpressHost%20LTD.txt) |
 | FASTWARP LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/FASTWARP%20LLP.txt) |
 | FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/FORTIS.txt) |
-| Friendhosting LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GREEN FLOID LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/GREEN%20FLOID%20LLC.txt) |
 | H2.NEXUS Warsaw Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/H2.NEXUS%20Warsaw%20Network.txt) |
 | HOSTKEY B.V | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTKEY%20B.V.txt) |
-| HOSTOFF infrastructure and hosting services | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HOSTOFF infrastructure and hosting services | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HZ%20Hosting%20Ltd.txt) |
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | IROKO Networks Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/IROKO%20Networks%20Corporation.txt) |
@@ -44,10 +44,9 @@
 | NetGrid Host LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/NetGrid%20Host%20LTD.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Netia%20SA.txt) |
 | Newserverlife LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o.txt) |
+| OVH Sp. z o. o | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | OVH VPS WAW | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Podaon%20SIA.txt) |
-| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Private%20Customer.txt) |
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Pronet%20LLC.txt) |
 | QWINS Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/QWINS%20Hosting.txt) |
 | QuadSpark IT Solutions Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/QuadSpark%20IT%20Solutions%20Private%20Limited.txt) |
@@ -55,16 +54,15 @@
 | Raul Ghita trading as 'Ghita Telekom' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27.txt) |
 | SEBEK sp. z o.o | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SEBEK%20sp.%20z%20o.o.txt) |
 | Shock Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Shock%20Hosting%20LLC.txt) |
-| Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Snowd%20Security%20OU.txt) |
 | South Park Networks LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/UpCloud%20Cloud%20Servers.txt) |
-| VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/VPSPay%20-%20vpspay.cloud.txt) |
-| Warsaw, Poland | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Warsaw%2C%20Poland.txt) |
+| Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Warsaw%2C%20Poland.txt) |
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/freakhosting.com.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 | nodehost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/nodehost.txt) |
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

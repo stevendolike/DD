@@ -1,6 +1,6 @@
 # EE
 
-**共 106 條** · [返回主頁](../../README.md)
+**共 101 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/_all_443.txt)
 
@@ -13,10 +13,10 @@
 | Andris Jakovlevs | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Andris%20Jakovlevs.txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Brainoza%20OU.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | EE-Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EE-Network.txt) |
-| ExpressHost LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ExpressHost%20LTD.txt) |
+| ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ExpressHost%20LTD.txt) |
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HexCore%20cloud%20s.r.o.txt) |
 | Host-World OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Host-World%20OU.txt) |
@@ -28,4 +28,4 @@
 | Wavecom Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Wavecom%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

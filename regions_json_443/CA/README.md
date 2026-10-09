@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 61 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -13,11 +13,11 @@
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Cluster%20Logic%20Inc.txt) |
 | DigitalOcean, LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HZ%20Hosting%20Ltd.txt) |
-| HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
+| HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/IT7%20Networks%20Inc.txt) |
 | ITGLOBAL.COM NL B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Leaseweb Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Leaseweb%20Canada%20Inc.txt) |
-| OVH Hosting, Inc | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting%2C%20Inc.txt) |
+| OVH Hosting, Inc | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Oracle%20Corporation.txt) |
 | Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Rica%20Web%20Services.txt) |
 | Rogers Communications Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Rogers%20Communications%20Canada%20Inc.txt) |
@@ -27,4 +27,4 @@
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

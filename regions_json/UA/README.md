@@ -1,14 +1,15 @@
 # UA
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/G-Core%20Labs%20S.A.txt) |
 | GMHOST datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/GMHOST%20datacenter.txt) |
 | Hosting Ukraine LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/Hosting%20Ukraine%20LTD.txt) |
 | Virtual Systems LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UA/Virtual%20Systems%20LLC.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*

@@ -1,6 +1,6 @@
 # 優選 ASN 443 純 IP（純 IP）
 
-**共 124 條** · [返回主頁](../README.md)
+**共 121 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/_all.txt)
 
@@ -9,15 +9,15 @@
 | CA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/CA.txt) |
 | CN | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/CN.txt) |
 | DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/DE.txt) |
-| HK | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/HK.txt) |
+| HK | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/ID.txt) |
-| JP | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/JP.txt) |
+| JP | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/JP.txt) |
 | KR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/KR.txt) |
-| MY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/MY.txt) |
+| MY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/MY.txt) |
 | NL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/NL.txt) |
 | SG | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/SG.txt) |
 | TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/TW.txt) |
-| US | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/US.txt) |
+| US | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/US.txt) |
 
 ---
-*最後更新：2026-10-09 01:51 UTC*
+*最後更新：2026-10-09 11:00 UTC*
