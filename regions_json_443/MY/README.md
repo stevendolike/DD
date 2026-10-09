@@ -11,4 +11,4 @@
 | Evoxt.com | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Evoxt.com.txt) |
 
 ---
-*最後更新：2026-10-09 16:55 UTC*
+*最後更新：2026-10-09 20:41 UTC*

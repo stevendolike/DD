@@ -28,4 +28,4 @@
 | Wavecom Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Wavecom%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-10-09 16:55 UTC*
+*最後更新：2026-10-09 20:41 UTC*
