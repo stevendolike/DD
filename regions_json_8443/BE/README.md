@@ -9,4 +9,4 @@
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BE/Datacamp%20Limited.txt) |
 
 ---
-*最後更新：2026-10-09 11:00 UTC*
+*最後更新：2026-10-09 16:55 UTC*
