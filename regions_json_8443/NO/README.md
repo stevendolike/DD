@@ -11,4 +11,4 @@
 | Telia Norge AS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/Telia%20Norge%20AS.txt) |
 
 ---
-*最後更新：2026-10-08 21:11 UTC*
+*最後更新：2026-10-09 01:51 UTC*
