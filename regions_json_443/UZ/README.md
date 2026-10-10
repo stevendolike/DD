@@ -6,7 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| SERVERCORE CIS FE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UZ/SERVERCORE%20CIS%20FE%20LLC.txt) |
+| SERVERCORE CIS FE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UZ/SERVERCORE%20CIS%20FE%20LLC.txt) |
+| SERVERCORE UZ Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UZ/SERVERCORE%20UZ%20Network.txt) |
 
 ---
-*最後更新：2026-10-09 20:41 UTC*
+*最後更新：2026-10-10 16:31 UTC*

@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NG/Melbikomas%20UAB.txt) |
+| Yuandri Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NG/Yuandri%20Network.txt) |
 
 ---
-*最後更新：2026-10-09 20:41 UTC*
+*最後更新：2026-10-10 16:31 UTC*

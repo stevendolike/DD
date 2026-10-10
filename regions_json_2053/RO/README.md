@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/_all.txt)
 
@@ -8,7 +8,8 @@
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/Baxet%20Group%20Inc.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/Friendhosting%20LTD.txt) |
+| MivoCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/MivoCloud.txt) |
 | _ WWW.RARECLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RO/_%20WWW.RARECLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-10-09 20:41 UTC*
+*最後更新：2026-10-10 16:31 UTC*

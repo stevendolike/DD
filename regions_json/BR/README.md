@@ -1,6 +1,6 @@
 # BR
 
-**共 8 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/_all_443.txt)
 
@@ -8,9 +8,9 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/3NT%20SOLUTIONS%20LLP.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/ACE.txt) |
-| Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Linode.txt) |
+| Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Linode.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Oracle%20Public%20Cloud.txt) |
-| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-09 20:41 UTC*
+*最後更新：2026-10-10 16:31 UTC*

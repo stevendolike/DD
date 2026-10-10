@@ -6,12 +6,11 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Baxet%20Group%20Inc.txt) |
-| Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Datacamp%20Limited.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Belgium | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/EDIS%20IPv6%20Infrastructure%20in%20Belgium.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/Google%20LLC.txt) |
 | OVH BE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BE/OVH%20BE.txt) |
 
 ---
-*最後更新：2026-10-09 20:41 UTC*
+*最後更新：2026-10-10 16:31 UTC*

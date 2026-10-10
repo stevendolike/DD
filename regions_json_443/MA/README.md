@@ -1,0 +1,12 @@
+# MA （純 IP）
+
+**共 1 條** · [返回主頁](../../README.md)
+
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MA/_all.txt)
+
+| 組織 | 條目數 | Raw URL |
+|------|--------|---------|
+| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MA/Oracle%20Svenska%20AB.txt) |
+
+---
+*最後更新：2026-10-10 16:31 UTC*
