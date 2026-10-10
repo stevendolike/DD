@@ -28,10 +28,11 @@ jobs:
           key: alljson-cache-v1
 
       - name: Download all.json
-        timeout-minutes: 25
+        timeout-minutes: 40
         env:
           PROXY_TOKEN: ${{ secrets.PROXY_TOKEN }}
           PROXY_URL: ${{ vars.PROXY_URL }}
+          PROXY_URL_2: ${{ vars.PROXY_URL_2 }}
         run: |
           UP="https://zip.cm.edu.kg/all.json"
           # 清走任何殘留舊檔（cache restore / 上次 artifact），確保 ok() 只反映今次下載
@@ -56,14 +57,23 @@ jobs:
             return 1
           }
 
-          # 一輪：① Cloudflare Worker → ② 三個後備節點（每個源都帶 3 次重試）
+          # 一輪：① 主 proxy → ② 備 proxy → ③ 三個後備節點（每個源都帶 3 次重試）
           try_all() {
+            # ① 主 proxy（Vercel Edge）
             if [ -n "$PROXY_URL" ]; then
               if fetch "$PROXY_URL" all_new.json -H "X-Auth-Token: $PROXY_TOKEN"; then
-                echo "✓ Cloudflare Worker"; return 0
+                echo "✓ 主 proxy（PROXY_URL）"; return 0
               fi
-              echo "⚠️ Cloudflare Worker 失敗（已重試 3 次）"
+              echo "⚠️ 主 proxy（PROXY_URL）失敗（已重試 3 次）"
             fi
+            # ② 備 proxy（Deno Deploy）
+            if [ -n "$PROXY_URL_2" ]; then
+              if fetch "$PROXY_URL_2" all_new.json -H "X-Auth-Token: $PROXY_TOKEN"; then
+                echo "✓ 備 proxy（PROXY_URL_2）"; return 0
+              fi
+              echo "⚠️ 備 proxy（PROXY_URL_2）失敗（已重試 3 次）"
+            fi
+            # ③ 三個後備節點（Cloudflare，通常被上游擋）
             for P in yx1 yx2 yx3; do
               if fetch "https://$P.rjj.cc.cd/$UP" all_new.json; then
                 echo "✓ 後備節點 $P.rjj.cc.cd"; return 0
