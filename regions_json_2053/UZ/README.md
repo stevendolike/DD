@@ -9,4 +9,4 @@
 | East Telecom Networks | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/UZ/East%20Telecom%20Networks.txt) |
 
 ---
-*最後更新：2026-10-10 17:09 UTC*
+*最後更新：2026-10-10 19:54 UTC*
