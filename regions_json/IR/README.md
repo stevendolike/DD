@@ -9,4 +9,4 @@
 | Asiatech Data Transmission Co | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IR/Asiatech%20Data%20Transmission%20Co.txt) |
 
 ---
-*最後更新：2026-10-10 16:31 UTC*
+*最後更新：2026-10-10 17:09 UTC*

@@ -12,4 +12,4 @@
 | IPv6 Iceland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IS/IPv6%20Iceland.txt) |
 
 ---
-*最後更新：2026-10-10 16:31 UTC*
+*最後更新：2026-10-10 17:09 UTC*
