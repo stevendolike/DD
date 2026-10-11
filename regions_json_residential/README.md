@@ -80,4 +80,4 @@
 | Ziggo Consumers | NL | 4 |
 | interlir citytelecom 07 12 2025 | PL | 1 |
 ---
-*最後更新：2026-10-11 10:25 UTC*
+*最後更新：2026-10-11 16:13 UTC*
