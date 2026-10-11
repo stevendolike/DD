@@ -9,4 +9,4 @@
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MA/Oracle%20Svenska%20AB.txt) |
 
 ---
-*最後更新：2026-10-11 16:13 UTC*
+*最後更新：2026-10-11 20:04 UTC*
