@@ -9,4 +9,4 @@
 | IPXON Networks PY Asuncion [PY-ASU] | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PY/IPXON%20Networks%20PY%20Asuncion%20%5BPY-ASU%5D.txt) |
 
 ---
-*最後更新：2026-10-10 19:54 UTC*
+*最後更新：2026-10-11 00:44 UTC*
