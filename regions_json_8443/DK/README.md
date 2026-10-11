@@ -1,6 +1,6 @@
 # DK （純 IP）
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 16 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/_all.txt)
 
@@ -9,7 +9,7 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/Baxet%20Group%20Inc.txt) |
 | EDIS Infrastructure in Denmark | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/EDIS%20Infrastructure%20in%20Denmark.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Webdock.io ApS | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/Webdock.io%20ApS.txt) |
+| Webdock.io ApS | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/Webdock.io%20ApS.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

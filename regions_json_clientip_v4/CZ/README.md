@@ -1,6 +1,6 @@
 # CZ
 
-**共 23 條** · [返回主頁](../../README.md)
+**共 22 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all_443.txt)
 
@@ -18,9 +18,9 @@
 | Reliable Communications s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Reliable%20Communications%20s.r.o.txt) |
 | Retzor, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Retzor%2C%20Inc.txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Retzor-com.txt) |
-| SmartApe OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/SmartApe%20OU.txt) |
 | TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/TA%20Consulting%20%26%20Services%20UG.txt) |
 | vpsFree.cz, z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/vpsFree.cz%2C%20z.s.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

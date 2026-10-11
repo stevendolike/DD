@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 46 條** · [返回主頁](../../README.md)
+**共 45 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt)
 
@@ -19,7 +19,6 @@
 | RackNerd LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/RackNerd%20LLC.txt) |
 | Red Team LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Red%20Team%20LTD.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/The%20Constant%20Company%2C%20LLC.txt) |
-| netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

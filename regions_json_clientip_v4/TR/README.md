@@ -1,6 +1,6 @@
 # TR
 
-**共 60 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all_443.txt)
 
@@ -23,7 +23,7 @@
 | HostLAB Bilisim Teknolojileri A.S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/HostLAB%20Bilisim%20Teknolojileri%20A.S.txt) |
 | IPbnb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/IPbnb%20LLC.txt) |
 | Keyubu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Keyubu.txt) |
-| LIGHT NODE LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/LIGHT%20NODE%20LIMITED.txt) |
+| LIGHT NODE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/LIGHT%20NODE%20LIMITED.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Poyraz Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Poyraz%20Hosting.txt) |
 | Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Private%20Customer.txt) |
@@ -40,4 +40,4 @@
 | hostigger_datacenter_TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

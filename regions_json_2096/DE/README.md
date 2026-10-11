@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 179 條** · [返回主頁](../../README.md)
+**共 176 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/_all.txt)
 
@@ -13,7 +13,7 @@
 | Hetzner Online GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Hetzner%20Online%20GmbH.txt) |
 | IPXO Lease | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/IPXO%20Lease.txt) |
 | IT-Garage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/IT-Garage.txt) |
-| OVH GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/OVH%20GmbH.txt) |
+| OVH GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/OVH%20GmbH.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Private%20Customer.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/SEBEK%20sp.%20z%20o.o.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/SERV.HOST%20GROUP%20LTD.txt) |
@@ -22,4 +22,4 @@
 | nuxt.cloud hosting provider | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/nuxt.cloud%20hosting%20provider.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

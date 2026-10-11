@@ -1,13 +1,13 @@
 # RU
 
-**共 64 條** · [返回主頁](../../README.md)
+**共 63 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Baxet%20Group%20Inc.txt) |
-| Beget LLC | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Beget%20LLC.txt) |
+| Beget LLC | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Beget%20LLC.txt) |
 | BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/BitWeb%20LLC.txt) |
 | Cloud Technologies LLC trading as Cloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Cloud%20Technologies%20LLC%20trading%20as%20Cloud.ru.txt) |
 | Cloudrix Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Cloudrix%20Infrastructure.txt) |
@@ -22,8 +22,9 @@
 | TOO Beget | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/TOO%20Beget.txt) |
 | Time-Host Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Time-Host%20Ltd.txt) |
 | UFO Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/UFO%20Hosting%20LLC.txt) |
+| VDSKA-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/VDSKA-NET.txt) |
 | VDSka hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/VDSka%20hosting.txt) |
 | Virtualine Technologies | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RU/Virtualine%20Technologies.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

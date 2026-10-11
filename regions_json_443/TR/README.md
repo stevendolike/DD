@@ -20,9 +20,9 @@
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/HOSTKEY%20B.V.txt) |
 | HostLAB Bilisim Teknolojileri A.S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/HostLAB%20Bilisim%20Teknolojileri%20A.S.txt) |
 | Keyubu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Keyubu.txt) |
-| LIGHT NODE LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/LIGHT%20NODE%20LIMITED.txt) |
+| LIGHT NODE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/LIGHT%20NODE%20LIMITED.txt) |
 | Markahost Telekomunikasyon Ve Ticaret Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Markahost%20Telekomunikasyon%20Ve%20Ticaret%20Limited%20Sirketi.txt) |
-| Netlen Internet Hizmetleri Ltd. Sti | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netlen Internet Hizmetleri Ltd. Sti | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Poyraz Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Poyraz%20Hosting.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Private%20Customer.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
@@ -35,4 +35,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

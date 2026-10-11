@@ -1,6 +1,6 @@
 # CH
 
-**共 171 條** · [返回主頁](../../README.md)
+**共 168 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -16,12 +16,12 @@
 | Exoscale Open Cloud MUC1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Exoscale%20Open%20Cloud%20MUC1.txt) |
 | Fidel Ernesto Geronimo Ramirez trading as Global Business Consulting, Geronimo Ramirez | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Fidel%20Ernesto%20Geronimo%20Ramirez%20trading%20as%20Global%20Business%20Consulting%2C%20Geronimo%20Ramirez.txt) |
 | FranTech Solutions | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/FranTech%20Solutions.txt) |
-| Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Friendhosting%20LTD.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GTHost.txt) |
-| Green Floid LLC | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
+| Green Floid LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HOSTKEY%20B.V.txt) |
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HostHatch.txt) |
@@ -48,4 +48,4 @@
 | www.fornex.com, Fornex Hosting S.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

@@ -1,6 +1,6 @@
 # RU
 
-**共 110 條** · [返回主頁](../../README.md)
+**共 109 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | AEZA GROUP Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AEZA%20GROUP%20Ltd.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Baxet%20Group%20Inc.txt) |
-| Beget LLC | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Beget%20LLC.txt) |
+| Beget LLC | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Beget%20LLC.txt) |
 | BitWeb LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/BitWeb%20LLC.txt) |
 | Cloud Technologies LLC trading as Cloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Cloud%20Technologies%20LLC%20trading%20as%20Cloud.ru.txt) |
 | Cloudrix Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Cloudrix%20Infrastructure.txt) |
@@ -33,8 +33,9 @@
 | TOO Beget | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/TOO%20Beget.txt) |
 | Time-Host Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Time-Host%20Ltd.txt) |
 | UFO Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/UFO%20Hosting%20LLC.txt) |
+| VDSKA-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/VDSKA-NET.txt) |
 | VDSka hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/VDSka%20hosting.txt) |
 | Virtualine Technologies | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Virtualine%20Technologies.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

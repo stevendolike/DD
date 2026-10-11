@@ -1,6 +1,6 @@
 # KZ
 
-**共 139 條** · [返回主頁](../../README.md)
+**共 138 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -28,11 +28,11 @@
 | Megahost Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| PS Internet Company LLP | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
+| PS Internet Company LLP | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
 | SC Kazakhtelecom, Direction of Information Systems | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/SC%20Kazakhtelecom%2C%20Direction%20of%20Information%20Systems.txt) |
 | Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Servercore%20Network.txt) |
 | Webstudio Onelab LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Webstudio%20Onelab%20LLP.txt) |
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

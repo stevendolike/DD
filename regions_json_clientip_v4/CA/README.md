@@ -1,6 +1,6 @@
 # CA
 
-**共 51 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | Cloud Web Manage | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cloud%20Web%20Manage.txt) |
 | Cluster Logic Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cluster%20Logic%20Inc.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
-| DigitalOcean, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/DigitalOcean%2C%20LLC.txt) |
 | EBOX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/EBOX.txt) |
 | Graeme Tee | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Graeme%20Tee.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/HostPapa.txt) |
@@ -25,4 +25,4 @@
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

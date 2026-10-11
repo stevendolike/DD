@@ -1,6 +1,6 @@
 # ES
 
-**共 168 條** · [返回主頁](../../README.md)
+**共 167 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
@@ -29,7 +29,7 @@
 | Linode, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Linode%2C%20LLC.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | Raiola Networks IPv4 static | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Raiola%20Networks%20IPv4%20static.txt) |
-| Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Snowd%20Security%20OU.txt) |
 | The Constant Company, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/The%20Constant%20Company%2C%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/UNKNOWN.txt) |
 | UltaHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/UltaHost.txt) |
@@ -40,4 +40,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

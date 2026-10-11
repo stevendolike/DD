@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 438 條** · [返回主頁](../../README.md)
+**共 432 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/_all.txt)
 
@@ -13,11 +13,11 @@
 | ALEKSEI FEDOROV PR KRUSEVAC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | Akenai Products - NL Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Akenai%20Products%20-%20NL%20Network.txt) |
 | Amsterdam, Netherlands | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Amsterdam%2C%20Netherlands.txt) |
-| Andris Jakovlevs | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Andris%20Jakovlevs.txt) |
-| Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baxet%20Group%20Inc.txt) |
+| Andris Jakovlevs | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Andris%20Jakovlevs.txt) |
+| Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | Brainoza OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Brainoza%20OU.txt) |
-| CGI GLOBAL LIMITED | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CGI%20GLOBAL%20LIMITED.txt) |
 | CLODO CLOUD SERVICE CO. L.L.C | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/CLODO%20CLOUD%20SERVICE%20CO.%20L.L.C.txt) |
 | Centerfield Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Centerfield%20Ltd.txt) |
 | ClearStack B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ClearStack%20B.V.txt) |
@@ -32,12 +32,11 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/GREEN%20FLOID%20LLC.txt) |
 | HOSTKEY B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/HOSTKEY%20B.V.txt) |
-| HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/HZ%20Hosting%20Ltd.txt) |
 | Hizakura B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Hizakura%20B.V.txt) |
 | Host Sailor Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Host%20Sailor%20Ltd.txt) |
 | HostHatch Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/HostHatch%20Inc.txt) |
 | IHC network in Amsterdam, NL, EU (Iron Hosting Centre Ltd., London, UK) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/IHC%20network%20in%20Amsterdam%2C%20NL%2C%20EU%20%28Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%29.txt) |
-| Individual Entrepreneur Anton Levin | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Individual Entrepreneur Anton Levin | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Iron Hosting Centre Ltd., London, UK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK.txt) |
 | It Hosting Group | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/It%20Hosting%20Group.txt) |
 | JSC TIMEWEB | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/JSC%20TIMEWEB.txt) |
@@ -80,4 +79,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 94 條** · [返回主頁](../../README.md)
+**共 93 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt)
 
@@ -27,8 +27,8 @@
 | Megahost Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| PS Internet Company LLP | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
+| PS Internet Company LLP | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
 | SC Kazakhtelecom, Direction of Information Systems | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/SC%20Kazakhtelecom%2C%20Direction%20of%20Information%20Systems.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

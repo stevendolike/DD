@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt)
 
@@ -16,11 +16,10 @@
 | Friendhosting LTD | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/GREEN%20FLOID%20LLC.txt) |
 | ITLDC EU2.SOF Datacenter Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
-| Julian Achter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Julian%20Achter.txt) |
 | Lir.bg EOOD | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
 | Redcluster LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Redcluster%20LTD.txt) |
 | SEBEK sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/SEBEK%20sp.%20z%20o.o.txt) |
 | TerraTransit AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/TerraTransit%20AG.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

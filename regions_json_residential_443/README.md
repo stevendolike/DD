@@ -1,12 +1,12 @@
 # 家庭寬帶 443 純 IP（純 IP）
 
-**共 80 條** · [返回主頁](../README.md)
+**共 79 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
-| CA | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/CA.txt) |
+| CA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/CA.txt) |
 | CH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/CH.txt) |
 | DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/DE.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/FR.txt) |
@@ -20,7 +20,7 @@
 | SG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/SG.txt) |
 | TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TR.txt) |
 | TW | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/TW.txt) |
-| US | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
+| US | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential_443/US.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

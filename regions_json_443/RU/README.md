@@ -1,13 +1,13 @@
 # RU （純 IP）
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | AEZA GROUP Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/AEZA%20GROUP%20Ltd.txt) |
-| Beget LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Beget%20LLC.txt) |
+| Beget LLC | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Beget%20LLC.txt) |
 | BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/BitWeb%20LLC.txt) |
 | Cloud Technologies LLC trading as Cloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Cloud%20Technologies%20LLC%20trading%20as%20Cloud.ru.txt) |
 | Cloudrix Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Cloudrix%20Infrastructure.txt) |
@@ -26,7 +26,8 @@
 | Selectel Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Selectel%20Network.txt) |
 | TIME-HOST-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/TIME-HOST-NET.txt) |
 | Time-Host Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Time-Host%20Ltd.txt) |
+| VDSKA-NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/VDSKA-NET.txt) |
 | Virtualine Technologies | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/Virtualine%20Technologies.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

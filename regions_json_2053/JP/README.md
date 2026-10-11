@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 22 條** · [返回主頁](../../README.md)
+**共 23 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/_all.txt)
 
@@ -9,6 +9,7 @@
 | ACCK LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/ACCK%20LLC.txt) |
 | AkileCloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/AkileCloud%20LLC.txt) |
 | ByteVirt LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/ByteVirt%20LLC.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Cloudflare%20London%2C%20LLC.txt) |
 | Leaseweb Japan K.K | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Leaseweb%20Japan%20K.K.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Linode.txt) |
 | Oneprovider.com - Japan Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/Oneprovider.com%20-%20Japan%20Infrastructure.txt) |
@@ -20,4 +21,4 @@
 | xTom GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

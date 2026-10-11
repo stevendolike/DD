@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 220 條** · [返回主頁](../../README.md)
+**共 219 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/_all.txt)
 
@@ -12,7 +12,7 @@
 | Andris Jakovlevs | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Andris%20Jakovlevs.txt) |
 | Artem Lomakin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Artem%20Lomakin.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Baxet%20Group%20Inc.txt) |
-| Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Cloudflare%20London%2C%20LLC.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Cloudflare%20London%2C%20LLC.txt) |
 | DATALIX | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DATALIX.txt) |
 | DigitalOcean, LLC | 154 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DigitalOcean%2C%20LLC.txt) |
 | Eons Data Communications Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Eons%20Data%20Communications%20Limited.txt) |
@@ -44,4 +44,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

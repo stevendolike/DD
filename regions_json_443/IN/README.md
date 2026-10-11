@@ -1,6 +1,6 @@
 # IN （純 IP）
 
-**共 45 條** · [返回主頁](../../README.md)
+**共 44 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/_all.txt)
 
@@ -12,7 +12,6 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Baxet%20Group%20Inc.txt) |
 | DigitalOcean, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/DigitalOcean%2C%20LLC.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Linode.txt) |
-| Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Microsoft%20Corporation.txt) |
 | NET 178 92 120 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/NET%20178%2092%20120%200%2024.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/Oracle%20Corporation.txt) |
@@ -21,4 +20,4 @@
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

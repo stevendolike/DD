@@ -1,6 +1,6 @@
 # SG
 
-**共 108 條** · [返回主頁](../../README.md)
+**共 109 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all_443.txt)
 
@@ -31,7 +31,7 @@
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/LIGHT%20NODE%20LIMITED.txt) |
 | Microsoft Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Microsoft%20Corporation.txt) |
 | Neha Infonet | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Neha%20Infonet.txt) |
-| Oracle Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Svenska%20AB.txt) |
 | Oso Grande IP Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oso%20Grande%20IP%20Services%2C%20LLC.txt) |
@@ -50,4 +50,4 @@
 | Zenlayer (Singapore) PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Zenlayer%20%28Singapore%29%20PTE.%20LTD.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

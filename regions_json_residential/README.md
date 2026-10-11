@@ -1,14 +1,13 @@
 # 家庭寬帶（全部 Port）
 
-**共 123 條** · [返回主頁](../README.md)
+**共 120 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
-| CA | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
-| CN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CN.txt) |
 | DE | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
@@ -27,18 +26,17 @@
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **51** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **49** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 20 |
+| AT&T Enterprises, LLC | US | 21 |
 | BBIX IPv6 Network | JP | 3 |
 | BIGLOBE Inc | JP | 1 |
 | BT-R101-TEST | GB | 1 |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | TR | 1 |
 | Charter Communications Inc | US | 2 |
-| Chinatelecom IPv6 address for fixed broadband | CN | 1 |
 | Chunghwa Telecom Data Communication Business Group | TW | 2 |
 | Cogeco Cable Canada Inc | CA | 1 |
 | Cogeco Connexion Inc | CA | 1 |
@@ -56,7 +54,7 @@
 | KPN CM | NL | 1 |
 | M-net Telekommunikations GmbH | DE | 1 |
 | MoeDove Broadband - United States | US | 3 |
-| NTT America, Inc | US | 9 |
+| NTT America, Inc | US | 8 |
 | NTT DATA | US | 1 |
 | Neha Infonet | SG | 2 |
 | Optimum Online | US | 1 |
@@ -65,11 +63,10 @@
 | Rogers Communications Canada Inc | CA | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 4 |
-| Shaw Communications | CA | 7 |
+| Shaw Communications | CA | 6 |
 | So-net Service | JP | 1 |
 | Superonline Iletisim Hizmetleri A.S | TR | 2 |
 | Swisscom (Schweiz) AG | CH | 2 |
-| TELUS-FIBRE-PTCMBC02 | CA | 1 |
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
 | TELUS-HSIA-BNBYBC01 | CA | 1 |
 | TT ADSL-TT net_aci | TR | 1 |
@@ -83,4 +80,4 @@
 | Ziggo Consumers | NL | 4 |
 | interlir citytelecom 07 12 2025 | PL | 1 |
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

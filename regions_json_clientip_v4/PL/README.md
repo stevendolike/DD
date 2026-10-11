@@ -1,6 +1,6 @@
 # PL
 
-**共 171 條** · [返回主頁](../../README.md)
+**共 170 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all_443.txt)
 
@@ -27,7 +27,7 @@
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/G-Core%20Labs%20Customer%20assignment.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GOLD IP L.L.C-FZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/GOLD%20IP%20L.L.C-FZ.txt) |
-| GREEN FLOID LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/GREEN%20FLOID%20LLC.txt) |
 | HOSTKEY B.V | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/HOSTKEY%20B.V.txt) |
 | HostesLLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/HostesLLC.txt) |
 | IT Hostline Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/IT%20Hostline%20Ltd.txt) |
@@ -53,15 +53,14 @@
 | RapidSeedbox Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/RapidSeedbox%20Ltd.txt) |
 | Rawi Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Rawi%20Network.txt) |
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/SERVA%20ONE%20LTD.txt) |
-| Snowd Security OU | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Snowd%20Security%20OU.txt) |
 | TOV FORT-POST | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/TOV%20FORT-POST.txt) |
 | The Constant Company, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | Warsaw, Poland | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Warsaw%2C%20Poland.txt) |
-| freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/freakhosting.com.txt) |
 | interlir citytelecom 07 12 2025 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/interlir%20citytelecom%2007%2012%202025.txt) |
 | ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/ipbnb.txt) |
 | nodehost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/nodehost.txt) |
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*

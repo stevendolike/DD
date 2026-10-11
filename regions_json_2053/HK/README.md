@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/_all.txt)
 
@@ -16,11 +16,10 @@
 | HostHatch HKG1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/HostHatch%20HKG1.txt) |
 | LeaseWeb Asia Pacific - Hong Kong | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/LeaseWeb%20Asia%20Pacific%20-%20Hong%20Kong.txt) |
 | MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
-| NextStage Innovations LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/NextStage%20Innovations%20LLC.txt) |
 | Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/Subnet%20Digital%20LLC.txt) |
 | VH Global Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/VH%20Global%20Limited.txt) |
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/VMISS%20Inc.txt) |
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/HK/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-10-11 00:44 UTC*
+*最後更新：2026-10-11 10:25 UTC*
