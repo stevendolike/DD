@@ -12,4 +12,4 @@
 | Webdock.io ApS | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/DK/Webdock.io%20ApS.txt) |
 
 ---
-*最後更新：2026-10-11 20:04 UTC*
+*最後更新：2026-10-12 01:05 UTC*

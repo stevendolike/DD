@@ -9,4 +9,4 @@
 | CLOUDLAYER8 LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/CY/CLOUDLAYER8%20LIMITED.txt) |
 
 ---
-*最後更新：2026-10-11 20:04 UTC*
+*最後更新：2026-10-12 01:05 UTC*
