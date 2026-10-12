@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3NT Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/3NT%20Solutions%20LLP.txt) |
 | H4F.NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/H4F.NET.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/Microsoft%20Corporation.txt) |
+| WebHorizon Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-10-12 01:05 UTC*
+*最後更新：2026-10-12 11:27 UTC*

@@ -6,10 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Chunghwa Telecom Data Communication Business Group | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
+| Chunghwa Telecom Data Communication Business Group | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Google%20LLC.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Private%20Customer.txt) |
 | Xiang Ao Communications Co. Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TW/Xiang%20Ao%20Communications%20Co.%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-12 01:05 UTC*
+*最後更新：2026-10-12 11:27 UTC*

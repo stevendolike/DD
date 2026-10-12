@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3NT Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/3NT%20Solutions%20LLP.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/Baxet%20Group%20Inc.txt) |
 | Gigahost AS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/Gigahost%20AS.txt) |
+| WebHorizon Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-10-12 01:05 UTC*
+*最後更新：2026-10-12 11:27 UTC*

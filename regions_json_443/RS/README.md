@@ -10,7 +10,7 @@
 | ALEKSEI FEDOROV PR KRUSEVAC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | EDIS IPv6 Infrastructure in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/EDIS%20IPv6%20Infrastructure%20in%20Serbia.txt) |
 | Majordomo net in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/Majordomo%20net%20in%20Serbia.txt) |
-| eServer s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/eServer%20s.r.o.txt) |
+| TELEKOM SRBIJA, ADSL users | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/TELEKOM%20SRBIJA%2C%20ADSL%20users.txt) |
 
 ---
-*最後更新：2026-10-12 01:05 UTC*
+*最後更新：2026-10-12 11:27 UTC*

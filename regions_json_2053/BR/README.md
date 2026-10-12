@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/Oracle%20Corporation.txt) |
+| STREETHOSTING LTDA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/BR/STREETHOSTING%20LTDA.txt) |
 
 ---
-*最後更新：2026-10-12 01:05 UTC*
+*最後更新：2026-10-12 11:27 UTC*
