@@ -11,4 +11,4 @@
 | Leased IPv4 Blocks | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AZ/Leased%20IPv4%20Blocks.txt) |
 
 ---
-*最後更新：2026-10-12 19:44 UTC*
+*最後更新：2026-10-12 22:49 UTC*

@@ -33,4 +33,4 @@
 | VN | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/VN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/VN/_all.txt) |
 
 ---
-*最後更新：2026-10-12 19:44 UTC*
+*最後更新：2026-10-12 22:49 UTC*
