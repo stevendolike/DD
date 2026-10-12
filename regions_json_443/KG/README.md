@@ -10,4 +10,4 @@
 | CJSC TELECOMMUNICATIONS COMPANY DUN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KG/CJSC%20TELECOMMUNICATIONS%20COMPANY%20DUN.txt) |
 
 ---
-*最後更新：2026-10-12 11:27 UTC*
+*最後更新：2026-10-12 19:44 UTC*

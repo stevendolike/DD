@@ -14,4 +14,4 @@
 | NET 178 92 120 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/NET%20178%2092%20120%200%2024.txt) |
 
 ---
-*最後更新：2026-10-12 11:27 UTC*
+*最後更新：2026-10-12 19:44 UTC*
