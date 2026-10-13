@@ -6,7 +6,7 @@
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
-| CA | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CN.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
@@ -22,19 +22,19 @@
 | PL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/PL.txt) |
 | RS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RS.txt) |
 | SE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
-| SG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
+| SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | TW | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
-| US | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **51** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **53** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 13 |
+| AT&T Enterprises, LLC | US | 12 |
 | BBIX IPv6 Network | JP | 3 |
 | BIGLOBE Inc | JP | 1 |
 | BT-R101-TEST | GB | 1 |
@@ -43,7 +43,8 @@
 | Chinatelecom IPv6 address for fixed broadband | CN | 1 |
 | Chunghwa Telecom Data Communication Business Group | TW | 3 |
 | Cogeco Cable Canada Inc | CA | 1 |
-| Comcast Cable Communications, LLC | US | 3 |
+| Cogeco Connexion Inc | CA | 1 |
+| Comcast Cable Communications, LLC | US | 2 |
 | Cox Communications Inc | US | 1 |
 | Deutsche Telekom AG | DE | 3 |
 | FiberXpress BV | NL | 6 |
@@ -78,6 +79,7 @@
 | TT ADSL-TT net_aci | TR | 1 |
 | Tele Columbus AG | DE | 1 |
 | UPC Ceska republika, a.s | CZ | 1 |
+| Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Wave Broadband | US | 1 |
@@ -85,4 +87,4 @@
 | Ziggo Consumers | NL | 4 |
 | interlir citytelecom 07 12 2025 | PL | 1 |
 ---
-*最後更新：2026-10-13 02:54 UTC*
+*最後更新：2026-10-13 17:30 UTC*

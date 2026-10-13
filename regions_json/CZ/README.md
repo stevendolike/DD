@@ -1,6 +1,6 @@
 # CZ
 
-**共 120 條** · [返回主頁](../../README.md)
+**共 118 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/_all_443.txt)
 
@@ -20,11 +20,11 @@
 | Jan Stetina | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Jan%20Stetina.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/NetGrid%20Host%20LTD.txt) |
 | Reliable Communications s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Reliable%20Communications%20s.r.o.txt) |
-| Retzor-com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor-com.txt) |
-| SmartApe OU | 75 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
+| Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor-com.txt) |
+| SmartApe OU | 74 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
 | TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/TA%20Consulting%20%26%20Services%20UG.txt) |
 | UPC Ceska republika, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/UPC%20Ceska%20republika%2C%20a.s.txt) |
 | Zoner webhosting and serverhosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Zoner%20webhosting%20and%20serverhosting%20services.txt) |
 
 ---
-*最後更新：2026-10-13 02:54 UTC*
+*最後更新：2026-10-13 17:30 UTC*
