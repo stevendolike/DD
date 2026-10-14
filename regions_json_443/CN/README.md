@@ -10,4 +10,4 @@
 | China Mobile Communications Corporation - shanghai company | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CN/China%20Mobile%20Communications%20Corporation%20-%20shanghai%20company.txt) |
 
 ---
-*最後更新：2026-10-13 17:30 UTC*
+*最後更新：2026-10-14 00:58 UTC*
