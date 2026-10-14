@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 52 條** · [返回主頁](../../README.md)
+**共 49 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt)
 
@@ -18,13 +18,14 @@
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Interserver, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Interserver%2C%20Inc.txt) |
 | LeaseWeb USA, Inc. Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/LeaseWeb%20USA%2C%20Inc.%20Los%20Angeles.txt) |
-| Leaseweb USA, Inc | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Leaseweb%20USA%2C%20Inc.txt) |
+| Leaseweb USA, Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Leaseweb%20USA%2C%20Inc.txt) |
 | NTT America, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/NTT%20America%2C%20Inc.txt) |
 | NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/NetCrafters%20OU.txt) |
 | Nexeon Technologies, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Nexeon%20Technologies%2C%20Inc.txt) |
 | RackNerd LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/RackNerd%20LLC.txt) |
+| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/as56971%20network.txt) |
 | ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/ipbnb.txt) |
 | tzulo, inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/tzulo%2C%20inc.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

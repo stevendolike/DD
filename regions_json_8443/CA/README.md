@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 26 條** · [返回主頁](../../README.md)
+**共 29 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/_all.txt)
 
@@ -12,10 +12,11 @@
 | EBOX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/EBOX.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Graeme%20Tee.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/IT7%20Networks%20Inc.txt) |
+| ITGLOBAL.COM NL B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Leaseweb Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Leaseweb%20Canada%20Inc.txt) |
-| OVH Hosting, Inc | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
-| Shaw Communications | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Shaw%20Communications.txt) |
-| The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/The%20Constant%20Company%2C%20LLC.txt) |
+| OVH Hosting, Inc | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
+| Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Rica%20Web%20Services.txt) |
+| Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Shaw%20Communications.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PH/LIGHT%20NODE%20LIMITED.txt) |
+| Converge ICT Corporate Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PH/Converge%20ICT%20Corporate%20Customer.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

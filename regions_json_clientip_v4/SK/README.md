@@ -1,6 +1,6 @@
 # SK
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 6 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SK/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SK/_all_443.txt)
 
@@ -8,6 +8,7 @@
 |------|--------|---------|
 | Digital City FZE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SK/Digital%20City%20FZE.txt) |
 | Lertas network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SK/Lertas%20network.txt) |
+| PE Denis Podolskii | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SK/PE%20Denis%20Podolskii.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

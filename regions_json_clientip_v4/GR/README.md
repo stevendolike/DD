@@ -1,6 +1,6 @@
 # GR
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/_all_443.txt)
 
@@ -8,6 +8,7 @@
 |------|--------|---------|
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/GREEN%20FLOID%20LLC.txt) |
 | Kaopu Cloud HK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/Kaopu%20Cloud%20HK%20Limited.txt) |
+| MVPS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GR/MVPS%20LTD.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

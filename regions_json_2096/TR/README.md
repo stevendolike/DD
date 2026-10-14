@@ -6,8 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| White Label Services, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/TR/White%20Label%20Services%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

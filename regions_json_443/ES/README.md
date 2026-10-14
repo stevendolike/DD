@@ -1,26 +1,25 @@
 # ES （純 IP）
 
-**共 100 條** · [返回主頁](../../README.md)
+**共 140 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ARSYS INTERNET S.L.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
+| ARSYS INTERNET S.L.U | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
 | AXARNET COMUNICACIONES, S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/AXARNET%20COMUNICACIONES%2C%20S.L.txt) |
 | Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/BlueVPS%20OU.txt) |
 | CLOUDI NEXTGEN SL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/CLOUDI%20NEXTGEN%20SL.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Cloudflare%20London%2C%20LLC.txt) |
-| DIGI SPAIN TELECOM S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20SPAIN%20TELECOM%20S.A.txt) |
+| DIGI SPAIN TELECOM S.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20SPAIN%20TELECOM%20S.A.txt) |
 | DIGI Spain Telecom IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20Spain%20Telecom%20IPv6.txt) |
-| Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Friendhosting%20LTD.txt) |
-| GINERNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GINERNET.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GREEN%20FLOID%20LLC.txt) |
-| GTHost | 52 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
+| GTHost | 90 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HOSTKEY%20B.V.txt) |
-| HUIZE LTD | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
+| HUIZE LTD | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IONOS%20SE.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Kamatera%20Inc.txt) |
@@ -31,8 +30,7 @@
 | UltaHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/UltaHost.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Vultr%20Holdings%2C%20LLC.txt) |
 | Ya.com Internet Factory | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Ya.com%20Internet%20Factory.txt) |
-| arsys.es | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.es.txt) |
 | arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.pt.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

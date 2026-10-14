@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/LIGHT%20NODE%20LIMITED.txt) |
-| R&R Managed Telecom Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/R%26R%20Managed%20Telecom%20Services.txt) |
+| Converge ICT Corporate Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/Converge%20ICT%20Corporate%20Customer.txt) |
+| Herza Singapore Pte Ltd t_a Herza Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/Herza%20Singapore%20Pte%20Ltd%20t_a%20Herza%20Cloud.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

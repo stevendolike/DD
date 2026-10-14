@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 42 條** · [返回主頁](../../README.md)
+**共 38 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt)
 
@@ -12,12 +12,11 @@
 | DigitalOcean, LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/DigitalOcean%2C%20LLC.txt) |
 | Huize Holdings LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Huize%20Holdings%20LLC.txt) |
 | LeaseWeb USA, Inc. Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/LeaseWeb%20USA%2C%20Inc.%20Los%20Angeles.txt) |
-| Leaseweb USA, Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Leaseweb%20USA%2C%20Inc.txt) |
-| Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Linode%2C%20LLC.txt) |
+| Leaseweb USA, Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Leaseweb%20USA%2C%20Inc.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Oracle%20Corporation.txt) |
 | RackNerd LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/RackNerd%20LLC.txt) |
 | Red Team LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Red%20Team%20LTD.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

@@ -8,11 +8,10 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/3NT%20SOLUTIONS%20LLP.txt) |
 | ACE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/ACE.txt) |
-| Linode | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Linode.txt) |
+| Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Linode.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Oracle%20Public%20Cloud.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Private%20Customer.txt) |
-| STREETHOSTING LTDA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/STREETHOSTING%20LTDA.txt) |
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

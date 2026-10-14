@@ -1,6 +1,6 @@
 # SE
 
-**共 80 條** · [返回主頁](../../README.md)
+**共 87 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/_all_443.txt)
 
@@ -12,7 +12,7 @@
 | Amazon Data Services Sweden | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Amazon%20Data%20Services%20Sweden.txt) |
 | Assigned to ORG-HIP1-RIPE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Assigned%20to%20ORG-HIP1-RIPE.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU Url_ https___www.bluevps.com_ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/BlueVPS%20OU%20Url_%20https___www.bluevps.com_.txt) |
 | DFDB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/DFDB%20LLC.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Deployish%20Limited.txt) |
@@ -23,22 +23,23 @@
 | ISPIRIA Networks Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/ISPIRIA%20Networks%20Ltd.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Linode.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
-| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Oracle%20Corporation.txt) |
+| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Oracle%20Svenska%20AB.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Prinode%20AB.txt) |
 | Private Customer | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Private%20Customer.txt) |
 | Privex Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Privex%20Inc.txt) |
-| Reverse-Proxy | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Reverse-Proxy.txt) |
-| SA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/SA.txt) |
+| Reverse-Proxy | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Reverse-Proxy.txt) |
+| SA | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/SA.txt) |
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/SIA%20VEESP.txt) |
 | STO lab | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/STO%20lab.txt) |
 | Sia Nano IT | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Sia%20Nano%20IT.txt) |
 | Switzerland infrastructure | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Switzerland%20infrastructure.txt) |
 | The Constant Company, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/The%20Constant%20Company%2C%20LLC.txt) |
+| Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/Vultr%20Holdings%2C%20LLC.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/ggyy-nl.txt) |
 | oneprovider.com - Stockholm Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/oneprovider.com%20-%20Stockholm%20Infrastructure.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/oracle.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

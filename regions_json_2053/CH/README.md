@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/_all.txt)
 
@@ -13,8 +13,8 @@
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/HOSTKEY%20B.V.txt) |
-| Infomaniak Network SA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Infomaniak%20Network%20SA.txt) |
+| Infomaniak Network SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Infomaniak%20Network%20SA.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Oracle%20Public%20Cloud.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

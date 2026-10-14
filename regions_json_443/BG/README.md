@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 59 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt)
 
@@ -13,13 +13,13 @@
 | DA International Group Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/DA%20International%20Group%20Ltd.txt) |
 | Deployish Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Deployish%20Limited.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| Friendhosting LTD | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
-| GREEN FLOID LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/GREEN%20FLOID%20LLC.txt) |
+| Friendhosting LTD | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Friendhosting%20LTD.txt) |
+| GREEN FLOID LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/GREEN%20FLOID%20LLC.txt) |
 | ITLDC EU2.SOF Datacenter Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
-| Lir.bg EOOD | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
+| Lir.bg EOOD | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Lir.bg%20EOOD.txt) |
 | Redcluster LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Redcluster%20LTD.txt) |
 | SEBEK sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/SEBEK%20sp.%20z%20o.o.txt) |
 | TerraTransit AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/TerraTransit%20AG.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

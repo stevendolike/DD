@@ -1,22 +1,24 @@
 # IT （純 IP）
 
-**共 28 條** · [返回主頁](../../README.md)
+**共 33 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Akenai Products - IT Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Akenai%20Products%20-%20IT%20Network.txt) |
+| Akenai Products - IT Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Akenai%20Products%20-%20IT%20Network.txt) |
 | Aruba S.p.A. - Cloud Services DC1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20DC1.txt) |
 | Aruba S.p.A. - Cloud Services Farm2 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20Farm2.txt) |
-| Aruba S.p.A. - Cloud Services IT1 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20IT1.txt) |
-| Aruba S.p.A | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Aruba%20S.p.A.txt) |
+| Aruba S.p.A. - Cloud Services IT1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20IT1.txt) |
+| Aruba S.p.A | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Aruba%20S.p.A.txt) |
+| Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Baxet%20Group%20Inc.txt) |
+| BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/BlueVPS%20OU.txt) |
 | EDIS Infrastructure in Italy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/EDIS%20Infrastructure%20in%20Italy.txt) |
-| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/G-Core%20Labs%20S.A.txt) |
-| GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/GREEN%20FLOID%20LLC.txt) |
-| HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/HOSTKEY%20B.V.txt) |
+| GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/GREEN%20FLOID%20LLC.txt) |
+| HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/HOSTKEY%20B.V.txt) |
 | IT Hostline Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/IT%20Hostline%20Ltd.txt) |
+| Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Kamatera%20Inc.txt) |
 | The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

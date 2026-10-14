@@ -6,8 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/HZ%20Hosting%20Ltd.txt) |
+| HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/HZ%20Hosting%20Ltd.txt) |
 | SILKNET BROADBAND | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/SILKNET%20BROADBAND.txt) |
+| WORLDBUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GE/WORLDBUS.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

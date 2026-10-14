@@ -1,0 +1,12 @@
+# IN （純 IP）
+
+**共 2 條** · [返回主頁](../../README.md)
+
+[📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/_all.txt)
+
+| 組織 | 條目數 | Raw URL |
+|------|--------|---------|
+| BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/BEAFORT%20LIMITED.txt) |
+
+---
+*最後更新：2026-10-14 14:58 UTC*

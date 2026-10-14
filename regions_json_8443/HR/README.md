@@ -1,12 +1,12 @@
 # HR （純 IP）
 
-**共 2 條** · [返回主頁](../../README.md)
+**共 1 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| UNKNOWN | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HR/UNKNOWN.txt) |
+| UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HR/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

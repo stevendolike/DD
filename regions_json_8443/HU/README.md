@@ -1,12 +1,13 @@
 # HU （純 IP）
 
-**共 1 條** · [返回主頁](../../README.md)
+**共 2 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/G-Core%20Labs%20S.A.txt) |
 | VIPY - ByteFly Kft | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HU/VIPY%20-%20ByteFly%20Kft.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

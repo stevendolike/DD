@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 2 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/BG/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | Lir.bg EOOD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/BG/Lir.bg%20EOOD.txt) |
 | Redcluster LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/BG/Redcluster%20LTD.txt) |
-| VPS.BG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/BG/VPS.BG.txt) |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*

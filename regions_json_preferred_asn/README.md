@@ -1,25 +1,24 @@
 # 優選 ASN（全部 Port）
 
-**共 537 條** · [返回主頁](../README.md)
+**共 547 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
-| AE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/AE.txt) |
-| CA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/CA.txt) |
+| AE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/AE.txt) |
+| CA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/CA.txt) |
 | CN | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/CN.txt) |
-| DE | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/DE.txt) |
-| GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/GB.txt) |
-| HK | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/HK.txt) |
+| DE | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/DE.txt) |
+| HK | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/ID.txt) |
-| JP | 73 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
-| KR | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/KR.txt) |
+| JP | 71 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
+| KR | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/KR.txt) |
 | MY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/MY.txt) |
 | NL | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/NL.txt) |
-| SG | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/SG.txt) |
-| TW | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/TW.txt) |
-| US | 347 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
+| SG | 52 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/SG.txt) |
+| TW | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/TW.txt) |
+| US | 350 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
 
 ## 📋 納入清單
 
@@ -72,4 +71,4 @@
 | [AS9924](https://bgp.tools/as/9924) | TFN 台灣固網 |
 
 ---
-*最後更新：2026-10-14 00:58 UTC*
+*最後更新：2026-10-14 14:58 UTC*
