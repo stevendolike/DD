@@ -38,4 +38,4 @@
 | Virtualine Technologies | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Virtualine%20Technologies.txt) |
 
 ---
-*最後更新：2026-10-14 14:58 UTC*
+*最後更新：2026-10-15 00:20 UTC*

@@ -55,4 +55,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-10-14 14:58 UTC*
+*最後更新：2026-10-15 00:20 UTC*
