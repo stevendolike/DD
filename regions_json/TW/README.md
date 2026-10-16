@@ -8,13 +8,13 @@
 |------|--------|---------|
 | Akari Networks (Taipei) | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Akari%20Networks%20%28Taipei%29.txt) |
 | ByteVirt LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ByteVirt%20LLC.txt) |
-| Chunghwa Telecom Data Communication Business Group | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
+| Chunghwa Telecom Data Communication Business Group | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/DATAWAVE%20GLOBAL%20LLC.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Google%20LLC.txt) |
-| HiNet Taiwan | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/HiNet%20Taiwan.txt) |
+| HiNet Taiwan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/HiNet%20Taiwan.txt) |
 | Imcloud Technology Co., Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Imcloud%20Technology%20Co.%2C%20Ltd.txt) |
 | TW NCU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/TW%20NCU.txt) |
 | Xiang Ao Communications Co. Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Xiang%20Ao%20Communications%20Co.%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

@@ -17,8 +17,8 @@
 | Local NCC Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Local%20NCC%20Ltd.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Melbikomas%20UAB.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/NetGrid%20Host%20LTD.txt) |
-| Newserverlife LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20Sp.%20z%20o.%20o.txt) |
+| Newserverlife LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Newserverlife%20LLC.txt) |
+| OVH Sp. z o. o | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Podaon%20SIA.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Private%20Customer.txt) |
@@ -30,4 +30,4 @@
 | Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/PL/Warsaw%2C%20Poland.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

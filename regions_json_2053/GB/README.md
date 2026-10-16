@@ -1,12 +1,11 @@
 # GB （純 IP）
 
-**共 118 條** · [返回主頁](../../README.md)
+**共 81 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/AEZA%20GROUP%20LLC.txt) |
 | Contabo GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Contabo%20GmbH.txt) |
 | DigitalOcean, LLC | 68 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/DigitalOcean%2C%20LLC.txt) |
 | IPXO LEASED 82 152 197 0 24 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/IPXO%20LEASED%2082%20152%20197%200%2024.txt) |
@@ -21,4 +20,4 @@
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/GB/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

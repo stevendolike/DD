@@ -1,12 +1,11 @@
 # RO （純 IP）
 
-**共 39 條** · [返回主頁](../../README.md)
+**共 32 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/3NT%20SOLUTIONS%20LLP.txt) |
 | ALEXHOST S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ALEXHOST%20S.R.L.txt) |
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/Baxet%20Group%20Inc.txt) |
 | DOTRO TELECOM SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DOTRO%20TELECOM%20SRL.txt) |
@@ -14,8 +13,7 @@
 | DreamServer SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/DreamServer%20SRL.txt) |
 | FlokiNET ehf | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/FlokiNET%20ehf.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/GREEN%20FLOID%20LLC.txt) |
-| MivoCloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/MivoCloud.txt) |
-| NetGrid Host LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/NetGrid%20Host%20LTD.txt) |
+| NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/NetGrid%20Host%20LTD.txt) |
 | RARE MOOD AGENCY SRL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/SA.txt) |
@@ -25,4 +23,4 @@
 | ZetServers RO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ZetServers%20RO.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

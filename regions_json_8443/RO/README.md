@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/GREEN%20FLOID%20LLC.txt) |
-| MivoCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/MivoCloud.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
@@ -16,4 +15,4 @@
 | _ WWW.RAREACLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_%20WWW.RAREACLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

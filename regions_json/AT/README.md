@@ -1,14 +1,13 @@
 # AT
 
-**共 70 條** · [返回主頁](../../README.md)
+**共 64 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/AEZA%20GROUP%20LLC.txt) |
 | Alpenhost e.U | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Alpenhost%20e.U.txt) |
-| Alwyzon, a trading name of Hohl IT e.U | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
+| Alwyzon, a trading name of Hohl IT e.U | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | Anexia Holding GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Anexia%20Holding%20GmbH.txt) |
 | EDIS IPv6 Infrastructure in Austria | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/EDIS%20IPv6%20Infrastructure%20in%20Austria.txt) |
 | Evolus IT Solutions GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
@@ -22,4 +21,4 @@
 | powered by ANX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AT/powered%20by%20ANX.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

@@ -1,6 +1,6 @@
 # MD （純 IP）
 
-**共 16 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/_all.txt)
 
@@ -10,9 +10,9 @@
 | ALEXHOST SRL | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/ALEXHOST%20SRL.txt) |
 | AVA HOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/AVA%20HOST%20SRL.txt) |
 | EDIS IPv6 Infrastructure in Moldova | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/EDIS%20IPv6%20Infrastructure%20in%20Moldova.txt) |
-| MivoCloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/MivoCloud.txt) |
+| MivoCloud | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/MivoCloud.txt) |
 | S.C. INFOTECH-GRUP S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
 | ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/ipbnb.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

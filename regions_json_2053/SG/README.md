@@ -1,13 +1,11 @@
 # SG （純 IP）
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 15 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ACEVILLE PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/ACEVILLE%20PTE.LTD.txt) |
-| Akamai Connected Cloud _ Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Alibaba%20Cloud%20LLC.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Baxet%20Group%20Inc.txt) |
 | ByteVirt LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/ByteVirt%20LLC.txt) |
@@ -21,4 +19,4 @@
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

@@ -1,6 +1,6 @@
 # TR
 
-**共 59 條** · [返回主頁](../../README.md)
+**共 56 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/_all_443.txt)
 
@@ -9,7 +9,6 @@
 | 2E TELEKOMUNIKASYON LTD STI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 2E Telekomunikasyon LTD. STI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/3NT%20SOLUTIONS%20LLP.txt) |
-| Akenai Products - DE Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Akenai%20Products%20-%20DE%20Network.txt) |
 | BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Baxet%20Group%20Inc.txt) |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/CIZGI%20TELEKOMUNIKASYON%20ANONIM%20SIRKETI.txt) |
@@ -24,7 +23,7 @@
 | IPv4Center.com Partition - Order #4 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/IPv4Center.com%20Partition%20-%20Order%20%234.txt) |
 | IPv4Center.com Partition - Order #5 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/IPv4Center.com%20Partition%20-%20Order%20%235.txt) |
 | Keyubu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Keyubu.txt) |
-| LIGHT NODE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/LIGHT%20NODE%20LIMITED.txt) |
+| LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/LIGHT%20NODE%20LIMITED.txt) |
 | NETLEN INTERNET HIZMETLERI LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/NETLEN%20INTERNET%20HIZMETLERI%20LIMITED%20SIRKETI.txt) |
 | Netlen Internet Hizmetleri Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Poyraz Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/Poyraz%20Hosting.txt) |
@@ -42,4 +41,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

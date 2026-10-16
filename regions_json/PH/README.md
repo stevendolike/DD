@@ -10,4 +10,4 @@
 | Herza Singapore Pte Ltd t_a Herza Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/Herza%20Singapore%20Pte%20Ltd%20t_a%20Herza%20Cloud.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

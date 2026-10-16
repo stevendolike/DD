@@ -1,6 +1,6 @@
 # KZ
 
-**共 139 條** · [返回主頁](../../README.md)
+**共 136 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -24,15 +24,14 @@
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | JSC Datacenter | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20Datacenter.txt) |
 | JSC Severen-Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20Severen-Telecom.txt) |
-| JSC TIMEWEB | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
 | LLP Internet Company First Page | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
-| LLP Kompaniya Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/LLP%20Kompaniya%20Hoster.KZ.txt) |
 | Megahost Kazakhstan TOO | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Modern%20Server%20Solutions%20LLP.txt) |
-| NTL Kazakhstan TOO | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| PS Internet Company LLP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
+| NTL Kazakhstan TOO | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/NTL%20Kazakhstan%20TOO.txt) |
+| PS Internet Company LLP | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Servercore Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Servercore%20Network.txt) |
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

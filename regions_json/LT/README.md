@@ -1,6 +1,6 @@
 # LT
 
-**共 46 條** · [返回主頁](../../README.md)
+**共 45 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/_all_443.txt)
 
@@ -17,10 +17,9 @@
 | SOLID Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/SOLID%20Lithuania.txt) |
 | SolusVM priskirti adresai | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/SolusVM%20priskirti%20adresai.txt) |
 | Space Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Space%20Hosting.txt) |
-| TakeHost OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/TakeHost%20OU.txt) |
 | UAB Cherry Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

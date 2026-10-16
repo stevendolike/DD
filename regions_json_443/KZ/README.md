@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 97 條** · [返回主頁](../../README.md)
+**共 96 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt)
 
@@ -23,13 +23,12 @@
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | JSC Datacenter | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20Datacenter.txt) |
 | JSC Severen-Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20Severen-Telecom.txt) |
-| JSC TIMEWEB | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/JSC%20TIMEWEB.txt) |
 | LLP Internet Company First Page | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
-| LLP Kompaniya Hoster.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/LLP%20Kompaniya%20Hoster.KZ.txt) |
 | Megahost Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/Modern%20Server%20Solutions%20LLP.txt) |
-| NTL Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| PS Internet Company LLP | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
+| NTL Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/NTL%20Kazakhstan%20TOO.txt) |
+| PS Internet Company LLP | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

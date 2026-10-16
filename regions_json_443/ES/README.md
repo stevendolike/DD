@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 140 條** · [返回主頁](../../README.md)
+**共 136 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt)
 
@@ -13,16 +13,15 @@
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/BlueVPS%20OU.txt) |
 | CLOUDI NEXTGEN SL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/CLOUDI%20NEXTGEN%20SL.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Cloudflare%20London%2C%20LLC.txt) |
-| DIGI SPAIN TELECOM S.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20SPAIN%20TELECOM%20S.A.txt) |
+| DIGI SPAIN TELECOM S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20SPAIN%20TELECOM%20S.A.txt) |
 | DIGI Spain Telecom IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20Spain%20Telecom%20IPv6.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GREEN%20FLOID%20LLC.txt) |
 | GTHost | 90 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HOSTKEY%20B.V.txt) |
-| HUIZE LTD | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
+| HUIZE LTD | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IONOS%20SE.txt) |
 | IT Hostline Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/IT%20Hostline%20Ltd.txt) |
-| Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Kamatera%20Inc.txt) |
 | Linode, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Linode%2C%20LLC.txt) |
 | Raiola Networks IPv4 static | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Raiola%20Networks%20IPv4%20static.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Snowd%20Security%20OU.txt) |
@@ -33,4 +32,4 @@
 | arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.pt.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

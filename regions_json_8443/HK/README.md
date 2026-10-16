@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 56 條** · [返回主頁](../../README.md)
+**共 55 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
@@ -31,7 +31,7 @@
 | RM301K,3_F,HONGKONG TRADE CENTRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/RM301K%2C3_F%2CHONGKONG%20TRADE%20CENTRE.txt) |
 | Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Subnet%20Digital%20LLC.txt) |
 | VAPELINE TECHNOLOGY(HK).,LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VAPELINE%20TECHNOLOGY%28HK%29.%2CLIMITED.txt) |
-| VMISS Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc.txt) |
+| VMISS Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*

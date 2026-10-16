@@ -1,6 +1,6 @@
 # NO
 
-**共 13 條** · [返回主頁](../../README.md)
+**共 12 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all_443.txt)
 
@@ -10,11 +10,10 @@
 | EDIS IPv6 Infrastructure in Norway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/EDIS%20IPv6%20Infrastructure%20in%20Norway.txt) |
 | Gigahost AS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Gigahost%20AS.txt) |
 | H4F.NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/H4F.NET.txt) |
-| IPv6 Customers (Internal) Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/IPv6%20Customers%20%28Internal%29%20Servers.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Microsoft%20Corporation.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/UpCloud%20Cloud%20Servers.txt) |
 | WebHorizon IT Broadband Limited Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/WebHorizon%20IT%20Broadband%20Limited%20Norway.txt) |
 | WebHorizon Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-10-15 00:20 UTC*
+*最後更新：2026-10-16 09:25 UTC*
