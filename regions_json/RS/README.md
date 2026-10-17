@@ -15,4 +15,4 @@
 | VPS1 NET Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/VPS1%20NET%20Serbia.txt) |
 
 ---
-*最後更新：2026-10-16 09:25 UTC*
+*最後更新：2026-10-17 00:12 UTC*

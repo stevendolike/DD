@@ -19,4 +19,4 @@
 | xTom GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/JP/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-16 09:25 UTC*
+*最後更新：2026-10-17 00:12 UTC*
