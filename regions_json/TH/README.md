@@ -11,4 +11,4 @@
 | ReadyIDC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TH/ReadyIDC.txt) |
 
 ---
-*最後更新：2026-10-17 08:56 UTC*
+*最後更新：2026-10-17 23:51 UTC*
