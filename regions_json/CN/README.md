@@ -6,9 +6,10 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| ACEVILLE PTE.LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CN/ACEVILLE%20PTE.LTD.txt) |
+| ACEVILLE PTE.LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CN/ACEVILLE%20PTE.LTD.txt) |
 | Aliyun Computing Co.LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CN/Aliyun%20Computing%20Co.LTD.txt) |
+| CHINANET Hubei province network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CN/CHINANET%20Hubei%20province%20network.txt) |
 | GEELINX LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CN/GEELINX%20LTD.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

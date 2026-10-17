@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/1Cent%20Host.txt) |
-| AEZA GROUP LLC | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/AEZA%20GROUP%20LLC.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/BG-NETWORK.txt) |
 | CHSL Helsinki | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/CHSL%20Helsinki.txt) |
 | EDIS IPv6 Infrastructure in Finland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/EDIS%20IPv6%20Infrastructure%20in%20Finland.txt) |
@@ -33,7 +33,7 @@
 | jogcorp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/jogcorp.txt) |
 | nuxt.cloud hosting provider | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/nuxt.cloud%20hosting%20provider.txt) |
 | play2go.cloud - Cheap and reliable hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
-| u1host Finland | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/u1host%20Finland.txt) |
+| u1host Finland | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FI/u1host%20Finland.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

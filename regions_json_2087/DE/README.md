@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 202 條** · [返回主頁](../../README.md)
+**共 199 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt)
 
@@ -12,13 +12,13 @@
 | CLOUVIDER Virtual Machines | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/CLOUVIDER%20Virtual%20Machines.txt) |
 | Cloud Hosting Solutions, Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Cloud%20Hosting%20Solutions%2C%20Limited.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Deployish%20Limited.txt) |
-| DigitalOcean, LLC | 154 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 153 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean%2C%20LLC.txt) |
 | Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Fornex%20Hosting%20S.L.txt) |
 | Frankfurt, Germany | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Frankfurt%2C%20Germany.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/HOSTKEY%20B.V.txt) |
 | Hetzner Online GmbH | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Hetzner%20Online%20GmbH.txt) |
-| IPXO Lease | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/IPXO%20Lease.txt) |
-| Senko Digital LLC - DE Network | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
+| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Private%20Customer.txt) |
+| Senko Digital LLC - DE Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Senko%20Digital%20LLC%20-%20DE%20Network.txt) |
 | Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Snowd%20Security%20OU.txt) |
 | Stephan Rakowski, trading as CSN-Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Stephan%20Rakowski%2C%20trading%20as%20CSN-Solutions%20GmbH.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/The%20Constant%20Company%2C%20LLC.txt) |
@@ -26,7 +26,6 @@
 | netcup GmbH | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/netcup%20GmbH.txt) |
 | nuxtcloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/nuxtcloud.txt) |
 | u1host ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/u1host%20ltd.txt) |
-| www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

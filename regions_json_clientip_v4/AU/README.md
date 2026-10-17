@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/3nt%20solutions%20LLP.txt) |
+| 3NT Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/3NT%20Solutions%20LLP.txt) |
 | Evoxt (AU) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Evoxt%20%28AU%29.txt) |
 | Level 6, 9-13 Young Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Level%206%2C%209-13%20Young%20Street.txt) |
 | Macquarie Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/Macquarie%20Telecom.txt) |
@@ -16,4 +16,4 @@
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AU/oracle.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

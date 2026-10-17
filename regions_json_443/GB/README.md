@@ -20,7 +20,6 @@
 | Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Costel%20Savulescu.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%20London.txt) |
 | DigitalOcean, LLC | 239 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/DigitalOcean%2C%20LLC.txt) |
-| Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Evoxt.com.txt) |
 | GLOBALTELEHOST Corp | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/GLOBALTELEHOST%20Corp.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Google%20LLC.txt) |
 | HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/HOSTKEY%20B.V.txt) |
@@ -31,7 +30,7 @@
 | IT Hostline Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/IT%20Hostline%20Ltd.txt) |
 | Iomart Managed Services Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Iomart%20Managed%20Services%20Limited.txt) |
 | Ionis Group - Ionis Schools of Technology and Management SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Ionis%20Group%20-%20Ionis%20Schools%20of%20Technology%20and%20Management%20SAS.txt) |
-| Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode%2C%20LLC.txt) |
+| Linode, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode%2C%20LLC.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Linode.txt) |
 | MONOVM BILGI VE TEKNOLOJI LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/MONOVM%20BILGI%20VE%20TEKNOLOJI%20LIMITED%20SIRKETI.txt) |
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/Microsoft%20Limited.txt) |
@@ -53,4 +52,4 @@
 | YUNYOO LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/YUNYOO%20LTD.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

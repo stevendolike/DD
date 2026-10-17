@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 150 條** · [返回主頁](../../README.md)
+**共 148 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/_all.txt)
 
@@ -47,8 +47,8 @@
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Oracle%20Corporation.txt) |
 | PANSTAR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/PANSTAR.txt) |
 | Podaon SIA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Podaon%20SIA.txt) |
-| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Private%20Customer.txt) |
-| RackNerd LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RackNerd%20LLC.txt) |
+| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Private%20Customer.txt) |
+| RackNerd LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/RackNerd%20LLC.txt) |
 | SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/SERV.HOST%20GROUP%20LTD.txt) |
 | Strong Technology, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Strong%20Technology%2C%20LLC.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/Subnet%20Digital%20LLC.txt) |
@@ -63,4 +63,4 @@
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/US/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

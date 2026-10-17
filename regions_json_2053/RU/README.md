@@ -10,7 +10,7 @@
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | JSC IOT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20IOT.txt) |
 | JSC TIMEWEB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/JSC%20TIMEWEB.txt) |
-| LLC Baxet | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20Baxet.txt) |
+| LLC BAXET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/RU/LLC%20BAXET.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

@@ -1,6 +1,6 @@
 # SE （純 IP）
 
-**共 145 條** · [返回主頁](../../README.md)
+**共 148 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt)
 
@@ -17,7 +17,7 @@
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/BlueVPS%20OU.txt) |
 | CacheFly | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/CacheFly.txt) |
 | DFDB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/DFDB%20LLC.txt) |
-| Deployish Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Deployish%20Limited.txt) |
+| Deployish Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Deployish%20Limited.txt) |
 | EDIS IPv6 Infrastructure in Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/EDIS%20IPv6%20Infrastructure%20in%20Sweden.txt) |
 | FORTIS Hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/FORTIS%20Hosting%20services.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -45,6 +45,7 @@
 | Switzerland infrastructure | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Switzerland%20infrastructure.txt) |
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/UpCloud%20Cloud%20Servers.txt) |
+| Versija SIA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Versija%20SIA.txt) |
 | Vultr Sweden | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/Vultr%20Sweden.txt) |
 | ggyy-nl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/ggyy-nl.txt) |
 | oneprovider.com - Stockholm Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/oneprovider.com%20-%20Stockholm%20Infrastructure.txt) |
@@ -52,4 +53,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

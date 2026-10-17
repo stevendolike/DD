@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/3nt%20solutions%20LLP.txt) |
+| 3NT Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/3NT%20Solutions%20LLP.txt) |
 | Ace Data Centers II, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Ace%20Data%20Centers%20II%2C%20LLC.txt) |
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Baxet%20Group%20Inc.txt) |
 | Cloud Services CZ1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Cloud%20Services%20CZ1.txt) |
@@ -22,11 +22,10 @@
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/NetGrid%20Host%20LTD.txt) |
 | Retzor, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor%2C%20Inc.txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Retzor-com.txt) |
-| SmartApe OU | 78 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 79 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/SmartApe%20OU.txt) |
 | TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/TA%20Consulting%20%26%20Services%20UG.txt) |
 | UPC Ceska republika, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/UPC%20Ceska%20republika%2C%20a.s.txt) |
 | Zoner webhosting and serverhosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Zoner%20webhosting%20and%20serverhosting%20services.txt) |
-| vpsFree.cz, z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/vpsFree.cz%2C%20z.s.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

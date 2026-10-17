@@ -21,8 +21,7 @@
 | Keyubu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Keyubu.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/LIGHT%20NODE%20LIMITED.txt) |
 | Markahost Telekomunikasyon Ve Ticaret Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Markahost%20Telekomunikasyon%20Ve%20Ticaret%20Limited%20Sirketi.txt) |
-| NETLEN INTERNET HIZMETLERI LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/NETLEN%20INTERNET%20HIZMETLERI%20LIMITED%20SIRKETI.txt) |
-| Netlen Internet Hizmetleri Ltd. Sti | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netlen Internet Hizmetleri Ltd. Sti | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Poyraz Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Poyraz%20Hosting.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/Private%20Customer.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
@@ -35,4 +34,4 @@
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

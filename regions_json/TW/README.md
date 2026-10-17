@@ -1,14 +1,14 @@
 # TW
 
-**共 34 條** · [返回主頁](../../README.md)
+**共 32 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Akari Networks (Taipei) | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Akari%20Networks%20%28Taipei%29.txt) |
+| Akari Networks (Taipei) | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Akari%20Networks%20%28Taipei%29.txt) |
 | ByteVirt LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/ByteVirt%20LLC.txt) |
-| Chunghwa Telecom Data Communication Business Group | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
+| Chunghwa Telecom Data Communication Business Group | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Chunghwa%20Telecom%20Data%20Communication%20Business%20Group.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/DATAWAVE%20GLOBAL%20LLC.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Google%20LLC.txt) |
 | HiNet Taiwan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/HiNet%20Taiwan.txt) |
@@ -17,4 +17,4 @@
 | Xiang Ao Communications Co. Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/Xiang%20Ao%20Communications%20Co.%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

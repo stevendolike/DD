@@ -6,9 +6,9 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/Evoxt.com.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/G-Core%20Labs%20Customer%20assignment.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/HOSTKEY%20B.V.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/Melbikomas%20UAB.txt) |
 | OVH Sp. z o. o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/South%20Park%20Networks%20LLC.txt) |
@@ -16,4 +16,4 @@
 | ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/ipbnb.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*

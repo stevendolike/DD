@@ -7,7 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/365%20Group%20LLC.txt) |
-| 3nt solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/3nt%20solutions%20LLP.txt) |
+| 3NT Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/3NT%20Solutions%20LLP.txt) |
 | Akamai Connected Cloud _ Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Amazon.com, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Amazon.com%2C%20Inc.txt) |
 | Contabo Asia Private Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Contabo%20Asia%20Private%20Limited.txt) |
@@ -28,4 +28,4 @@
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-17 00:12 UTC*
+*最後更新：2026-10-17 08:56 UTC*
