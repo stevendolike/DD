@@ -13,4 +13,4 @@
 | TELEKOM SRBIJA, ADSL users | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/TELEKOM%20SRBIJA%2C%20ADSL%20users.txt) |
 
 ---
-*最後更新：2026-10-21 05:28 UTC*
+*最後更新：2026-10-21 09:46 UTC*
