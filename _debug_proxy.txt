@@ -1,0 +1,28 @@
+run_at=2026-10-21T05:13:12Z
+PROXY_URL=https://dd-proxy-nu.vercel.app/api/all
+PROXY_URL_2=https://jolly-urchin-1618.stevendolike.deno.net/all.json
+PROXY_TOKEN_len=43
+---
+main → HTTP=200 curl_rc=0 size=13218519
+{
+  "generated_at": "2026-10-21T03:30:25.083658",
+  "list": {
+    "country": {
+      "US": 1982,
+      "FR": 464,
+      "CA": 98,
+      "SE": 177,
+      "NL": 2979,
+      "MX": 9,
+
+backup → HTTP=503 curl_rc=0 size=213
+503: Service Unavailable (USAGE_EXCEEDED)
+
+This application is suspended due to usage limits being exceeded.
+trace: 72a242c660346438641101cd12625623
+
+Deno Deploy encountered an err
+yx1 → HTTP=403 curl_rc=0 size=5438
+<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content
+upstream_direct → HTTP=403 curl_rc=0 size=5331
+<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content
