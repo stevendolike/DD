@@ -2,6 +2,9 @@ name: Split by Region
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/split.yml'   # 改 workflow 即時驗證（數據 commit 唔會觸發，避免循環）
   schedule:
     - cron: '0 22 * * *'   # 06:00 HKT
     - cron: '0 5 * * *'   # 18:00 HKT
