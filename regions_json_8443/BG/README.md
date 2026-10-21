@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Baxet%20Group%20Inc.txt) |
 | Belcloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Belcloud%20LTD.txt) |
-| BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/BlueVPS%20OU.txt) |
+| DA International Group Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/DA%20International%20Group%20Ltd.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Deployish%20Limited.txt) |
 | EDIS IPv6 Infrastructure in Bulgaria | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/EDIS%20IPv6%20Infrastructure%20in%20Bulgaria.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
@@ -17,10 +17,10 @@
 | GREEN FLOID LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/GREEN%20FLOID%20LLC.txt) |
 | GuardNetwork | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/GuardNetwork.txt) |
 | ITLDC EU2.SOF Datacenter Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
-| Lir.bg EOOD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Lir.bg%20EOOD.txt) |
+| Lir.bg EOOD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Lir.bg%20EOOD.txt) |
 | Redcluster LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Redcluster%20LTD.txt) |
 | TerraTransit AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/TerraTransit%20AG.txt) |
 | Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

@@ -7,7 +7,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Alwyzon, a trading name of Hohl IT e.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
-| netcup GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/netcup%20GmbH.txt) |
+| Anexia Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/Anexia%20Holding%20GmbH.txt) |
+| netcup GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/AT/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

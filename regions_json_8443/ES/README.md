@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 16 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | ARSYS INTERNET S.L.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| GINERNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/GINERNET.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HOSTKEY%20B.V.txt) |
 | HUIZE LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/HUIZE%20LTD.txt) |
@@ -18,4 +17,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

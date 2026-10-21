@@ -21,7 +21,7 @@
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Oracle%20Svenska%20AB.txt) |
 | SERVERBIKE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/SERVERBIKE%20LTD.txt) |
 | SIA VEESP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/SIA%20VEESP.txt) |
-| TA Consulting & Services UG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/TA%20Consulting%20%26%20Services%20UG.txt) |
+| TA Consulting & Services GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/TA%20Consulting%20%26%20Services%20GmbH.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/The%20Constant%20Company%2C%20LLC.txt) |
 | Threatoff | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Threatoff.txt) |
 | Timeweb, LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/Timeweb%2C%20LLP.txt) |
@@ -29,4 +29,4 @@
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

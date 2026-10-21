@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| Asia Pacific Network Information Centre | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/Asia%20Pacific%20Network%20Information%20Centre.txt) |
 | Converge ICT Corporate Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/Converge%20ICT%20Corporate%20Customer.txt) |
-| Herza Singapore Pte Ltd t_a Herza Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PH/Herza%20Singapore%20Pte%20Ltd%20t_a%20Herza%20Cloud.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

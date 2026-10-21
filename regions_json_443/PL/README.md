@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 241 條** · [返回主頁](../../README.md)
+**共 234 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -25,15 +25,15 @@
 | Datagio Systems Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Datagio%20Systems%20Ltd.txt) |
 | EternityCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/EternityCloud.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Evoxt.com.txt) |
-| ExpressHost LTD | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
+| ExpressHost LTD | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
 | FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/FORTIS.txt) |
-| Friendhosting LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Friendhosting%20LTD.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| Friendhosting LTD | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Friendhosting%20LTD.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GREEN%20FLOID%20LLC.txt) |
 | H2.NEXUS Warsaw Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/H2.NEXUS%20Warsaw%20Network.txt) |
-| HOSTKEY B.V | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V.txt) |
-| HOSTOFF infrastructure and hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
-| HZ Hosting Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HZ%20Hosting%20Ltd.txt) |
+| HOSTKEY B.V | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V.txt) |
+| HOSTOFF infrastructure and hosting services | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| HZ Hosting Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HZ%20Hosting%20Ltd.txt) |
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostesLLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HostesLLC.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
@@ -41,9 +41,8 @@
 | Korbank S. A | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Korbank%20S.%20A.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
 | LLC Euroinform | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/LLC%20Euroinform.txt) |
-| Local NCC Ltd | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
+| Local NCC Ltd | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
 | MEVSPACE sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/MEVSPACE%20sp.%20z%20o.o.txt) |
-| NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NetCrafters%20OU.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/NetGrid%20Host%20LTD.txt) |
 | Netassist Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Netassist%20Limited.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Netia%20SA.txt) |
@@ -59,14 +58,11 @@
 | Shock Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Shock%20Hosting%20LLC.txt) |
 | Snowd Security OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Snowd%20Security%20OU.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/South%20Park%20Networks%20LLC.txt) |
-| TOV FORT-POST | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/TOV%20FORT-POST.txt) |
+| TOV FORT-POST | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/TOV%20FORT-POST.txt) |
 | The Constant Company, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | UPHOST SOLUTIONS LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/UPHOST%20SOLUTIONS%20LIMITED.txt) |
 | UpCloud Cloud Servers | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/UpCloud%20Cloud%20Servers.txt) |
 | Vladislav Novitskii | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Vladislav%20Novitskii.txt) |
-| Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Warsaw%2C%20Poland.txt) |
-| freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/freakhosting.com.txt) |
-| play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

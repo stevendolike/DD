@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 80 條** · [返回主頁](../../README.md)
+**共 72 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt)
 
@@ -18,11 +18,11 @@
 | EternityCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/EternityCloud.txt) |
 | ExpressHost LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/ExpressHost%20LTD.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Friendhosting%20LTD.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GREEN%20FLOID%20LLC.txt) |
-| HOSTKEY B.V | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTKEY%20B.V.txt) |
-| HOSTOFF infrastructure and hosting services | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
-| Local NCC Ltd | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Local%20NCC%20Ltd.txt) |
+| HOSTKEY B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTKEY%20B.V.txt) |
+| HOSTOFF infrastructure and hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
+| Local NCC Ltd | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Local%20NCC%20Ltd.txt) |
 | MEVSPACE sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/MEVSPACE%20sp.%20z%20o.o.txt) |
 | NetCrafters OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/NetCrafters%20OU.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/NetGrid%20Host%20LTD.txt) |
@@ -34,12 +34,11 @@
 | QuadSpark IT Solutions Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/QuadSpark%20IT%20Solutions%20Private%20Limited.txt) |
 | Raul Ghita trading as 'Ghita Telekom' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/SEBEK%20sp.%20z%20o.o.txt) |
-| Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Snowd%20Security%20OU.txt) |
 | The Constant Company, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/VPSPay%20-%20vpspay.cloud.txt) |
 | Vladislav Novitskii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Vladislav%20Novitskii.txt) |
-| Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Warsaw%2C%20Poland.txt) |
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

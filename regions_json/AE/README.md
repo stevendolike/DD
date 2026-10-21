@@ -1,12 +1,13 @@
 # AE
 
-**共 18 條** · [返回主頁](../../README.md)
+**共 19 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Arbor Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Arbor%20Cloud.txt) |
+| Cloudflare, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Cloudflare%2C%20Inc.txt) |
 | EDIS INFRASTRUCTURE IN UAE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/EDIS%20INFRASTRUCTURE%20IN%20UAE.txt) |
 | Emirates Integrated Telecommunications Company PJSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/Emirates%20Integrated%20Telecommunications%20Company%20PJSC.txt) |
 | FIRST SERVER LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/FIRST%20SERVER%20LIMITED.txt) |
@@ -20,4 +21,4 @@
 | RouterHosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AE/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

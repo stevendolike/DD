@@ -1,6 +1,6 @@
 # MY （純 IP）
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Alibaba%20Cloud%20LLC.txt) |
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Amazon.com%2C%20Inc.txt) |
-| Evoxt.com | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Evoxt.com.txt) |
+| Evoxt.com | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/Evoxt.com.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

@@ -6,8 +6,8 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/1Cent%20Host.txt) |
-| 3NT SOLUTIONS LLP | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
+| 1Cent Host | 27 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/1Cent%20Host.txt) |
+| 3NT SOLUTIONS LLP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/3NT%20SOLUTIONS%20LLP.txt) |
 | AS INFONET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/AS%20INFONET.txt) |
 | ASTRA-NETWORKS-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ASTRA-NETWORKS-LTD.txt) |
 | Aktsiaselts WaveCom | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Aktsiaselts%20WaveCom.txt) |
@@ -21,15 +21,15 @@
 | EDIS IPv6 Infrastructure in Estonia | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | ExpressHost LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/ExpressHost%20LTD.txt) |
 | HZ Hosting Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HZ%20Hosting%20Ltd.txt) |
-| HexCore cloud s.r.o | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HexCore%20cloud%20s.r.o.txt) |
+| HexCore cloud s.r.o | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/HexCore%20cloud%20s.r.o.txt) |
 | Host-World OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Host-World%20OU.txt) |
-| IPv6 network for hosting services | 39 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| IPv6 network for hosting services | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | Network for hosting services | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Network%20for%20hosting%20services.txt) |
 | RAKAR INVESTMENTS HOLDING B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V.txt) |
-| SERV.HOST GROUP LTD | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SERV.HOST%20GROUP%20LTD.txt) |
+| SERV.HOST GROUP LTD | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/SERV.HOST%20GROUP%20LTD.txt) |
 | TakeHost OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/TakeHost%20OU.txt) |
 | Wavecom Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/Wavecom%20Infrastructure.txt) |
 | servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/EE/servinga.com%20-%20Estonia.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

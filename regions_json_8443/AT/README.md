@@ -1,6 +1,6 @@
 # AT （純 IP）
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/_all.txt)
 
@@ -10,7 +10,7 @@
 | Alwyzon, a trading name of Hohl IT e.U | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | Evolus IT Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
 | IPAX VIRTUAL line server | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/IPAX%20VIRTUAL%20line%20server.txt) |
-| netcup GmbH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/netcup%20GmbH.txt) |
+| netcup GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AT/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

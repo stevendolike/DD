@@ -1,12 +1,11 @@
 # IT
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 38 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Akenai Products - IT Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Akenai%20Products%20-%20IT%20Network.txt) |
 | Aruba S.p.A. - Cloud Services DC1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20DC1.txt) |
 | Aruba S.p.A. - Cloud Services Farm2 | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20Farm2.txt) |
 | Aruba S.p.A. - Cloud Services IT1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20IT1.txt) |
@@ -19,10 +18,9 @@
 | IT Hostline Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Kamatera%20Inc.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Linode.txt) |
-| Lowhosting services of Davide Gennari | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Lowhosting%20services%20of%20Davide%20Gennari.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Srl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/OVH%20Srl.txt) |
 | The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

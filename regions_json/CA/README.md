@@ -1,6 +1,6 @@
 # CA
 
-**共 119 條** · [返回主頁](../../README.md)
+**共 116 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -14,8 +14,7 @@
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cluster%20Logic%20Inc.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
 | Cogeco Connexion Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Connexion%20Inc.txt) |
-| DigitalOcean, LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
-| EBOX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/EBOX.txt) |
+| DigitalOcean, LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
 | Graeme Tee | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HZ%20Hosting%20Ltd.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
@@ -26,7 +25,7 @@
 | OVH Hosting, Inc | 36 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Public%20Cloud.txt) |
-| Rica Web Services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Rica%20Web%20Services.txt) |
+| Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Rica%20Web%20Services.txt) |
 | Shaw Communications | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
 | Sympatico HSE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Sympatico%20HSE.txt) |
 | TELUS-FIBRE-RCMDBC01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/TELUS-FIBRE-RCMDBC01.txt) |
@@ -36,4 +35,4 @@
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

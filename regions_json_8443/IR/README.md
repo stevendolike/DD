@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Asiatech Data Transmission company | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IR/Asiatech%20Data%20Transmission%20company.txt) |
+| Leased IPv4 Blocks | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IR/Leased%20IPv4%20Blocks.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

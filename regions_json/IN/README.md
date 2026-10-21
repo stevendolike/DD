@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Akamai Connected Cloud _ Linode | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
+| Akamai Connected Cloud _ Linode | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Amazon.com, Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Amazon.com%2C%20Inc.txt) |
 | BEAFORT LIMITED | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Baxet%20Group%20Inc.txt) |
@@ -18,8 +18,9 @@
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Microsoft%20Corporation.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Oracle%20Corporation.txt) |
+| P.D.R Solutions FZC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/P.D.R%20Solutions%20FZC.txt) |
 | The Constant Company, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/The%20Constant%20Company%2C%20LLC.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-10-17 23:51 UTC*
+*最後更新：2026-10-21 05:25 UTC*

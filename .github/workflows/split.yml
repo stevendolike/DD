@@ -35,8 +35,9 @@ jobs:
           UP="https://zip.cm.edu.kg/all.json"
           # 清走任何殘留舊檔（cache restore / 上次 artifact），確保 ok() 只反映今次下載
           rm -f all_new.json
-          # 有效數據 = 有 data 陣列、冇 error 欄位、有實際內容
-          ok() { [ -s "$1" ] && grep -q '"data"' "$1" && ! grep -q '"error"' "$1" && [ "$(wc -c < "$1")" -gt 100000 ]; }
+          # 有效數據驗證（⚠️ 唔可以用 grep '"error"'：上游數據單一 entry 有 meta.error，
+          # 全文搜尋會誤判成「下載失敗」→ 所有源判死 → workflow exit 1）
+          ok() { [ -s "$1" ] && python3 validate_ok.py "$1"; }
 
           # 帶重試 + 遞增 backoff 嘅下載（上游間歇性故障時救得返）
           fetch() {  # $1=url  $2=output  其餘參數原樣傳俾 curl
