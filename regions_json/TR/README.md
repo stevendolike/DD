@@ -9,8 +9,8 @@
 | 2E TELEKOMUNIKASYON LTD STI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/2E%20TELEKOMUNIKASYON%20LTD%20STI.txt) |
 | 2E Telekomunikasyon LTD. STI | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/3NT%20SOLUTIONS%20LLP.txt) |
+| BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/BEAFORT%20LIMITED.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Baxet%20Group%20Inc.txt) |
-| Brnchost Bilisim Teknolojileri | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Brnchost%20Bilisim%20Teknolojileri.txt) |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/CIZGI%20TELEKOMUNIKASYON%20ANONIM%20SIRKETI.txt) |
 | DorukCloud network block | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/DorukCloud%20network%20block.txt) |
 | G-Core Labs S.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/G-Core%20Labs%20S.A.txt) |
@@ -41,4 +41,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-22 00:29 UTC*
+*最後更新：2026-10-22 09:45 UTC*

@@ -1,6 +1,6 @@
 # NO
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/_all_443.txt)
 
@@ -11,8 +11,7 @@
 | Gigahost AS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/Gigahost%20AS.txt) |
 | H4F.NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/H4F.NET.txt) |
 | UpCloud Cloud Servers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/UpCloud%20Cloud%20Servers.txt) |
-| WebHorizon IT Broadband Limited Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/WebHorizon%20IT%20Broadband%20Limited%20Norway.txt) |
 | WebHorizon Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NO/WebHorizon%20Norway.txt) |
 
 ---
-*最後更新：2026-10-22 00:29 UTC*
+*最後更新：2026-10-22 09:45 UTC*

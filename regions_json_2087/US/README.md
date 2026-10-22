@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 49 條** · [返回主頁](../../README.md)
+**共 46 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt)
 
@@ -14,7 +14,6 @@
 | HOSTKEY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HOSTKEY.txt) |
 | HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/HostPapa.txt) |
 | Huize Holdings LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Huize%20Holdings%20LLC.txt) |
-| IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/IT7%20Networks%20Inc.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Interserver, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Interserver%2C%20Inc.txt) |
 | LeaseWeb USA, Inc. Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/LeaseWeb%20USA%2C%20Inc.%20Los%20Angeles.txt) |
@@ -24,8 +23,6 @@
 | Nexeon Technologies, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Nexeon%20Technologies%2C%20Inc.txt) |
 | RackNerd LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/RackNerd%20LLC.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/as56971%20network.txt) |
-| ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/ipbnb.txt) |
-| tzulo, inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/tzulo%2C%20inc.txt) |
 
 ---
-*最後更新：2026-10-22 00:29 UTC*
+*最後更新：2026-10-22 09:45 UTC*

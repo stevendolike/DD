@@ -12,7 +12,7 @@
 | CGI GLOBAL LIMITED | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Cloud%20Software%20-%20FZCO.txt) |
 | CloudBackbone | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CloudBackbone.txt) |
-| Contabo GmbH | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Contabo%20GmbH.txt) |
 | EGIHosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/EGIHosting.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/HOSTKEY%20B.V.txt) |
@@ -23,10 +23,10 @@
 | OVH CH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/OVH%20CH.txt) |
 | OVH SAS | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/OVH%20SAS.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Oracle%20Svenska%20AB.txt) |
-| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Private%20Customer.txt) |
+| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Private%20Customer.txt) |
 | SERVERD SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/SERVERD%20SAS.txt) |
 | Scaleway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Scaleway.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-10-22 00:29 UTC*
+*最後更新：2026-10-22 09:45 UTC*

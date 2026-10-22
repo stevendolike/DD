@@ -1,6 +1,6 @@
 # RU
 
-**共 104 條** · [返回主頁](../../README.md)
+**共 102 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt)
 
@@ -8,14 +8,14 @@
 |------|--------|---------|
 | AEZA GROUP Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AEZA%20GROUP%20Ltd.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Baxet%20Group%20Inc.txt) |
-| Beget LLC | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Beget%20LLC.txt) |
+| Beget LLC | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Beget%20LLC.txt) |
 | BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/BitWeb%20LLC.txt) |
 | Cloud Technologies LLC trading as Cloud.ru | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Cloud%20Technologies%20LLC%20trading%20as%20Cloud.ru.txt) |
 | EDIS IPv6 Infrastructure in Russia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EDIS%20IPv6%20Infrastructure%20in%20Russia.txt) |
 | EDIS IPv6 Infrastructure in St. Petersburg | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EDIS%20IPv6%20Infrastructure%20in%20St.%20Petersburg.txt) |
 | EdgeCenter LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EdgeCenter%20LLC.txt) |
-| FIRST SERVER LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%20LIMITED.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | JSC IOT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20IOT.txt) |
 | JSC TIMEWEB | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
@@ -35,4 +35,4 @@
 | Virtualine Technologies | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Virtualine%20Technologies.txt) |
 
 ---
-*最後更新：2026-10-22 00:29 UTC*
+*最後更新：2026-10-22 09:45 UTC*

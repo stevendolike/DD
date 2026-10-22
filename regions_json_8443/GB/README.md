@@ -1,13 +1,11 @@
 # GB （純 IP）
 
-**共 158 條** · [返回主頁](../../README.md)
+**共 143 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 31173 Services AB infrastructure in London, GB | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/31173%20Services%20AB%20infrastructure%20in%20London%2C%20GB.txt) |
-| Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Baxet%20Group%20Inc.txt) |
 | CLOUVIDER Virtual Machines | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/CLOUVIDER%20Virtual%20Machines.txt) |
@@ -25,7 +23,7 @@
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Ltd | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/OVH%20Ltd.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Private%20Customer.txt) |
-| SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/SA.txt) |
+| SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/SA.txt) |
 | Shaposhnikov Maxim | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Shaposhnikov%20Maxim.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/The%20Constant%20Company%2C%20LLC.txt) |
 | UFO TECHNOLOGIES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/UFO%20TECHNOLOGIES%20LIMITED.txt) |
@@ -34,4 +32,4 @@
 | Vodafone Broadband | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Vodafone%20Broadband.txt) |
 
 ---
-*最後更新：2026-10-22 00:29 UTC*
+*最後更新：2026-10-22 09:45 UTC*
