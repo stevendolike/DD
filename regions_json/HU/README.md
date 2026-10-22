@@ -13,4 +13,4 @@
 | VIPY - ByteFly Kft | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HU/VIPY%20-%20ByteFly%20Kft.txt) |
 
 ---
-*最後更新：2026-10-21 09:46 UTC*
+*最後更新：2026-10-22 00:29 UTC*
