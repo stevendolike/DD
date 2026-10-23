@@ -9,4 +9,4 @@
 | DEBEE Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/HK/DEBEE%20Network.txt) |
 
 ---
-*最後更新：2026-10-23 00:27 UTC*
+*最後更新：2026-10-23 09:41 UTC*

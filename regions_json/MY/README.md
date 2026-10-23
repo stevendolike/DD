@@ -9,8 +9,9 @@
 | Alibaba Cloud - MY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20-%20MY.txt) |
 | Alibaba Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20LLC.txt) |
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Amazon.com%2C%20Inc.txt) |
-| Evoxt.com | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
+| BRANDON MAXWELL LOOI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/BRANDON%20MAXWELL%20LOOI.txt) |
+| Evoxt.com | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
 | Hostinger International Limited | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Hostinger%20International%20Limited.txt) |
 
 ---
-*最後更新：2026-10-23 00:27 UTC*
+*最後更新：2026-10-23 09:41 UTC*

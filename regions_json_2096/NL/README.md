@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 205 條** · [返回主頁](../../README.md)
+**共 204 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/AEZA%20GROUP%20LLC.txt) |
 | DigitalOcean, LLC | 181 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/DigitalOcean%2C%20LLC.txt) |
-| EDIS IPv6 Infrastructure in Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/EDIS%20IPv6%20Infrastructure%20in%20Netherlands.txt) |
 | FDCservers.net | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/FDCservers.net.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/G-Core%20Labs%20S.A.txt) |
@@ -24,4 +23,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-23 00:27 UTC*
+*最後更新：2026-10-23 09:41 UTC*
