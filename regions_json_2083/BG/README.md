@@ -9,4 +9,4 @@
 | Redcluster LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/BG/Redcluster%20LTD.txt) |
 
 ---
-*最後更新：2026-10-22 09:45 UTC*
+*最後更新：2026-10-23 00:27 UTC*
