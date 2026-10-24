@@ -15,4 +15,4 @@
 | Xiang Ao Communications Co. Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/Xiang%20Ao%20Communications%20Co.%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-23 09:41 UTC*
+*最後更新：2026-10-24 00:23 UTC*

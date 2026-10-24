@@ -120,4 +120,4 @@
 | xTom | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/US/xTom.txt) |
 
 ---
-*最後更新：2026-10-23 09:41 UTC*
+*最後更新：2026-10-24 00:23 UTC*
