@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 158 條** · [返回主頁](../../README.md)
+**共 156 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt)
 
@@ -9,7 +9,6 @@
 | 31173 Services AB infrastructure in London, GB | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/31173%20Services%20AB%20infrastructure%20in%20London%2C%20GB.txt) |
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Baxet%20Group%20Inc.txt) |
-| CLOUVIDER Virtual Machines | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/CLOUVIDER%20Virtual%20Machines.txt) |
 | Catixs Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Catixs%20Ltd.txt) |
 | Clouvider Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Clouvider%20Limited.txt) |
 | Contabo GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Contabo%20GmbH.txt) |
@@ -21,7 +20,7 @@
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/IONOS%20SE.txt) |
 | Iomart Managed Services Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Iomart%20Managed%20Services%20Limited.txt) |
 | Leaseweb UK Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Leaseweb%20UK%20Limited.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
+| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Ltd | 33 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/OVH%20Ltd.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Private%20Customer.txt) |
 | SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/SA.txt) |
@@ -33,4 +32,4 @@
 | Vodafone Broadband | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Vodafone%20Broadband.txt) |
 
 ---
-*最後更新：2026-10-24 00:23 UTC*
+*最後更新：2026-10-24 09:13 UTC*

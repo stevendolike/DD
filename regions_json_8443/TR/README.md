@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 20 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/_all.txt)
 
@@ -15,7 +15,7 @@
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/HOSTKEY%20B.V.txt) |
 | HZD TEKNOLOJI VE INOVASYON SANAYI VE TICARET LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/HZD%20TEKNOLOJI%20VE%20INOVASYON%20SANAYI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | IPv4Center.com Partition - Order #4 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/IPv4Center.com%20Partition%20-%20Order%20%234.txt) |
-| Netlen Internet Hizmetleri Ltd. Sti | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netlen Internet Hizmetleri Ltd. Sti | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/Private%20Customer.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
 | SUNUCUN BILGI ILETSIM TEKNOLOJILER_ VE TICARET LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/SUNUCUN%20BILGI%20ILETSIM%20TEKNOLOJILER_%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
@@ -26,4 +26,4 @@
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-24 00:23 UTC*
+*最後更新：2026-10-24 09:13 UTC*

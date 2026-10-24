@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 293 條** · [返回主頁](../../README.md)
+**共 289 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt)
 
@@ -23,8 +23,8 @@
 | SIA VEESP | 91 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/SIA%20VEESP.txt) |
 | Sia Nano IT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Sia%20Nano%20IT.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/Subnet%20Digital%20LLC.txt) |
-| VEESP datacenter clients | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/VEESP%20datacenter%20clients.txt) |
-| as56971 network | 122 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
+| VEESP datacenter clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/VEESP%20datacenter%20clients.txt) |
+| as56971 network | 119 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-24 00:23 UTC*
+*最後更新：2026-10-24 09:13 UTC*

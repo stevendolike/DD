@@ -1,6 +1,6 @@
 # TR
 
-**共 81 條** · [返回主頁](../../README.md)
+**共 78 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -14,7 +14,7 @@
 | Brnchost Bilisim Teknolojileri | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Brnchost%20Bilisim%20Teknolojileri.txt) |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/CIZGI%20TELEKOMUNIKASYON%20ANONIM%20SIRKETI.txt) |
 | DorukCloud network block | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/DorukCloud%20network%20block.txt) |
-| G-Core Labs S.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/G-Core%20Labs%20S.A.txt) |
+| G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/G-Core%20Labs%20S.A.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/HOSTKEY%20B.V.txt) |
@@ -26,7 +26,7 @@
 | Keyubu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Keyubu.txt) |
 | LIGHT NODE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/LIGHT%20NODE%20LIMITED.txt) |
 | Markahost Telekomunikasyon Ve Ticaret Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Markahost%20Telekomunikasyon%20Ve%20Ticaret%20Limited%20Sirketi.txt) |
-| Netlen Internet Hizmetleri Ltd. Sti | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
+| Netlen Internet Hizmetleri Ltd. Sti | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Netlen%20Internet%20Hizmetleri%20Ltd.%20Sti.txt) |
 | Poyraz Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Poyraz%20Hosting.txt) |
 | Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Private%20Customer.txt) |
 | SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/SUNUCUN%20BILGI%20ILETISIM%20TEKNOLOJILERI%20VE%20TICARET%20LIMITED%20SIRKETI.txt) |
@@ -42,4 +42,4 @@
 | hostigger_datacenter_TR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-24 00:23 UTC*
+*最後更新：2026-10-24 09:13 UTC*
