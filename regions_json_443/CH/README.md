@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 109 條** · [返回主頁](../../README.md)
+**共 108 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -30,7 +30,7 @@
 | M247 LTD Zurich Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
 | M247 LTD Zurich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/M247%20LTD%20Zurich.txt) |
 | Misaka Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Misaka%20Network%2C%20Inc.txt) |
-| OVH CH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/OVH%20CH.txt) |
+| OVH CH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/OVH%20CH.txt) |
 | Oracle Public Cloud | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Oracle%20Public%20Cloud.txt) |
 | PRIVATE LAYER INC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/PRIVATE%20LAYER%20INC.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Prinode%20AB.txt) |
@@ -44,4 +44,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

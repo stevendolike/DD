@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/365.partners%20INC.txt) |
+| 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/3NT%20SOLUTIONS%20LLP.txt) |
 | AEZA GROUP LLC | 51 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/BEAFORT%20LIMITED.txt) |
@@ -18,7 +18,7 @@
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Cloud%20Software%20-%20FZCO.txt) |
 | CloudBackbone | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/CloudBackbone.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Cloudflare%20London%2C%20LLC.txt) |
-| Contabo GmbH | 141 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 139 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Contabo%20GmbH.txt) |
 | Dyjix SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Dyjix%20SAS.txt) |
 | EGIHosting | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/EGIHosting.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Evoxt.com.txt) |
@@ -34,6 +34,7 @@
 | IBCS Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IBCS%20Network.txt) |
 | IPHOSTER OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/IPHOSTER%20OU.txt) |
 | Infrawire Networks SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Infrawire%20Networks%20SAS.txt) |
+| Inter Connects Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Inter%20Connects%20Inc.txt) |
 | Jogcorp SAS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Jogcorp%20SAS.txt) |
 | Kaopucloud-datacenter | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Kaopucloud-datacenter.txt) |
 | Keramat Dahr Mahdi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Keramat%20Dahr%20Mahdi.txt) |
@@ -52,13 +53,14 @@
 | Oracle Svenska AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Svenska%20AB.txt) |
 | Orange S.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Orange%20S.A.txt) |
 | POP GRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/POP%20GRE.txt) |
-| Private Customer | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Private%20Customer.txt) |
+| Private Customer | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Private%20Customer.txt) |
 | RACKNERD-FR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/RACKNERD-FR.txt) |
+| REGXA LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/REGXA%20LLC.txt) |
 | ROCKHOSTER PRIVATE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/ROCKHOSTER%20PRIVATE%20LIMITED.txt) |
 | SERVERD SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/SERVERD%20SAS.txt) |
 | SEVIN Jacques | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/SEVIN%20Jacques.txt) |
 | Scaleway | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Scaleway.txt) |
-| Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Subnet%20Digital%20LLC.txt) |
+| Subnet Digital LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Subnet%20Digital%20LLC.txt) |
 | TakeHost.Biz | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/TakeHost.Biz.txt) |
 | Techcrea Solutions SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Techcrea%20Solutions%20SAS.txt) |
 | The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/The%20Constant%20Company%2C%20LLC.txt) |
@@ -72,4 +74,4 @@
 | as56971 network | 54 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

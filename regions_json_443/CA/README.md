@@ -11,11 +11,11 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Baxet%20Group%20Inc.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/CENTRILOGICCANADA.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Cluster%20Logic%20Inc.txt) |
-| DigitalOcean, LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HZ%20Hosting%20Ltd.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/IT7%20Networks%20Inc.txt) |
-| ITGLOBAL.COM NL B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
+| ITGLOBAL.COM NL B.V | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Leaseweb Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Leaseweb%20Canada%20Inc.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Linode.txt) |
 | OVH Hosting, Inc | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/OVH%20Hosting%2C%20Inc.txt) |
@@ -31,4 +31,4 @@
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

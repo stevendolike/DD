@@ -1,6 +1,6 @@
 # AT （純 IP）
 
-**共 44 條** · [返回主頁](../../README.md)
+**共 43 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/_all.txt)
 
@@ -10,7 +10,7 @@
 | Alwyzon, a trading name of Hohl IT e.U | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | EDIS IPv6 Infrastructure in Austria | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/EDIS%20IPv6%20Infrastructure%20in%20Austria.txt) |
 | Evolus IT Solutions GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/HostHatch%20LLC.txt) |
 | Hosteroid - Vienna | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Hosteroid%20-%20Vienna.txt) |
 | IPAX GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/IPAX%20GmbH.txt) |
@@ -18,4 +18,4 @@
 | netcup GmbH | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

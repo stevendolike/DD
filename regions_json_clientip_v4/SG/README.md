@@ -1,6 +1,6 @@
 # SG
 
-**共 89 條** · [返回主頁](../../README.md)
+**共 88 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 16 COLLYER QUAY | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/16%20COLLYER%20QUAY.txt) |
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/3NT%20SOLUTIONS%20LLP.txt) |
-| 500 Oracle Parkway | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/500%20Oracle%20Parkway.txt) |
+| 500 Oracle Parkway | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/500%20Oracle%20Parkway.txt) |
 | 6 COLLYER QUAY | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/6%20COLLYER%20QUAY.txt) |
 | Alibaba Cloud (Singapore) Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Alibaba%20Cloud%20%28Singapore%29%20Private%20Limited.txt) |
 | Alibaba Cloud LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Alibaba%20Cloud%20LLC.txt) |
@@ -25,6 +25,7 @@
 | IPXO LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/IPXO%20LLC.txt) |
 | Internet Utilities Europe and Asia Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
 | JT TELECOM INTERNATIONAL PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/JT%20TELECOM%20INTERNATIONAL%20PTE.LTD.txt) |
+| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Microsoft%20Corporation.txt) |
 | Oracle Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Public%20Cloud.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Oracle%20Svenska%20AB.txt) |
@@ -32,7 +33,7 @@
 | PRIVATE CUSTOMER | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/PRIVATE%20CUSTOMER.txt) |
 | RWIPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/RWIPXO.txt) |
 | SAKURA COMMUNICATIONS PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/SAKURA%20COMMUNICATIONS%20PTE.%20LTD.txt) |
-| SGP_VULTR_CUST | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/SGP_VULTR_CUST.txt) |
+| SGP_VULTR_CUST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/SGP_VULTR_CUST.txt) |
 | SPEEDYPAGE-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/SPEEDYPAGE-LTD.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/UCUL-SG.txt) |
 | Viewqwest Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/Viewqwest%20Pte%20Ltd.txt) |
@@ -40,4 +41,4 @@
 | ZENLA-1 | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/SG/ZENLA-1.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

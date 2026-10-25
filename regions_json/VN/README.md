@@ -1,6 +1,6 @@
 # VN
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/_all_443.txt)
 
@@ -10,7 +10,7 @@
 | H2 Service Consulting Company Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/H2%20Service%20Consulting%20Company%20Limited.txt) |
 | ONLINE DATA COMPANY LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/ONLINE%20DATA%20COMPANY%20LIMITED.txt) |
 | TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/TOTHOST%20SOLUTIONS%20AND%20TECHNOLOGIES%20COMPANY%20LIMITED.txt) |
-| Tino Group Joint Stock Company | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/Tino%20Group%20Joint%20Stock%20Company.txt) |
+| Tino Group Joint Stock Company | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/Tino%20Group%20Joint%20Stock%20Company.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

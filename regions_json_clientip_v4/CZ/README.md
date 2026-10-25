@@ -1,6 +1,6 @@
 # CZ
 
-**共 22 條** · [返回主頁](../../README.md)
+**共 21 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/_all_443.txt)
 
@@ -15,7 +15,6 @@
 | Iron Hosting Centre LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
 | Iron Hosting Centre Ltd., London, UK (mchost) | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%20%28mchost%29.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/NetGrid%20Host%20LTD.txt) |
-| Retzor, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Retzor%2C%20Inc.txt) |
 | Retzor-com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Retzor-com.txt) |
 | SmartApe OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/SmartApe%20OU.txt) |
 | TA Consulting & Services GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/TA%20Consulting%20%26%20Services%20GmbH.txt) |
@@ -23,4 +22,4 @@
 | vpsFree.cz, z.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/vpsFree.cz%2C%20z.s.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

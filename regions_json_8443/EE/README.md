@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 46 條** · [返回主頁](../../README.md)
+**共 47 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/_all.txt)
 
@@ -8,6 +8,7 @@
 |------|--------|---------|
 | 1Cent Host | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/3NT%20SOLUTIONS%20LLP.txt) |
+| AS INFONET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/AS%20INFONET.txt) |
 | ASTRA-NETWORKS-LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/ASTRA-NETWORKS-LTD.txt) |
 | Aktsiaselts WaveCom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Aktsiaselts%20WaveCom.txt) |
 | Andris Jakovlevs | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/Andris%20Jakovlevs.txt) |
@@ -20,4 +21,4 @@
 | SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/SERV.HOST%20GROUP%20LTD.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

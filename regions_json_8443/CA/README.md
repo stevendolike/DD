@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 25 條** · [返回主頁](../../README.md)
+**共 26 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/_all.txt)
 
@@ -12,8 +12,8 @@
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Graeme%20Tee.txt) |
 | ITGLOBAL.COM NL B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Leaseweb Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Leaseweb%20Canada%20Inc.txt) |
-| OVH Hosting, Inc | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
+| OVH Hosting, Inc | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Shaw%20Communications.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*

@@ -1,6 +1,6 @@
 # RO （純 IP）
 
-**共 30 條** · [返回主頁](../../README.md)
+**共 29 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt)
 
@@ -14,7 +14,7 @@
 | FlokiNET ehf | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/FlokiNET%20ehf.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/GREEN%20FLOID%20LLC.txt) |
 | NetGrid Host LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/NetGrid%20Host%20LTD.txt) |
-| RARE MOOD AGENCY SRL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
+| RARE MOOD AGENCY SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | RCS Technologies FZE LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
 | SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/SA.txt) |
 | TIPZOR MEDIA SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/TIPZOR%20MEDIA%20SRL.txt) |
@@ -23,4 +23,4 @@
 | ZetServers RO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/ZetServers%20RO.txt) |
 
 ---
-*最後更新：2026-10-25 00:06 UTC*
+*最後更新：2026-10-25 09:30 UTC*
