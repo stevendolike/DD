@@ -9,4 +9,4 @@
 | IPXON Networks Guatemala [GT_GUA] | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GT/IPXON%20Networks%20Guatemala%20%5BGT_GUA%5D.txt) |
 
 ---
-*最後更新：2026-10-24 09:13 UTC*
+*最後更新：2026-10-25 00:06 UTC*

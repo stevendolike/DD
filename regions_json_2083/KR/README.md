@@ -9,4 +9,4 @@
 | SK Broadband Co Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/KR/SK%20Broadband%20Co%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-24 09:13 UTC*
+*最後更新：2026-10-25 00:06 UTC*

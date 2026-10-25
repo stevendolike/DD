@@ -14,4 +14,4 @@
 | OVH Srl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IT/OVH%20Srl.txt) |
 
 ---
-*最後更新：2026-10-24 09:13 UTC*
+*最後更新：2026-10-25 00:06 UTC*

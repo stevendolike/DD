@@ -77,4 +77,4 @@
 | ZA | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_clientip_v4/ZA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all.txt) · [443](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ZA/_all_443.txt) |
 
 ---
-*最後更新：2026-10-24 09:13 UTC*
+*最後更新：2026-10-25 00:06 UTC*
