@@ -260,4 +260,4 @@
 | xTom GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/NL/xTom%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-25 09:30 UTC*
+*最後更新：2026-10-25 23:57 UTC*
