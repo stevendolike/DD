@@ -1,15 +1,16 @@
 # 家庭寬帶（全部 Port）
 
-**共 97 條** · [返回主頁](../README.md)
+**共 99 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
+| BY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/BY.txt) |
 | CA | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
-| DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
+| DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
@@ -29,13 +30,14 @@
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **46** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **48** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
 | AT&T Enterprises, LLC | US | 10 |
+| Abonent MGTS | BY | 1 |
 | BBIX IPv6 Network | JP | 2 |
 | BIGLOBE Inc | JP | 1 |
 | Block for xDSL_FTTx customers pools | FR | 1 |
@@ -50,7 +52,7 @@
 | Dynamic IP assignment for broadband service | TH | 1 |
 | FiberXpress BV | NL | 5 |
 | Free SAS | FR | 1 |
-| Hong Kong Telecommunications (HKT) Limited Business Internet | HK | 1 |
+| Hong Kong Telecommunications (HKT) Limited | HK | 1 |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 5 |
 | Internetport Sweden AB | SE | 2 |
 | KPN B.V | NL | 1 |
@@ -61,6 +63,7 @@
 | NTT DATA | US | 1 |
 | Optimum Online | US | 1 |
 | Orange S.A | FR | 2 |
+| PCCWG INTERNAL | DE | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
 | Shaw Communications | CA | 5 |
@@ -80,4 +83,4 @@
 | Wave Broadband | US | 1 |
 | Ziggo Consumers | NL | 3 |
 ---
-*最後更新：2026-10-25 23:57 UTC*
+*最後更新：2026-10-26 10:40 UTC*
