@@ -9,4 +9,4 @@
 | BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/IN/BEAFORT%20LIMITED.txt) |
 
 ---
-*最後更新：2026-10-26 10:40 UTC*
+*最後更新：2026-10-27 01:17 UTC*

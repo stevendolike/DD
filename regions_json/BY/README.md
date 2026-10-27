@@ -13,4 +13,4 @@
 | SPRINTHOST LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BY/SPRINTHOST%20LLP.txt) |
 
 ---
-*最後更新：2026-10-26 10:40 UTC*
+*最後更新：2026-10-27 01:17 UTC*
