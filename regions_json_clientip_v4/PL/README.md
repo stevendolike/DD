@@ -1,6 +1,6 @@
 # PL
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 124 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all_443.txt)
 
@@ -20,7 +20,6 @@
 | City Telecom LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/City%20Telecom%20LTD.txt) |
 | Datagio Systems Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Datagio%20Systems%20Ltd.txt) |
 | EternityCloud | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/EternityCloud.txt) |
-| ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/ExpressHost%20LTD.txt) |
 | FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/FORTIS.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/G-Core%20Labs%20Customer%20assignment.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -39,16 +38,16 @@
 | OVH Sp. z o. o | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | OVH VPS WAW | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/OVH%20VPS%20WAW.txt) |
 | PowerRDP Network LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/PowerRDP%20Network%20LTD.txt) |
-| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Private%20Customer.txt) |
+| Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Private%20Customer.txt) |
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Pronet%20LLC.txt) |
 | Rawi Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Rawi%20Network.txt) |
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/SERVA%20ONE%20LTD.txt) |
-| Snowd Security OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Snowd%20Security%20OU.txt) |
 | The Constant Company, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/VPSPay%20-%20vpspay.cloud.txt) |
 | Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Warsaw%2C%20Poland.txt) |
-| freakhosting.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/freakhosting.com.txt) |
+| freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/freakhosting.com.txt) |
 | ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/ipbnb.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 128 條** · [返回主頁](../../README.md)
+**共 44 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt)
 
@@ -15,7 +15,7 @@
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Cloudflare%20London%2C%20LLC.txt) |
 | DIGI Spain Telecom IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20Spain%20Telecom%20IPv6.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GREEN%20FLOID%20LLC.txt) |
-| GTHost | 86 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
+| GTHost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GTHost.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HOSTKEY%20B.V.txt) |
 | HUIZE LTD | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/HUIZE%20LTD.txt) |
@@ -30,4 +30,4 @@
 | arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/arsys.pt.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

@@ -15,4 +15,4 @@
 | RapidSeedbox Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/RapidSeedbox%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

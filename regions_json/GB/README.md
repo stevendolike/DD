@@ -1,6 +1,6 @@
 # GB
 
-**共 780 條** · [返回主頁](../../README.md)
+**共 779 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all_443.txt)
 
@@ -18,7 +18,6 @@
 | Catixs Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Catixs%20Ltd.txt) |
 | Clouvider Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Clouvider%20Limited.txt) |
 | Contabo GmbH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Contabo%20GmbH.txt) |
-| Costel Savulescu | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Costel%20Savulescu.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%20London.txt) |
 | DigitalOcean, LLC | 567 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%2C%20LLC.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Evoxt.com.txt) |
@@ -65,4 +64,4 @@
 | YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

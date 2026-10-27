@@ -1,6 +1,6 @@
 # ES
 
-**共 114 條** · [返回主頁](../../README.md)
+**共 30 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/_all_443.txt)
 
@@ -11,7 +11,7 @@
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/BlueVPS%20OU.txt) |
 | CLOUDI NEXTGEN SL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/CLOUDI%20NEXTGEN%20SL.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| GTHost | 86 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/GTHost.txt) |
+| GTHost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/GTHost.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Google%20LLC.txt) |
 | HOSTKEY B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/HOSTKEY%20B.V.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/IONOS%20SE.txt) |
@@ -26,4 +26,4 @@
 | arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/arsys.pt.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

@@ -1,6 +1,6 @@
 # TR （純 IP）
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 44 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt)
 
@@ -13,7 +13,7 @@
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/CIZGI%20TELEKOMUNIKASYON%20ANONIM%20SIRKETI.txt) |
 | DorukCloud network block | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/DorukCloud%20network%20block.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/HOSTKEY%20B.V.txt) |
 | HostLAB Bilisim Teknolojileri A.S | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/HostLAB%20Bilisim%20Teknolojileri%20A.S.txt) |
 | IPv4Center.com Partition - Order #5 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/IPv4Center.com%20Partition%20-%20Order%20%235.txt) |
@@ -32,4 +32,4 @@
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

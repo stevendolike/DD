@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 195 條** · [返回主頁](../../README.md)
+**共 193 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/_all.txt)
 
@@ -9,9 +9,8 @@
 | AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/AEZA%20GROUP%20LLC.txt) |
 | Advin Services LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Advin%20Services%20LLC.txt) |
 | BrainStorm Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/BrainStorm%20Network%2C%20Inc.txt) |
-| Cloud Hosting Solutions, Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Cloud%20Hosting%20Solutions%2C%20Limited.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Deployish%20Limited.txt) |
-| DigitalOcean, LLC | 154 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 153 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/DigitalOcean%2C%20LLC.txt) |
 | Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Fornex%20Hosting%20S.L.txt) |
 | Frankfurt, Germany | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/Frankfurt%2C%20Germany.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/HOSTKEY%20B.V.txt) |
@@ -26,4 +25,4 @@
 | u1host ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/DE/u1host%20ltd.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

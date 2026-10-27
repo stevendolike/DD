@@ -9,4 +9,4 @@
 | UNKNOWN | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UNKNOWN/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

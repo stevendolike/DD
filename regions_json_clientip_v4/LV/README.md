@@ -1,6 +1,6 @@
 # LV
 
-**共 186 條** · [返回主頁](../../README.md)
+**共 182 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Anton%20Levin.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Baykov%20Ilya%20Sergeevich.txt) |
-| CGI GLOBAL LIMITED | 102 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 98 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/Cloud%20Software%20-%20FZCO.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GREEN FLOID LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/GREEN%20FLOID%20LLC.txt) |
@@ -26,4 +26,4 @@
 | veesp.com clients | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LV/veesp.com%20clients.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

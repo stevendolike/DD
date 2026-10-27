@@ -16,13 +16,12 @@
 | Cloud Software - FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Cloud%20Software%20-%20FZCO.txt) |
 | DATAGEAR LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/DATAGEAR%20LLP.txt) |
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Google%20LLC.txt) |
-| Hong Kong Telecommunications (HKT) Limited Mass Internet | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
-| Hong Kong Telecommunications (HKT) Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited.txt) |
-| Huawei-Cloud-HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Huawei-Cloud-HK.txt) |
+| HONGKONG CLOUD NETWORK TECHNOLOGY CO., LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/HONGKONG%20CLOUD%20NETWORK%20TECHNOLOGY%20CO.%2C%20LIMITED.txt) |
+| Hong Kong Telecommunications (HKT) Limited Mass Internet | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Private%20Customer.txt) |
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/SonderCloud%20Limited.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/Subnet%20Digital%20LLC.txt) |
 | VAPELINE TECHNOLOGY(HK).,LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/HK/VAPELINE%20TECHNOLOGY%28HK%29.%2CLIMITED.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

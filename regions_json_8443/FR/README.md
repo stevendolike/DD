@@ -1,12 +1,12 @@
 # FR （純 IP）
 
-**共 145 條** · [返回主頁](../../README.md)
+**共 146 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/BEAFORT%20LIMITED.txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/CGI%20GLOBAL%20LIMITED.txt) |
@@ -36,4 +36,4 @@
 | as56971 network | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

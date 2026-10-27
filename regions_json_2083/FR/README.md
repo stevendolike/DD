@@ -8,7 +8,7 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FR/AEZA%20GROUP%20LLC.txt) |
 | Contabo GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FR/Contabo%20GmbH.txt) |
-| YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
+| YottaSrc Hosting and Cloud Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FR/YottaSrc%20Hosting%20and%20Cloud%20Services.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

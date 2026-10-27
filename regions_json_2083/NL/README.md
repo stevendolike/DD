@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 209 條** · [返回主頁](../../README.md)
+**共 208 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/_all.txt)
 
@@ -9,7 +9,7 @@
 | 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/1Cent%20Host.txt) |
 | AEZA GROUP LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/AEZA%20GROUP%20Ltd.txt) |
-| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baxet%20Group%20Inc.txt) |
 | DigitalOcean, LLC | 181 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/DigitalOcean%2C%20LLC.txt) |
 | EDIS IPv6 Infrastructure in Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/EDIS%20IPv6%20Infrastructure%20in%20Netherlands.txt) |
 | Hosting Big Data B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Big%20Data%20B.V.txt) |
@@ -25,4 +25,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

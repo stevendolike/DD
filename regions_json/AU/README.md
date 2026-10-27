@@ -1,6 +1,6 @@
 # AU
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 40 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all_443.txt)
 
@@ -21,10 +21,10 @@
 | Oracle Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Corporation.txt) |
 | SMC Server Solutions | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/SMC%20Server%20Solutions.txt) |
 | SUPERLOOP (AUSTRALIA) PTY LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/SUPERLOOP%20%28AUSTRALIA%29%20PTY%20LTD.txt) |
-| The Constant Company, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Vultr%20Holdings%2C%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/oracle.txt) |
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

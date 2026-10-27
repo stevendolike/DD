@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 58 條** · [返回主頁](../../README.md)
+**共 57 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
@@ -10,7 +10,6 @@
 | ACEVILLE PTE.LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/ACEVILLE%20PTE.LTD.txt) |
 | Akamai Connected Cloud _ Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Alibaba%20Cloud%20LLC.txt) |
-| BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/BAGE%20CLOUD%20LLC.txt) |
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Baxet%20Group%20Inc.txt) |
 | ByteVirt LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/ByteVirt%20LLC.txt) |
 | Contabo Asia Private Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Contabo%20Asia%20Private%20Limited.txt) |
@@ -32,4 +31,4 @@
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

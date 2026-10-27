@@ -10,27 +10,27 @@
 | CA | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
-| DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
+| DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
-| FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
+| FR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | JP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
-| NL | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
+| NL | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | RS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RS.txt) |
 | SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
-| US | 28 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **48** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **47** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
@@ -52,8 +52,7 @@
 | Dynamic IP assignment for broadband service | TH | 1 |
 | FiberXpress BV | NL | 5 |
 | Free SAS | FR | 1 |
-| Hong Kong Telecommunications (HKT) Limited | HK | 1 |
-| Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 5 |
+| Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 6 |
 | Internetport Sweden AB | SE | 2 |
 | KPN B.V | NL | 1 |
 | KPN CM | NL | 1 |
@@ -62,8 +61,7 @@
 | NTT America, Inc | US | 6 |
 | NTT DATA | US | 1 |
 | Optimum Online | US | 1 |
-| Orange S.A | FR | 2 |
-| PCCWG INTERNAL | DE | 1 |
+| Orange S.A | FR | 3 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
 | Shaw Communications | CA | 5 |
@@ -81,6 +79,7 @@
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Wave Broadband | US | 1 |
-| Ziggo Consumers | NL | 3 |
+| Wyyerd Group | US | 1 |
+| Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*

@@ -12,9 +12,8 @@
 | Astrec Data OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Astrec%20Data%20OU.txt) |
 | Baykov Ilya Sergeevich | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/BlueVPS%20OU.txt) |
-| Brainoza OU | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
+| Brainoza OU | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Brainoza%20OU.txt) |
 | Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Cloudflare%20London%2C%20LLC.txt) |
-| EDIS Global Infrastructure in Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/EDIS%20Global%20Infrastructure%20in%20Estonia.txt) |
 | EDIS IPv6 Infrastructure in Estonia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/EDIS%20IPv6%20Infrastructure%20in%20Estonia.txt) |
 | ExpressHost LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/ExpressHost%20LTD.txt) |
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HZ%20Hosting%20Ltd.txt) |
@@ -28,4 +27,4 @@
 | servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/servinga.com%20-%20Estonia.txt) |
 
 ---
-*最後更新：2026-10-27 01:17 UTC*
+*最後更新：2026-10-27 10:08 UTC*
