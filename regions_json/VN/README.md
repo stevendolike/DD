@@ -13,4 +13,4 @@
 | Tino Group Joint Stock Company | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/VN/Tino%20Group%20Joint%20Stock%20Company.txt) |
 
 ---
-*最後更新：2026-10-27 10:08 UTC*
+*最後更新：2026-10-28 01:02 UTC*

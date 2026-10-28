@@ -40,4 +40,4 @@
 | ZOUTER TOKYO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ZOUTER%20TOKYO.txt) |
 
 ---
-*最後更新：2026-10-27 10:08 UTC*
+*最後更新：2026-10-28 01:02 UTC*

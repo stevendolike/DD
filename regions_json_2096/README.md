@@ -28,4 +28,4 @@
 | US | 38 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2096/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt) |
 
 ---
-*最後更新：2026-10-27 10:08 UTC*
+*最後更新：2026-10-28 01:02 UTC*
