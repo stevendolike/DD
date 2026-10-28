@@ -7,11 +7,11 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/Friendhosting%20LTD.txt) |
+| GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/GREEN%20FLOID%20LLC.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
-| RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/RCS%20Technologies%20FZE%20LLC.txt) |
 | ZetServers RO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/ZetServers%20RO.txt) |
 | _ WWW.RAREACLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_%20WWW.RAREACLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-10-28 01:02 UTC*
+*最後更新：2026-10-28 10:54 UTC*

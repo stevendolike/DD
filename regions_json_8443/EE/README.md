@@ -21,4 +21,4 @@
 | SERV.HOST GROUP LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/SERV.HOST%20GROUP%20LTD.txt) |
 
 ---
-*最後更新：2026-10-28 01:02 UTC*
+*最後更新：2026-10-28 10:54 UTC*

@@ -8,8 +8,7 @@
 |------|--------|---------|
 | Emirates Integrated Telecommunications Company PJSC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AE/Emirates%20Integrated%20Telecommunications%20Company%20PJSC.txt) |
 | Oneprovider.com - Dubai Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AE/Oneprovider.com%20-%20Dubai%20Infrastructure.txt) |
-| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AE/Oracle%20Corporation.txt) |
-| Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AE/Oracle%20Svenska%20AB.txt) |
+| Oracle Corporation | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/AE/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-10-28 01:02 UTC*
+*最後更新：2026-10-28 10:54 UTC*

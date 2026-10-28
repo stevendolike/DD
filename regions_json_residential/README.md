@@ -1,16 +1,16 @@
 # 家庭寬帶（全部 Port）
 
-**共 99 條** · [返回主頁](../README.md)
+**共 95 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
 | BY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/BY.txt) |
-| CA | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
-| DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
+| DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
 | FR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
@@ -26,17 +26,17 @@
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | TW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TW.txt) |
-| US | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **47** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **49** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 10 |
+| AT&T Enterprises, LLC | US | 8 |
 | Abonent MGTS | BY | 1 |
 | BBIX IPv6 Network | JP | 2 |
 | BIGLOBE Inc | JP | 1 |
@@ -52,19 +52,21 @@
 | Dynamic IP assignment for broadband service | TH | 1 |
 | FiberXpress BV | NL | 5 |
 | Free SAS | FR | 1 |
-| Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 6 |
+| Hong Kong Telecommunications (HKT) Limited | HK | 1 |
+| Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 5 |
 | Internetport Sweden AB | SE | 2 |
 | KPN B.V | NL | 1 |
 | KPN CM | NL | 1 |
 | Korea Telecom | KR | 1 |
 | MoeDove Broadband - United States | US | 2 |
-| NTT America, Inc | US | 6 |
+| NTT America, Inc | US | 5 |
 | NTT DATA | US | 1 |
 | Optimum Online | US | 1 |
 | Orange S.A | FR | 3 |
+| PCCWG INTERNAL | DE | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
-| Shaw Communications | CA | 5 |
+| Shaw Communications | CA | 3 |
 | So-net Service | JP | 1 |
 | Superonline Iletisim Hizmetleri A.S | TR | 2 |
 | Swisscom (Schweiz) AG | CH | 2 |
@@ -82,4 +84,4 @@
 | Wyyerd Group | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-10-28 01:02 UTC*
+*最後更新：2026-10-28 10:54 UTC*

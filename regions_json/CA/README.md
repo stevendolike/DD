@@ -1,6 +1,6 @@
 # CA
 
-**共 115 條** · [返回主頁](../../README.md)
+**共 113 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -25,7 +25,7 @@
 | Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Public%20Cloud.txt) |
 | Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Rica%20Web%20Services.txt) |
-| Shaw Communications | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
+| Shaw Communications | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
 | Sympatico HSE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Sympatico%20HSE.txt) |
 | TELUS-FIBRE-RCMDBC01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/TELUS-FIBRE-RCMDBC01.txt) |
 | TELUS-FIBRE-VANCBC07 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/TELUS-FIBRE-VANCBC07.txt) |
@@ -34,4 +34,4 @@
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-10-28 01:02 UTC*
+*最後更新：2026-10-28 10:54 UTC*

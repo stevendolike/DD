@@ -1,6 +1,6 @@
 # MY
 
-**共 20 條** · [返回主頁](../../README.md)
+**共 15 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/_all_443.txt)
 
@@ -10,8 +10,8 @@
 | Alibaba Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Alibaba%20Cloud%20LLC.txt) |
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Amazon.com%2C%20Inc.txt) |
 | BRANDON MAXWELL LOOI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/BRANDON%20MAXWELL%20LOOI.txt) |
-| Evoxt.com | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
+| Evoxt.com | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
 | Hostinger International Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Hostinger%20International%20Limited.txt) |
 
 ---
-*最後更新：2026-10-28 01:02 UTC*
+*最後更新：2026-10-28 10:54 UTC*

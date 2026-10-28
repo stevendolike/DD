@@ -1,6 +1,6 @@
 # AE （純 IP）
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 8 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/_all.txt)
 
@@ -12,7 +12,7 @@
 | M247 Ltd Dubai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/M247%20Ltd%20Dubai.txt) |
 | Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/Microsoft%20Corporation.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/Oracle%20Corporation.txt) |
-| RouterHosting LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/RouterHosting%20LLC.txt) |
+| RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-10-28 01:02 UTC*
+*最後更新：2026-10-28 10:54 UTC*
