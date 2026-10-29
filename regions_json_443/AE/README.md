@@ -15,4 +15,4 @@
 | RouterHosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AE/RouterHosting%20LLC.txt) |
 
 ---
-*最後更新：2026-10-29 01:38 UTC*
+*最後更新：2026-10-29 11:12 UTC*

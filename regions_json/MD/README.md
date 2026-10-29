@@ -18,4 +18,4 @@
 | ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/ipbnb.txt) |
 
 ---
-*最後更新：2026-10-29 01:38 UTC*
+*最後更新：2026-10-29 11:12 UTC*
