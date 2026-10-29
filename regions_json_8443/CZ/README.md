@@ -16,4 +16,4 @@
 | UPC Ceska republika, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/UPC%20Ceska%20republika%2C%20a.s.txt) |
 
 ---
-*最後更新：2026-10-28 10:54 UTC*
+*最後更新：2026-10-29 01:38 UTC*

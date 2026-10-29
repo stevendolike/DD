@@ -10,4 +10,4 @@
 | Selectel Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RU/Selectel%20Network.txt) |
 
 ---
-*最後更新：2026-10-28 10:54 UTC*
+*最後更新：2026-10-29 01:38 UTC*

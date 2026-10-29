@@ -30,4 +30,4 @@
 | PS Internet Company LLP | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/PS%20Internet%20Company%20LLP.txt) |
 
 ---
-*最後更新：2026-10-28 10:54 UTC*
+*最後更新：2026-10-29 01:38 UTC*
