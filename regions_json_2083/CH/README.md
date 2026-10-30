@@ -11,4 +11,4 @@
 | M247 LTD Zurich Infrastructure | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
 
 ---
-*最後更新：2026-10-30 01:43 UTC*
+*最後更新：2026-10-30 11:07 UTC*
