@@ -10,4 +10,4 @@
 | Contabo GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/FR/Contabo%20GmbH.txt) |
 
 ---
-*最後更新：2026-10-30 11:07 UTC*
+*最後更新：2026-10-31 01:27 UTC*
