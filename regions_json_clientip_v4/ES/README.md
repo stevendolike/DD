@@ -24,4 +24,4 @@
 | arsys.pt | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/arsys.pt.txt) |
 
 ---
-*最後更新：2026-11-01 00:48 UTC*
+*最後更新：2026-11-01 11:36 UTC*
