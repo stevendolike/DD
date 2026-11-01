@@ -186,7 +186,7 @@ function renderOverview(){
   CATS.forEach(c => {
     const st = STATS[c.dir] || {};
     const n = sumOne(st);   // 統一：flat 同 nested 都支援
-    const ncc = Object.keys(st).length;
+    const ncc = Object.keys(countryMap(c.dir)).length;
     totalAll += n; catCount++;
     const d = document.createElement("div");
     d.className = "card"; d.dataset.dir = c.dir;
@@ -213,7 +213,8 @@ function countryMap(dir){
   const out = {};
   for (const k in st){
     const v = st[k];
-    out[k] = (typeof v === "number") ? v : sum(v);
+    const n = (typeof v === "number") ? v : sum(v);
+    if (n > 0) out[k] = n;
   }
   return out;
 }
@@ -223,7 +224,8 @@ function countryMap(dir){
 let curCat = null, curMode = "all", curData = [], curText = "", allTextCache = "";
 function fileFor(dir, c, mode){
   if (mode === "all") return dir + "/_all.txt";
-  return dir + "/" + c + ".txt";
+  const countryStats = (STATS[dir] || {})[c];
+  return dir + "/" + c + (typeof countryStats === "number" ? ".txt" : "/_all.txt");
 }
 async function fetchText(rel){
   const r = await fetch(RAW + "/" + rel + "?t=" + Date.now());
@@ -238,7 +240,7 @@ async function openCat(cat, cardEl){
   $("d-desc").textContent = cat.desc;
   $("detail").hidden = false;
   $("detail").scrollIntoView({behavior:"smooth", block:"start"});
-  $("d-raw").href = RAW + "/" + cat.dir + "/_all.txt";
+  $("d-raw").href = RAW + "/" + fileFor(cat.dir, null, "all");
   $("d-body").innerHTML = '<div class="loading">載入中…</div>';
   try {
     curText = await fetchText(fileFor(cat.dir, null, "all"));
@@ -246,7 +248,7 @@ async function openCat(cat, cardEl){
     renderDetail();
   } catch(e){
     $("d-body").innerHTML = '<div class="loading">載入失敗：' + esc(e.message) +
-      '（<a href="' + RAW + "/" + cat.dir + '/_all.txt" target="_blank">直接開 raw</a>）</div>';
+      '（<a href="' + RAW + "/" + fileFor(cat.dir, null, "all") + '" target="_blank">直接開 raw</a>）</div>';
   }
 }
 function renderDetail(){
@@ -254,6 +256,7 @@ function renderDetail(){
   curData = lines;
   const cm = countryMap(curCat.dir);
   const isOrg = curCat.dir === "regions_json" || curCat.dir === "regions_json_clientip_v4";
+  $("d-raw").href = RAW + "/" + fileFor(curCat.dir, curMode, curMode);
 
   let html = "";
   if (curMode === "all"){
@@ -261,7 +264,7 @@ function renderDetail(){
     html += '<div class="table-wrap"><table><thead><tr><th>國家</th><th style="text-align:right">條目數</th><th>檔案</th></tr></thead><tbody>';
     Object.keys(cm).sort().forEach(c => {
       html += `<tr><td><b>${esc(c)}</b></td><td class="num">${cm[c].toLocaleString()}</td>
-        <td><a href="${RAW}/${curCat.dir}/${c}.txt" target="_blank" rel="noopener">raw</a>
+        <td><a href="${RAW}/${fileFor(curCat.dir, c, c)}" target="_blank" rel="noopener">raw</a>
         · <a href="#" data-cc="${esc(c)}" class="lnk">睇清單</a></td></tr>`;
     });
     html += "</tbody></table></div>";
@@ -274,7 +277,7 @@ function renderDetail(){
       ev.preventDefault();
       const c = a.dataset.cc;
       $("d-body").innerHTML = '<div class="loading">載入中…</div>';
-      try { curText = await fetchText(curCat.dir + "/" + c + ".txt"); }
+      try { curText = await fetchText(fileFor(curCat.dir, c, c)); }
       catch(e){ $("d-body").innerHTML = '<div class="loading">載入失敗</div>'; return; }
       curMode = c; renderDetail();
     };

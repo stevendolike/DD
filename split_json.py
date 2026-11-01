@@ -177,7 +177,7 @@ def rebuild_dir(base_dir, country_data):
 
 
 def rebuild_port_dir(base_dir, country_data):
-    """port 目錄：純 IP，加 _all.txt"""
+    """port 目錄：純 IP，加國家及頂層 _all.txt"""
     if os.path.exists(base_dir):
         shutil.rmtree(base_dir)
     os.makedirs(base_dir, exist_ok=True)
@@ -190,6 +190,7 @@ def rebuild_port_dir(base_dir, country_data):
             write_entries(f"{path}/{display}.txt", entries)
             all_entries.extend(entries)
         write_entries(f"{path}/_all.txt", all_entries)
+    rebuild_organized_top(base_dir, has_443=False)
 
 
 def rebuild_asn_dir(base_dir, country_data):

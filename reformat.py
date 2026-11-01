@@ -274,10 +274,12 @@ def main():
         total_entries += te
         merges.extend(mg)
         print(f"✓ {d}: {oc} 個組織檔, {te} 條")
-    # 頂層統整（_all.txt + _all_443.txt，ip:port#國家 跟國家排）
+    # 頂層統整（_all.txt；主目錄另加 _all_443.txt）
     for d in organized:
-        if d in ("regions_json", "regions_json_clientip_v4"):
-            rebuild_organized_top(d, has_443=True)
+        rebuild_organized_top(
+            d,
+            has_443=d in ("regions_json", "regions_json_clientip_v4"),
+        )
     for d in flat:
         fc, fe = rebuild_flat_dir(d)
         total_org += fc
