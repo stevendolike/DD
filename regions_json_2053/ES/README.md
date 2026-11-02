@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/_all.txt)
 
@@ -8,11 +8,9 @@
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/Baxet%20Group%20Inc.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/HOSTKEY%20B.V.txt) |
 | HUIZE LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/HUIZE%20LTD.txt) |
-| JaJoJoo LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/JaJoJoo%20LLC.txt) |
 | Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/Linode%2C%20LLC.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ES/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 
 ---
-*最後更新：2026-11-02 01:22 UTC*
+*最後更新：2026-11-02 12:59 UTC*

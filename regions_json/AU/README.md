@@ -1,6 +1,6 @@
 # AU
 
-**共 39 條** · [返回主頁](../../README.md)
+**共 35 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/_all_443.txt)
 
@@ -13,17 +13,16 @@
 | Contabo Asia Private Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Contabo%20Asia%20Private%20Limited.txt) |
 | Digital Ocean, Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Digital%20Ocean%2C%20Inc.txt) |
 | Level 6, 9-13 Young Street | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Level%206%2C%209-13%20Young%20Street.txt) |
-| Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Linode.txt) |
 | Macquarie Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Macquarie%20Telecom.txt) |
 | Mammoth Media Pty Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Mammoth%20Media%20Pty%20Ltd.txt) |
 | OVH SYD DC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/OVH%20SYD%20DC.txt) |
 | Oracle Corporation | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Oracle%20Corporation.txt) |
 | SMC Server Solutions | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/SMC%20Server%20Solutions.txt) |
 | SUPERLOOP (AUSTRALIA) PTY LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/SUPERLOOP%20%28AUSTRALIA%29%20PTY%20LTD.txt) |
-| The Constant Company, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/Vultr%20Holdings%2C%20LLC.txt) |
 | oracle | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/oracle.txt) |
 | xTom Pty Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/AU/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-11-02 01:22 UTC*
+*最後更新：2026-11-02 12:59 UTC*

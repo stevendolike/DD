@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 55 條** · [返回主頁](../../README.md)
+**共 52 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
@@ -18,7 +18,6 @@
 | HOSTHATCH SGP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/HOSTHATCH%20SGP.txt) |
 | Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Hetzner%20Online%20GmbH.txt) |
 | IPXO LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/IPXO%20LLC.txt) |
-| LEASEWEB SINGAPORE PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD.txt) |
 | OVH SINGAPOR DC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/OVH%20SINGAPOR%20DC.txt) |
 | Oracle Corporation | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Svenska%20AB.txt) |
@@ -26,8 +25,8 @@
 | PRIVATE CUSTOMER | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/PRIVATE%20CUSTOMER.txt) |
 | RWIPXO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/RWIPXO.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SG.GS.txt) |
-| The Constant Company, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-02 01:22 UTC*
+*最後更新：2026-11-02 12:59 UTC*
