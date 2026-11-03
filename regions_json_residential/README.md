@@ -1,13 +1,13 @@
 # 家庭寬帶（全部 Port）
 
-**共 88 條** · [返回主頁](../README.md)
+**共 86 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
 | BY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/BY.txt) |
-| CA | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
 | DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
@@ -19,7 +19,7 @@
 | HK | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
-| NL | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
+| NL | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | RS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RS.txt) |
 | SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
@@ -29,7 +29,7 @@
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **43** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **42** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
@@ -46,7 +46,7 @@
 | Cox Communications Inc | US | 3 |
 | Deutsche Telekom AG | DE | 1 |
 | Dynamic IP assignment for broadband service | TH | 1 |
-| FiberXpress BV | NL | 6 |
+| FiberXpress BV | NL | 5 |
 | Free SAS | FR | 1 |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | HK | 6 |
 | Internetport Sweden AB | SE | 2 |
@@ -67,7 +67,6 @@
 | Swisscom (Schweiz) AG | CH | 1 |
 | TELEKOM SRBIJA, ADSL users | RS | 1 |
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
-| TELUS-HSIA-BNBYBC01 | CA | 1 |
 | TT ADSL-TT net_aci | TR | 1 |
 | Tele Columbus AG | DE | 2 |
 | UPC Ceska republika, a.s | CZ | 1 |
@@ -77,4 +76,4 @@
 | Wave Broadband | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-03 03:21 UTC*
+*最後更新：2026-11-03 12:32 UTC*

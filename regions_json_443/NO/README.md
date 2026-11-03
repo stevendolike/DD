@@ -1,14 +1,13 @@
 # NO （純 IP）
 
-**共 3 條** · [返回主頁](../../README.md)
+**共 2 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NO/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NO/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Norway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NO/EDIS%20IPv6%20Infrastructure%20in%20Norway.txt) |
 | H4F.NET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NO/H4F.NET.txt) |
 
 ---
-*最後更新：2026-11-03 03:21 UTC*
+*最後更新：2026-11-03 12:32 UTC*

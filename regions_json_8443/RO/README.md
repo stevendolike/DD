@@ -1,16 +1,15 @@
 # RO （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/Friendhosting%20LTD.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | RARE MOOD AGENCY SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
 | ZetServers RO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/ZetServers%20RO.txt) |
 | _ WWW.RAREACLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/RO/_%20WWW.RAREACLOUD.IO%20_.txt) |
 
 ---
-*最後更新：2026-11-03 03:21 UTC*
+*最後更新：2026-11-03 12:32 UTC*
