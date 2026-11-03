@@ -25,4 +25,4 @@
 | Yandex.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-11-02 12:59 UTC*
+*最後更新：2026-11-03 03:21 UTC*

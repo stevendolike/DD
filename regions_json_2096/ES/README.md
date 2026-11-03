@@ -9,4 +9,4 @@
 | HUIZE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/ES/HUIZE%20LTD.txt) |
 
 ---
-*最後更新：2026-11-02 12:59 UTC*
+*最後更新：2026-11-03 03:21 UTC*
