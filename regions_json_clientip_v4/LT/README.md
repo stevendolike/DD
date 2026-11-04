@@ -13,4 +13,4 @@
 | UAB Cherry Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/LT/UAB%20Cherry%20Servers.txt) |
 
 ---
-*最後更新：2026-11-03 12:32 UTC*
+*最後更新：2026-11-04 02:00 UTC*
