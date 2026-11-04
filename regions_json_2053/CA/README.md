@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/_all.txt)
 
@@ -13,7 +13,7 @@
 | ITGLOBAL.COM NL B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Leaseweb Canada Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/Leaseweb%20Canada%20Inc.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/Linode.txt) |
-| OVH Hosting, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/OVH%20Hosting%2C%20Inc.txt) |
+| OVH Hosting, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/OVH%20Hosting%2C%20Inc.txt) |
 
 ---
-*最後更新：2026-11-04 02:00 UTC*
+*最後更新：2026-11-04 12:42 UTC*

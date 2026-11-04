@@ -10,11 +10,10 @@
 | ALEXHOST S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/ALEXHOST%20S.R.L.txt) |
 | ALEXHOST SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/ALEXHOST%20SRL.txt) |
 | EDIS IPv6 Infrastructure in Moldova | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/EDIS%20IPv6%20Infrastructure%20in%20Moldova.txt) |
-| MivoCloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/MivoCloud.txt) |
+| MivoCloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/MivoCloud.txt) |
 | OvO Systems Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/OvO%20Systems%20Ltd.txt) |
-| S.C. INFOTECH-GRUP S.R.L | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
+| S.C. INFOTECH-GRUP S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
 | Trabia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/Trabia.txt) |
-| ipbnb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/ipbnb.txt) |
 
 ---
-*最後更新：2026-11-04 02:00 UTC*
+*最後更新：2026-11-04 12:42 UTC*

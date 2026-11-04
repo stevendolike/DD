@@ -1,13 +1,12 @@
 # BG （純 IP）
 
-**共 15 條** · [返回主頁](../../README.md)
+**共 14 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Baxet%20Group%20Inc.txt) |
-| Belcloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Belcloud%20LTD.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Deployish%20Limited.txt) |
 | EDIS IPv6 Infrastructure in Bulgaria | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/EDIS%20IPv6%20Infrastructure%20in%20Bulgaria.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
@@ -22,4 +21,4 @@
 | Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-11-04 02:00 UTC*
+*最後更新：2026-11-04 12:42 UTC*

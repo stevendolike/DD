@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 86 條** · [返回主頁](../README.md)
+**共 87 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -25,7 +25,7 @@
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
@@ -35,7 +35,7 @@
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 7 |
+| AT&T Enterprises, LLC | US | 8 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
 | BBIX IPv6 Network | JP | 2 |
@@ -76,4 +76,4 @@
 | Wave Broadband | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-04 02:00 UTC*
+*最後更新：2026-11-04 12:42 UTC*

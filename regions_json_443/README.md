@@ -1,6 +1,6 @@
 # Port 443 純 IP（純 IP）
 
-**共 8,782 條** · [返回主頁](../README.md)
+**共 8,701 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/_all.txt)
 
@@ -14,66 +14,66 @@
 | AU | 32 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/AU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AU/_all.txt) |
 | AZ | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/AZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AZ/_all.txt) |
 | BE | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/BE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/_all.txt) |
-| BG | 42 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/BG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt) |
+| BG | 41 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/BG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt) |
 | BR | 8 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/BR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BR/_all.txt) |
 | BY | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/BY/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BY/_all.txt) |
-| CA | 63 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt) |
+| CA | 62 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt) |
 | CH | 95 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CH/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt) |
 | CL | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CL/_all.txt) |
 | CN | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CN/_all.txt) |
 | CY | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CY/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CY/_all.txt) |
-| CZ | 75 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/_all.txt) |
-| DE | 1,991 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/DE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/_all.txt) |
-| DK | 30 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/DK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/_all.txt) |
+| CZ | 72 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/CZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CZ/_all.txt) |
+| DE | 1,973 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/DE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DE/_all.txt) |
+| DK | 27 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/DK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DK/_all.txt) |
 | DO | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/DO/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/DO/_all.txt) |
 | EE | 84 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/EE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt) |
 | EG | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/EG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EG/_all.txt) |
-| ES | 41 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/ES/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt) |
-| FI | 695 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/FI/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/_all.txt) |
-| FR | 238 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/FR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt) |
+| ES | 42 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/ES/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt) |
+| FI | 698 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/FI/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FI/_all.txt) |
+| FR | 232 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/FR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt) |
 | GB | 334 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/GB/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GB/_all.txt) |
-| GR | 7 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/GR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GR/_all.txt) |
-| HK | 147 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/HK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/_all.txt) |
-| HU | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/HU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/_all.txt) |
+| GR | 8 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/GR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/GR/_all.txt) |
+| HK | 138 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/HK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HK/_all.txt) |
+| HU | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/HU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/HU/_all.txt) |
 | ID | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/ID/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ID/_all.txt) |
 | IE | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/IE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IE/_all.txt) |
 | IL | 5 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/IL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IL/_all.txt) |
-| IN | 44 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/IN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/_all.txt) |
+| IN | 43 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/IN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IN/_all.txt) |
 | IS | 4 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/IS/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IS/_all.txt) |
-| IT | 25 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/IT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/_all.txt) |
-| JP | 380 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/JP/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt) |
+| IT | 27 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/IT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/_all.txt) |
+| JP | 376 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/JP/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/JP/_all.txt) |
 | KG | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/KG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KG/_all.txt) |
-| KR | 42 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/KR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/_all.txt) |
-| KZ | 78 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/KZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt) |
+| KR | 39 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/KR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KR/_all.txt) |
+| KZ | 81 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/KZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/KZ/_all.txt) |
 | LT | 28 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/LT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt) |
-| LV | 251 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/LV/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt) |
+| LV | 245 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/LV/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LV/_all.txt) |
 | MD | 10 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/MD/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MD/_all.txt) |
 | MX | 5 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/MX/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MX/_all.txt) |
 | MY | 9 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/MY/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/MY/_all.txt) |
 | NG | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/NG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NG/_all.txt) |
-| NL | 1,930 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/NL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/_all.txt) |
+| NL | 1,913 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/NL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NL/_all.txt) |
 | NO | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/NO/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NO/_all.txt) |
 | NZ | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/NZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/NZ/_all.txt) |
 | OM | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/OM/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/OM/_all.txt) |
 | PH | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/PH/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PH/_all.txt) |
 | PK | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/PK/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PK/_all.txt) |
-| PL | 167 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/PL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt) |
-| PT | 3 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/PT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PT/_all.txt) |
+| PL | 165 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/PL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt) |
+| PT | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/PT/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PT/_all.txt) |
 | RO | 23 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/RO/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RO/_all.txt) |
 | RS | 8 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/RS/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RS/_all.txt) |
 | RU | 35 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/RU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/RU/_all.txt) |
 | SA | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/SA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SA/_all.txt) |
-| SE | 106 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/SE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt) |
-| SG | 418 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/SG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/_all.txt) |
+| SE | 102 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/SE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SE/_all.txt) |
+| SG | 415 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/SG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/SG/_all.txt) |
 | TH | 7 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/TH/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TH/_all.txt) |
-| TR | 36 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/TR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt) |
+| TR | 35 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/TR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/_all.txt) |
 | TW | 13 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/TW/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TW/_all.txt) |
 | UA | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/UA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UA/_all.txt) |
 | UNKNOWN | 22 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/UNKNOWN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UNKNOWN/_all.txt) |
-| US | 1,147 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/_all.txt) |
+| US | 1,141 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/US/_all.txt) |
 | UZ | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/UZ/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/UZ/_all.txt) |
-| VN | 6 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/VN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/VN/_all.txt) |
+| VN | 5 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/VN/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/VN/_all.txt) |
 | ZA | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_443/ZA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ZA/_all.txt) |
 
 ---
-*最後更新：2026-11-04 02:00 UTC*
+*最後更新：2026-11-04 12:42 UTC*

@@ -12,7 +12,7 @@
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/CENTRILOGICCANADA.txt) |
 | Cloud Web Manage | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cloud%20Web%20Manage.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
-| DigitalOcean, LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
 | Graeme Tee | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HZ%20Hosting%20Ltd.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HostPapa.txt) |
@@ -20,15 +20,15 @@
 | ITGLOBAL.COM NL B.V | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Leaseweb Canada Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Leaseweb%20Canada%20Inc.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Linode.txt) |
-| OVH Hosting, Inc | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting%2C%20Inc.txt) |
+| OVH Hosting, Inc | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Oracle Corporation | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Oracle%20Public%20Cloud.txt) |
 | Rica Web Services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Rica%20Web%20Services.txt) |
 | Shaw Communications | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Shaw%20Communications.txt) |
 | Sympatico HSE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Sympatico%20HSE.txt) |
 | TELUS-FIBRE-RCMDBC01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/TELUS-FIBRE-RCMDBC01.txt) |
-| The Constant Company, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/The%20Constant%20Company%2C%20LLC.txt) |
-| Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
+| The Constant Company, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/The%20Constant%20Company%2C%20LLC.txt) |
+| Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-04 02:00 UTC*
+*最後更新：2026-11-04 12:42 UTC*

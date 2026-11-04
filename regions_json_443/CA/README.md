@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/_all.txt)
 
@@ -10,7 +10,7 @@
 | Amazon Data Services Canada | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Amazon%20Data%20Services%20Canada.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Baxet%20Group%20Inc.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/CENTRILOGICCANADA.txt) |
-| DigitalOcean, LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/DigitalOcean%2C%20LLC.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HZ%20Hosting%20Ltd.txt) |
 | HostPapa | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/HostPapa.txt) |
 | IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/IT7%20Networks%20Inc.txt) |
@@ -24,8 +24,8 @@
 | Shaw Communications | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Shaw%20Communications.txt) |
 | Sympatico HSE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Sympatico%20HSE.txt) |
 | TELUS-FIBRE-RCMDBC01 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/TELUS-FIBRE-RCMDBC01.txt) |
-| The Constant Company, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/The%20Constant%20Company%2C%20LLC.txt) |
-| Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Vultr%20Holdings%2C%20LLC.txt) |
+| The Constant Company, LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/The%20Constant%20Company%2C%20LLC.txt) |
+| Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-04 02:00 UTC*
+*最後更新：2026-11-04 12:42 UTC*
