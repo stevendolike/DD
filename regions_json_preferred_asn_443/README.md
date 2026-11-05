@@ -19,4 +19,4 @@
 | US | 128 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn_443/US.txt) |
 
 ---
-*最後更新：2026-11-04 12:42 UTC*
+*最後更新：2026-11-05 02:02 UTC*
