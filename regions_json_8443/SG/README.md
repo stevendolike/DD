@@ -11,7 +11,8 @@
 | Akamai Connected Cloud _ Linode | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Alibaba%20Cloud%20LLC.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Baxet%20Group%20Inc.txt) |
-| ByteVirt LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/ByteVirt%20LLC.txt) |
+| ByteVirt LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/ByteVirt%20LLC.txt) |
+| Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Contabo%20Asia%20Private%20Limited.txt) |
 | DATAWAVE GLOBAL LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/DATAWAVE%20GLOBAL%20LLC.txt) |
 | DigitalOcean, LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/DigitalOcean%2C%20LLC.txt) |
@@ -28,4 +29,4 @@
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

@@ -1,12 +1,12 @@
 # DE （純 IP）
 
-**共 207 條** · [返回主頁](../../README.md)
+**共 209 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/AEZA%20GROUP%20LLC.txt) |
 | ASDhere Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/ASDhere%20Ltd.txt) |
 | Amsterdam, Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Amsterdam%2C%20Netherlands.txt) |
 | Artem Lomakin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Artem%20Lomakin.txt) |
@@ -15,6 +15,7 @@
 | DATALIX | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DATALIX.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Deployish%20Limited.txt) |
 | DigitalOcean, LLC | 153 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DigitalOcean%2C%20LLC.txt) |
+| Eons Data Communications Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Eons%20Data%20Communications%20Limited.txt) |
 | GHOSTnet GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/GHOSTnet%20GmbH.txt) |
 | HOS-222463 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/HOS-222463.txt) |
 | HOS-3203417 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/HOS-3203417.txt) |
@@ -39,4 +40,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

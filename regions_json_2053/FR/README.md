@@ -8,7 +8,7 @@
 |------|--------|---------|
 | AEZA GROUP LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/AEZA%20GROUP%20LLC.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Baxet%20Group%20Inc.txt) |
-| CGI GLOBAL LIMITED | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 21 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CGI%20GLOBAL%20LIMITED.txt) |
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Cloud%20Software%20-%20FZCO.txt) |
 | CloudBackbone | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/CloudBackbone.txt) |
 | Contabo GmbH | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Contabo%20GmbH.txt) |
@@ -24,7 +24,6 @@
 | SERVERD SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/SERVERD%20SAS.txt) |
 | Scaleway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Scaleway.txt) |
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/UNKNOWN.txt) |
-| as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

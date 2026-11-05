@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 41 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/3NT%20SOLUTIONS%20LLP.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Baxet%20Group%20Inc.txt) |
-| Belcloud LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Belcloud%20LTD.txt) |
+| Belcloud LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Belcloud%20LTD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | DA International Group Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/DA%20International%20Group%20Ltd.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Deployish%20Limited.txt) |
@@ -21,4 +21,4 @@
 | TerraTransit AG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/TerraTransit%20AG.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

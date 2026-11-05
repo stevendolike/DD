@@ -1,6 +1,6 @@
 # BG （純 IP）
 
-**共 14 條** · [返回主頁](../../README.md)
+**共 13 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/_all.txt)
 
@@ -13,7 +13,6 @@
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Friendhosting%20LTD.txt) |
 | G-Core Labs Customer assignment | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/G-Core%20Labs%20Customer%20assignment.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/GREEN%20FLOID%20LLC.txt) |
-| GuardNetwork | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/GuardNetwork.txt) |
 | ITLDC EU2.SOF Datacenter Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/ITLDC%20EU2.SOF%20Datacenter%20Network.txt) |
 | Lir.bg EOOD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Lir.bg%20EOOD.txt) |
 | Redcluster LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Redcluster%20LTD.txt) |
@@ -21,4 +20,4 @@
 | Virterion LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

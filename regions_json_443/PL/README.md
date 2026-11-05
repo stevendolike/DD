@@ -1,12 +1,12 @@
 # PL （純 IP）
 
-**共 165 條** · [返回主頁](../../README.md)
+**共 162 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/1Cent%20Host.txt) |
+| 1Cent Host | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/1Cent%20Host.txt) |
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3NT%20SOLUTIONS%20LLP.txt) |
 | Alex Largman | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Alex%20Largman.txt) |
 | Andrzej Erenc trading as awHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Andrzej%20Erenc%20trading%20as%20awHost.txt) |
@@ -22,11 +22,11 @@
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Datacamp%20Limited.txt) |
 | EternityCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/EternityCloud.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Evoxt.com.txt) |
-| ExpressHost LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
+| ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/ExpressHost%20LTD.txt) |
 | FORTIS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/FORTIS.txt) |
-| Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Friendhosting%20LTD.txt) |
+| Friendhosting LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GREEN FLOID LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/GREEN%20FLOID%20LLC.txt) |
 | H2.NEXUS Warsaw Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/H2.NEXUS%20Warsaw%20Network.txt) |
 | HOSTKEY B.V | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTKEY%20B.V.txt) |
 | HOSTOFF infrastructure and hosting services | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
@@ -34,6 +34,7 @@
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostesLLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HostesLLC.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Intezio%20Networks%20Warsaw.txt) |
 | Korbank S. A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Korbank%20S.%20A.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
 | LLC Euroinform | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/LLC%20Euroinform.txt) |
@@ -57,4 +58,4 @@
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

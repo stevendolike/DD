@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | 1Cent Host | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/1Cent%20Host.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/The%20Constant%20Company%2C%20LLC.txt) |
-| Vladislav Novitskii | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/Vladislav%20Novitskii.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

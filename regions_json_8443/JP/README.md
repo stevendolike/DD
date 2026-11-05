@@ -1,6 +1,6 @@
 # JP （純 IP）
 
-**共 64 條** · [返回主頁](../../README.md)
+**共 48 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/_all.txt)
 
@@ -20,14 +20,13 @@
 | Contabo Asia Private Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Contabo%20Asia%20Private%20Limited.txt) |
 | Cornseed Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Cornseed%20Limited.txt) |
 | DATAWAVE GLOBAL LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DATAWAVE%20GLOBAL%20LLC.txt) |
-| DDPS Networks, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DDPS%20Networks%2C%20LLC.txt) |
 | DMIT Cloud Service - Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/DMIT%20Cloud%20Service%20-%20Tokyo.txt) |
 | EDIS IPv6 Infrastructure In Japan | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/EDIS%20IPv6%20Infrastructure%20In%20Japan.txt) |
 | EXTRAVM LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/EXTRAVM%20LLC.txt) |
 | Hongkong Wen Jing Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | HostHatch Tokyo | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/HostHatch%20Tokyo.txt) |
 | Leaseweb Japan K.K | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Leaseweb%20Japan%20K.K.txt) |
-| Oracle Corporation | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
+| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Oracle%20Public%20Cloud.txt) |
 | PANSTAR CLOUD LIMITED - Tokyo JPP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/PANSTAR%20CLOUD%20LIMITED%20-%20Tokyo%20JPP.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/Private%20Customer.txt) |
@@ -38,4 +37,4 @@
 | ZOUTER TOKYO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/JP/ZOUTER%20TOKYO.txt) |
 
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*

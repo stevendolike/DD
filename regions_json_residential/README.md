@@ -17,14 +17,13 @@
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
-| JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
+| JP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | RS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/RS.txt) |
 | SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
-| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
-| TR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
+| TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | US | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
@@ -38,10 +37,12 @@
 | AT&T Enterprises, LLC | US | 8 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
-| BBIX IPv6 Network | JP | 2 |
+| BBIX IPv6 Network | JP | 3 |
+| BIGLOBE Inc | JP | 1 |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | TR | 1 |
 | Charter Communications Inc | US | 1 |
 | Cogeco Cable Canada Inc | CA | 1 |
+| Cogeco Connexion Inc | CA | 1 |
 | Comcast Cable Communications, LLC | US | 3 |
 | Cox Communications Inc | US | 3 |
 | Deutsche Telekom AG | DE | 1 |
@@ -61,19 +62,17 @@
 | PCCWG INTERNAL | DE | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
-| Shaw Communications | CA | 4 |
+| Shaw Communications | CA | 3 |
 | So-net Service | JP | 1 |
 | Superonline Iletisim Hizmetleri A.S | TR | 2 |
 | Swisscom (Schweiz) AG | CH | 1 |
 | TELEKOM SRBIJA, ADSL users | RS | 1 |
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
-| TT ADSL-TT net_aci | TR | 1 |
 | Tele Columbus AG | DE | 2 |
 | UPC Ceska republika, a.s | CZ | 1 |
-| Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Wave Broadband | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-05 02:02 UTC*
+*最後更新：2026-11-05 12:52 UTC*
