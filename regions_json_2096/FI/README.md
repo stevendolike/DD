@@ -1,12 +1,12 @@
 # FI （純 IP）
 
-**共 14 條** · [返回主頁](../../README.md)
+**共 15 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/AEZA%20GROUP%20LLC.txt) |
 | Andris Jakovlevs | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/Andris%20Jakovlevs.txt) |
 | FlokiNET | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/FlokiNET.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/HOSTKEY%20B.V.txt) |
@@ -14,4 +14,4 @@
 | RapidSeedbox Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/FI/RapidSeedbox%20Ltd.txt) |
 
 ---
-*最後更新：2026-11-06 02:05 UTC*
+*最後更新：2026-11-06 12:37 UTC*

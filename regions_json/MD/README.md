@@ -1,6 +1,6 @@
 # MD
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all_443.txt)
 
@@ -12,8 +12,7 @@
 | EDIS IPv6 Infrastructure in Moldova | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/EDIS%20IPv6%20Infrastructure%20in%20Moldova.txt) |
 | MivoCloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/MivoCloud.txt) |
 | OvO Systems Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/OvO%20Systems%20Ltd.txt) |
-| S.C. INFOTECH-GRUP S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/S.C.%20INFOTECH-GRUP%20S.R.L.txt) |
 | Trabia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/Trabia.txt) |
 
 ---
-*最後更新：2026-11-06 02:05 UTC*
+*最後更新：2026-11-06 12:37 UTC*
