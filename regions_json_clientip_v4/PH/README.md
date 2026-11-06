@@ -9,4 +9,4 @@
 | Converge ICT Corporate Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PH/Converge%20ICT%20Corporate%20Customer.txt) |
 
 ---
-*最後更新：2026-11-05 12:52 UTC*
+*最後更新：2026-11-06 02:05 UTC*

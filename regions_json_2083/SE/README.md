@@ -13,4 +13,4 @@
 | servinga.com - Sweden | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/SE/servinga.com%20-%20Sweden.txt) |
 
 ---
-*最後更新：2026-11-05 12:52 UTC*
+*最後更新：2026-11-06 02:05 UTC*
