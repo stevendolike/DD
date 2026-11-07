@@ -10,4 +10,4 @@
 | Leaseweb Japan K.K | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/JP/Leaseweb%20Japan%20K.K.txt) |
 
 ---
-*最後更新：2026-11-06 12:37 UTC*
+*最後更新：2026-11-07 01:43 UTC*

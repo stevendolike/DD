@@ -15,4 +15,4 @@
 | P.D.R Solutions FZC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/IN/P.D.R%20Solutions%20FZC.txt) |
 
 ---
-*最後更新：2026-11-06 12:37 UTC*
+*最後更新：2026-11-07 01:43 UTC*

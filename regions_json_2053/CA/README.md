@@ -15,4 +15,4 @@
 | OVH Hosting, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/OVH%20Hosting%2C%20Inc.txt) |
 
 ---
-*最後更新：2026-11-06 12:37 UTC*
+*最後更新：2026-11-07 01:43 UTC*

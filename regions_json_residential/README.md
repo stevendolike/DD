@@ -75,4 +75,4 @@
 | Wave Broadband | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-06 12:37 UTC*
+*最後更新：2026-11-07 01:43 UTC*
