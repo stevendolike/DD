@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 59 條** · [返回主頁](../../README.md)
+**共 58 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/_all.txt)
 
@@ -12,9 +12,9 @@
 | HostVDS.com Cloud Provider | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/HostVDS.com%20Cloud%20Provider.txt) |
 | HostVDS.com Cloud Service Provider | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | Private Customer | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Private%20Customer.txt) |
-| SIA VEESP | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
+| SIA VEESP | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/SIA%20VEESP.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/Subnet%20Digital%20LLC.txt) |
 | as56971 network | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/LV/as56971%20network.txt) |
 
 ---
-*最後更新：2026-11-08 01:11 UTC*
+*最後更新：2026-11-08 11:37 UTC*

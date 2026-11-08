@@ -1,6 +1,6 @@
 # Port 2087 純 IP（純 IP）
 
-**共 543 條** · [返回主頁](../README.md)
+**共 539 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/_all.txt)
 
@@ -25,11 +25,11 @@
 | NL | 207 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/NL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/NL/_all.txt) |
 | PL | 5 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/PL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/PL/_all.txt) |
 | RO | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/RO/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RO/_all.txt) |
-| RU | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/RU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RU/_all.txt) |
+| RU | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/RU/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/RU/_all.txt) |
 | SE | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/SE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SE/_all.txt) |
 | SG | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/SG/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/SG/_all.txt) |
 | TR | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/TR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/TR/_all.txt) |
-| US | 43 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt) |
+| US | 40 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2087/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt) |
 
 ---
-*最後更新：2026-11-08 01:11 UTC*
+*最後更新：2026-11-08 11:37 UTC*

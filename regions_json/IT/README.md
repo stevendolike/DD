@@ -1,6 +1,6 @@
 # IT
 
-**共 31 條** · [返回主頁](../../README.md)
+**共 29 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/_all_443.txt)
 
@@ -9,7 +9,7 @@
 | Aruba S.p.A. - Cloud Services DC1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20DC1.txt) |
 | Aruba S.p.A. - Cloud Services Farm2 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.%20-%20Cloud%20Services%20Farm2.txt) |
 | Aruba S.p.A | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Aruba%20S.p.A.txt) |
-| Baxet Group Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/BlueVPS%20OU.txt) |
 | EDIS Infrastructure in Italy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/EDIS%20Infrastructure%20in%20Italy.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/GREEN%20FLOID%20LLC.txt) |
@@ -17,9 +17,8 @@
 | IT Hostline Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Kamatera%20Inc.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/Linode.txt) |
-| O.M.C. COMPUTERS & COMMUNICATIONS LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
 | OVH Srl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/OVH%20Srl.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IT/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-08 01:11 UTC*
+*最後更新：2026-11-08 11:37 UTC*

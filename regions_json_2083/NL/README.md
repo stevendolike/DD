@@ -1,6 +1,6 @@
 # NL （純 IP）
 
-**共 203 條** · [返回主頁](../../README.md)
+**共 201 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/_all.txt)
 
@@ -11,9 +11,7 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Baxet%20Group%20Inc.txt) |
 | DigitalOcean, LLC | 181 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/DigitalOcean%2C%20LLC.txt) |
 | EDIS IPv6 Infrastructure in Netherlands | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/EDIS%20IPv6%20Infrastructure%20in%20Netherlands.txt) |
-| Hosting Big Data B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Hosting%20Big%20Data%20B.V.txt) |
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/JSC%20TIMEWEB.txt) |
-| LeaseWeb Netherlands B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/LeaseWeb%20Netherlands%20B.V.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/NetCrafters%20OU.txt) |
 | SERVERBIKE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/SERVERBIKE%20LTD.txt) |
 | Senko Digital LLC - NL Network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/Senko%20Digital%20LLC%20-%20NL%20Network.txt) |
@@ -23,4 +21,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/NL/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-08 01:11 UTC*
+*最後更新：2026-11-08 11:37 UTC*

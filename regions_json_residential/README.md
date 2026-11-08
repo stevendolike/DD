@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 81 條** · [返回主頁](../README.md)
+**共 80 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -17,26 +17,27 @@
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
-| JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
+| JP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
+| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **40** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **41** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 8 |
+| AT&T Enterprises, LLC | US | 7 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
-| BBIX IPv6 Network | JP | 2 |
+| BBIX IPv6 Network | JP | 1 |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | TR | 1 |
 | Charter Communications Inc | US | 1 |
 | Cogeco Cable Canada Inc | CA | 1 |
@@ -66,10 +67,11 @@
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
 | Tele Columbus AG | DE | 2 |
 | UPC Ceska republika, a.s | CZ | 1 |
+| Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Wave Broadband | US | 1 |
 | Wyyerd Group | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-08 01:11 UTC*
+*最後更新：2026-11-08 11:37 UTC*

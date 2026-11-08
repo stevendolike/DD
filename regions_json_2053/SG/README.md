@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 11 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/_all.txt)
 
@@ -14,7 +14,7 @@
 | DigitalOcean, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/DigitalOcean%2C%20LLC.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/GREEN%20FLOID%20LLC.txt) |
 | LEASEWEB SINGAPORE PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD.txt) |
-| Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Oracle%20Corporation.txt) |
+| Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/SG/Oracle%20Corporation.txt) |
 
 ---
-*最後更新：2026-11-08 01:11 UTC*
+*最後更新：2026-11-08 11:37 UTC*
