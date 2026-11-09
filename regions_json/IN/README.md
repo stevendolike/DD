@@ -1,6 +1,6 @@
 # IN
 
-**共 54 條** · [返回主頁](../../README.md)
+**共 53 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all_443.txt)
 
@@ -14,7 +14,7 @@
 | DigitalOcean, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/DigitalOcean%2C%20LLC.txt) |
 | HOSTINGER IN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/HOSTINGER%20IN.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Linode.txt) |
-| MANNDESHI GURU NET PRIVATE LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
+| MANNDESHI GURU NET PRIVATE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/MANNDESHI%20GURU%20NET%20PRIVATE%20LIMITED.txt) |
 | Melbikomas UAB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Melbikomas%20UAB.txt) |
 | Microsoft Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Microsoft%20Corporation.txt) |
 | Oracle Corporation | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Oracle%20Corporation.txt) |
@@ -23,4 +23,4 @@
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-11-09 01:30 UTC*
+*最後更新：2026-11-09 13:30 UTC*

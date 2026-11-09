@@ -1,6 +1,6 @@
 # MD
 
-**共 9 條** · [返回主頁](../../README.md)
+**共 11 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/_all_443.txt)
 
@@ -9,9 +9,9 @@
 | ''IT FRUIT'' S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/%27%27IT%20FRUIT%27%27%20S.R.L.txt) |
 | ALEXHOST S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/ALEXHOST%20S.R.L.txt) |
 | ALEXHOST SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/ALEXHOST%20SRL.txt) |
-| MivoCloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/MivoCloud.txt) |
+| MivoCloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/MivoCloud.txt) |
 | OvO Systems Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/OvO%20Systems%20Ltd.txt) |
 | Trabia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MD/Trabia.txt) |
 
 ---
-*最後更新：2026-11-09 01:30 UTC*
+*最後更新：2026-11-09 13:30 UTC*
