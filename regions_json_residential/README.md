@@ -74,4 +74,4 @@
 | Wyyerd Group | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-08 11:37 UTC*
+*最後更新：2026-11-09 01:30 UTC*

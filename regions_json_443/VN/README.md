@@ -12,4 +12,4 @@
 | ONLINE DATA COMPANY LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/VN/ONLINE%20DATA%20COMPANY%20LIMITED.txt) |
 
 ---
-*最後更新：2026-11-08 11:37 UTC*
+*最後更新：2026-11-09 01:30 UTC*
