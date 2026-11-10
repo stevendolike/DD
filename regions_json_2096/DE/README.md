@@ -1,17 +1,16 @@
 # DE （純 IP）
 
-**共 166 條** · [返回主頁](../../README.md)
+**共 165 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/AEZA%20GROUP%20LLC.txt) |
-| ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/ARVANCLOUD%20GLOBAL%20TECHNOLOGIES%20L.L.C.txt) |
+| AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/AEZA%20GROUP%20LLC.txt) |
+| ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/ARVANCLOUD%20GLOBAL%20TECHNOLOGIES%20L.L.C.txt) |
 | DigitalOcean, LLC | 150 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/DigitalOcean%2C%20LLC.txt) |
 | Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Fornex%20Hosting%20S.L.txt) |
 | Hetzner Online GmbH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Hetzner%20Online%20GmbH.txt) |
-| Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | OVH GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/OVH%20GmbH.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/Private%20Customer.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/SEBEK%20sp.%20z%20o.o.txt) |
@@ -20,4 +19,4 @@
 | nuxt.cloud hosting provider | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/DE/nuxt.cloud%20hosting%20provider.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

@@ -7,6 +7,7 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Baxet%20Group%20Inc.txt) |
+| Dedikuotiems serveriams priskirti adresai | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Dedikuotiems%20serveriams%20priskirti%20adresai.txt) |
 | EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
 | Hosteroid - Vilnus | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Hosteroid%20-%20Vilnus.txt) |
 | Hostinger International Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Hostinger%20International%20Limited.txt) |
@@ -14,11 +15,10 @@
 | Pirma alokacija | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Pirma%20alokacija.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Private%20Customer.txt) |
 | SOLID Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/SOLID%20Lithuania.txt) |
-| SolusVM priskirti adresai | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/SolusVM%20priskirti%20adresai.txt) |
 | Space Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Space%20Hosting.txt) |
 | UAB Cherry Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Cherry%20Servers.txt) |
 | UAB ESNET | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20ESNET.txt) |
 | UAB Interneto vizija | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

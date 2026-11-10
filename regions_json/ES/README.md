@@ -1,6 +1,6 @@
 # ES
 
-**共 51 條** · [返回主頁](../../README.md)
+**共 50 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | ARSYS INTERNET S.L.U | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/ARSYS%20INTERNET%20S.L.U.txt) |
 | AXARNET COMUNICACIONES, S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/AXARNET%20COMUNICACIONES%2C%20S.L.txt) |
-| Amazon Data Services Ireland Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Amazon%20Data%20Services%20Ireland%20Ltd.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/BlueVPS%20OU.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Cloudflare%20London%2C%20LLC.txt) |
@@ -30,4 +29,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

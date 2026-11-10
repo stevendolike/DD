@@ -9,11 +9,11 @@
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Baxet%20Group%20Inc.txt) |
 | DOTRO TELECOM SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/DOTRO%20TELECOM%20SRL.txt) |
 | DataNode DC SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/DataNode%20DC%20SRL.txt) |
+| Fiber Grid INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Fiber%20Grid%20INC.txt) |
 | FlokiNET ehf | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/FlokiNET%20ehf.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/GREEN%20FLOID%20LLC.txt) |
 | RARE MOOD AGENCY SRL | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/RARE%20MOOD%20AGENCY%20SRL.txt) |
-| SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/SA.txt) |
 | TIPZOR MEDIA SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/TIPZOR%20MEDIA%20SRL.txt) |
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/Urban%20Network%20Solutions%20SRL.txt) |
 | ZERGRUSH SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/ZERGRUSH%20SRL.txt) |
@@ -23,4 +23,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

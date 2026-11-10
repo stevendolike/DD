@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 49 條** · [返回主頁](../../README.md)
+**共 47 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/_all.txt)
 
@@ -13,13 +13,13 @@
 | ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/ExpressHost%20LTD.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Friendhosting%20LTD.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GREEN%20FLOID%20LLC.txt) |
-| HOSTKEY B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTKEY%20B.V.txt) |
+| GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/GREEN%20FLOID%20LLC.txt) |
+| HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTKEY%20B.V.txt) |
 | HOSTOFF infrastructure and hosting services | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/HOSTOFF%20infrastructure%20and%20hosting%20services.txt) |
-| Local NCC Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Local%20NCC%20Ltd.txt) |
+| Local NCC Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Local%20NCC%20Ltd.txt) |
 | MEVSPACE sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/MEVSPACE%20sp.%20z%20o.o.txt) |
 | Newserverlife LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Newserverlife%20LLC.txt) |
-| OVH Sp. z o. o | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20Sp.%20z%20o.%20o.txt) |
+| OVH Sp. z o. o | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20Sp.%20z%20o.%20o.txt) |
 | OVH VPS WAW | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/OVH%20VPS%20WAW.txt) |
 | Podaon SIA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/Podaon%20SIA.txt) |
 | PowerRDP Network LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/PowerRDP%20Network%20LTD.txt) |
@@ -32,4 +32,4 @@
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

@@ -1,6 +1,6 @@
 # FR
 
-**共 403 條** · [返回主頁](../../README.md)
+**共 405 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | 365.partners INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/365.partners%20INC.txt) |
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/3NT%20SOLUTIONS%20LLP.txt) |
-| AEZA GROUP LLC | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/AEZA%20GROUP%20LLC.txt) |
 | BEAFORT LIMITED | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/BEAFORT%20LIMITED.txt) |
 | BZSOLUTIONS SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/BZSOLUTIONS%20SRL.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Baxet%20Group%20Inc.txt) |
@@ -24,7 +24,7 @@
 | FEELB SARL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/FEELB%20SARL.txt) |
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Free%20SAS.txt) |
 | GANDI-HOSTING DC0 DATACENTER PA2 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/GANDI-HOSTING%20DC0%20DATACENTER%20PA2.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/GTHost.txt) |
 | HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/HZ%20Hosting%20Ltd.txt) |
@@ -45,12 +45,13 @@
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Oracle%20Svenska%20AB.txt) |
-| Orange S.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Orange%20S.A.txt) |
+| Orange S.A | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Orange%20S.A.txt) |
 | POP GRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/POP%20GRE.txt) |
 | Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Private%20Customer.txt) |
 | RACKNERD-FR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/RACKNERD-FR.txt) |
 | REGXA LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/REGXA%20LLC.txt) |
 | ROCKHOSTER PRIVATE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/ROCKHOSTER%20PRIVATE%20LIMITED.txt) |
+| SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/SERV.HOST%20GROUP%20LTD.txt) |
 | SERVERD SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/SERVERD%20SAS.txt) |
 | SEVIN Jacques | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/SEVIN%20Jacques.txt) |
 | Scaleway | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/Scaleway.txt) |
@@ -66,4 +67,4 @@
 | as56971 network | 38 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

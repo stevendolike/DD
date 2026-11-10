@@ -13,7 +13,7 @@
 | DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
-| FR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
+| FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
@@ -24,11 +24,11 @@
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **40** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **39** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
@@ -55,7 +55,7 @@
 | MoeDove Broadband - United States | US | 2 |
 | NTT America, Inc | US | 4 |
 | Optimum Online | US | 1 |
-| Orange S.A | FR | 2 |
+| Orange S.A | FR | 3 |
 | PCCWG INTERNAL | DE | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
@@ -70,7 +70,6 @@
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Wave Broadband | US | 1 |
-| Wyyerd Group | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

@@ -7,9 +7,9 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/Baxet%20Group%20Inc.txt) |
+| Fiber Grid INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/Fiber%20Grid%20INC.txt) |
 | FlokiNET ehf | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/FlokiNET%20ehf.txt) |
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/Friendhosting%20LTD.txt) |
-| SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/SA.txt) |
 | TIPZOR MEDIA SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/TIPZOR%20MEDIA%20SRL.txt) |
 | Urban Network Solutions SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/Urban%20Network%20Solutions%20SRL.txt) |
 | _ WWW.RAREACLOUD.IO _ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/_%20WWW.RAREACLOUD.IO%20_.txt) |
@@ -17,4 +17,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/RO/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

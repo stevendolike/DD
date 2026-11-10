@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 219 條** · [返回主頁](../../README.md)
+**共 220 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -19,7 +19,7 @@
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FEELB%20SARL.txt) |
 | Free SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Free%20SAS.txt) |
 | GANDI-HOSTING DC0 DATACENTER PA2 | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GANDI-HOSTING%20DC0%20DATACENTER%20PA2.txt) |
-| GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/GTHost.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/HZ%20Hosting%20Ltd.txt) |
@@ -37,11 +37,12 @@
 | Oracle Corp UK Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corp%20UK%20Ltd.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Oracle%20Svenska%20AB.txt) |
-| Orange S.A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Orange%20S.A.txt) |
+| Orange S.A | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Orange%20S.A.txt) |
 | POP GRE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/POP%20GRE.txt) |
 | RACKNERD-FR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/RACKNERD-FR.txt) |
 | REGXA LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/REGXA%20LLC.txt) |
 | ROCKHOSTER PRIVATE LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/ROCKHOSTER%20PRIVATE%20LIMITED.txt) |
+| SERV.HOST GROUP LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/SERV.HOST%20GROUP%20LTD.txt) |
 | SEVIN Jacques | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/SEVIN%20Jacques.txt) |
 | Scaleway | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Scaleway.txt) |
 | TakeHost.Biz | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/TakeHost.Biz.txt) |
@@ -53,4 +54,4 @@
 | as56971 network | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

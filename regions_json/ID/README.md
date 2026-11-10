@@ -12,4 +12,4 @@
 | PT. Media Antar Nusa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/PT.%20Media%20Antar%20Nusa.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

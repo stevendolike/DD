@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 206 條** · [返回主頁](../../README.md)
+**共 207 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/_all.txt)
 
@@ -14,6 +14,7 @@
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Cloudflare%20London%2C%20LLC.txt) |
 | Deployish Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Deployish%20Limited.txt) |
 | DigitalOcean, LLC | 153 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/DigitalOcean%2C%20LLC.txt) |
+| Eons Data Communications Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/Eons%20Data%20Communications%20Limited.txt) |
 | GHOSTnet GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/GHOSTnet%20GmbH.txt) |
 | HOS-222463 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/HOS-222463.txt) |
 | HOS-3203417 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/HOS-3203417.txt) |
@@ -37,4 +38,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*

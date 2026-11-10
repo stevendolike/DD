@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 49 條** · [返回主頁](../../README.md)
+**共 48 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
@@ -20,7 +20,7 @@
 | HOSTHATCH SGP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/HOSTHATCH%20SGP.txt) |
 | Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Hetzner%20Online%20GmbH.txt) |
 | IPXO LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/IPXO%20LLC.txt) |
-| OVH SINGAPOR DC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/OVH%20SINGAPOR%20DC.txt) |
+| OVH SINGAPOR DC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/OVH%20SINGAPOR%20DC.txt) |
 | Oracle Corporation | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Corporation.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Svenska%20AB.txt) |
 | PI-SINGAPORE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/PI-SINGAPORE.txt) |
@@ -29,4 +29,4 @@
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-10 03:59 UTC*
+*最後更新：2026-11-10 13:10 UTC*
