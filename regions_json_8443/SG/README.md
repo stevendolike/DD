@@ -1,6 +1,6 @@
 # SG （純 IP）
 
-**共 48 條** · [返回主頁](../../README.md)
+**共 47 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/_all.txt)
 
@@ -25,8 +25,8 @@
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Oracle%20Svenska%20AB.txt) |
 | PI-SINGAPORE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/PI-SINGAPORE.txt) |
 | SG.GS | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/SG.GS.txt) |
-| The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/The%20Constant%20Company%2C%20LLC.txt) |
+| The Constant Company, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/The%20Constant%20Company%2C%20LLC.txt) |
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/SG/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

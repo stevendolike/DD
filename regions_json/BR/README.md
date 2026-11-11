@@ -7,8 +7,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/3NT%20SOLUTIONS%20LLP.txt) |
-| ACE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/ACE.txt) |
+| 6 COLLYER QUAY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/6%20COLLYER%20QUAY.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Linode.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

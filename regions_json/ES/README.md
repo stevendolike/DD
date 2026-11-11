@@ -8,8 +8,8 @@
 |------|--------|---------|
 | ARSYS INTERNET S.L.U | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/ARSYS%20INTERNET%20S.L.U.txt) |
 | AXARNET COMUNICACIONES, S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/AXARNET%20COMUNICACIONES%2C%20S.L.txt) |
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Baxet%20Group%20Inc.txt) |
-| BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/BlueVPS%20OU.txt) |
+| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Baxet%20Group%20Inc.txt) |
+| BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/BlueVPS%20OU.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Cloudflare%20London%2C%20LLC.txt) |
 | DIGI Spain Telecom IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/DIGI%20Spain%20Telecom%20IPv6.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
@@ -29,4 +29,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

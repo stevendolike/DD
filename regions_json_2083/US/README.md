@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 44 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt)
 
@@ -12,7 +12,7 @@
 | Cloudflare London, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Cloudflare%20London%2C%20LLC.txt) |
 | DigitalOcean, LLC | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/DigitalOcean%2C%20LLC.txt) |
 | HOSTKEY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/HOSTKEY.txt) |
-| Hetzner Online GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hetzner%20Online%20GmbH.txt) |
+| Hetzner Online GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Hetzner%20Online%20GmbH.txt) |
 | HostPapa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/HostPapa.txt) |
 | Huize Holdings LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Huize%20Holdings%20LLC.txt) |
 | LeaseWeb USA, Inc. Los Angeles | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/LeaseWeb%20USA%2C%20Inc.%20Los%20Angeles.txt) |
@@ -21,7 +21,7 @@
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/Oracle%20Corporation.txt) |
 | as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/as56971%20network.txt) |
 | netcup GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/netcup%20GmbH.txt) |
-| www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
+| www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

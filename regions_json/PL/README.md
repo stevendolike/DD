@@ -1,14 +1,13 @@
 # PL
 
-**共 230 條** · [返回主頁](../../README.md)
+**共 219 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| 1Cent Host | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/1Cent%20Host.txt) |
+| 1Cent Host | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/1Cent%20Host.txt) |
 | 3HCLoud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3HCLoud%20LLC.txt) |
-| 3K33 sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3K33%20sp.%20z%20o.o.txt) |
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3NT%20SOLUTIONS%20LLP.txt) |
 | Alex Largman | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Alex%20Largman.txt) |
 | Andrzej Erenc trading as awHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Andrzej%20Erenc%20trading%20as%20awHost.txt) |
@@ -21,6 +20,7 @@
 | Chunkserve Mateusz Peplinski | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Chunkserve%20Mateusz%20Peplinski.txt) |
 | City Telecom LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/City%20Telecom%20LTD.txt) |
 | Datacamp Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Datacamp%20Limited.txt) |
+| Datagio Systems Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Datagio%20Systems%20Ltd.txt) |
 | EternityCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/EternityCloud.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Evoxt.com.txt) |
 | ExpressHost LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/ExpressHost%20LTD.txt) |
@@ -36,9 +36,10 @@
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostesLLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HostesLLC.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
+| Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Intezio%20Networks%20Warsaw.txt) |
 | Korbank S. A | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Korbank%20S.%20A.txt) |
 | Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Kutumova%20Olena.txt) |
-| Local NCC Ltd | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Local%20NCC%20Ltd.txt) |
+| Local NCC Ltd | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Local%20NCC%20Ltd.txt) |
 | MEVSPACE sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/MEVSPACE%20sp.%20z%20o.o.txt) |
 | Melbikomas UAB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Melbikomas%20UAB.txt) |
 | Netassist Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Netassist%20Limited.txt) |
@@ -59,9 +60,8 @@
 | The Constant Company, LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/UpCloud%20Cloud%20Servers.txt) |
 | VPSPay - vpspay.cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/VPSPay%20-%20vpspay.cloud.txt) |
-| Vladislav Novitskii | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Vladislav%20Novitskii.txt) |
 | Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Warsaw%2C%20Poland.txt) |
 | freakhosting.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

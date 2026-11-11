@@ -1,6 +1,6 @@
 # NL
 
-**共 765 條** · [返回主頁](../../README.md)
+**共 752 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/_all_443.txt)
 
@@ -12,23 +12,24 @@
 | 365 Group LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/365%20Group%20LLC.txt) |
 | 3NT SOLUTIONS LLP | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/3NT%20SOLUTIONS%20LLP.txt) |
 | 6 COLLYER QUAY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/6%20COLLYER%20QUAY.txt) |
-| AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/AEZA%20GROUP%20Ltd.txt) |
-| ALEKSEI FEDOROV PR KRUSEVAC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
+| ALEKSEI FEDOROV PR KRUSEVAC | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ALEKSEI%20FEDOROV%20PR%20KRUSEVAC.txt) |
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ALEXHOST%20SRL.txt) |
-| Amsterdam, Netherlands | 114 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Amsterdam%2C%20Netherlands.txt) |
+| Amsterdam, Netherlands | 112 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Amsterdam%2C%20Netherlands.txt) |
 | Andrey Voskresenskiy | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Andrey%20Voskresenskiy.txt) |
 | Andris Jakovlevs | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Andris%20Jakovlevs.txt) |
 | Anexia Holding GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Anexia%20Holding%20GmbH.txt) |
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Anton%20Levin.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/BG-NETWORK.txt) |
 | Baxet Group Inc | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Baykov%20Ilya%20Sergeevich.txt) |
 | BitCommand LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/BitCommand%20LLC.txt) |
 | Blockchain Creek | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Blockchain%20Creek.txt) |
-| CGI GLOBAL LIMITED | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/CGI%20GLOBAL%20LIMITED.txt) |
-| CLODO CLOUD SERVICE CO. L.L.C | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/CLODO%20CLOUD%20SERVICE%20CO.%20L.L.C.txt) |
-| ClearStack B.V. - Cloud & VPS Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ClearStack%20B.V.%20-%20Cloud%20%26%20VPS%20Infrastructure.txt) |
+| CGI GLOBAL LIMITED | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/CGI%20GLOBAL%20LIMITED.txt) |
+| CLODO CLOUD SERVICE CO. L.L.C | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/CLODO%20CLOUD%20SERVICE%20CO.%20L.L.C.txt) |
+| City Telecom LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/City%20Telecom%20LTD.txt) |
+| ClearStack B.V. - Cloud & VPS Infrastructure | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ClearStack%20B.V.%20-%20Cloud%20%26%20VPS%20Infrastructure.txt) |
 | Cloud Backbone Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Cloud%20Backbone%20Inc.txt) |
 | Cloud Software - FZCO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Cloud%20Software%20-%20FZCO.txt) |
 | Cluster Logic Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Cluster%20Logic%20Inc.txt) |
@@ -39,11 +40,10 @@
 | Digital Ocean, Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Digital%20Ocean%2C%20Inc.txt) |
 | DigitalOcean Amsterdam | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/DigitalOcean%20Amsterdam.txt) |
 | DigitalOcean, LLC | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/DigitalOcean%2C%20LLC.txt) |
-| Domains Registration LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Domains%20Registration%20LLP.txt) |
 | ESTOXY OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ESTOXY%20OU.txt) |
 | EUROHOSTER Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/EUROHOSTER%20Ltd.txt) |
 | EternityCloud | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/EternityCloud.txt) |
-| Etheron Hosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Etheron%20Hosting.txt) |
+| Etheron Hosting | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Etheron%20Hosting.txt) |
 | FDCservers.net | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/FDCservers.net.txt) |
 | FIRST SERVER LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/FIRST%20SERVER%20LIMITED.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
@@ -58,7 +58,7 @@
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/GTHost.txt) |
 | Global Profit LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Global%20Profit%20LLC.txt) |
 | H1CLOUD LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/H1CLOUD%20LTD.txt) |
-| HOSTKEY B.V | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/HOSTKEY%20B.V.txt) |
+| HOSTKEY B.V | 32 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/HOSTKEY%20B.V.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/HZ%20Hosting%20Ltd.txt) |
 | Hizakura B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Hizakura%20B.V.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/HostHatch.txt) |
@@ -70,12 +70,10 @@
 | IHC network in Amsterdam, NL, EU (Iron Hosting Centre Ltd., London, UK) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/IHC%20network%20in%20Amsterdam%2C%20NL%2C%20EU%20%28Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%29.txt) |
 | INTERKVM HOST SRL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/INTERKVM%20HOST%20SRL.txt) |
 | IPCSERVER LP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/IPCSERVER%20LP.txt) |
-| IPFB LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/IPFB%20LLC.txt) |
 | IT WEB LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/IT%20WEB%20LTD.txt) |
 | Individual Entrepreneur Anton Levin | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Individual Entrepreneur Ildar Gilmutdinov | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Individual%20Entrepreneur%20Ildar%20Gilmutdinov.txt) |
 | Internet Utilities Europe and Asia Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Internet%20Utilities%20Europe%20and%20Asia%20Limited.txt) |
-| Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Intezio%20Networks%20Warsaw.txt) |
 | Iron Hosting Centre LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Iron%20Hosting%20Centre%20LTD.txt) |
 | Iron Hosting Centre Ltd., London, UK (Eurobyte VPS) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%20%28Eurobyte%20VPS%29.txt) |
 | Iron Hosting Centre Ltd., London, UK (rw) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%20%28rw%29.txt) |
@@ -94,6 +92,7 @@
 | M247 LTD Amsterdam Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/M247%20LTD%20Amsterdam%20Infrastructure.txt) |
 | MHost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/MHost%20LLC.txt) |
 | MVPS LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/MVPS%20LTD.txt) |
+| MagicHosting | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/MagicHosting.txt) |
 | Mastersoft S.R.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Mastersoft%20S.R.L.txt) |
 | Matteo Martelloni trading as DELUXHOST | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Matteo%20Martelloni%20trading%20as%20DELUXHOST.txt) |
 | Melbicom infrastructure | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Melbicom%20infrastructure.txt) |
@@ -112,9 +111,9 @@
 | Oso Grande IP Services, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Oso%20Grande%20IP%20Services%2C%20LLC.txt) |
 | PT Atharva Telematika Persada | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/PT%20Atharva%20Telematika%20Persada.txt) |
 | Petersburg Internet Network ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Petersburg%20Internet%20Network%20ltd.txt) |
-| Podaon SIA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Podaon%20SIA.txt) |
+| Podaon SIA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Podaon%20SIA.txt) |
 | Prinode AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Prinode%20AB.txt) |
-| Private Customer | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Private%20Customer.txt) |
+| Private Customer | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Private%20Customer.txt) |
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Pronet%20LLC.txt) |
 | RACKTECH CO., LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/RACKTECH%20CO.%2C%20LTD.txt) |
 | RCS Technologies FZE LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/RCS%20Technologies%20FZE%20LLC.txt) |
@@ -134,7 +133,7 @@
 | Servers.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Servers.com%2C%20Inc.txt) |
 | Shock Hosting LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Shock%20Hosting%20LLC.txt) |
 | SkyCore Technologies L.L.C-FZ | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/SkyCore%20Technologies%20L.L.C-FZ.txt) |
-| Snowd Security OU | 26 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 24 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Snowd%20Security%20OU.txt) |
 | The Infrastructure Group B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/The%20Infrastructure%20Group%20B.V.txt) |
 | Threatoff | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Threatoff.txt) |
 | TimeWeb Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/TimeWeb%20Ltd.txt) |
@@ -152,12 +151,10 @@
 | Virterion LLC | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Virterion%20LLC.txt) |
 | Virtual Machine Solutions LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Virtual%20Machine%20Solutions%20LLC.txt) |
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Vultr%20Holdings%2C%20LLC.txt) |
-| Vyrex.co | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Vyrex.co.txt) |
+| WEBHOST LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/WEBHOST%20LLC.txt) |
 | WebHorizon Netherlands | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/WebHorizon%20Netherlands.txt) |
-| Webhost LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Webhost%20LLC.txt) |
 | WorldStream B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/WorldStream%20B.V.txt) |
 | ZENLA-1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ZENLA-1.txt) |
-| ZetServers Amsterdam | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/ZetServers%20Amsterdam.txt) |
 | Ziggo Consumers | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/Ziggo%20Consumers.txt) |
 | as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/as56971%20network.txt) |
 | idhosting.dk | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/idhosting.dk.txt) |
@@ -167,4 +164,4 @@
 | www.fornex.com, Fornex Hosting S.L | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/NL/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

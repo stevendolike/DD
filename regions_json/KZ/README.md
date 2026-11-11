@@ -17,17 +17,17 @@
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GOhost.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/GOhost.KZ.txt) |
 | Goodhost.KZ | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Goodhost.KZ.txt) |
-| HostLab LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/HostLab%20LLC.txt) |
+| HostLab LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/HostLab%20LLC.txt) |
 | ITGLOBAL.COM KZ LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/ITGLOBAL.COM%20KZ%20LLP.txt) |
 | JSC Datacenter | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20Datacenter.txt) |
 | JSC Severen-Telecom | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20Severen-Telecom.txt) |
-| JSC TIMEWEB | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
+| JSC TIMEWEB | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/JSC%20TIMEWEB.txt) |
 | LLP Internet Company First Page | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
 | Megahost Kazakhstan TOO | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | Modern Server Solutions LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Modern%20Server%20Solutions%20LLP.txt) |
 | NTL Kazakhstan TOO | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/NTL%20Kazakhstan%20TOO.txt) |
-| PS Internet Company LLP | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
+| PS Internet Company LLP | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

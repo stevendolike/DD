@@ -1,6 +1,6 @@
 # RU
 
-**共 55 條** · [返回主頁](../../README.md)
+**共 56 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/_all_443.txt)
 
@@ -13,7 +13,7 @@
 | EDIS IPv6 Infrastructure in Russia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EDIS%20IPv6%20Infrastructure%20in%20Russia.txt) |
 | EdgeCenter LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/EdgeCenter%20LLC.txt) |
 | FIRST SERVER LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%20LIMITED.txt) |
-| FIRST SERVER, SOCIEDAD LIMITADA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
+| FIRST SERVER, SOCIEDAD LIMITADA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
 | GLOBAL INTERNET SOLUTIONS LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/GLOBAL%20INTERNET%20SOLUTIONS%20LLC.txt) |
 | JSC IOT | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20IOT.txt) |
 | JSC TIMEWEB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
@@ -32,4 +32,4 @@
 | VDSka hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/VDSka%20hosting.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

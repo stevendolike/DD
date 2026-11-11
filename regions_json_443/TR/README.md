@@ -10,6 +10,7 @@
 | 2E Telekomunikasyon LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/2E%20Telekomunikasyon%20LTD.%20STI.txt) |
 | BEAFORT LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/BEAFORT%20LIMITED.txt) |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/CIZGI%20TELEKOMUNIKASYON%20ANONIM%20SIRKETI.txt) |
+| DorukCloud network block | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/DorukCloud%20network%20block.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/HOSTKEY%20B.V.txt) |
@@ -22,8 +23,8 @@
 | TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/TALIDO%20Bilisim%20Teknolojileri%20Sanayi%20ve%20Ticaret%20Anonim%20Sirketi.txt) |
 | TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/TEKNOSOS%20BILISIM%20HIZMETLERI%20VE%20TIC.%20LTD.%20STI.txt) |
 | TradeZone LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/TradeZone%20LLC.txt) |
-| White Label Services, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/White%20Label%20Services%2C%20LLC.txt) |
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

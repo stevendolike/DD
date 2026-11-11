@@ -1,6 +1,6 @@
 # AT
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 7 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/_all_443.txt)
 
@@ -11,7 +11,8 @@
 | Alwyzon, a trading name of Hohl IT e.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | HostHatch LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/HostHatch%20LLC.txt) |
+| Hosteroid - Vienna | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/Hosteroid%20-%20Vienna.txt) |
 | IPAX VIRTUAL line server | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/AT/IPAX%20VIRTUAL%20line%20server.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

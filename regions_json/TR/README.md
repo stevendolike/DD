@@ -13,6 +13,7 @@
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Baxet%20Group%20Inc.txt) |
 | Brnchost Bilisim Teknolojileri | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Brnchost%20Bilisim%20Teknolojileri.txt) |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/CIZGI%20TELEKOMUNIKASYON%20ANONIM%20SIRKETI.txt) |
+| DorukCloud network block | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/DorukCloud%20network%20block.txt) |
 | G-Core Labs S.A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/G-Core%20Labs%20S.A.txt) |
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
@@ -31,8 +32,8 @@
 | TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TALIDO%20Bilisim%20Teknolojileri%20Sanayi%20ve%20Ticaret%20Anonim%20Sirketi.txt) |
 | TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TEKNOSOS%20BILISIM%20HIZMETLERI%20VE%20TIC.%20LTD.%20STI.txt) |
 | TradeZone LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TradeZone%20LLC.txt) |
-| White Label Services, LLC | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
 | hostigger_datacenter_TR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/hostigger_datacenter_TR.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

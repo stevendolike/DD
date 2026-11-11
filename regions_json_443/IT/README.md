@@ -1,6 +1,6 @@
 # IT （純 IP）
 
-**共 21 條** · [返回主頁](../../README.md)
+**共 19 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/_all.txt)
 
@@ -13,8 +13,7 @@
 | EDIS Infrastructure in Italy | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/EDIS%20Infrastructure%20in%20Italy.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/GREEN%20FLOID%20LLC.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/HOSTKEY%20B.V.txt) |
-| IT Hostline Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/IT%20Hostline%20Ltd.txt) |
 | Kamatera Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/IT/Kamatera%20Inc.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

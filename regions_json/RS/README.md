@@ -1,6 +1,6 @@
 # RS
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/_all_443.txt)
 
@@ -11,7 +11,6 @@
 | EDIS IPv6 Infrastructure in Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/EDIS%20IPv6%20Infrastructure%20in%20Serbia.txt) |
 | Majordomo in Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/Majordomo%20in%20Serbia.txt) |
 | Majordomo net in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/Majordomo%20net%20in%20Serbia.txt) |
-| VPS1 NET Serbia | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/VPS1%20NET%20Serbia.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

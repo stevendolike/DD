@@ -1,6 +1,6 @@
 # GB
 
-**共 134 條** · [返回主頁](../../README.md)
+**共 130 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/_all_443.txt)
 
@@ -22,10 +22,10 @@
 | HOSTKEY B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/HOSTKEY%20B.V.txt) |
 | Hyperoptic Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Hyperoptic%20Ltd.txt) |
 | IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/IONOS%20SE.txt) |
-| IT Hostline Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/IT%20Hostline%20Ltd.txt) |
 | Iomart Managed Services Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Iomart%20Managed%20Services%20Limited.txt) |
 | Ionis Group - Ionis Schools of Technology and Management SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Ionis%20Group%20-%20Ionis%20Schools%20of%20Technology%20and%20Management%20SAS.txt) |
 | LIVI HOSTING LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/LIVI%20HOSTING%20LTD.txt) |
+| Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Linode%2C%20LLC.txt) |
 | MONOVM BILGI VE TEKNOLOJI LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/MONOVM%20BILGI%20VE%20TEKNOLOJI%20LIMITED%20SIRKETI.txt) |
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Microsoft%20Limited.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
@@ -42,4 +42,4 @@
 | Vultr Holdings, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/GB/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

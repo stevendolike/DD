@@ -1,6 +1,6 @@
 # ES （純 IP）
 
-**共 34 條** · [返回主頁](../../README.md)
+**共 33 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/_all.txt)
 
@@ -9,7 +9,7 @@
 | ARSYS INTERNET S.L.U | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/ARSYS%20INTERNET%20S.L.U.txt) |
 | AXARNET COMUNICACIONES, S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/AXARNET%20COMUNICACIONES%2C%20S.L.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Baxet%20Group%20Inc.txt) |
-| BlueVPS OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/BlueVPS%20OU.txt) |
+| BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/BlueVPS%20OU.txt) |
 | Cloudflare London, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Cloudflare%20London%2C%20LLC.txt) |
 | DIGI Spain Telecom IPv6 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/DIGI%20Spain%20Telecom%20IPv6.txt) |
 | GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/GREEN%20FLOID%20LLC.txt) |
@@ -26,4 +26,4 @@
 | Ya.com Internet Factory | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/ES/Ya.com%20Internet%20Factory.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

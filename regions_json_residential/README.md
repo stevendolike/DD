@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 79 條** · [返回主頁](../README.md)
+**共 77 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -24,11 +24,11 @@
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **39** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **38** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
@@ -53,7 +53,7 @@
 | KPN B.V | NL | 1 |
 | KPN CM | NL | 1 |
 | MoeDove Broadband - United States | US | 2 |
-| NTT America, Inc | US | 4 |
+| NTT America, Inc | US | 3 |
 | Optimum Online | US | 1 |
 | Orange S.A | FR | 3 |
 | PCCWG INTERNAL | DE | 1 |
@@ -69,7 +69,6 @@
 | Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
-| Wave Broadband | US | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

@@ -1,6 +1,6 @@
 # GB
 
-**共 730 條** · [返回主頁](../../README.md)
+**共 727 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/_all_443.txt)
 
@@ -19,7 +19,7 @@
 | Clouvider Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Clouvider%20Limited.txt) |
 | Contabo GmbH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Contabo%20GmbH.txt) |
 | DigitalOcean London | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%20London.txt) |
-| DigitalOcean, LLC | 549 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 550 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/DigitalOcean%2C%20LLC.txt) |
 | Evoxt.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Evoxt.com.txt) |
 | Fiber Grid INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Fiber%20Grid%20INC.txt) |
 | GLOBALTELEHOST Corp | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/GLOBALTELEHOST%20Corp.txt) |
@@ -31,12 +31,11 @@
 | HostUS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/HostUS.txt) |
 | Hyperoptic Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Hyperoptic%20Ltd.txt) |
 | IONOS SE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/IONOS%20SE.txt) |
-| IT Hostline Ltd | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/IT%20Hostline%20Ltd.txt) |
 | Iomart Managed Services Limited | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Iomart%20Managed%20Services%20Limited.txt) |
 | Ionis Group - Ionis Schools of Technology and Management SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Ionis%20Group%20-%20Ionis%20Schools%20of%20Technology%20and%20Management%20SAS.txt) |
 | LIVI HOSTING LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/LIVI%20HOSTING%20LTD.txt) |
 | Leaseweb UK Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Leaseweb%20UK%20Limited.txt) |
-| Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode%2C%20LLC.txt) |
+| Linode, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode%2C%20LLC.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Linode.txt) |
 | MONOVM BILGI VE TEKNOLOJI LIMITED SIRKETI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/MONOVM%20BILGI%20VE%20TEKNOLOJI%20LIMITED%20SIRKETI.txt) |
 | Microsoft Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/Microsoft%20Limited.txt) |
@@ -59,4 +58,4 @@
 | YUNYOO LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/GB/YUNYOO%20LTD.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*

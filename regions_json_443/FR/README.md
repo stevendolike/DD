@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 220 條** · [返回主頁](../../README.md)
+**共 221 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/_all.txt)
 
@@ -13,7 +13,7 @@
 | BZSOLUTIONS SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/BZSOLUTIONS%20SRL.txt) |
 | Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Baykov%20Ilya%20Sergeevich.txt) |
 | CGI GLOBAL LIMITED | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/CGI%20GLOBAL%20LIMITED.txt) |
-| Contabo GmbH | 60 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
+| Contabo GmbH | 62 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Contabo%20GmbH.txt) |
 | Dyjix SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Dyjix%20SAS.txt) |
 | Evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Evoxt.com.txt) |
 | FEELB SARL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/FEELB%20SARL.txt) |
@@ -51,7 +51,7 @@
 | VIRTUASYS PARIS (PAR01FR) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/VIRTUASYS%20PARIS%20%28PAR01FR%29.txt) |
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/Vultr%20Holdings%2C%20LLC.txt) |
 | YottaSrc Hosting and Cloud Service | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/YottaSrc%20Hosting%20and%20Cloud%20Service.txt) |
-| as56971 network | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
+| as56971 network | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/FR/as56971%20network.txt) |
 
 ---
-*最後更新：2026-11-11 01:44 UTC*
+*最後更新：2026-11-11 12:19 UTC*
