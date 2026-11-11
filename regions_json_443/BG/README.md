@@ -21,4 +21,4 @@
 | TerraTransit AG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/TerraTransit%20AG.txt) |
 
 ---
-*最後更新：2026-11-10 13:10 UTC*
+*最後更新：2026-11-11 01:44 UTC*

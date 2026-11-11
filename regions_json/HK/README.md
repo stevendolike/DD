@@ -44,4 +44,4 @@
 | xTom Hong Kong Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/xTom%20Hong%20Kong%20Limited.txt) |
 
 ---
-*最後更新：2026-11-10 13:10 UTC*
+*最後更新：2026-11-11 01:44 UTC*
