@@ -9,4 +9,4 @@
 | Akari Networks (Taipei) | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/TW/Akari%20Networks%20%28Taipei%29.txt) |
 
 ---
-*最後更新：2026-11-11 12:19 UTC*
+*最後更新：2026-11-12 02:45 UTC*
