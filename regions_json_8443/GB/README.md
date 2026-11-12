@@ -1,6 +1,6 @@
 # GB （純 IP）
 
-**共 126 條** · [返回主頁](../../README.md)
+**共 124 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | Atlantic.Net UK Cloud Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Atlantic.Net%20UK%20Cloud%20Ltd.txt) |
 | Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Baxet%20Group%20Inc.txt) |
-| Catixs Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Catixs%20Ltd.txt) |
 | Clouvider Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Clouvider%20Limited.txt) |
 | Contabo GmbH | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Contabo%20GmbH.txt) |
 | DigitalOcean, LLC | 69 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/DigitalOcean%2C%20LLC.txt) |
@@ -25,8 +24,7 @@
 | Shaposhnikov Maxim | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Shaposhnikov%20Maxim.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/The%20Constant%20Company%2C%20LLC.txt) |
 | UFO TECHNOLOGIES LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/UFO%20TECHNOLOGIES%20LIMITED.txt) |
-| VeloxServ Communications Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/VeloxServ%20Communications%20Ltd.txt) |
 | Vodafone Broadband | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/GB/Vodafone%20Broadband.txt) |
 
 ---
-*最後更新：2026-11-12 02:45 UTC*
+*最後更新：2026-11-12 13:28 UTC*

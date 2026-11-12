@@ -1,6 +1,6 @@
 # BE （純 IP）
 
-**共 4 條** · [返回主頁](../../README.md)
+**共 3 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | EDIS IPv6 Infrastructure in Belgium | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/EDIS%20IPv6%20Infrastructure%20in%20Belgium.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
-| Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/Google%20LLC.txt) |
+| Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BE/Google%20LLC.txt) |
 
 ---
-*最後更新：2026-11-12 02:45 UTC*
+*最後更新：2026-11-12 13:28 UTC*

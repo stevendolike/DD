@@ -1,6 +1,6 @@
 # KZ
 
-**共 103 條** · [返回主頁](../../README.md)
+**共 104 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -14,7 +14,7 @@
 | Big Data Host LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Big%20Data%20Host%20LLC.txt) |
 | Cloud Services Kazakhstan LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
 | EQU Technologies LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/EQU%20Technologies%20LLP.txt) |
-| GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
+| GLB Bulut Teknolojisi Limited Sirketi | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GOhost.KZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/GOhost.KZ.txt) |
 | Goodhost.KZ | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Goodhost.KZ.txt) |
 | HostLab LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/HostLab%20LLC.txt) |
@@ -30,4 +30,4 @@
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-11-12 02:45 UTC*
+*最後更新：2026-11-12 13:28 UTC*

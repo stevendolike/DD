@@ -1,12 +1,12 @@
 # LT （純 IP）
 
-**共 25 條** · [返回主頁](../../README.md)
+**共 24 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Baxet%20Group%20Inc.txt) |
 | Dedikuotiems serveriams priskirti adresai | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Dedikuotiems%20serveriams%20priskirti%20adresai.txt) |
 | EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
 | Hosteroid - Vilnus | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/Hosteroid%20-%20Vilnus.txt) |
@@ -20,4 +20,4 @@
 | UAB Interneto vizija | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-11-12 02:45 UTC*
+*最後更新：2026-11-12 13:28 UTC*

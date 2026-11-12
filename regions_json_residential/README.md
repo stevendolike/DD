@@ -1,13 +1,13 @@
 # 家庭寬帶（全部 Port）
 
-**共 77 條** · [返回主頁](../README.md)
+**共 76 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
 | BY | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/BY.txt) |
-| CA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
+| CA | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
 | DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
@@ -59,7 +59,7 @@
 | PCCWG INTERNAL | DE | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
-| Shaw Communications | CA | 3 |
+| Shaw Communications | CA | 2 |
 | So-net Service | JP | 1 |
 | Superonline Iletisim Hizmetleri A.S | TR | 2 |
 | Swisscom (Schweiz) AG | CH | 1 |
@@ -71,4 +71,4 @@
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-12 02:45 UTC*
+*最後更新：2026-11-12 13:28 UTC*
