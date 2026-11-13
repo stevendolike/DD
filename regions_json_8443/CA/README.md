@@ -1,6 +1,6 @@
 # CA （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 17 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/_all.txt)
 
@@ -10,8 +10,8 @@
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
 | Cogeco Connexion Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Cogeco%20Connexion%20Inc.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Graeme%20Tee.txt) |
-| OVH Hosting, Inc | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
+| OVH Hosting, Inc | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Shaw%20Communications.txt) |
 
 ---
-*最後更新：2026-11-13 02:28 UTC*
+*最後更新：2026-11-13 12:44 UTC*
