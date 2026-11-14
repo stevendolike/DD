@@ -24,4 +24,4 @@
 | Zoner webhosting and serverhosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CZ/Zoner%20webhosting%20and%20serverhosting%20services.txt) |
 
 ---
-*最後更新：2026-11-13 12:44 UTC*
+*最後更新：2026-11-14 02:03 UTC*
