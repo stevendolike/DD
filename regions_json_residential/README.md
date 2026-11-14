@@ -10,7 +10,7 @@
 | CA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
-| DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
+| DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
@@ -23,17 +23,17 @@
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **36** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **37** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 8 |
+| AT&T Enterprises, LLC | US | 7 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
 | BBIX IPv6 Network | JP | 2 |
@@ -55,6 +55,7 @@
 | NTT America, Inc | US | 2 |
 | Optimum Online | US | 1 |
 | Orange S.A | FR | 3 |
+| PCCWG INTERNAL | DE | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
 | Shaw Communications | CA | 3 |
@@ -68,4 +69,4 @@
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-14 02:03 UTC*
+*最後更新：2026-11-14 11:52 UTC*

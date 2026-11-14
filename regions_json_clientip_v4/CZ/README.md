@@ -7,8 +7,8 @@
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT Solutions LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/3NT%20Solutions%20LLP.txt) |
-| Ace Data Centers II, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Ace%20Data%20Centers%20II%2C%20LLC.txt) |
 | Datacamp Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Datacamp%20Limited.txt) |
+| GREEN FLOID LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/GREEN%20FLOID%20LLC.txt) |
 | HOST-TELECOM.COM s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/HOST-TELECOM.COM%20s.r.o.txt) |
 | Iron Hosting Centre LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Iron%20Hosting%20Centre%20LTD.txt) |
 | Iron Hosting Centre Ltd., London, UK (mchost) | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/Iron%20Hosting%20Centre%20Ltd.%2C%20London%2C%20UK%20%28mchost%29.txt) |
@@ -18,4 +18,4 @@
 | UPC Ceska republika, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CZ/UPC%20Ceska%20republika%2C%20a.s.txt) |
 
 ---
-*最後更新：2026-11-14 02:03 UTC*
+*最後更新：2026-11-14 11:52 UTC*
