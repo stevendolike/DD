@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 74 條** · [返回主頁](../README.md)
+**共 75 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -21,13 +21,14 @@
 | KR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
+| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | US | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **37** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **38** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
@@ -65,8 +66,9 @@
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
 | Tele Columbus AG | DE | 2 |
 | UPC Ceska republika, a.s | CZ | 1 |
+| Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-15 01:35 UTC*
+*最後更新：2026-11-15 12:24 UTC*
