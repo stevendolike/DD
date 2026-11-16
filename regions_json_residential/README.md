@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 75 條** · [返回主頁](../README.md)
+**共 77 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -24,7 +24,7 @@
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
@@ -34,7 +34,7 @@
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 7 |
+| AT&T Enterprises, LLC | US | 8 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
 | BBIX IPv6 Network | JP | 2 |
@@ -53,7 +53,7 @@
 | KPN B.V | NL | 1 |
 | KPN CM | NL | 1 |
 | MoeDove Broadband - United States | US | 2 |
-| NTT America, Inc | US | 2 |
+| NTT America, Inc | US | 3 |
 | Optimum Online | US | 1 |
 | Orange S.A | FR | 3 |
 | PCCWG INTERNAL | DE | 1 |
@@ -71,4 +71,4 @@
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-16 01:39 UTC*
+*最後更新：2026-11-16 13:15 UTC*
