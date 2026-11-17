@@ -13,4 +13,4 @@
 | Majordomo net in Serbia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RS/Majordomo%20net%20in%20Serbia.txt) |
 
 ---
-*最後更新：2026-11-16 13:15 UTC*
+*最後更新：2026-11-17 04:22 UTC*
