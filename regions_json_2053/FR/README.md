@@ -1,6 +1,6 @@
 # FR （純 IP）
 
-**共 53 條** · [返回主頁](../../README.md)
+**共 54 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/_all.txt)
 
@@ -17,7 +17,7 @@
 | IPHOSTER OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/IPHOSTER%20OU.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Linode.txt) |
 | Mo's Operations GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Mo%27s%20Operations%20GmbH.txt) |
-| OVH SAS | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/OVH%20SAS.txt) |
+| OVH SAS | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/OVH%20SAS.txt) |
 | Oracle Svenska AB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Oracle%20Svenska%20AB.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/Private%20Customer.txt) |
 | SERVERD SAS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/SERVERD%20SAS.txt) |
@@ -25,4 +25,4 @@
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/FR/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-11-17 04:22 UTC*
+*最後更新：2026-11-17 14:01 UTC*

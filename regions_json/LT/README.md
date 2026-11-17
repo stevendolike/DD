@@ -9,7 +9,7 @@
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Baxet%20Group%20Inc.txt) |
 | EDIS IPv6 Infrastructure in Lithuania | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/EDIS%20IPv6%20Infrastructure%20in%20Lithuania.txt) |
 | Hosteroid - Vilnus | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Hosteroid%20-%20Vilnus.txt) |
-| Hostinger International Limited | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Hostinger%20International%20Limited.txt) |
+| Hostinger Operations UAB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Hostinger%20Operations%20UAB.txt) |
 | Melbikomas UAB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Melbikomas%20UAB.txt) |
 | Pirma alokacija | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Pirma%20alokacija.txt) |
 | Private Customer | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/Private%20Customer.txt) |
@@ -21,4 +21,4 @@
 | UAB Interneto vizija | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LT/UAB%20Interneto%20vizija.txt) |
 
 ---
-*最後更新：2026-11-17 04:22 UTC*
+*最後更新：2026-11-17 14:01 UTC*

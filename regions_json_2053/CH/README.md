@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 10 條** · [返回主頁](../../README.md)
+**共 9 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/_all.txt)
 
@@ -8,7 +8,6 @@
 |------|--------|---------|
 | BuyVM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/BuyVM.txt) |
 | Datasource AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Datasource%20AG.txt) |
-| GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | Green Floid LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/HOSTKEY%20B.V.txt) |
 | Infomaniak Network SA | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Infomaniak%20Network%20SA.txt) |
@@ -16,4 +15,4 @@
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CH/Oracle%20Public%20Cloud.txt) |
 
 ---
-*最後更新：2026-11-17 04:22 UTC*
+*最後更新：2026-11-17 14:01 UTC*

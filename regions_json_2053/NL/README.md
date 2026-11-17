@@ -20,9 +20,10 @@
 | ClearStack B.V. - Cloud & VPS Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/ClearStack%20B.V.%20-%20Cloud%20%26%20VPS%20Infrastructure.txt) |
 | Cogent Communications, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Cogent%20Communications%2C%20LLC.txt) |
 | DataWeb Global Group B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/DataWeb%20Global%20Group%20B.V.txt) |
-| DigitalOcean, LLC | 182 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 181 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/DigitalOcean%2C%20LLC.txt) |
 | FIRST SERVER LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/FIRST%20SERVER%20LIMITED.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
+| GOLD IP L.L.C-FZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/GOLD%20IP%20L.L.C-FZ.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/GREEN%20FLOID%20LLC.txt) |
 | HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/HOSTKEY%20B.V.txt) |
 | Hizakura B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Hizakura%20B.V.txt) |
@@ -41,7 +42,6 @@
 | NovaCloud-Hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/NovaCloud-Hosting.txt) |
 | NovoServe B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/NovoServe%20B.V.txt) |
 | O.M.C. COMPUTERS & COMMUNICATIONS LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/O.M.C.%20COMPUTERS%20%26%20COMMUNICATIONS%20LTD.txt) |
-| PT Atharva Telematika Persada | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/PT%20Atharva%20Telematika%20Persada.txt) |
 | Podaon SIA | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Podaon%20SIA.txt) |
 | RACKTECH CO., LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/RACKTECH%20CO.%2C%20LTD.txt) |
 | RCS Technologies FZE LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/RCS%20Technologies%20FZE%20LLC.txt) |
@@ -58,10 +58,11 @@
 | The Infrastructure Group B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/The%20Infrastructure%20Group%20B.V.txt) |
 | TimeWeb | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/TimeWeb.txt) |
 | Timeweb, LLP | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Timeweb%2C%20LLP.txt) |
+| UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/UNKNOWN.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/Vultr%20Holdings%2C%20LLC.txt) |
 | as56971 network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/as56971%20network.txt) |
 | play2go.cloud - Cheap and reliable hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/play2go.cloud%20-%20Cheap%20and%20reliable%20hosting.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/NL/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-17 04:22 UTC*
+*最後更新：2026-11-17 14:01 UTC*

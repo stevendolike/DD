@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 40 條** · [返回主頁](../../README.md)
+**共 39 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/_all.txt)
 
@@ -19,8 +19,8 @@
 | Leaseweb USA, Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Leaseweb%20USA%2C%20Inc.txt) |
 | NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/NetCrafters%20OU.txt) |
 | Nexeon Technologies, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/Nexeon%20Technologies%2C%20Inc.txt) |
-| RackNerd LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/RackNerd%20LLC.txt) |
+| RackNerd LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/RackNerd%20LLC.txt) |
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2087/US/as56971%20network.txt) |
 
 ---
-*最後更新：2026-11-17 04:22 UTC*
+*最後更新：2026-11-17 14:01 UTC*

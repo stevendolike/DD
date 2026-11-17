@@ -11,7 +11,7 @@
 | Amazon.com, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Amazon.com%2C%20Inc.txt) |
 | BRANDON MAXWELL LOOI | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/BRANDON%20MAXWELL%20LOOI.txt) |
 | Evoxt.com | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Evoxt.com.txt) |
-| Hostinger International Limited | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Hostinger%20International%20Limited.txt) |
+| Hostinger Operations UAB | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/MY/Hostinger%20Operations%20UAB.txt) |
 
 ---
-*最後更新：2026-11-17 04:22 UTC*
+*最後更新：2026-11-17 14:01 UTC*
