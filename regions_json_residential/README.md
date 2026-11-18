@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 77 條** · [返回主頁](../README.md)
+**共 76 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -10,7 +10,7 @@
 | CA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
-| DE | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
+| DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
@@ -21,13 +21,14 @@
 | KR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
+| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | US | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **38** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **37** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
@@ -51,12 +52,10 @@
 | Internetport Sweden AB | SE | 1 |
 | KPN B.V | NL | 1 |
 | KPN CM | NL | 1 |
-| M-net Telekommunikations GmbH | DE | 1 |
 | MoeDove Broadband - United States | US | 2 |
 | NTT America, Inc | US | 3 |
 | Optimum Online | US | 1 |
 | Orange S.A | FR | 3 |
-| PCCWG INTERNAL | DE | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
 | Shaw Communications | CA | 3 |
@@ -66,8 +65,9 @@
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
 | Tele Columbus AG | DE | 2 |
 | UPC Ceska republika, a.s | CZ | 1 |
+| Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 2 |
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

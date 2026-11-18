@@ -1,6 +1,6 @@
 # DE （純 IP）
 
-**共 316 條** · [返回主頁](../../README.md)
+**共 310 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/_all.txt)
 
@@ -10,10 +10,10 @@
 | 1Cent Host | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/1Cent%20Host.txt) |
 | 365.partners INC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/365.partners%20INC.txt) |
 | A100 ROW GmbH | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/A100%20ROW%20GmbH.txt) |
-| AEZA GROUP LLC | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 15 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AEZA%20GROUP%20LLC.txt) |
 | Alibaba Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Alibaba%20Cloud%20LLC.txt) |
 | AlphaVPS LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/AlphaVPS%20LLC.txt) |
-| Amsterdam, Netherlands | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Amsterdam%2C%20Netherlands.txt) |
+| Amsterdam, Netherlands | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Amsterdam%2C%20Netherlands.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Baxet%20Group%20Inc.txt) |
 | CHSL ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/CHSL%20ONE%20LTD.txt) |
 | Cloud Hosting Solutions, Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Cloud%20Hosting%20Solutions%2C%20Limited.txt) |
@@ -32,7 +32,7 @@
 | HZ Hosting Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/HZ%20Hosting%20Ltd.txt) |
 | Hetzner Online GmbH | 37 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hetzner%20Online%20GmbH.txt) |
 | Hostinux Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Hostinux%20Limited.txt) |
-| IONOS SE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IONOS%20SE.txt) |
+| IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/IONOS%20SE.txt) |
 | ISPpro Internet KG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/ISPpro%20Internet%20KG.txt) |
 | Invermae Solutions SL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Invermae%20Solutions%20SL.txt) |
 | Leaseweb Deutschland GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Leaseweb%20Deutschland%20GmbH.txt) |
@@ -55,8 +55,6 @@
 | The Constant Company, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/The%20Constant%20Company%2C%20LLC.txt) |
 | Threatoff | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Threatoff.txt) |
 | Timeweb, LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Timeweb%2C%20LLP.txt) |
-| UltaHost Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/UltaHost%20Inc.txt) |
-| WAIcore Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/WAIcore%20Ltd.txt) |
 | Witine Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/Witine%20Limited.txt) |
 | dataforest GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/dataforest%20GmbH.txt) |
 | lease for Timeweb | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/lease%20for%20Timeweb.txt) |
@@ -68,4 +66,4 @@
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/DE/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

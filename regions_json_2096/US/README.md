@@ -1,6 +1,6 @@
 # US （純 IP）
 
-**共 37 條** · [返回主頁](../../README.md)
+**共 36 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/_all.txt)
 
@@ -16,8 +16,7 @@
 | Linode, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Linode%2C%20LLC.txt) |
 | Oracle Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Oracle%20Corporation.txt) |
 | RackNerd LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/RackNerd%20LLC.txt) |
-| Red Team LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/Red%20Team%20LTD.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/US/The%20Constant%20Company%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

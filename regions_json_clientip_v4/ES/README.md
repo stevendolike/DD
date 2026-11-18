@@ -1,6 +1,6 @@
 # ES
 
-**共 17 條** · [返回主頁](../../README.md)
+**共 19 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/_all_443.txt)
 
@@ -13,10 +13,11 @@
 | GTHost | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/GTHost.txt) |
 | Google LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Google%20LLC.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/IONOS%20SE.txt) |
+| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Private%20Customer.txt) |
 | Raiola Networks IPv4 static | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Raiola%20Networks%20IPv4%20static.txt) |
 | Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Snowd%20Security%20OU.txt) |
 | UltaHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/UltaHost.txt) |
 | Ya.com Internet Factory | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/ES/Ya.com%20Internet%20Factory.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

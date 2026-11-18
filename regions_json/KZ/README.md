@@ -1,6 +1,6 @@
 # KZ
 
-**共 101 條** · [返回主頁](../../README.md)
+**共 100 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/_all_443.txt)
 
@@ -10,7 +10,7 @@
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/3NT%20SOLUTIONS%20LLP.txt) |
 | AdminVPS OOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/AdminVPS%20OOO.txt) |
 | Anton Levin | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Anton%20Levin.txt) |
-| BEAFORT LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/BEAFORT%20LIMITED.txt) |
+| BEAFORT LIMITED | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/BEAFORT%20LIMITED.txt) |
 | Big Data Host LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Big%20Data%20Host%20LLC.txt) |
 | Cloud Services Kazakhstan LLP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Cloud%20Services%20Kazakhstan%20LLP.txt) |
 | EQU Technologies LLP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/EQU%20Technologies%20LLP.txt) |
@@ -29,4 +29,4 @@
 | Yandex.Cloud LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/KZ/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

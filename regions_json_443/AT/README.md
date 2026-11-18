@@ -1,12 +1,13 @@
 # AT （純 IP）
 
-**共 39 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/AEZA%20GROUP%20LLC.txt) |
+| Alpenhost e.U | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Alpenhost%20e.U.txt) |
 | Alwyzon, a trading name of Hohl IT e.U | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Alwyzon%2C%20a%20trading%20name%20of%20Hohl%20IT%20e.U.txt) |
 | EDIS IPv6 Infrastructure in Austria | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/EDIS%20IPv6%20Infrastructure%20in%20Austria.txt) |
 | Evolus IT Solutions GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/Evolus%20IT%20Solutions%20GmbH.txt) |
@@ -18,4 +19,4 @@
 | netcup GmbH | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/AT/netcup%20GmbH.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

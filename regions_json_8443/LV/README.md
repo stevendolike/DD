@@ -1,6 +1,6 @@
 # LV （純 IP）
 
-**共 79 條** · [返回主頁](../../README.md)
+**共 77 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/_all.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Anton%20Levin.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Baxet%20Group%20Inc.txt) |
-| CGI GLOBAL LIMITED | 22 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
+| CGI GLOBAL LIMITED | 20 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/CGI%20GLOBAL%20LIMITED.txt) |
 | Friendhosting LTD | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/Friendhosting%20LTD.txt) |
 | GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/GREEN%20FLOID%20LLC.txt) |
 | HostVDS.com Cloud Provider | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/HostVDS.com%20Cloud%20Provider.txt) |
@@ -21,4 +21,4 @@
 | veesp.com clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/LV/veesp.com%20clients.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

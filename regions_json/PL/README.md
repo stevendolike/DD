@@ -1,6 +1,6 @@
 # PL
 
-**共 200 條** · [返回主頁](../../README.md)
+**共 196 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
@@ -11,6 +11,7 @@
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/3NT%20SOLUTIONS%20LLP.txt) |
 | Alex Largman | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Alex%20Largman.txt) |
 | Andrzej Erenc trading as awHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Andrzej%20Erenc%20trading%20as%20awHost.txt) |
+| BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BG-NETWORK.txt) |
 | BREEZLE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BREEZLE%20LLC.txt) |
 | Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baykov%20Ilya%20Sergeevich.txt) |
@@ -33,13 +34,10 @@
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostesLLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HostesLLC.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Intezio%20Networks%20Warsaw.txt) |
 | Korbank S. A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Korbank%20S.%20A.txt) |
-| Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Kutumova%20Olena.txt) |
-| Local NCC Ltd | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Local%20NCC%20Ltd.txt) |
+| Local NCC Ltd | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Local%20NCC%20Ltd.txt) |
 | MEVSPACE sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/MEVSPACE%20sp.%20z%20o.o.txt) |
 | Melbikomas UAB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Melbikomas%20UAB.txt) |
-| Netassist Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Netassist%20Limited.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Netia%20SA.txt) |
 | Newserverlife LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/OVH%20Sp.%20z%20o.%20o.txt) |
@@ -50,15 +48,14 @@
 | Pronet LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Pronet%20LLC.txt) |
 | RapidSeedbox Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/RapidSeedbox%20Ltd.txt) |
 | Raul Ghita trading as 'Ghita Telekom' | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Raul%20Ghita%20trading%20as%20%27Ghita%20Telekom%27.txt) |
-| SEBEK sp. z o.o | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SEBEK%20sp.%20z%20o.o.txt) |
+| SEBEK sp. z o.o | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SEBEK%20sp.%20z%20o.o.txt) |
 | SERVA ONE LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/SERVA%20ONE%20LTD.txt) |
 | Scaleway | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Scaleway.txt) |
-| Snowd Security OU | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Snowd%20Security%20OU.txt) |
+| Snowd Security OU | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Snowd%20Security%20OU.txt) |
 | South Park Networks LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/South%20Park%20Networks%20LLC.txt) |
 | The Constant Company, LLC | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/The%20Constant%20Company%2C%20LLC.txt) |
 | UpCloud Cloud Servers | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/UpCloud%20Cloud%20Servers.txt) |
-| Warsaw, Poland | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Warsaw%2C%20Poland.txt) |
 | freakhosting.com | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

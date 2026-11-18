@@ -1,6 +1,6 @@
 # CH （純 IP）
 
-**共 87 條** · [返回主頁](../../README.md)
+**共 85 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/_all.txt)
 
@@ -9,7 +9,7 @@
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/3NT%20SOLUTIONS%20LLP.txt) |
 | ALEXHOST S.R.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/ALEXHOST%20S.R.L.txt) |
 | ALEXHOST SRL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/ALEXHOST%20SRL.txt) |
-| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Baxet%20Group%20Inc.txt) |
 | BuyVM | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/BuyVM.txt) |
 | Datasource AG | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Datasource%20AG.txt) |
 | Exoscale Open Cloud MUC1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Exoscale%20Open%20Cloud%20MUC1.txt) |
@@ -18,7 +18,7 @@
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/GTHost.txt) |
-| Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Green%20Floid%20LLC.txt) |
+| Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HOSTKEY%20B.V.txt) |
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/HostHatch.txt) |
@@ -42,4 +42,4 @@
 | www.fornex.com, Fornex Hosting S.L | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

@@ -1,6 +1,6 @@
 # ES
 
-**共 45 條** · [返回主頁](../../README.md)
+**共 47 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/_all_443.txt)
 
@@ -20,6 +20,7 @@
 | HUIZE LTD | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/HUIZE%20LTD.txt) |
 | IONOS SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/IONOS%20SE.txt) |
 | Linode, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Linode%2C%20LLC.txt) |
+| Private Customer | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Private%20Customer.txt) |
 | Raiola Networks IPv4 static | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Raiola%20Networks%20IPv4%20static.txt) |
 | Snowd Security OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/Snowd%20Security%20OU.txt) |
 | The Constant Company, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/The%20Constant%20Company%2C%20LLC.txt) |
@@ -28,4 +29,4 @@
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ES/servinga%20GmbH.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

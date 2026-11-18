@@ -6,6 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
+| AEZA GROUP LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AEZA%20GROUP%20LLC.txt) |
 | AEZA GROUP Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/AEZA%20GROUP%20Ltd.txt) |
 | Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/Baxet%20Group%20Inc.txt) |
 | BitWeb LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/BitWeb%20LLC.txt) |
@@ -18,7 +19,7 @@
 | JSC IOT | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20IOT.txt) |
 | JSC TIMEWEB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/JSC%20TIMEWEB.txt) |
 | KVIKTEL LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/KVIKTEL%20LLC.txt) |
-| LLC BAXET | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20BAXET.txt) |
+| LLC Baxet | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/LLC%20Baxet.txt) |
 | NetCrafters OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/NetCrafters%20OU.txt) |
 | PSERVERS Enterprise Network | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/PSERVERS%20Enterprise%20Network.txt) |
 | SPRINTHOST.RU LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/SPRINTHOST.RU%20LLC.txt) |
@@ -31,4 +32,4 @@
 | VDSka hosting | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/RU/VDSka%20hosting.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

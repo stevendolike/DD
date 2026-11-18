@@ -1,13 +1,12 @@
 # BG （純 IP）
 
-**共 43 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/3NT%20SOLUTIONS%20LLP.txt) |
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Baxet%20Group%20Inc.txt) |
 | Belcloud LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/Belcloud%20LTD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
 | DA International Group Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/DA%20International%20Group%20Ltd.txt) |
@@ -21,4 +20,4 @@
 | TerraTransit AG | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/BG/TerraTransit%20AG.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

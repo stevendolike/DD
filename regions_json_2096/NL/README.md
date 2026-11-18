@@ -1,12 +1,12 @@
 # NL （純 IP）
 
-**共 198 條** · [返回主頁](../../README.md)
+**共 197 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| AEZA GROUP LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/AEZA%20GROUP%20LLC.txt) |
+| AEZA GROUP LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/AEZA%20GROUP%20LLC.txt) |
 | DigitalOcean, LLC | 181 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/DigitalOcean%2C%20LLC.txt) |
 | FDCservers.net | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/FDCservers.net.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
@@ -23,4 +23,4 @@
 | as56971 network | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2096/NL/as56971%20network.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

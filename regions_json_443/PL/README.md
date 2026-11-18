@@ -1,6 +1,6 @@
 # PL （純 IP）
 
-**共 134 條** · [返回主頁](../../README.md)
+**共 132 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/_all.txt)
 
@@ -10,6 +10,7 @@
 | 3NT SOLUTIONS LLP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/3NT%20SOLUTIONS%20LLP.txt) |
 | Alex Largman | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Alex%20Largman.txt) |
 | Andrzej Erenc trading as awHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Andrzej%20Erenc%20trading%20as%20awHost.txt) |
+| BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BG-NETWORK.txt) |
 | BREEZLE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/BREEZLE%20LLC.txt) |
 | Baxet Group Inc | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baxet%20Group%20Inc.txt) |
 | Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Baykov%20Ilya%20Sergeevich.txt) |
@@ -30,11 +31,8 @@
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostesLLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/HostesLLC.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
-| Intezio Networks Warsaw | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Intezio%20Networks%20Warsaw.txt) |
 | Korbank S. A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Korbank%20S.%20A.txt) |
-| Kutumova Olena | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Kutumova%20Olena.txt) |
 | Local NCC Ltd | 14 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Local%20NCC%20Ltd.txt) |
-| Netassist Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Netassist%20Limited.txt) |
 | Netia SA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Netia%20SA.txt) |
 | Newserverlife LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/Newserverlife%20LLC.txt) |
 | OVH Sp. z o. o | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/OVH%20Sp.%20z%20o.%20o.txt) |
@@ -52,4 +50,4 @@
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*

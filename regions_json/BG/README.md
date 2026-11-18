@@ -1,13 +1,13 @@
 # BG
 
-**共 60 條** · [返回主頁](../../README.md)
+**共 59 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | 3NT SOLUTIONS LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/3NT%20SOLUTIONS%20LLP.txt) |
-| Baxet Group Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Baxet%20Group%20Inc.txt) |
+| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Baxet%20Group%20Inc.txt) |
 | Belcloud LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Belcloud%20LTD.txt) |
 | Cifrova Kabelna Korporacia EOOD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Cifrova%20Kabelna%20Korporacia%20EOOD.txt) |
 | DA International Group Ltd. - AlphaVPS | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/DA%20International%20Group%20Ltd.%20-%20AlphaVPS.txt) |
@@ -26,4 +26,4 @@
 | Virterion LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-11-18 03:25 UTC*
+*最後更新：2026-11-18 13:35 UTC*
