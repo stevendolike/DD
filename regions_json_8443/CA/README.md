@@ -6,12 +6,11 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Cloud Web Manage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Cloud%20Web%20Manage.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
 | Cogeco Connexion Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Cogeco%20Connexion%20Inc.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Graeme%20Tee.txt) |
-| OVH Hosting, Inc | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
+| OVH Hosting, Inc | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Shaw Communications | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CA/Shaw%20Communications.txt) |
 
 ---
-*最後更新：2026-11-19 02:59 UTC*
+*最後更新：2026-11-19 14:02 UTC*

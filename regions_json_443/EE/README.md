@@ -1,6 +1,6 @@
 # EE （純 IP）
 
-**共 63 條** · [返回主頁](../../README.md)
+**共 62 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/_all.txt)
 
@@ -19,10 +19,10 @@
 | HZ Hosting Ltd | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HZ%20Hosting%20Ltd.txt) |
 | HexCore cloud s.r.o | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/HexCore%20cloud%20s.r.o.txt) |
 | Host-World OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Host-World%20OU.txt) |
-| IPv6 network for hosting services | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/IPv6%20network%20for%20hosting%20services.txt) |
+| IPv6 network for hosting services | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/IPv6%20network%20for%20hosting%20services.txt) |
 | Network for hosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/Network%20for%20hosting%20services.txt) |
 | SERV.HOST GROUP LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/SERV.HOST%20GROUP%20LTD.txt) |
 | servinga.com - Estonia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/EE/servinga.com%20-%20Estonia.txt) |
 
 ---
-*最後更新：2026-11-19 02:59 UTC*
+*最後更新：2026-11-19 14:02 UTC*

@@ -1,16 +1,15 @@
 # CA （純 IP）
 
-**共 6 條** · [返回主頁](../../README.md)
+**共 5 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/_all.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Cloud Web Manage | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/Cloud%20Web%20Manage.txt) |
 | DigitalOcean, LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/DigitalOcean%2C%20LLC.txt) |
 | Graeme Tee | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/Graeme%20Tee.txt) |
 | Linode | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/Linode.txt) |
 | OVH Hosting, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/CA/OVH%20Hosting%2C%20Inc.txt) |
 
 ---
-*最後更新：2026-11-19 02:59 UTC*
+*最後更新：2026-11-19 14:02 UTC*
