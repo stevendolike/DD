@@ -21,4 +21,4 @@
 | Virterion LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/BG/Virterion%20LLC.txt) |
 
 ---
-*最後更新：2026-11-20 02:52 UTC*
+*最後更新：2026-11-20 13:45 UTC*

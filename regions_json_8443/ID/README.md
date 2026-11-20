@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| PT Telekomunikasi Indonesia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ID/PT%20Telekomunikasi%20Indonesia.txt) |
+| PT. Telekomunikasi Selular (Telkomsel) Indonesia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/ID/PT.%20Telekomunikasi%20Selular%20%28Telkomsel%29%20Indonesia.txt) |
 
 ---
-*最後更新：2026-11-20 02:52 UTC*
+*最後更新：2026-11-20 13:45 UTC*

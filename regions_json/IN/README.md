@@ -1,6 +1,6 @@
 # IN
 
-**共 52 條** · [返回主頁](../../README.md)
+**共 48 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/_all_443.txt)
 
@@ -8,7 +8,7 @@
 |------|--------|---------|
 | Akamai Connected Cloud _ Linode | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Akamai%20Connected%20Cloud%20_%20Linode.txt) |
 | Amazon.com, Inc | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Amazon.com%2C%20Inc.txt) |
-| BEAFORT LIMITED | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/BEAFORT%20LIMITED.txt) |
+| BEAFORT LIMITED | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/BEAFORT%20LIMITED.txt) |
 | Contabo Asia Private Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/Contabo%20Asia%20Private%20Limited.txt) |
 | DigitalOcean, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/DigitalOcean%2C%20LLC.txt) |
 | HOSTINGER IN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/HOSTINGER%20IN.txt) |
@@ -22,4 +22,4 @@
 | UNKNOWN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IN/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-11-20 02:52 UTC*
+*最後更新：2026-11-20 13:45 UTC*
