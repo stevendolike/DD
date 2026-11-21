@@ -1,12 +1,12 @@
 # UNKNOWN
 
-**共 30 條** · [返回主頁](../../README.md)
+**共 29 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UNKNOWN/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UNKNOWN/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| UNKNOWN | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UNKNOWN/UNKNOWN.txt) |
+| UNKNOWN | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/UNKNOWN/UNKNOWN.txt) |
 
 ---
-*最後更新：2026-11-21 03:01 UTC*
+*最後更新：2026-11-21 13:10 UTC*
