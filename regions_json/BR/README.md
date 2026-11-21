@@ -11,4 +11,4 @@
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/BR/Linode.txt) |
 
 ---
-*最後更新：2026-11-20 13:45 UTC*
+*最後更新：2026-11-21 03:01 UTC*

@@ -46,4 +46,4 @@
 | ZA | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2053/ZA/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2053/ZA/_all.txt) |
 
 ---
-*最後更新：2026-11-20 13:45 UTC*
+*最後更新：2026-11-21 03:01 UTC*
