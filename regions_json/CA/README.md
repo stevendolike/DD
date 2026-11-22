@@ -1,6 +1,6 @@
 # CA
 
-**共 74 條** · [返回主頁](../../README.md)
+**共 71 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/_all_443.txt)
 
@@ -11,10 +11,9 @@
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/CENTRILOGICCANADA.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
 | Cogeco Connexion Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Cogeco%20Connexion%20Inc.txt) |
-| DigitalOcean, LLC | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/DigitalOcean%2C%20LLC.txt) |
 | Graeme Tee | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Graeme%20Tee.txt) |
 | HZ Hosting Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/HZ%20Hosting%20Ltd.txt) |
-| IT7 Networks Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/IT7%20Networks%20Inc.txt) |
 | ITGLOBAL.COM NL B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | Linode | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Linode.txt) |
 | OVH Hosting, Inc | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/OVH%20Hosting%2C%20Inc.txt) |
@@ -26,4 +25,4 @@
 | Vultr Holdings, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-22 01:58 UTC*
+*最後更新：2026-11-22 12:57 UTC*

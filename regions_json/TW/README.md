@@ -12,4 +12,4 @@
 | TW NCU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TW/TW%20NCU.txt) |
 
 ---
-*最後更新：2026-11-22 01:58 UTC*
+*最後更新：2026-11-22 12:57 UTC*

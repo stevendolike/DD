@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 74 條** · [返回主頁](../README.md)
+**共 76 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -18,17 +18,17 @@
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/ID.txt) |
-| JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
+| JP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
-共 **38** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
+共 **39** 個 ISP 組織命中（改 `residential.py` 調整關鍵字）
 
 | ISP 組織 | 國家 | 條目數 |
 |---------|------|--------|
@@ -38,8 +38,9 @@
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
 | BBIX IPv6 Network | JP | 2 |
+| BIGLOBE Inc | JP | 1 |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | TR | 1 |
-| Charter Communications Inc | US | 1 |
+| Charter Communications Inc | US | 2 |
 | Cogeco Cable Canada Inc | CA | 1 |
 | Cogeco Connexion Inc | CA | 1 |
 | Comcast Cable Communications, LLC | US | 2 |
@@ -71,4 +72,4 @@
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 1 |
 ---
-*最後更新：2026-11-22 01:58 UTC*
+*最後更新：2026-11-22 12:57 UTC*
