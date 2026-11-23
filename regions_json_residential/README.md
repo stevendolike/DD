@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 76 條** · [返回主頁](../README.md)
+**共 74 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -18,13 +18,14 @@
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/ID.txt) |
-| JP | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
+| JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
+| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 19 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
@@ -34,11 +35,10 @@
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 7 |
+| AT&T Enterprises, LLC | US | 6 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
 | BBIX IPv6 Network | JP | 2 |
-| BIGLOBE Inc | JP | 1 |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | TR | 1 |
 | Charter Communications Inc | US | 2 |
 | Cogeco Cable Canada Inc | CA | 1 |
@@ -54,7 +54,7 @@
 | KPN B.V | NL | 1 |
 | KPN CM | NL | 1 |
 | M-net Telekommunikations GmbH | DE | 1 |
-| MoeDove Broadband - United States | US | 2 |
+| MoeDove Broadband - United States | US | 1 |
 | NTT America, Inc | US | 2 |
 | Optimum Online | US | 1 |
 | Orange S.A | FR | 3 |
@@ -68,8 +68,9 @@
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
 | Tele Columbus AG | DE | 2 |
 | UPC Ceska republika, a.s | CZ | 1 |
+| Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 1 |
 ---
-*最後更新：2026-11-23 02:23 UTC*
+*最後更新：2026-11-23 15:34 UTC*
