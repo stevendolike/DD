@@ -1,6 +1,6 @@
 # 家庭寬帶（全部 Port）
 
-**共 74 條** · [返回主頁](../README.md)
+**共 76 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/_all.txt)
 
@@ -10,7 +10,7 @@
 | CA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CA.txt) |
 | CH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CH.txt) |
 | CZ | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/CZ.txt) |
-| DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
+| DE | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
 | FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
@@ -25,7 +25,7 @@
 | SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
-| US | 17 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
+| US | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
 
 ## 📋 納入清單（命中嘅 ISP 組織）
 
@@ -35,7 +35,7 @@
 |---------|------|--------|
 | ALTICE DOMINICANA S.A | DO | 6 |
 | AS INFONET | EE | 1 |
-| AT&T Enterprises, LLC | US | 6 |
+| AT&T Enterprises, LLC | US | 7 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
 | BBIX IPv6 Network | JP | 2 |
@@ -44,7 +44,7 @@
 | Cogeco Cable Canada Inc | CA | 1 |
 | Cogeco Connexion Inc | CA | 1 |
 | Comcast Cable Communications, LLC | US | 2 |
-| Cox Communications Inc | US | 2 |
+| Cox Communications, LLC | US | 2 |
 | Deutsche Telekom AG | DE | 1 |
 | Dynamic IP assignment for broadband service | TH | 1 |
 | FiberXpress BV | NL | 5 |
@@ -66,11 +66,11 @@
 | Superonline Iletisim Hizmetleri A.S | TR | 2 |
 | Swisscom (Schweiz) AG | CH | 1 |
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
-| Tele Columbus AG | DE | 2 |
+| Tele Columbus AG | DE | 3 |
 | UPC Ceska republika, a.s | CZ | 1 |
 | Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 1 |
 ---
-*最後更新：2026-11-24 05:46 UTC*
+*最後更新：2026-11-24 15:27 UTC*

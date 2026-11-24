@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Baxet Group Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/Baxet%20Group%20Inc.txt) |
+| Euronodes Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PT/Euronodes%20Ltd.txt) |
 
 ---
-*最後更新：2026-11-24 05:46 UTC*
+*最後更新：2026-11-24 15:27 UTC*
