@@ -18,4 +18,4 @@
 | RAKAR INVESTMENTS HOLDING B.V | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/EE/RAKAR%20INVESTMENTS%20HOLDING%20B.V.txt) |
 
 ---
-*最後更新：2026-11-23 15:34 UTC*
+*最後更新：2026-11-24 05:46 UTC*

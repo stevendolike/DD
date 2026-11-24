@@ -49,4 +49,4 @@
 | UpCloud Cloud Servers | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_443/PL/UpCloud%20Cloud%20Servers.txt) |
 
 ---
-*最後更新：2026-11-23 15:34 UTC*
+*最後更新：2026-11-24 05:46 UTC*
