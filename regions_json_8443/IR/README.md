@@ -9,4 +9,4 @@
 | Mobin Net Communication Company (Private Joint Stock) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/IR/Mobin%20Net%20Communication%20Company%20%28Private%20Joint%20Stock%29.txt) |
 
 ---
-*最後更新：2026-11-25 04:48 UTC*
+*最後更新：2026-11-25 15:12 UTC*

@@ -1,6 +1,6 @@
 # Port 2083 純 IP（純 IP）
 
-**共 541 條** · [返回主頁](../README.md)
+**共 540 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/_all.txt)
 
@@ -25,7 +25,7 @@
 | PL | 1 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2083/PL/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/PL/_all.txt) |
 | SE | 5 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2083/SE/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/SE/_all.txt) |
 | TR | 2 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2083/TR/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/TR/_all.txt) |
-| US | 40 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2083/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt) |
+| US | 39 | [列表](https://github.com/stevendolike/DD/blob/main/regions_json_2083/US/README.md) · [all](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_2083/US/_all.txt) |
 
 ---
-*最後更新：2026-11-25 04:48 UTC*
+*最後更新：2026-11-25 15:12 UTC*
