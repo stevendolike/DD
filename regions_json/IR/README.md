@@ -6,7 +6,7 @@
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
-| Mobin Net Communication Company (Private Joint Stock) | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IR/Mobin%20Net%20Communication%20Company%20%28Private%20Joint%20Stock%29.txt) |
+| PCCWG INTERNAL | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/IR/PCCWG%20INTERNAL.txt) |
 
 ---
-*最後更新：2026-11-26 04:01 UTC*
+*最後更新：2026-11-26 14:37 UTC*

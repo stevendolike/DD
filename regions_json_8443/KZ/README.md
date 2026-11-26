@@ -1,6 +1,6 @@
 # KZ （純 IP）
 
-**共 16 條** · [返回主頁](../../README.md)
+**共 14 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/_all.txt)
 
@@ -12,10 +12,10 @@
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | HostLab LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/HostLab%20LLC.txt) |
 | JSC TIMEWEB | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/JSC%20TIMEWEB.txt) |
-| LLP Internet Company First Page | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
-| Megahost Kazakhstan TOO | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Megahost%20Kazakhstan%20TOO.txt) |
+| LLP Internet Company First Page | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/LLP%20Internet%20Company%20First%20Page.txt) |
+| Megahost Kazakhstan TOO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Megahost%20Kazakhstan%20TOO.txt) |
 | PS Internet Company LLP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/PS%20Internet%20Company%20LLP.txt) |
 | Yandex.Cloud LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/KZ/Yandex.Cloud%20LLC.txt) |
 
 ---
-*最後更新：2026-11-26 04:01 UTC*
+*最後更新：2026-11-26 14:37 UTC*
