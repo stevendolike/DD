@@ -74,4 +74,4 @@
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 1 |
 ---
-*最後更新：2026-11-26 14:37 UTC*
+*最後更新：2026-11-27 03:58 UTC*
