@@ -9,13 +9,13 @@
 | Amazon Data Services Canada | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Amazon%20Data%20Services%20Canada.txt) |
 | CENTRILOGICCANADA | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/CENTRILOGICCANADA.txt) |
 | Cogeco Cable Canada Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Cogeco%20Cable%20Canada%20Inc.txt) |
-| DigitalOcean, LLC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/DigitalOcean%2C%20LLC.txt) |
+| DigitalOcean, LLC | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/DigitalOcean%2C%20LLC.txt) |
 | Graeme Tee | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Graeme%20Tee.txt) |
-| ITGLOBAL.COM NL B.V | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
+| ITGLOBAL.COM NL B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/ITGLOBAL.COM%20NL%20B.V.txt) |
 | OVH Hosting, Inc | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/OVH%20Hosting%2C%20Inc.txt) |
 | Oracle Corporation | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Oracle%20Public%20Cloud.txt) |
 | Vultr Holdings, LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/CA/Vultr%20Holdings%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-27 03:58 UTC*
+*最後更新：2026-11-27 14:32 UTC*
