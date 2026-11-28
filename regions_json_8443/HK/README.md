@@ -1,6 +1,6 @@
 # HK （純 IP）
 
-**共 19 條** · [返回主頁](../../README.md)
+**共 18 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/_all.txt)
 
@@ -12,7 +12,7 @@
 | Cloud Software - FZCO | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Cloud%20Software%20-%20FZCO.txt) |
 | DEBEE Network | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/DEBEE%20Network.txt) |
 | HYTRON NETWORK HK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/HYTRON%20NETWORK%20HK.txt) |
-| Hongkong Wen Jing Network Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
+| Hongkong Wen Jing Network Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | Hytron Network Services Limited - HK | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/Hytron%20Network%20Services%20Limited%20-%20HK.txt) |
 | LEASEWEB HONG KONG LIMITED | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/LEASEWEB%20HONG%20KONG%20LIMITED.txt) |
 | MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
@@ -21,4 +21,4 @@
 | VMISS Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/HK/VMISS%20Inc.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

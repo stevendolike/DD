@@ -1,6 +1,6 @@
 # PL
 
-**共 83 條** · [返回主頁](../../README.md)
+**共 82 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/_all_443.txt)
 
@@ -12,7 +12,7 @@
 | Alex Largman | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Alex%20Largman.txt) |
 | Andrzej Erenc trading as awHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Andrzej%20Erenc%20trading%20as%20awHost.txt) |
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/BG-NETWORK.txt) |
-| Baykov Ilya Sergeevich | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Baykov%20Ilya%20Sergeevich.txt) |
 | Chunkserve Mateusz Peplinski | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/Chunkserve%20Mateusz%20Peplinski.txt) |
 | City Telecom LTD | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/City%20Telecom%20LTD.txt) |
 | EternityCloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/EternityCloud.txt) |
@@ -39,4 +39,4 @@
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_clientip_v4/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

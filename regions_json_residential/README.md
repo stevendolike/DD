@@ -13,16 +13,16 @@
 | DE | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DE.txt) |
 | DO | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/DO.txt) |
 | EE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/EE.txt) |
-| FR | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
+| FR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/FR.txt) |
 | GB | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GB.txt) |
 | GE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/GE.txt) |
 | HK | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/ID.txt) |
-| IR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/IR.txt) |
-| JP | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
+| JP | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/JP.txt) |
 | KR | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/KR.txt) |
 | NL | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/NL.txt) |
 | SE | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SE.txt) |
+| SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/SG.txt) |
 | TH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TH.txt) |
 | TR | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/TR.txt) |
 | US | 18 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_residential/US.txt) |
@@ -38,7 +38,7 @@
 | AT&T Enterprises, LLC | US | 7 |
 | Abonent MGTS | BY | 1 |
 | Atlantis Broadband LLC | US | 1 |
-| BBIX IPv6 Network | JP | 1 |
+| BBIX IPv6 Network | JP | 2 |
 | CIZGI TELEKOMUNIKASYON ANONIM SIRKETI | TR | 1 |
 | Charter Communications Inc | US | 2 |
 | Cogeco Cable Canada Inc | CA | 1 |
@@ -55,8 +55,7 @@
 | MoeDove Broadband - United States | US | 1 |
 | NTT America, Inc | US | 2 |
 | Optimum Online | US | 1 |
-| Orange S.A | FR | 3 |
-| PCCWG INTERNAL | IR | 1 |
+| Orange S.A | FR | 2 |
 | PT. Telekomunikasi Selular (Telkomsel) Indonesia | ID | 1 |
 | SILKNET BROADBAND | GE | 3 |
 | SK Broadband Co Ltd | KR | 5 |
@@ -67,8 +66,9 @@
 | TELUS-FIBRE-RCMDBC01 | CA | 1 |
 | Tele Columbus AG | DE | 2 |
 | UPC Ceska republika, a.s | CZ | 1 |
+| Viewqwest Pte Ltd | SG | 1 |
 | Vodafone Broadband | GB | 1 |
 | Vodafone West GmbH | DE | 1 |
 | Ziggo Consumers | NL | 1 |
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

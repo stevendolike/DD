@@ -1,6 +1,6 @@
 # SG
 
-**共 414 條** · [返回主頁](../../README.md)
+**共 413 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/_all_443.txt)
 
@@ -23,7 +23,7 @@
 | BAGE CLOUD LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/BAGE%20CLOUD%20LLC.txt) |
 | Baxet Group Inc | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Baxet%20Group%20Inc.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/BlueVPS%20OU.txt) |
-| ByteVirt LLC | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/ByteVirt%20LLC.txt) |
+| ByteVirt LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/ByteVirt%20LLC.txt) |
 | CYBERJET PTE. LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/CYBERJET%20PTE.%20LTD.txt) |
 | Cloudflare London, LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Cloudflare%20London%2C%20LLC.txt) |
 | Contabo Asia Private Limited | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Contabo%20Asia%20Private%20Limited.txt) |
@@ -33,7 +33,7 @@
 | DigitalOcean, LLC | 154 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/DigitalOcean%2C%20LLC.txt) |
 | FDCservers.net | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/FDCservers.net.txt) |
 | FIRST SERVER, SOCIEDAD LIMITADA | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/FIRST%20SERVER%2C%20SOCIEDAD%20LIMITADA.txt) |
-| GREEN FLOID LLC | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/GREEN%20FLOID%20LLC.txt) |
+| GREEN FLOID LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/GREEN%20FLOID%20LLC.txt) |
 | HOSTHATCH SGP | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/HOSTHATCH%20SGP.txt) |
 | Hetzner Online GmbH | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Hetzner%20Online%20GmbH.txt) |
 | Huawei-Cloud-SG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Huawei-Cloud-SG.txt) |
@@ -41,7 +41,7 @@
 | JT TELECOM INTERNATIONAL PTE.LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/JT%20TELECOM%20INTERNATIONAL%20PTE.LTD.txt) |
 | LEASEWEB SINGAPORE PTE. LTD | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/LEASEWEB%20SINGAPORE%20PTE.%20LTD.txt) |
 | Linode | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Linode.txt) |
-| M1 Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/M1%20Ltd.txt) |
+| Microsoft Corporation | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Microsoft%20Corporation.txt) |
 | OVH SINGAPOR DC | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/OVH%20SINGAPOR%20DC.txt) |
 | Oracle Corporation | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Corporation.txt) |
 | Oracle Public Cloud | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Oracle%20Public%20Cloud.txt) |
@@ -56,6 +56,7 @@
 | The Constant Company, LLC | 25 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/The%20Constant%20Company%2C%20LLC.txt) |
 | UCUL-SG | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/UCUL-SG.txt) |
 | UpCloud Ltd | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/UpCloud%20Ltd.txt) |
+| Viewqwest Pte Ltd | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Viewqwest%20Pte%20Ltd.txt) |
 | Vultr Holdings, LLC | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/Vultr%20Holdings%2C%20LLC.txt) |
 | WEBHORIZON | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/WEBHORIZON.txt) |
 | ZENLA-1 | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/ZENLA-1.txt) |
@@ -63,4 +64,4 @@
 | xTom Pty Ltd | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/SG/xTom%20Pty%20Ltd.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

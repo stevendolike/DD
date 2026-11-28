@@ -1,6 +1,6 @@
 # CH
 
-**共 105 條** · [返回主頁](../../README.md)
+**共 103 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/_all_443.txt)
 
@@ -17,15 +17,16 @@
 | GLB Bulut Teknolojisi Limited Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLB%20Bulut%20Teknolojisi%20Limited%20Sirketi.txt) |
 | GLOBAL CONNECTIVITY SOLUTIONS LLP | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GLOBAL%20CONNECTIVITY%20SOLUTIONS%20LLP.txt) |
 | GTHost | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/GTHost.txt) |
-| Green Floid LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
+| Green Floid LLC | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Green%20Floid%20LLC.txt) |
 | HOSTKEY B.V | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HOSTKEY%20B.V.txt) |
 | Host4Biz sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Host4Biz%20sp.%20z%20o.o.txt) |
 | HostHatch | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/HostHatch.txt) |
-| Infomaniak Network SA | 30 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Infomaniak%20Network%20SA.txt) |
-| M247 LTD Zurich Infrastructure | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
+| Infomaniak Network SA | 29 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Infomaniak%20Network%20SA.txt) |
+| M247 Europe - Zurich Infrastructure | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20Europe%20-%20Zurich%20Infrastructure.txt) |
+| M247 LTD Zurich Infrastructure | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich%20Infrastructure.txt) |
 | M247 LTD Zurich | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/M247%20LTD%20Zurich.txt) |
 | Misaka Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Misaka%20Network%2C%20Inc.txt) |
-| OVH CH | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/OVH%20CH.txt) |
+| OVH CH | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/OVH%20CH.txt) |
 | Oracle Public Cloud | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Oracle%20Public%20Cloud.txt) |
 | PRIVATE LAYER INC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/PRIVATE%20LAYER%20INC.txt) |
 | Prinode AB | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Prinode%20AB.txt) |
@@ -35,9 +36,8 @@
 | Swisscom (Schweiz) AG | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/Swisscom%20%28Schweiz%29%20AG.txt) |
 | UP-NETWORK Sàrl | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/UP-NETWORK%20S%C3%A0rl.txt) |
 | WebPros International GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/WebPros%20International%20GmbH.txt) |
-| evoxt.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/evoxt.com.txt) |
 | servinga GmbH | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/servinga%20GmbH.txt) |
 | www.fornex.com, Fornex Hosting S.L | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/CH/www.fornex.com%2C%20Fornex%20Hosting%20S.L.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

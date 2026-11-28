@@ -1,6 +1,6 @@
 # CZ （純 IP）
 
-**共 12 條** · [返回主頁](../../README.md)
+**共 10 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/_all.txt)
 
@@ -8,9 +8,8 @@
 |------|--------|---------|
 | Friendhosting LTD | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/Friendhosting%20LTD.txt) |
 | HOST-TELECOM.COM s.r.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/HOST-TELECOM.COM%20s.r.o.txt) |
-| SmartApe OU | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/SmartApe%20OU.txt) |
+| SmartApe OU | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/SmartApe%20OU.txt) |
 | UPC Ceska republika, a.s | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/UPC%20Ceska%20republika%2C%20a.s.txt) |
-| Zoner webhosting and serverhosting services | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_8443/CZ/Zoner%20webhosting%20and%20serverhosting%20services.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

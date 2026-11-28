@@ -1,22 +1,21 @@
 # 優選 ASN（全部 Port）
 
-**共 118 條** · [返回主頁](../README.md)
+**共 117 條** · [返回主頁](../README.md)
 
 📥 [整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/_all.txt)
 
 | 國家 | 條目數 | Raw URL |
 |------|--------|---------|
 | CN | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/CN.txt) |
-| DE | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/DE.txt) |
+| DE | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/DE.txt) |
 | HK | 10 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/HK.txt) |
 | ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/ID.txt) |
-| IR | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/IR.txt) |
 | JP | 16 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/JP.txt) |
 | KR | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/KR.txt) |
 | MY | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/MY.txt) |
 | NL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/NL.txt) |
 | SG | 42 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/SG.txt) |
-| US | 35 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
+| US | 34 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json_preferred_asn/US.txt) |
 
 ## 📋 納入清單
 
@@ -69,4 +68,4 @@
 | [AS9924](https://bgp.tools/as/9924) | TFN 台灣固網 |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

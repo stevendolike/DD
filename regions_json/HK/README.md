@@ -20,14 +20,14 @@
 | Google LLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Google%20LLC.txt) |
 | HYTRON NETWORK HK | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HYTRON%20NETWORK%20HK.txt) |
 | Hong Kong Telecommunications (HKT) Limited Mass Internet | 5 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hong%20Kong%20Telecommunications%20%28HKT%29%20Limited%20Mass%20Internet.txt) |
-| Hongkong Wen Jing Network Limited | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
+| Hongkong Wen Jing Network Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hongkong%20Wen%20Jing%20Network%20Limited.txt) |
 | HostHatch HKG1 | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/HostHatch%20HKG1.txt) |
 | Hostker LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hostker%20LLC.txt) |
 | Hytron Network Services Limited - HK | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Hytron%20Network%20Services%20Limited%20-%20HK.txt) |
 | LANDUPS LIMITED | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/LANDUPS%20LIMITED.txt) |
 | LEASEWEB HONG KONG LIMITED | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/LEASEWEB%20HONG%20KONG%20LIMITED.txt) |
 | MR 1605 HO KING COMM CTR 2-16 FA YUEN ST MONGKOK KL | 23 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/MR%201605%20HO%20KING%20COMM%20CTR%202-16%20FA%20YUEN%20ST%20MONGKOK%20KL.txt) |
-| RM301K,3_F,HONGKONG TRADE CENTRE | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RM301K%2C3_F%2CHONGKONG%20TRADE%20CENTRE.txt) |
+| RM301K,3_F,HONGKONG TRADE CENTRE | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/RM301K%2C3_F%2CHONGKONG%20TRADE%20CENTRE.txt) |
 | STYLISH BY A&L SRL | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/STYLISH%20BY%20A%26L%20SRL.txt) |
 | SonderCloud Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/SonderCloud%20Limited.txt) |
 | Subnet Digital LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/Subnet%20Digital%20LLC.txt) |
@@ -38,4 +38,4 @@
 | xTom Hong Kong Limited | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/HK/xTom%20Hong%20Kong%20Limited.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

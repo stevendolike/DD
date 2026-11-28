@@ -1,6 +1,6 @@
 # LV
 
-**共 270 條** · [返回主頁](../../README.md)
+**共 268 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/_all_443.txt)
 
@@ -17,7 +17,7 @@
 | HostVDS.com Cloud Service Provider | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/HostVDS.com%20Cloud%20Service%20Provider.txt) |
 | Individual Entrepreneur Anton Levin | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Melbikomas UAB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Melbikomas%20UAB.txt) |
-| Private Customer | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Private%20Customer.txt) |
+| Private Customer | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/Private%20Customer.txt) |
 | RETN Limited | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/RETN%20Limited.txt) |
 | SEBEK sp. z o.o | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SEBEK%20sp.%20z%20o.o.txt) |
 | SIA VEESP | 71 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/SIA%20VEESP.txt) |
@@ -28,4 +28,4 @@
 | veesp.com clients | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/LV/veesp.com%20clients.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

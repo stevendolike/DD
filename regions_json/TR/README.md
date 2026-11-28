@@ -1,6 +1,6 @@
 # TR
 
-**共 44 條** · [返回主頁](../../README.md)
+**共 42 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/_all_443.txt)
 
@@ -28,7 +28,7 @@
 | Superonline Iletisim Hizmetleri A.S | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/Superonline%20Iletisim%20Hizmetleri%20A.S.txt) |
 | TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TALIDO%20Bilisim%20Teknolojileri%20Sanayi%20ve%20Ticaret%20Anonim%20Sirketi.txt) |
 | TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/TEKNOSOS%20BILISIM%20HIZMETLERI%20VE%20TIC.%20LTD.%20STI.txt) |
-| White Label Services, LLC | 11 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
+| White Label Services, LLC | 9 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/TR/White%20Label%20Services%2C%20LLC.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

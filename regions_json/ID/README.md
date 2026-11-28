@@ -1,15 +1,14 @@
 # ID
 
-**共 5 條** · [返回主頁](../../README.md)
+**共 4 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/_all_443.txt)
 
 | 組織 | 條目數 | Raw URL |
 |------|--------|---------|
 | Alibaba Cloud - ID | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/Alibaba%20Cloud%20-%20ID.txt) |
-| PT Deneva | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/PT%20Deneva.txt) |
 | PT. Media Antar Nusa | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/PT.%20Media%20Antar%20Nusa.txt) |
 | PT. Telekomunikasi Selular (Telkomsel) Indonesia | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/ID/PT.%20Telekomunikasi%20Selular%20%28Telkomsel%29%20Indonesia.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*

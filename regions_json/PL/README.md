@@ -1,6 +1,6 @@
 # PL
 
-**共 178 條** · [返回主頁](../../README.md)
+**共 176 條** · [返回主頁](../../README.md)
 
 [📥 整合全部](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all.txt) · [🔒 整合 443 純 IP](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/_all_443.txt)
 
@@ -14,7 +14,7 @@
 | BG-NETWORK | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BG-NETWORK.txt) |
 | BREEZLE LLC | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BREEZLE%20LLC.txt) |
 | Baxet Group Inc | 4 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baxet%20Group%20Inc.txt) |
-| Baykov Ilya Sergeevich | 8 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baykov%20Ilya%20Sergeevich.txt) |
+| Baykov Ilya Sergeevich | 7 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Baykov%20Ilya%20Sergeevich.txt) |
 | BlueVPS OU | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BlueVPS%20OU.txt) |
 | BrainStorm Network, Inc | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/BrainStorm%20Network%2C%20Inc.txt) |
 | Chunkserve Mateusz Peplinski | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Chunkserve%20Mateusz%20Peplinski.txt) |
@@ -35,7 +35,7 @@
 | HostesLLC | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/HostesLLC.txt) |
 | Individual Entrepreneur Anton Levin | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Individual%20Entrepreneur%20Anton%20Levin.txt) |
 | Korbank S. A | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Korbank%20S.%20A.txt) |
-| Local NCC Ltd | 13 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Local%20NCC%20Ltd.txt) |
+| Local NCC Ltd | 12 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Local%20NCC%20Ltd.txt) |
 | MEVSPACE sp. z o.o | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/MEVSPACE%20sp.%20z%20o.o.txt) |
 | Melbikomas UAB | 3 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/Melbikomas%20UAB.txt) |
 | NetCrafters OU | 2 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/NetCrafters%20OU.txt) |
@@ -59,4 +59,4 @@
 | freakhosting.com | 1 | [raw](https://raw.githubusercontent.com/stevendolike/DD/main/regions_json/PL/freakhosting.com.txt) |
 
 ---
-*最後更新：2026-11-28 03:46 UTC*
+*最後更新：2026-11-28 13:47 UTC*
